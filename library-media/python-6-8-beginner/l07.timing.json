@@ -1,0 +1,119 @@
+{
+ "duration": 88.81,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.52,
+   "text": "Today you will store many things in one variable and use it to build Rock, Paper, Scissors.",
+   "scene": 0
+  },
+  {
+   "start": 5.52,
+   "end": 12.89,
+   "text": "A list keeps many values in order inside square brackets, like team = [\"Aarav\", \"Meera\", \"Kabir\"].",
+   "scene": 1
+  },
+  {
+   "start": 12.89,
+   "end": 16.14,
+   "text": "Commas separate the items.",
+   "scene": 1
+  },
+  {
+   "start": 16.14,
+   "end": 17.49,
+   "text": "One variable, many values!",
+   "scene": 1
+  },
+  {
+   "start": 17.49,
+   "end": 20.69,
+   "text": "Each item has a position called its index.",
+   "scene": 2
+  },
+  {
+   "start": 20.69,
+   "end": 27.59,
+   "text": "The first item is team[0], the second is team[1]. team[-1] gives the last item.",
+   "scene": 2
+  },
+  {
+   "start": 27.59,
+   "end": 35.75,
+   "text": "team.append(\"Zoya\") adds Zoya to the end of the list. len(team) tells you how many items it has now.",
+   "scene": 3
+  },
+  {
+   "start": 35.75,
+   "end": 37.43,
+   "text": "for player in team: visits every item, one at a time.",
+   "scene": 4
+  },
+  {
+   "start": 37.43,
+   "end": 45.59,
+   "text": "\"Zoya\" in team gives True or False, so you can check if something is in the list.",
+   "scene": 4
+  },
+  {
+   "start": 45.59,
+   "end": 49.58,
+   "text": "Square brackets make a list, and commas separate the items.",
+   "scene": 5
+  },
+  {
+   "start": 49.58,
+   "end": 55.22,
+   "text": "Index zero is the first player, Aarav, and index two is the third player, Kabir.",
+   "scene": 5
+  },
+  {
+   "start": 55.22,
+   "end": 58.19,
+   "text": "Append adds Zoya to the end of the list.",
+   "scene": 6
+  },
+  {
+   "start": 58.19,
+   "end": 62.48,
+   "text": "Then len counts the items, so now the team has four players.",
+   "scene": 6
+  },
+  {
+   "start": 62.48,
+   "end": 67.59,
+   "text": "The for loop visits each snack in the list, one after another.",
+   "scene": 7
+  },
+  {
+   "start": 67.59,
+   "end": 72.57,
+   "text": "We never need to know the index numbers. Python handles them for us.",
+   "scene": 7
+  },
+  {
+   "start": 72.57,
+   "end": 76.47,
+   "text": "The word in checks whether banana is one of the moves.",
+   "scene": 8
+  },
+  {
+   "start": 76.47,
+   "end": 80.95,
+   "text": "It is not, so the program politely says it is not a move.",
+   "scene": 8
+  },
+  {
+   "start": 80.95,
+   "end": 84.35,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 84.35,
+   "end": 88.5,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.480
+Every time you search your contacts or a shop’s website, a search algorithm runs. Today you’ll write the simplest one — and measure it.
+
+2
+00:00:09.480 --> 00:00:13.090
+Start at item 1 and check each item in turn.
+
+3
+00:00:13.090 --> 00:00:17.060
+Stop when you find the target, or when you run out of items.
+
+4
+00:00:17.060 --> 00:00:20.720
+There’s no point checking more items once you’ve found the target.
+
+5
+00:00:20.720 --> 00:00:25.050
+A repeat-until with two conditions stops at the right moment.
+
+6
+00:00:25.050 --> 00:00:28.850
+Algorithms must handle the case where the target isn’t there.
+
+7
+00:00:28.850 --> 00:00:32.980
+Use a found variable that stays 0 if nothing matches.
+
+8
+00:00:32.980 --> 00:00:37.090
+Efficiency means how much work an algorithm does.
+
+9
+00:00:37.090 --> 00:00:42.770
+Count comparisons: in the worst case linear search checks every item.
+
+10
+00:00:42.770 --> 00:00:49.850
+In Python, linear search is a function that returns the position, or minus one when the target isn’t found.
+
+11
+00:00:49.850 --> 00:00:52.820
+Great work! Let’s remember what we learned.
+
+12
+00:00:52.820 --> 00:00:56.670
+Now build along, then try the challenges. You’ve got this!

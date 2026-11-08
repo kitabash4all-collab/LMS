@@ -1,0 +1,59 @@
+{
+ "duration": 50.04,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.23,
+   "text": "In this lesson, you will learn to turn keys and sprites into a playable instrument with events, and sync animations to the music with messages.",
+   "scene": 0
+  },
+  {
+   "start": 10.23,
+   "end": 15.42,
+   "text": "Give each key its own script: “when a key pressed” → play a note.",
+   "scene": 1
+  },
+  {
+   "start": 15.42,
+   "end": 17.86,
+   "text": "Now the keyboard is a piano!",
+   "scene": 1
+  },
+  {
+   "start": 17.86,
+   "end": 25.99,
+   "text": "Sprites can be instruments too: “when this sprite clicked” → start a drum sound and change size for a bounce.",
+   "scene": 2
+  },
+  {
+   "start": 25.99,
+   "end": 29.66,
+   "text": "A band leader can broadcast “beat” in a loop.",
+   "scene": 3
+  },
+  {
+   "start": 29.66,
+   "end": 34.62,
+   "text": "Dancers receive it and change costume — everyone stays in time.",
+   "scene": 3
+  },
+  {
+   "start": 34.62,
+   "end": 41.72,
+   "text": "Scripts run in parallel: a drum loop, a melody and a dancer can all play at the same time.",
+   "scene": 4
+  },
+  {
+   "start": 41.72,
+   "end": 45.29,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 45.29,
+   "end": 49.74,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

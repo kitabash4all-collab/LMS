@@ -1,0 +1,121 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.610
+Today AI reads long policies and meeting notes with you, and you learn to check what it says.
+
+2
+00:00:06.610 --> 00:00:13.300
+Attach the document with the paperclip or + button, then say who the summary is for and why.
+
+3
+00:00:13.300 --> 00:00:21.020
+“A one-page summary for new staff: what changes, deadlines and amounts” beats “summarise this”.
+
+4
+00:00:21.020 --> 00:00:24.130
+Ask it to mention the section for each point.
+
+5
+00:00:24.130 --> 00:00:30.880
+You can ask, “What is the last date to submit a travel claim?” and get an answer in seconds.
+
+6
+00:00:30.880 --> 00:00:35.160
+Ask it to quote the exact line and the section number.
+
+7
+00:00:35.160 --> 00:00:39.840
+If the answer is not in the document, tell it to say so instead of guessing.
+
+8
+00:00:39.840 --> 00:00:46.350
+NotebookLM is a free Google tool that answers only from the files you add, called sources.
+
+9
+00:00:46.350 --> 00:00:51.650
+Each answer has small numbered links that jump to the exact lines it used.
+
+10
+00:00:51.650 --> 00:00:59.560
+It is ideal for policies, manuals and study material.
+
+11
+00:00:59.560 --> 00:01:02.200
+Paste rough meeting notes and ask for a table: task, owner, deadline.
+
+12
+00:01:02.200 --> 00:01:07.450
+If a task has no owner or date, ask the AI to mark it as missing.
+
+13
+00:01:07.450 --> 00:01:10.680
+Then check every name and date before sharing.
+
+14
+00:01:10.680 --> 00:01:16.460
+Both Claude and ChatGPT let you attach a file with the paperclip or plus button.
+
+15
+00:01:16.460 --> 00:01:22.860
+Say who the summary is for, how long it should be, and ask for section numbers.
+
+16
+00:01:22.860 --> 00:01:27.750
+Those section numbers are your shortcut for checking the original quickly.
+
+17
+00:01:27.750 --> 00:01:34.300
+We attach a twelve-section practice policy and ask for a summary for new staff.
+
+18
+00:01:34.300 --> 00:01:41.310
+Claude gives short points, each with its section number, so checking takes minutes, not hours.
+
+19
+00:01:41.310 --> 00:01:47.810
+Now a quick question about the same document in ChatGPT.
+
+20
+00:01:47.810 --> 00:01:49.420
+The answer says thirty days, which sounds believable.
+
+21
+00:01:49.420 --> 00:01:55.000
+We open section six point one, and the policy actually says fifteen days.
+
+22
+00:01:55.000 --> 00:02:00.840
+One wrong number like this could cost someone their money, so we always check.
+
+23
+00:02:00.840 --> 00:02:05.470
+NotebookLM answers only from the sources you add to a notebook.
+
+24
+00:02:05.470 --> 00:02:12.080
+Each answer has small numbered markers, and clicking one shows the exact lines it used.
+
+25
+00:02:12.080 --> 00:02:17.470
+That makes checking very fast, but you still read those lines yourself.
+
+26
+00:02:17.470 --> 00:02:24.040
+Meeting notes are messy, so we ask for a clean table of task, owner and deadline.
+
+27
+00:02:24.040 --> 00:02:29.230
+Gemini marks the gaps as missing instead of inventing a name or date.
+
+28
+00:02:29.230 --> 00:02:35.860
+Now you know exactly what to ask in the team group before the work starts.
+
+29
+00:02:35.860 --> 00:02:38.290
+Great work! Let’s remember what we learned.
+
+30
+00:02:38.290 --> 00:02:43.170
+Now build along, then try the challenges. You’ve got this!

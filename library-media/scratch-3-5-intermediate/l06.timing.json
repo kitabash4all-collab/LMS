@@ -1,0 +1,71 @@
+{
+ "duration": 54.44,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.18,
+   "text": "It’s project time! Make an interactive story with at least two characters and two scenes.",
+   "scene": 0
+  },
+  {
+   "start": 7.18,
+   "end": 11.89,
+   "text": "Make a story with at least two characters and two scenes.",
+   "scene": 1
+  },
+  {
+   "start": 11.89,
+   "end": 17.35,
+   "text": "Ask the reader at least one question, and let their answer change the story.",
+   "scene": 1
+  },
+  {
+   "start": 17.35,
+   "end": 22.66,
+   "text": "Draw a story map: boxes for scenes and arrows for choices.",
+   "scene": 2
+  },
+  {
+   "start": 22.66,
+   "end": 25.85,
+   "text": "Each arrow is labelled with an answer.",
+   "scene": 2
+  },
+  {
+   "start": 25.85,
+   "end": 30.12,
+   "text": "Use broadcasts to start scenes and pass turns.",
+   "scene": 3
+  },
+  {
+   "start": 30.12,
+   "end": 37.17,
+   "text": "Name messages clearly: “scene 2”, “treasure ending”, “dragon ending”.",
+   "scene": 3
+  },
+  {
+   "start": 37.17,
+   "end": 42.14,
+   "text": "A branching story has more than one ending, so test each one.",
+   "scene": 4
+  },
+  {
+   "start": 42.14,
+   "end": 46.37,
+   "text": "Ask a friend to try answers you didn’t expect!",
+   "scene": 4
+  },
+  {
+   "start": 46.37,
+   "end": 51.28,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.28,
+   "end": 54.13,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

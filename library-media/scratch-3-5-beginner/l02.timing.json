@@ -1,0 +1,89 @@
+{
+ "duration": 58.17,
+ "lines": [
+  {
+   "start": 0,
+   "end": 1.61,
+   "text": "Welcome back, coders!",
+   "scene": 0
+  },
+  {
+   "start": 1.61,
+   "end": 6.91,
+   "text": "Today you will learn how to make your sprites react when you press a key or click.",
+   "scene": 0
+  },
+  {
+   "start": 6.91,
+   "end": 11.36,
+   "text": "An event is something that happens.",
+   "scene": 1
+  },
+  {
+   "start": 11.36,
+   "end": 16.24,
+   "text": "Pressing a key is an event. Clicking a sprite is an event.",
+   "scene": 1
+  },
+  {
+   "start": 16.24,
+   "end": 21.89,
+   "text": "Clicking the green flag is an event too.",
+   "scene": 1
+  },
+  {
+   "start": 21.89,
+   "end": 26.57,
+   "text": "Event blocks are called hat blocks, because they sit on top of a script like a hat.",
+   "scene": 2
+  },
+  {
+   "start": 26.57,
+   "end": 29.44,
+   "text": "Each script waits until its event happens, then it runs.",
+   "scene": 2
+  },
+  {
+   "start": 29.44,
+   "end": 33.53,
+   "text": "One sprite can have lots of scripts, each with its own hat.",
+   "scene": 2
+  },
+  {
+   "start": 33.53,
+   "end": 39.24,
+   "text": "A script without a hat block never starts by itself.",
+   "scene": 3
+  },
+  {
+   "start": 39.24,
+   "end": 42.5,
+   "text": "Put a hat on top, and the script knows when to run.",
+   "scene": 3
+  },
+  {
+   "start": 42.5,
+   "end": 45.29,
+   "text": "Let us make a sprite move with the arrow keys.",
+   "scene": 4
+  },
+  {
+   "start": 45.29,
+   "end": 48.65,
+   "text": "Change x by 10 moves right. Change x by minus 10 moves left.",
+   "scene": 4
+  },
+  {
+   "start": 48.65,
+   "end": 52.99,
+   "text": "For up and down, use change y.",
+   "scene": 4
+  },
+  {
+   "start": 52.99,
+   "end": 57.73,
+   "text": "Brilliant! Now build arrow-key controls in Scratch, then solve the puzzles.",
+   "scene": 5
+  }
+ ]
+}

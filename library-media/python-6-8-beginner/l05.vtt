@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.240
+Today you will make the computer repeat things hundreds of times without getting tired.
+
+2
+00:00:08.240 --> 00:00:11.250
+for i in range(5): runs the indented code five times.
+
+3
+00:00:11.250 --> 00:00:15.430
+The variable i counts for you: 0, 1, 2, 3, 4.
+
+4
+00:00:15.430 --> 00:00:20.970
+Loops save you from copying the same line again and again.
+
+5
+00:00:20.970 --> 00:00:30.410
+range(1, 11) gives the numbers 1 to 10, because it stops just before the last number. range(10, 0, -1) counts backwards from 10 to 1.
+
+6
+00:00:30.410 --> 00:00:32.840
+The third number is the step.
+
+7
+00:00:32.840 --> 00:00:35.010
+while count > 0: repeats as long as the condition is True.
+
+8
+00:00:35.010 --> 00:00:41.860
+Use it when you do not know how many times you need.
+
+9
+00:00:41.860 --> 00:00:45.240
+Something inside must change, or it never stops.
+
+10
+00:00:45.240 --> 00:00:51.120
+If the condition never becomes False, the loop runs forever.
+
+11
+00:00:51.120 --> 00:00:53.860
+That is called an infinite loop.
+
+12
+00:00:53.860 --> 00:00:58.670
+Always change the variable inside the loop, like count -= 1.
+
+13
+00:00:58.670 --> 00:01:04.600
+We write the cheer only once, but the loop runs it three times.
+
+14
+00:01:04.600 --> 00:01:09.540
+The indented line is the body of the loop. It repeats each time.
+
+15
+00:01:09.540 --> 00:01:15.720
+This time the loop variable n goes from one up to five.
+
+16
+00:01:15.720 --> 00:01:20.170
+Range stops just before six, and each time we multiply n by four.
+
+17
+00:01:20.170 --> 00:01:26.100
+The while loop checks if count is still more than zero.
+
+18
+00:01:26.100 --> 00:01:28.630
+Each time round we take one away, so the countdown finally ends with Blast off.
+
+19
+00:01:28.630 --> 00:01:30.780
+Here we forgot to change count, so it stays five forever.
+
+20
+00:01:30.780 --> 00:01:37.950
+The Python Lab stops it for us, and the fix is one line: count -= 1.
+
+21
+00:01:37.950 --> 00:01:42.120
+Great work! Let’s remember what we learned.
+
+22
+00:01:42.120 --> 00:01:46.940
+Now build along, then try the challenges. You’ve got this!

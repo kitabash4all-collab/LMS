@@ -1,0 +1,59 @@
+{
+ "duration": 49.23,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.05,
+   "text": "Everything you’ve learned comes together now: algorithms, events, loops, variables, decisions and game loops.",
+   "scene": 0
+  },
+  {
+   "start": 8.05,
+   "end": 15.84,
+   "text": "Write a short design: goal, controls, objects, rules (what happens on each collision), state variables and how the game ends.",
+   "scene": 1
+  },
+  {
+   "start": 15.84,
+   "end": 22.64,
+   "text": "Build the smallest version that’s fun: player + one object + one rule.",
+   "scene": 2
+  },
+  {
+   "start": 22.64,
+   "end": 26.35,
+   "text": "Then add features one at a time.",
+   "scene": 2
+  },
+  {
+   "start": 26.35,
+   "end": 29.2,
+   "text": "Watch two people play without helping.",
+   "scene": 3
+  },
+  {
+   "start": 29.2,
+   "end": 35.75,
+   "text": "Note where they get stuck or bored, then tune.",
+   "scene": 3
+  },
+  {
+   "start": 35.75,
+   "end": 42.35,
+   "text": "Demo your game, explain one interesting piece of code, and show how you used test feedback.",
+   "scene": 4
+  },
+  {
+   "start": 42.35,
+   "end": 43.57,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 43.57,
+   "end": 48.89,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

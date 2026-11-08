@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.320
+In this lesson, you will learn to write programs that choose between paths with if-else, and combine conditions with and, or and not.
+
+2
+00:00:09.320 --> 00:00:16.270
+If-else chooses between two paths: one when the condition is true, the other when it is false.
+
+3
+00:00:16.270 --> 00:00:18.600
+Exactly one path runs.
+
+4
+00:00:18.600 --> 00:00:25.520
+Put an if-else inside the else to test several ranges in order — like grade boundaries.
+
+5
+00:00:25.520 --> 00:00:28.520
+Booleans are true or false.
+
+6
+00:00:28.520 --> 00:00:32.560
+AND needs both conditions true.
+
+7
+00:00:32.560 --> 00:00:35.470
+OR needs at least one.
+
+8
+00:00:35.470 --> 00:00:37.630
+Test values on and around each boundary: 89, 90 and 91.
+
+9
+00:00:37.630 --> 00:00:40.080
+Most bugs hide at the edges.
+
+10
+00:00:40.080 --> 00:00:46.260
+Python uses if, elif and else for the same chain of decisions.
+
+11
+00:00:46.260 --> 00:00:48.210
+Great work! Let’s remember what we learned.
+
+12
+00:00:48.210 --> 00:00:54.460
+Now build along, then try the challenges. You’ve got this!

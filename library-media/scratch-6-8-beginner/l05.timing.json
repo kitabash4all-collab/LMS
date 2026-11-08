@@ -1,0 +1,71 @@
+{
+ "duration": 58.54,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10,
+   "text": "In this lesson, you will learn to use forever loops with if-then conditions to keep checking the world, and build bouncing and wrap-around motion.",
+   "scene": 0
+  },
+  {
+   "start": 10,
+   "end": 12.21,
+   "text": "A forever loop never stops.",
+   "scene": 1
+  },
+  {
+   "start": 12.21,
+   "end": 17.82,
+   "text": "Games, animations and apps run in a loop that keeps checking what’s happening.",
+   "scene": 1
+  },
+  {
+   "start": 17.82,
+   "end": 24.4,
+   "text": "If-then means selection: the computer only runs the inside blocks when the condition is true.",
+   "scene": 2
+  },
+  {
+   "start": 24.4,
+   "end": 32.82,
+   "text": "In many classic games, things that leave one side of the screen come back on the other.",
+   "scene": 3
+  },
+  {
+   "start": 32.82,
+   "end": 35.2,
+   "text": "That’s a forever loop with a condition.",
+   "scene": 3
+  },
+  {
+   "start": 35.2,
+   "end": 40.68,
+   "text": "Every game runs a game loop: read input, update positions, check collisions, draw.",
+   "scene": 4
+  },
+  {
+   "start": 40.68,
+   "end": 43.67,
+   "text": "Forever + if is the heart of it.",
+   "scene": 4
+  },
+  {
+   "start": 43.67,
+   "end": 50.85,
+   "text": "In Python, “while True” is a forever loop, and “if” works just like the Scratch block.",
+   "scene": 5
+  },
+  {
+   "start": 50.85,
+   "end": 54.11,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 54.11,
+   "end": 58.22,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

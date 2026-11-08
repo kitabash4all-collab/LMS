@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.290
+Today you will type your first real Python code and make the computer talk back to you.
+
+2
+00:00:06.290 --> 00:00:11.400
+Python is a real programming language that professional coders use every day.
+
+3
+00:00:11.400 --> 00:00:16.390
+Scientists, game makers and website builders all use it.
+
+4
+00:00:16.390 --> 00:00:19.830
+You type words, and the computer follows them.
+
+5
+00:00:19.830 --> 00:00:23.160
+The print() command shows a message on the screen.
+
+6
+00:00:23.160 --> 00:00:27.440
+Put your message inside the brackets, like print("Hello").
+
+7
+00:00:27.440 --> 00:00:29.850
+Each print starts a new line.
+
+8
+00:00:29.850 --> 00:00:32.460
+Text in quotes is called a string.
+
+9
+00:00:32.460 --> 00:00:37.300
+You can use "double" or 'single' quotes, but both ends must match.
+
+10
+00:00:37.300 --> 00:00:40.160
+Forget a quote and Python shows an error.
+
+11
+00:00:40.160 --> 00:00:43.450
+A line that starts with # is a comment.
+
+12
+00:00:43.450 --> 00:00:45.690
+Python skips it completely.
+
+13
+00:00:45.690 --> 00:00:49.940
+Use comments to explain your code or to switch a line off.
+
+14
+00:00:49.940 --> 00:00:53.950
+Three quotes in a row make a string that can cover many lines.
+
+15
+00:00:53.950 --> 00:01:01.470
+That is perfect for drawing pictures and posters with keyboard symbols.
+
+16
+00:01:01.470 --> 00:01:06.270
+Watch me type the word print, then round brackets, then a message in quotes.
+
+17
+00:01:06.270 --> 00:01:09.640
+When I press Run, Python shows exactly what was inside the quotes.
+
+18
+00:01:09.640 --> 00:01:13.840
+Three print lines give us three lines of output, in the same order.
+
+19
+00:01:13.840 --> 00:01:23.130
+Python always runs your code from top to bottom, one line at a time.
+
+20
+00:01:23.130 --> 00:01:25.180
+Lines that start with a hash sign are comments, so Python skips them.
+
+21
+00:01:25.180 --> 00:01:28.090
+Football never shows up, because we turned that line into a comment.
+
+22
+00:01:28.090 --> 00:01:32.680
+Three quote marks let one string stretch across many lines.
+
+23
+00:01:32.680 --> 00:01:38.260
+Every space you type stays exactly where you put it, so you can draw pictures.
+
+24
+00:01:38.260 --> 00:01:43.940
+Here the closing quote is missing, so Python does not know where the text ends.
+
+25
+00:01:43.940 --> 00:01:50.140
+An error is not a disaster, it is a clue. Read it, fix it, and run again.
+
+26
+00:01:50.140 --> 00:01:53.860
+Great work! Let’s remember what we learned.
+
+27
+00:01:53.860 --> 00:01:58.430
+Now build along, then try the challenges. You’ve got this!

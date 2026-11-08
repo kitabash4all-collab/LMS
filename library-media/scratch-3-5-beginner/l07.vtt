@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:02.390
+Welcome to Module 3!
+
+2
+00:00:02.390 --> 00:00:07.270
+Today your sprites will learn to make decisions.
+
+3
+00:00:07.270 --> 00:00:09.750
+You make decisions every day.
+
+4
+00:00:09.750 --> 00:00:16.440
+If it is raining, then you take an umbrella. If the light is red, then you stop.
+
+5
+00:00:16.440 --> 00:00:20.590
+In games, if the player touches lava, then they go back to the start.
+
+6
+00:00:20.590 --> 00:00:25.440
+The if block asks a question with a yes or no answer, called a condition.
+
+7
+00:00:25.440 --> 00:00:27.830
+If the answer is yes, the blocks inside run. If it is no, they are skipped.
+
+8
+00:00:27.830 --> 00:00:33.700
+On the left, the sprite checks only once, at the very start. That is a common bug!
+
+9
+00:00:33.700 --> 00:00:39.260
+Put the if inside a forever loop, and the sprite keeps checking all the time.
+
+10
+00:00:39.260 --> 00:00:48.580
+Here is a smart robot. If there is a wall ahead, it turns right. Else, it moves.
+
+11
+00:00:48.580 --> 00:00:52.470
+It repeats until it touches the star. The same code can solve mazes it has never seen!
+
+12
+00:00:52.470 --> 00:00:56.100
+Brilliant. Now make some decisions in the Code Lab!

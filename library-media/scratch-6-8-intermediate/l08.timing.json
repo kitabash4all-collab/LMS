@@ -1,0 +1,83 @@
+{
+ "duration": 60.87,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.4,
+   "text": "In this lesson, you will learn to build a numeric model that changes over time, and an agent-based model where many clones follow simple rules.",
+   "scene": 0
+  },
+  {
+   "start": 8.4,
+   "end": 12.92,
+   "text": "A model keeps the important parts of reality and ignores the rest.",
+   "scene": 1
+  },
+  {
+   "start": 12.92,
+   "end": 17.68,
+   "text": "Scientists use models to predict weather, diseases and populations.",
+   "scene": 1
+  },
+  {
+   "start": 17.68,
+   "end": 25.2,
+   "text": "Many models update in time steps: each “year”, the population changes by a rule.",
+   "scene": 2
+  },
+  {
+   "start": 25.2,
+   "end": 27.95,
+   "text": "A loop runs the years.",
+   "scene": 2
+  },
+  {
+   "start": 27.95,
+   "end": 29.48,
+   "text": "Real populations can’t grow forever.",
+   "scene": 3
+  },
+  {
+   "start": 29.48,
+   "end": 33.28,
+   "text": "Add a capacity: if pop > 500, set pop to 500.",
+   "scene": 3
+  },
+  {
+   "start": 33.28,
+   "end": 36.31,
+   "text": "Better models add more realistic rules.",
+   "scene": 3
+  },
+  {
+   "start": 36.31,
+   "end": 43.05,
+   "text": "Instead of one number, simulate many individuals (agents) — each a clone following simple rules.",
+   "scene": 4
+  },
+  {
+   "start": 43.05,
+   "end": 45.92,
+   "text": "Interesting patterns emerge from the crowd.",
+   "scene": 4
+  },
+  {
+   "start": 45.92,
+   "end": 53.24,
+   "text": "The same model in Python: a loop for the years, a rule for growth and a rule for the limit.",
+   "scene": 5
+  },
+  {
+   "start": 53.24,
+   "end": 58.52,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 58.52,
+   "end": 60.57,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

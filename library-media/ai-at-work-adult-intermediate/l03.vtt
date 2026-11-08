@@ -1,0 +1,157 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:10.000
+Today you will build a small workflow: a form collects answers, AI finds the themes, and a script emails you the summary.
+
+2
+00:00:10.000 --> 00:00:15.920
+Google Forms and Microsoft Forms collect answers in the same shape every time.
+
+3
+00:00:15.920 --> 00:00:20.310
+The answers go straight into a sheet, so nobody retypes anything.
+
+4
+00:00:20.310 --> 00:00:24.530
+Turn off collecting email addresses unless you really need them.
+
+5
+00:00:24.530 --> 00:00:32.320
+Remove any personal details, then paste the comments and ask for themes with counts and exact quotes.
+
+6
+00:00:32.320 --> 00:00:36.650
+Tell the AI to quote word for word and not to invent anything.
+
+7
+00:00:36.650 --> 00:00:41.710
+Then check the biggest claims yourself with COUNTIF or a filter.
+
+8
+00:00:41.710 --> 00:00:47.320
+Apps Script is a helper built into Google Sheets that runs small programs.
+
+9
+00:00:47.320 --> 00:00:53.090
+The AI can write a script that reads the responses and emails you a summary.
+
+10
+00:00:53.090 --> 00:00:58.580
+You do not need to be a programmer, but you must understand every line before you run it.
+
+11
+00:00:58.580 --> 00:01:03.350
+Before running any script, ask the AI to explain it line by line.
+
+12
+00:01:03.350 --> 00:01:10.250
+Make sure it only reads data, emails only you, and sends one email, not one for every row.
+
+13
+00:01:10.250 --> 00:01:14.930
+Test it on a copy of the sheet first, and know how to switch it off.
+
+14
+00:01:14.930 --> 00:01:20.120
+A trigger runs your script automatically, for example every Monday morning.
+
+15
+00:01:20.120 --> 00:01:26.270
+With Microsoft Forms, Power Automate can do a similar job, and Zapier works with both.
+
+16
+00:01:26.270 --> 00:01:31.960
+They have free plans, but check the current free plan and your company rules first.
+
+17
+00:01:31.960 --> 00:01:37.510
+A form collects every answer in the same shape, which makes summarising easy.
+
+18
+00:01:37.510 --> 00:01:43.390
+Keep email collection off for honest, anonymous feedback, unless you truly need it.
+
+19
+00:01:43.390 --> 00:01:49.310
+Link the form to a sheet, and every new answer lands in a new row by itself.
+
+20
+00:01:49.310 --> 00:01:55.070
+For practice, we use eighteen invented responses from a workshop feedback form.
+
+21
+00:01:55.070 --> 00:02:01.770
+First we deleted a phone number that one person typed into a comment, then we pasted the responses.
+
+22
+00:02:01.770 --> 00:02:08.520
+Claude groups the comments into four themes, with a count and an exact quote for each.
+
+23
+00:02:08.520 --> 00:02:13.290
+But the first theme says over half of the people found it too fast.
+
+24
+00:02:13.290 --> 00:02:20.350
+A quick COUNTIF finds only five comments out of eighteen, so we correct the summary before sharing.
+
+25
+00:02:20.350 --> 00:02:25.560
+Now we ask ChatGPT for a small script that emails us one summary.
+
+26
+00:02:25.560 --> 00:02:31.120
+The script reads the rows, adds up the ratings, and counts the low ones.
+
+27
+00:02:31.120 --> 00:02:36.100
+But look where the email line sits: inside the loop that visits every row.
+
+28
+00:02:36.100 --> 00:02:41.860
+That would send eighteen emails, so we move it after the loop, where it runs only once.
+
+29
+00:02:41.860 --> 00:02:47.220
+Here is the checked script, and the comments explain each part in plain words.
+
+30
+00:02:47.220 --> 00:02:52.270
+It opens the responses tab, reads every row, and skips the heading row.
+
+31
+00:02:52.270 --> 00:02:56.480
+The loop adds up the ratings and counts how many were one or two.
+
+32
+00:02:56.480 --> 00:03:02.790
+After the loop, it works out the average and sends exactly one email, only to you.
+
+33
+00:03:02.790 --> 00:03:07.740
+It never changes or deletes anything, and that is the first thing you check.
+
+34
+00:03:07.740 --> 00:03:13.880
+Always practise on a copy, so a mistake can never touch the real responses.
+
+35
+00:03:13.880 --> 00:03:19.870
+The first time, Google asks for permission, so read exactly what the script wants to do.
+
+36
+00:03:19.870 --> 00:03:23.550
+Check your inbox for one email with the right numbers.
+
+37
+00:03:23.550 --> 00:03:29.740
+Only then add a weekly trigger, and note how to delete it if you ever need to stop it.
+
+38
+00:03:29.740 --> 00:03:33.630
+Great work! Let’s remember what we learned.
+
+39
+00:03:33.630 --> 00:03:38.450
+Now build along, then try the challenges. You’ve got this!

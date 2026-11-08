@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.660
+In this lesson, you will learn to change a variable each time round a loop to make patterns that grow, like spirals, and to count.
+
+2
+00:00:08.660 --> 00:00:10.750
+Make a variable called length.
+
+3
+00:00:10.750 --> 00:00:17.380
+Set it to 10 before the loop, then change it by 10 inside the loop.
+
+4
+00:00:17.380 --> 00:00:20.890
+Each time round, the sprite moves further.
+
+5
+00:00:20.890 --> 00:00:22.780
+Moving a little further after every turn makes a spiral.
+
+6
+00:00:22.780 --> 00:00:29.030
+Try different turn angles: 90 makes a square spiral, 120 a triangle spiral, 89 a twisted one!
+
+7
+00:00:29.030 --> 00:00:30.670
+A loop can count.
+
+8
+00:00:30.670 --> 00:00:35.820
+Set a variable to 1, say it, then change it by 1 — again and again.
+
+9
+00:00:35.820 --> 00:00:41.540
+To use a variable inside a block, put the orange variable reporter into the white slot.
+
+10
+00:00:41.540 --> 00:00:46.870
+In the Code Lab, tap the small ▾ next to the number and pick your variable.
+
+11
+00:00:46.870 --> 00:00:50.030
+Great work! Let’s remember what we learned.
+
+12
+00:00:50.030 --> 00:00:53.900
+Now build along, then try the challenges. You’ve got this!

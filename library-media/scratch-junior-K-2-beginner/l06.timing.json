@@ -1,0 +1,71 @@
+{
+ "duration": 48.99,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.39,
+   "text": "It’s project time! Make one or two characters dance in ScratchJr when the green flag is pressed, using a repeat block for the dance moves.",
+   "scene": 0
+  },
+  {
+   "start": 10.39,
+   "end": 13.27,
+   "text": "Make one or two characters dance.",
+   "scene": 1
+  },
+  {
+   "start": 13.27,
+   "end": 15.87,
+   "text": "Dancers repeat their moves!",
+   "scene": 1
+  },
+  {
+   "start": 15.87,
+   "end": 20.98,
+   "text": "Put up, down, right, left inside a repeat block to make a dance.",
+   "scene": 2
+  },
+  {
+   "start": 20.98,
+   "end": 23.82,
+   "text": "Give every dancer a green flag.",
+   "scene": 3
+  },
+  {
+   "start": 23.82,
+   "end": 30.74,
+   "text": "Press the flag and they all dance.",
+   "scene": 3
+  },
+  {
+   "start": 30.74,
+   "end": 32.66,
+   "text": "Tap the green sound button and add a pop or your own recorded sound.",
+   "scene": 4
+  },
+  {
+   "start": 32.66,
+   "end": 37.73,
+   "text": "Dance to the star: up, down, right — 3 times! Use 🔁.",
+   "scene": 5
+  },
+  {
+   "start": 37.73,
+   "end": 40.86,
+   "text": "Hop, hop, hop — what a dance!",
+   "scene": 5
+  },
+  {
+   "start": 40.86,
+   "end": 45.38,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 45.38,
+   "end": 48.72,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

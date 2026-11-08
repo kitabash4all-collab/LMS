@@ -1,0 +1,59 @@
+{
+ "duration": 52.49,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.07,
+   "text": "In this lesson, you will learn to tell the difference between repeating a set number of times and forever, and choose the right loop for a game.",
+   "scene": 0
+  },
+  {
+   "start": 10.07,
+   "end": 13.58,
+   "text": "Repeat 3 stops after 3 times.",
+   "scene": 1
+  },
+  {
+   "start": 13.58,
+   "end": 19.66,
+   "text": "The red “repeat forever” block keeps going until you press stop.",
+   "scene": 2
+  },
+  {
+   "start": 19.66,
+   "end": 26.74,
+   "text": "Things that never stop in a game: clouds floating, fish swimming, music playing.",
+   "scene": 3
+  },
+  {
+   "start": 26.74,
+   "end": 31.94,
+   "text": "Things that happen a few times: 3 jumps, 5 steps.",
+   "scene": 4
+  },
+  {
+   "start": 31.94,
+   "end": 38.46,
+   "text": "The kangaroo hops exactly 5 times. Use 🔁 with a number.",
+   "scene": 5
+  },
+  {
+   "start": 38.46,
+   "end": 43.68,
+   "text": "Exactly 5 — a number loop stops when it’s done.",
+   "scene": 5
+  },
+  {
+   "start": 43.68,
+   "end": 45.64,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 45.64,
+   "end": 52.14,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

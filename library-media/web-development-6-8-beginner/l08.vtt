@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.130
+It’s capstone time! Today you will build a complete website for a cause or idea you care about.
+
+2
+00:00:07.130 --> 00:00:12.580
+Choose something real that matters to you, like a park clean-up or a book swap.
+
+3
+00:00:12.580 --> 00:00:16.180
+Ask who the page is for and what you want visitors to do.
+
+4
+00:00:16.180 --> 00:00:19.180
+Your answer becomes the goal of your whole page.
+
+5
+00:00:19.180 --> 00:00:22.950
+Give each section an id, like id equals gallery.
+
+6
+00:00:22.950 --> 00:00:27.530
+A link with href set to hash gallery jumps straight to that section.
+
+7
+00:00:27.530 --> 00:00:31.000
+A row of these links at the top is called a nav bar.
+
+8
+00:00:31.000 --> 00:00:34.870
+Your gallery uses flexbox cards from lesson five.
+
+9
+00:00:34.870 --> 00:00:38.150
+Your form uses the labels you learned in lesson six.
+
+10
+00:00:38.150 --> 00:00:41.810
+Your button uses the JavaScript you learned in lesson seven.
+
+11
+00:00:41.810 --> 00:00:47.670
+Check every picture has alt text and a credit, and every label is joined.
+
+12
+00:00:47.670 --> 00:00:51.540
+Click every button and link in the live preview.
+
+13
+00:00:51.540 --> 00:00:56.190
+Make sure there are no personal details and that every claim is honest.
+
+14
+00:00:56.190 --> 00:00:59.720
+The hash in the link means a place on this same page.
+
+15
+00:00:59.720 --> 00:01:04.790
+It jumps to the section whose id matches the word after the hash.
+
+16
+00:01:04.790 --> 00:01:09.390
+The header tag holds the title and tagline at the top of the page.
+
+17
+00:01:09.390 --> 00:01:15.430
+The footer holds the credit line at the bottom, using a club name, not your full name.
+
+18
+00:01:15.430 --> 00:01:18.480
+A small button makes the page feel alive.
+
+19
+00:01:18.480 --> 00:01:22.980
+It uses the same find, listen and change pattern from last lesson.
+
+20
+00:01:22.980 --> 00:01:27.170
+Before launch day, go down this checklist one line at a time.
+
+21
+00:01:27.170 --> 00:01:32.180
+Fix anything that is not ticked, then press Check and submit with your reflection.
+
+22
+00:01:32.180 --> 00:01:35.470
+Great work! Let’s remember what we learned.
+
+23
+00:01:35.470 --> 00:01:39.260
+Now plan it, build it, test it, and share it!

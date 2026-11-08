@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:14.210
+It’s project time! Build an interactive art gallery: at least two artist sprites, each drawing a different pattern when clicked — one with a nested loop, one with a growing variable — using colours chosen on purpose.
+
+2
+00:00:14.210 --> 00:00:17.500
+Create at least two different patterns.
+
+3
+00:00:17.500 --> 00:00:25.060
+One should use a nested loop, and one should use a variable that grows.
+
+4
+00:00:25.060 --> 00:00:27.730
+Clicking a sprite draws a new pattern.
+
+5
+00:00:27.730 --> 00:00:31.730
+Choose colours, pen sizes and angles on purpose.
+
+6
+00:00:31.730 --> 00:00:36.650
+Small changes to numbers make big changes to the art — experiment!
+
+7
+00:00:36.650 --> 00:00:42.030
+Give your artist sprites click scripts so visitors can choose which pattern to see.
+
+8
+00:00:42.030 --> 00:00:44.730
+Real artists explain their work.
+
+9
+00:00:44.730 --> 00:00:50.580
+In your reflection, say which numbers you changed and what effect they had.
+
+10
+00:00:50.580 --> 00:00:54.550
+Great work! Let’s remember what we learned.
+
+11
+00:00:54.550 --> 00:00:57.980
+Now plan it, build it, test it, and share it!

@@ -1,0 +1,71 @@
+{
+ "duration": 46.41,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.58,
+   "text": "In this lesson, you will learn to plan a path through a maze, avoiding walls, and find a short way.",
+   "scene": 0
+  },
+  {
+   "start": 7.58,
+   "end": 10.71,
+   "text": "In a maze, walls block the way.",
+   "scene": 1
+  },
+  {
+   "start": 10.71,
+   "end": 14.28,
+   "text": "Bump into one and you have to start again.",
+   "scene": 1
+  },
+  {
+   "start": 14.28,
+   "end": 18.72,
+   "text": "Trace the path with your finger before you add blocks.",
+   "scene": 2
+  },
+  {
+   "start": 18.72,
+   "end": 23.8,
+   "text": "Each straight part of the path is one block with a number.",
+   "scene": 3
+  },
+  {
+   "start": 23.8,
+   "end": 26.02,
+   "text": "Is there a shorter way?",
+   "scene": 4
+  },
+  {
+   "start": 26.02,
+   "end": 28.53,
+   "text": "Fewer blocks is smarter.",
+   "scene": 4
+  },
+  {
+   "start": 28.53,
+   "end": 32.99,
+   "text": "Help the mouse through the maze to the cheese (star).",
+   "scene": 5
+  },
+  {
+   "start": 32.99,
+   "end": 36.94,
+   "text": "Through the twists and turns — cheese time!",
+   "scene": 5
+  },
+  {
+   "start": 36.94,
+   "end": 40.91,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 40.91,
+   "end": 46.04,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

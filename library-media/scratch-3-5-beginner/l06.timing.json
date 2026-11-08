@@ -1,0 +1,59 @@
+{
+ "duration": 39.4,
+ "lines": [
+  {
+   "start": 0,
+   "end": 1.49,
+   "text": "It is party time!",
+   "scene": 0
+  },
+  {
+   "start": 1.49,
+   "end": 7.55,
+   "text": "You will build a dance party with dancers, music and flashing lights — all with loops.",
+   "scene": 0
+  },
+  {
+   "start": 7.55,
+   "end": 12.03,
+   "text": "You need at least two dancers that change costumes in a loop.",
+   "scene": 1
+  },
+  {
+   "start": 12.03,
+   "end": 16.7,
+   "text": "Add a beat that keeps playing, and backdrops that change like disco lights.",
+   "scene": 1
+  },
+  {
+   "start": 16.7,
+   "end": 20.48,
+   "text": "And when someone clicks a dancer, it does a special move.",
+   "scene": 1
+  },
+  {
+   "start": 20.48,
+   "end": 25.85,
+   "text": "Here are three forever loops: one for the dance, one for the beat, and one for the lights.",
+   "scene": 2
+  },
+  {
+   "start": 25.85,
+   "end": 28.97,
+   "text": "They all run at the same time when you click the green flag!",
+   "scene": 2
+  },
+  {
+   "start": 28.97,
+   "end": 34.08,
+   "text": "For the show-stopper, use a repeat loop to spin all the way round, then say Ta-da!",
+   "scene": 3
+  },
+  {
+   "start": 34.08,
+   "end": 39.09,
+   "text": "Plan it, build it, test it, and have fun. Let the party begin!",
+   "scene": 4
+  }
+ ]
+}

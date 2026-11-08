@@ -1,0 +1,161 @@
+{
+ "duration": 135.73,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.84,
+   "text": "Welcome! Today you will meet your AI assistant, set it up safely, and write a real work email.",
+   "scene": 0
+  },
+  {
+   "start": 6.84,
+   "end": 12.75,
+   "text": "A chatbot like ChatGPT, Claude or Gemini is like a very well-read assistant.",
+   "scene": 1
+  },
+  {
+   "start": 12.75,
+   "end": 17.69,
+   "text": "It has read a huge amount of text and learned how words usually follow each other.",
+   "scene": 1
+  },
+  {
+   "start": 17.69,
+   "end": 22.32,
+   "text": "When you type a request, it predicts a helpful reply, word by word.",
+   "scene": 1
+  },
+  {
+   "start": 22.32,
+   "end": 26.34,
+   "text": "Google search finds web pages that already exist on the internet.",
+   "scene": 2
+  },
+  {
+   "start": 26.34,
+   "end": 32.32,
+   "text": "A chatbot writes a fresh answer every time, so it can sound confident and still be wrong.",
+   "scene": 2
+  },
+  {
+   "start": 32.32,
+   "end": 37.25,
+   "text": "Treat it like a smart new intern: fast and useful, but always checked.",
+   "scene": 2
+  },
+  {
+   "start": 37.25,
+   "end": 43.99,
+   "text": "Never paste passwords, Aadhaar or PAN numbers, bank details, or client and customer data.",
+   "scene": 3
+  },
+  {
+   "start": 43.99,
+   "end": 48.6,
+   "text": "Do not put confidential company files into a personal AI account.",
+   "scene": 3
+  },
+  {
+   "start": 48.6,
+   "end": 54.19,
+   "text": "Swap real details for placeholders like [Client name] or [Order no.].",
+   "scene": 3
+  },
+  {
+   "start": 54.19,
+   "end": 59.12,
+   "text": "Give the AI your rough note, say who the email is for, and ask for a polite tone.",
+   "scene": 4
+  },
+  {
+   "start": 59.12,
+   "end": 62.69,
+   "text": "Read the draft, fix anything that is wrong, and only then send it.",
+   "scene": 4
+  },
+  {
+   "start": 62.69,
+   "end": 66.03,
+   "text": "Your name is on it, so you are responsible for it.",
+   "scene": 4
+  },
+  {
+   "start": 66.03,
+   "end": 70.57,
+   "text": "You need just two free accounts to start, and having more is even better.",
+   "scene": 5
+  },
+  {
+   "start": 70.57,
+   "end": 75.42,
+   "text": "Every tool has a message box, a new chat button, and a settings page.",
+   "scene": 5
+  },
+  {
+   "start": 75.42,
+   "end": 86.77,
+   "text": "Open the settings once and look for the privacy or data controls, so you choose how your chats are used.",
+   "scene": 5
+  },
+  {
+   "start": 86.77,
+   "end": 92.39,
+   "text": "Free plans have limits, so keeping two tools ready means you are never stuck.",
+   "scene": 5
+  },
+  {
+   "start": 92.39,
+   "end": 97.29,
+   "text": "Here a shop owner pastes a rough note, with a placeholder instead of the real order number.",
+   "scene": 6
+  },
+  {
+   "start": 97.29,
+   "end": 104.14,
+   "text": "In seconds, Claude writes a clean and polite email with a subject line.",
+   "scene": 6
+  },
+  {
+   "start": 104.14,
+   "end": 109.53,
+   "text": "But look closely: the email promises delivery by 11 am, and the note never said that.",
+   "scene": 6
+  },
+  {
+   "start": 109.53,
+   "end": 113.75,
+   "text": "The AI filled a gap with a guess, so we delete that part before we send.",
+   "scene": 6
+  },
+  {
+   "start": 113.75,
+   "end": 119.28,
+   "text": "Now we paste the exact same prompt into Gemini to compare.",
+   "scene": 7
+  },
+  {
+   "start": 119.28,
+   "end": 122.53,
+   "text": "This version sticks to the facts in the note and does not add a made-up time.",
+   "scene": 7
+  },
+  {
+   "start": 122.53,
+   "end": 126.03,
+   "text": "Trying two tools takes one minute, and you simply keep the better draft.",
+   "scene": 7
+  },
+  {
+   "start": 126.03,
+   "end": 130.59,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 8
+  },
+  {
+   "start": 130.59,
+   "end": 135.39,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 8
+  }
+ ]
+}

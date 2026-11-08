@@ -1,0 +1,62 @@
+# Runs on every push and pull request.
+#  • sqlite   — type-check, unit tests, build, browser walkthrough of the Definition of Done
+#  • postgres — the same tests against a real PostgreSQL 16 (what Supabase runs)
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  sqlite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+      - run: npm run test:first-run
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: e2e-sqlite
+          path: test-results/
+
+  postgres:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: ci-password
+          POSTGRES_DB: kitabash
+        ports: ['5432:5432']
+        options: >-
+          --health-cmd "pg_isready -U postgres" --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      TEST_DATABASE_URL: postgresql://postgres:ci-password@localhost:5432/kitabash?sslmode=disable
+      E2E_DATABASE_URL: postgresql://postgres:ci-password@localhost:5432/kitabash?sslmode=disable
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm test
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+      - run: npm run test:first-run
+      - name: Connection check
+        run: DATABASE_URL=$TEST_DATABASE_URL npm run db:check
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: e2e-postgres
+          path: test-results/

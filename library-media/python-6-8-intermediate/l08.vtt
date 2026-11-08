@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.840
+It is capstone time! Today you design and build your own turn-based Battle Arena game.
+
+2
+00:00:05.840 --> 00:00:11.260
+Each fighter is a dictionary, like {"name": "Goblin", "hp": 45}.
+
+3
+00:00:11.260 --> 00:00:16.510
+A list of enemy dictionaries lets random.choice pick a surprise opponent.
+
+4
+00:00:16.510 --> 00:00:20.600
+Changing enemy["hp"] changes that fighter’s health.
+
+5
+00:00:20.600 --> 00:00:33.220
+roll_damage, apply_damage and heal_hp each do one job and return a number. max(0, hp - damage) stops health going below zero. min(max_hp, hp + amount) stops healing above the maximum.
+
+6
+00:00:33.220 --> 00:00:38.270
+while player["hp"] > 0 and enemy["hp"] > 0: keeps the battle going.
+
+7
+00:00:38.270 --> 00:00:42.880
+Each turn shows the stats, asks for a move, and then the enemy strikes back.
+
+8
+00:00:42.880 --> 00:00:48.630
+When either health reaches zero, the loop ends.
+
+9
+00:00:48.630 --> 00:00:52.170
+After the loop, an if decides victory or defeat.
+
+10
+00:00:52.170 --> 00:00:54.300
+Then playtest it.
+
+11
+00:00:54.300 --> 00:00:59.490
+If the game is too easy or too hard, change the numbers: that is called balancing.
+
+12
+00:00:59.490 --> 00:01:05.130
+Every fighter keeps its stats in a dictionary, with the same keys for each one.
+
+13
+00:01:05.130 --> 00:01:10.720
+Random choice picks one enemy from the list, so every battle can be different.
+
+14
+00:01:10.720 --> 00:01:16.020
+Apply damage never lets health fall below zero, thanks to max.
+
+15
+00:01:16.020 --> 00:01:20.340
+Heal never goes above the maximum health, thanks to min.
+
+16
+00:01:20.340 --> 00:01:24.960
+The player chooses a move, and the program calls the right functions.
+
+17
+00:01:24.960 --> 00:01:29.510
+The damage is random, so every swing feels a little different.
+
+18
+00:01:29.510 --> 00:01:33.900
+The loop keeps going only while both fighters are still standing.
+
+19
+00:01:33.900 --> 00:01:39.090
+After the loop, one if statement decides whether you won or lost.
+
+20
+00:01:39.090 --> 00:01:44.190
+Game designers plan their fighters and numbers before writing any code.
+
+21
+00:01:44.190 --> 00:01:50.170
+Then they playtest again and again, and tweak the numbers until the battle feels fair.
+
+22
+00:01:50.170 --> 00:01:53.540
+Great work! Let’s remember what we learned.
+
+23
+00:01:53.540 --> 00:01:57.710
+Now plan it, build it, test it, and share it!

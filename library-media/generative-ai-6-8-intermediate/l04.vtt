@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.800
+Project time! You will make your own mini game, with AI as your coach and an honest log to prove it.
+
+2
+00:00:06.800 --> 00:00:13.510
+Choose a game you can finish in one class, like a number guessing game, a cricket quiz or a catch game in Scratch.
+
+3
+00:00:13.510 --> 00:00:18.020
+Small and working beats big and broken.
+
+4
+00:00:18.020 --> 00:00:23.080
+You can always add more later.
+
+5
+00:00:23.080 --> 00:00:26.650
+Write your idea and pseudocode first, and ask the AI to review the plan.
+
+6
+00:00:26.650 --> 00:00:29.800
+Build one step at a time and run it after each step.
+
+7
+00:00:29.800 --> 00:00:31.710
+Use your bug report template when something breaks.
+
+8
+00:00:31.710 --> 00:00:37.460
+Every time you use AI, write what you asked, what it said, and what you did with it.
+
+9
+00:00:37.460 --> 00:00:42.100
+Write down if its answer was wrong.
+
+10
+00:00:42.100 --> 00:00:43.550
+This log is part of your grade, so honesty earns marks.
+
+11
+00:00:43.550 --> 00:00:46.670
+At the end you will explain your code to the class or your teacher.
+
+12
+00:00:46.670 --> 00:00:53.990
+If there is a line you cannot explain, ask the AI to explain it and practise.
+
+13
+00:00:53.990 --> 00:00:55.320
+Your game, your code, your words.
+
+14
+00:00:55.320 --> 00:01:00.110
+Here are four mini games you can finish in one class, in Python or Scratch.
+
+15
+00:01:00.110 --> 00:01:05.350
+Pick one, or your own idea of the same size, and write it in one sentence.
+
+16
+00:01:05.350 --> 00:01:09.470
+Kabir asks the AI to explain one line of his guessing game.
+
+17
+00:01:09.470 --> 00:01:14.580
+The AI says the number twenty can never be picked, mixing it up with range.
+
+18
+00:01:14.580 --> 00:01:19.780
+Kabir tests it by printing the secret again and again, and twenty does appear.
+
+19
+00:01:19.780 --> 00:01:24.340
+He writes the catch in his what AI did log, which earns him marks.
+
+20
+00:01:24.340 --> 00:01:31.250
+A good log entry has four parts: what you asked, what it said, what you checked, and the result.
+
+21
+00:01:31.250 --> 00:01:35.710
+Notice that Kabir did not paste any AI code into his game.
+
+22
+00:01:35.710 --> 00:01:40.500
+Follow the route from idea to sharing, and keep your log open the whole time.
+
+23
+00:01:40.500 --> 00:01:46.400
+Your grade comes from the game, your testing, your honest log, and your explanation.
+
+24
+00:01:46.400 --> 00:01:50.090
+Great work! Let’s remember what we learned.
+
+25
+00:01:50.090 --> 00:01:53.820
+Now plan it, build it, test it, and share it!

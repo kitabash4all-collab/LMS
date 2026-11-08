@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:10.600
+In this lesson, you will learn to use forever loops with if-then conditions to keep checking the world, and build bouncing and wrap-around motion.
+
+2
+00:00:10.600 --> 00:00:12.810
+A forever loop never stops.
+
+3
+00:00:12.810 --> 00:00:18.420
+Games, animations and apps run in a loop that keeps checking what’s happening.
+
+4
+00:00:18.420 --> 00:00:25.000
+If-then means selection: the computer only runs the inside blocks when the condition is true.
+
+5
+00:00:25.000 --> 00:00:33.420
+In many classic games, things that leave one side of the screen come back on the other.
+
+6
+00:00:33.420 --> 00:00:35.800
+That’s a forever loop with a condition.
+
+7
+00:00:35.800 --> 00:00:41.280
+Every game runs a game loop: read input, update positions, check collisions, draw.
+
+8
+00:00:41.280 --> 00:00:44.270
+Forever + if is the heart of it.
+
+9
+00:00:44.270 --> 00:00:51.450
+In Python, “while True” is a forever loop, and “if” works just like the Scratch block.
+
+10
+00:00:51.450 --> 00:00:54.710
+Great work! Let’s remember what we learned.
+
+11
+00:00:54.710 --> 00:00:58.820
+Now build along, then try the challenges. You’ve got this!

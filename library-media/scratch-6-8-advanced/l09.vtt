@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:14.680
+It’s project time! Build a messenger that encrypts and decrypts with a Caesar cipher: a menu, message and key inputs, one shift procedure used for both directions, validation, and round-trip tests.
+
+2
+00:00:14.680 --> 00:00:16.210
+A menu: 1 to encrypt, 2 to decrypt.
+
+3
+00:00:16.210 --> 00:00:19.810
+Ask for the message and the key, then show the result.
+
+4
+00:00:19.810 --> 00:00:24.190
+Write shift (amount) once.
+
+5
+00:00:24.190 --> 00:00:28.830
+Encrypt calls it with the key; decrypt calls it with minus the key.
+
+6
+00:00:28.830 --> 00:00:33.800
+The menu choice must be 1 or 2; the key should be a number from 1 to 25.
+
+7
+00:00:33.800 --> 00:00:40.680
+Encrypt a message, then decrypt the result with the same key.
+
+8
+00:00:40.680 --> 00:00:43.270
+You must get the original back.
+
+9
+00:00:43.270 --> 00:00:46.940
+Great work! Let’s remember what we learned.
+
+10
+00:00:46.940 --> 00:00:50.000
+Now plan it, build it, test it, and share it!

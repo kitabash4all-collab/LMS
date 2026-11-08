@@ -1,0 +1,71 @@
+{
+ "duration": 42.36,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.75,
+   "text": "In this lesson, you will learn to use numbers and repeat blocks to solve puzzles with as few blocks as possible.",
+   "scene": 0
+  },
+  {
+   "start": 7.75,
+   "end": 11.93,
+   "text": "Some puzzles say “use 3 blocks or fewer”.",
+   "scene": 1
+  },
+  {
+   "start": 11.93,
+   "end": 14.25,
+   "text": "Count the blocks in your script.",
+   "scene": 1
+  },
+  {
+   "start": 14.25,
+   "end": 17.35,
+   "text": "Right 4 is one block.",
+   "scene": 2
+  },
+  {
+   "start": 17.35,
+   "end": 19.32,
+   "text": "Right, right, right, right is four!",
+   "scene": 2
+  },
+  {
+   "start": 19.32,
+   "end": 21.24,
+   "text": "If a pattern happens again, put it inside a repeat.",
+   "scene": 3
+  },
+  {
+   "start": 21.24,
+   "end": 24.82,
+   "text": "Short code is easy to read and easy to fix.",
+   "scene": 4
+  },
+  {
+   "start": 24.82,
+   "end": 29.92,
+   "text": "Reach the star with 3 blocks or fewer. The arrows move 1 square.",
+   "scene": 5
+  },
+  {
+   "start": 29.92,
+   "end": 34.34,
+   "text": "Repeat 4: right, up. Just 3 blocks!",
+   "scene": 5
+  },
+  {
+   "start": 34.34,
+   "end": 37.72,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 37.72,
+   "end": 42.05,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

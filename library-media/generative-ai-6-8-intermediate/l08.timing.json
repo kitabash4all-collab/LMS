@@ -1,0 +1,161 @@
+{
+ "duration": 133.19,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.97,
+   "text": "Capstone time! You will use everything from Level 2 to design an AI helper for a real problem at your school.",
+   "scene": 0
+  },
+  {
+   "start": 6.97,
+   "end": 14.84,
+   "text": "Start with a real problem you have seen, like lost water bottles, confusing recycling bins or last-minute revision panic.",
+   "scene": 1
+  },
+  {
+   "start": 14.84,
+   "end": 19.48,
+   "text": "Name the user, like Grade 6 students or the school librarian.",
+   "scene": 1
+  },
+  {
+   "start": 19.48,
+   "end": 23.1,
+   "text": "Ask two or three people if the problem is real for them.",
+   "scene": 1
+  },
+  {
+   "start": 23.1,
+   "end": 27.46,
+   "text": "Write a spec: what goes in, what comes out, and the rules.",
+   "scene": 2
+  },
+  {
+   "start": 27.46,
+   "end": 31.29,
+   "text": "Decide what the AI does and what a human must still do.",
+   "scene": 2
+  },
+  {
+   "start": 31.29,
+   "end": 35.48,
+   "text": "Some parts are better without AI, and that is a smart choice too.",
+   "scene": 2
+  },
+  {
+   "start": 35.48,
+   "end": 43.1,
+   "text": "Build a small working version: app instructions, a short Python or Scratch program, a survey chart or a video.",
+   "scene": 3
+  },
+  {
+   "start": 43.1,
+   "end": 46.44,
+   "text": "Test it with normal, tricky and attack cases.",
+   "scene": 3
+  },
+  {
+   "start": 46.44,
+   "end": 48.53,
+   "text": "Fix what fails and record it.",
+   "scene": 3
+  },
+  {
+   "start": 48.53,
+   "end": 52.72,
+   "text": "Ask who could be harmed or left out, and what data you collect.",
+   "scene": 4
+  },
+  {
+   "start": 52.72,
+   "end": 57.86,
+   "text": "Check that it is honest, private and fair.",
+   "scene": 4
+  },
+  {
+   "start": 57.86,
+   "end": 60.27,
+   "text": "Write what the AI cannot do, so users do not over-trust it.",
+   "scene": 4
+  },
+  {
+   "start": 60.27,
+   "end": 69.49,
+   "text": "Tell the story in three minutes: the problem, the user, your solution, a live demo, what you tested and your ethics check.",
+   "scene": 5
+  },
+  {
+   "start": 69.49,
+   "end": 73.79,
+   "text": "End with what you would build next, and practise it with a timer.",
+   "scene": 5
+  },
+  {
+   "start": 73.79,
+   "end": 79.91,
+   "text": "Here are four capstone ideas, but the best one is a problem you have seen yourself.",
+   "scene": 6
+  },
+  {
+   "start": 79.91,
+   "end": 85.38,
+   "text": "Pick a problem that is real, small enough to prototype, and helps someone at school.",
+   "scene": 6
+  },
+  {
+   "start": 85.38,
+   "end": 90.44,
+   "text": "Riya tests her recycling guide with a tricky item: a used chips packet.",
+   "scene": 7
+  },
+  {
+   "start": 90.44,
+   "end": 95.49,
+   "text": "It confidently says the paper bin, but these packets are usually plastic and foil.",
+   "scene": 7
+  },
+  {
+   "start": 95.49,
+   "end": 102.09,
+   "text": "She adds the school’s real bin list to the instructions, and a rule to say ask a teacher when unsure.",
+   "scene": 7
+  },
+  {
+   "start": 102.09,
+   "end": 107.76,
+   "text": "Kabir asks the AI to act as a critical friend and find risks in his idea.",
+   "scene": 8
+  },
+  {
+   "start": 107.76,
+   "end": 113.42,
+   "text": "He checks each risk himself, keeps the useful ones, and adds them to his rules.",
+   "scene": 8
+  },
+  {
+   "start": 113.42,
+   "end": 119.56,
+   "text": "A strong pitch follows this route, from the problem to the next step, in three minutes.",
+   "scene": 9
+  },
+  {
+   "start": 119.56,
+   "end": 126.29,
+   "text": "The live demo is the star, so practise it, and have a screenshot ready in case the internet fails.",
+   "scene": 9
+  },
+  {
+   "start": 126.29,
+   "end": 129.36,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 129.36,
+   "end": 132.93,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 10
+  }
+ ]
+}

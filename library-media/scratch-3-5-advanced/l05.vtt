@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.340
+In this lesson, you will learn to make a sprite jump by setting its velocity upward, only when it is standing on the floor.
+
+2
+00:00:08.340 --> 00:00:12.560
+To jump, set vy to a positive number like 14.
+
+3
+00:00:12.560 --> 00:00:18.630
+Gravity takes over: the sprite rises, slows down, stops at the top, then falls.
+
+4
+00:00:18.630 --> 00:00:23.930
+Without a check, players can jump in mid-air forever.
+
+5
+00:00:23.930 --> 00:00:26.770
+Only jump if the sprite is on the floor.
+
+6
+00:00:26.770 --> 00:00:34.430
+Because gravity changes vy a little each frame, a jump makes a smooth curve — like a ball thrown in the air.
+
+7
+00:00:34.430 --> 00:00:36.880
+A bigger push jumps higher.
+
+8
+00:00:36.880 --> 00:00:41.090
+Stronger gravity makes jumps shorter and snappier.
+
+9
+00:00:41.090 --> 00:00:44.360
+Tuning these numbers is real game design.
+
+10
+00:00:44.360 --> 00:00:47.650
+Great work! Let’s remember what we learned.
+
+11
+00:00:47.650 --> 00:00:52.070
+Now build along, then try the challenges. You’ve got this!

@@ -1,0 +1,137 @@
+{
+ "duration": 95.62,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.55,
+   "text": "It’s project time! Design and build a text adventure with at least three rooms, an inventory, a locked door, a treasure to win and a torch that runs out.",
+   "scene": 0
+  },
+  {
+   "start": 10.55,
+   "end": 15.84,
+   "text": "A text adventure is a story where the player types commands like north or take.",
+   "scene": 1
+  },
+  {
+   "start": 15.84,
+   "end": 22.93,
+   "text": "A variable called room remembers where they are. if and elif decide what each command does in each room.",
+   "scene": 1
+  },
+  {
+   "start": 22.93,
+   "end": 25.92,
+   "text": "Start with an empty list: inventory = [].",
+   "scene": 2
+  },
+  {
+   "start": 25.92,
+   "end": 29.88,
+   "text": "When the player picks something up, use inventory.append(\"key\").",
+   "scene": 2
+  },
+  {
+   "start": 29.88,
+   "end": 33.7,
+   "text": "Later, if \"key\" in inventory: can unlock a door.",
+   "scene": 2
+  },
+  {
+   "start": 33.7,
+   "end": 37.33,
+   "text": "A while loop keeps the game running while playing is True.",
+   "scene": 3
+  },
+  {
+   "start": 37.33,
+   "end": 39.33,
+   "text": "Finding the treasure wins.",
+   "scene": 3
+  },
+  {
+   "start": 39.33,
+   "end": 41.9,
+   "text": "Running out of moves loses.",
+   "scene": 3
+  },
+  {
+   "start": 41.9,
+   "end": 44.05,
+   "text": "def show_status(): gives a name to a chunk of code.",
+   "scene": 4
+  },
+  {
+   "start": 44.05,
+   "end": 49.28,
+   "text": "Call it with show_status() whenever you need it.",
+   "scene": 4
+  },
+  {
+   "start": 49.28,
+   "end": 53.96,
+   "text": "Functions keep long programs tidy, and Level 2 goes much deeper.",
+   "scene": 4
+  },
+  {
+   "start": 53.96,
+   "end": 57.96,
+   "text": "The word def makes a new command called describe_room.",
+   "scene": 5
+  },
+  {
+   "start": 57.96,
+   "end": 62.24,
+   "text": "We write it once, then call it twice with different room names.",
+   "scene": 5
+  },
+  {
+   "start": 62.24,
+   "end": 65.91,
+   "text": "The bag starts empty, then we append a key.",
+   "scene": 6
+  },
+  {
+   "start": 65.91,
+   "end": 69.94,
+   "text": "Because key is in the inventory, the locked door opens.",
+   "scene": 6
+  },
+  {
+   "start": 69.94,
+   "end": 73.78,
+   "text": "The while loop keeps asking for commands while playing is True.",
+   "scene": 7
+  },
+  {
+   "start": 73.78,
+   "end": 79.24,
+   "text": "Each elif checks the room AND the command, so north only works from the hall.",
+   "scene": 7
+  },
+  {
+   "start": 79.24,
+   "end": 83.1,
+   "text": "Real game designers sketch a map before they write any code.",
+   "scene": 8
+  },
+  {
+   "start": 83.1,
+   "end": 88.34,
+   "text": "Build one room at a time and test it, so bugs stay small and easy to find.",
+   "scene": 8
+  },
+  {
+   "start": 88.34,
+   "end": 91.32,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 91.32,
+   "end": 95.32,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

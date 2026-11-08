@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/
+test-results/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+.DS_Store
+node_modules
+narration/
+
+# Lesson videos and voice-overs are kept in file storage, not in git.
+library-media/**/*.mp4
+library-media/**/*.m4a

@@ -1,0 +1,65 @@
+{
+ "duration": 55.87,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14.7,
+   "text": "It’s project time! Run linear and binary search on the same sorted list of 100 numbers, count the steps each takes for several targets, and report which is more efficient — with each search in its own procedure.",
+   "scene": 0
+  },
+  {
+   "start": 14.7,
+   "end": 18.06,
+   "text": "Make a sorted list of 100 numbers.",
+   "scene": 1
+  },
+  {
+   "start": 18.06,
+   "end": 24.47,
+   "text": "For a target, run linear search and binary search, count the steps of each, and report both.",
+   "scene": 1
+  },
+  {
+   "start": 24.47,
+   "end": 28.68,
+   "text": "Put each search in its own My Block with the target as the input.",
+   "scene": 2
+  },
+  {
+   "start": 28.68,
+   "end": 31.13,
+   "text": "Your main script just calls them.",
+   "scene": 2
+  },
+  {
+   "start": 31.13,
+   "end": 37.56,
+   "text": "Same list, same target, same counting rule (one step per comparison).",
+   "scene": 3
+  },
+  {
+   "start": 37.56,
+   "end": 42.52,
+   "text": "Try several targets: small, middle, large, missing.",
+   "scene": 3
+  },
+  {
+   "start": 42.52,
+   "end": 48.62,
+   "text": "Write what you found: which was faster, by how much, and when the difference matters most.",
+   "scene": 4
+  },
+  {
+   "start": 48.62,
+   "end": 51.84,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.84,
+   "end": 55.87,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

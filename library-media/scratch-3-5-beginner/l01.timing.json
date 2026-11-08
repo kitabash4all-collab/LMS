@@ -1,0 +1,131 @@
+{
+ "duration": 80.86,
+ "lines": [
+  {
+   "start": 0,
+   "end": 4.47,
+   "text": "Hi, coders! Today you will write your very first computer program.",
+   "scene": 0
+  },
+  {
+   "start": 4.47,
+   "end": 8.91,
+   "text": "By the end of this lesson, you will make a sprite move and talk.",
+   "scene": 0
+  },
+  {
+   "start": 8.91,
+   "end": 11.99,
+   "text": "Code is a list of instructions for a computer.",
+   "scene": 1
+  },
+  {
+   "start": 11.99,
+   "end": 15.85,
+   "text": "The computer follows the instructions one by one, in order.",
+   "scene": 1
+  },
+  {
+   "start": 15.85,
+   "end": 21.58,
+   "text": "It is like making a sandwich: first take the bread, then add the filling, then close it.",
+   "scene": 1
+  },
+  {
+   "start": 21.58,
+   "end": 25.28,
+   "text": "This is the Scratch editor. Let us take a tour.",
+   "scene": 2
+  },
+  {
+   "start": 25.28,
+   "end": 27.67,
+   "text": "The stage is where your project plays.",
+   "scene": 2
+  },
+  {
+   "start": 27.67,
+   "end": 32.02,
+   "text": "Sprites are the characters. You can see them in the sprite list.",
+   "scene": 2
+  },
+  {
+   "start": 32.02,
+   "end": 35.75,
+   "text": "The block palette has all the blocks, sorted by colour.",
+   "scene": 2
+  },
+  {
+   "start": 35.75,
+   "end": 39.48,
+   "text": "You drag blocks into the code area and snap them together.",
+   "scene": 2
+  },
+  {
+   "start": 39.48,
+   "end": 44.89,
+   "text": "Blocks snap together like puzzle pieces.",
+   "scene": 3
+  },
+  {
+   "start": 44.89,
+   "end": 49.48,
+   "text": "A stack of blocks is called a script.",
+   "scene": 3
+  },
+  {
+   "start": 49.48,
+   "end": 51.44,
+   "text": "When you click the green flag, the script runs from the top to the bottom.",
+   "scene": 3
+  },
+  {
+   "start": 51.44,
+   "end": 55.46,
+   "text": "This is Pip the robot. Each square is one step.",
+   "scene": 4
+  },
+  {
+   "start": 55.46,
+   "end": 60.23,
+   "text": "Move, move, turn, move. Pip does each block in order.",
+   "scene": 4
+  },
+  {
+   "start": 60.23,
+   "end": 63.5,
+   "text": "And Pip reaches the star!",
+   "scene": 4
+  },
+  {
+   "start": 63.5,
+   "end": 64.89,
+   "text": "These two scripts use the same blocks.",
+   "scene": 5
+  },
+  {
+   "start": 64.89,
+   "end": 69.6,
+   "text": "But on the right, the turn happens too early, so Pip ends up in the wrong place.",
+   "scene": 5
+  },
+  {
+   "start": 69.6,
+   "end": 73.01,
+   "text": "When you code, the order of the blocks matters!",
+   "scene": 5
+  },
+  {
+   "start": 73.01,
+   "end": 75.65,
+   "text": "Great work! Here are the big ideas.",
+   "scene": 6
+  },
+  {
+   "start": 75.65,
+   "end": 80.55,
+   "text": "Now open Scratch and build along, then try the robot puzzles!",
+   "scene": 6
+  }
+ ]
+}

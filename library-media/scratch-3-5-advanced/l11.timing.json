@@ -1,0 +1,65 @@
+{
+ "duration": 53.5,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.3,
+   "text": "In this lesson, you will learn to use broadcasts and variables to add a start screen, levels and a game-over state to a game.",
+   "scene": 0
+  },
+  {
+   "start": 8.3,
+   "end": 15.78,
+   "text": "A game is in different states: a start menu, playing, the next level, game over.",
+   "scene": 1
+  },
+  {
+   "start": 15.78,
+   "end": 18.61,
+   "text": "Code needs to know which state it is in.",
+   "scene": 1
+  },
+  {
+   "start": 18.61,
+   "end": 22.93,
+   "text": "When the player presses space on the menu, broadcast start.",
+   "scene": 2
+  },
+  {
+   "start": 22.93,
+   "end": 27.94,
+   "text": "Every sprite that needs to begin listens for “when I receive start”.",
+   "scene": 2
+  },
+  {
+   "start": 27.94,
+   "end": 31.75,
+   "text": "A level variable remembers how far the player is.",
+   "scene": 3
+  },
+  {
+   "start": 31.75,
+   "end": 37.79,
+   "text": "When the score reaches a target, change the level, switch the backdrop and make it harder.",
+   "scene": 3
+  },
+  {
+   "start": 37.79,
+   "end": 45.4,
+   "text": "When lives reach 0 or time runs out, broadcast game over: show the final score and stop all.",
+   "scene": 4
+  },
+  {
+   "start": 45.4,
+   "end": 47.07,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 47.07,
+   "end": 53.19,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

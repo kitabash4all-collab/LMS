@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.090
+Welcome back, Gen-AI Creators! In Level 2 you become a programmer with an AI coach beside you.
+
+2
+00:00:07.090 --> 00:00:10.610
+An AI coding buddy helps you understand code.
+
+3
+00:00:10.610 --> 00:00:13.140
+It does not write your homework for you.
+
+4
+00:00:13.140 --> 00:00:17.220
+If you cannot explain a line, it is not your code yet.
+
+5
+00:00:17.220 --> 00:00:22.270
+Paste a short program and ask the AI to explain it one line at a time.
+
+6
+00:00:22.270 --> 00:00:25.450
+Ask for simple words and an everyday example.
+
+7
+00:00:25.450 --> 00:00:28.640
+Then explain the code back in your own words.
+
+8
+00:00:28.640 --> 00:00:33.820
+AI can explain code wrongly, or invent a command that does not exist.
+
+9
+00:00:33.820 --> 00:00:36.470
+It sounds just as sure when it is wrong.
+
+10
+00:00:36.470 --> 00:00:39.920
+So you always run the code yourself and compare.
+
+11
+00:00:39.920 --> 00:00:43.910
+Only paste your own practice code into an AI tool.
+
+12
+00:00:43.910 --> 00:00:48.780
+Never paste code that has a password or a real person’s details inside it.
+
+13
+00:00:48.780 --> 00:00:53.090
+Under 13, use the Kitabash AI helper in the lesson.
+
+14
+00:00:53.090 --> 00:01:00.280
+Here is a short Python program that adds up the runs in one cricket over.
+
+15
+00:01:00.280 --> 00:01:03.540
+When we run it, it prints the total, seventeen, and then says great over.
+
+16
+00:01:03.540 --> 00:01:08.550
+Now let us ask the AI to explain it, and see if it gets everything right.
+
+17
+00:01:08.550 --> 00:01:15.100
+The explanation of the loop is clear, and it did not rewrite our code.
+
+18
+00:01:15.100 --> 00:01:18.010
+But look at line six: the AI says the total is sixteen.
+
+19
+00:01:18.010 --> 00:01:23.290
+We ran the program and it printed seventeen, so the AI made a maths slip.
+
+20
+00:01:23.290 --> 00:01:27.150
+Running the code is how a programmer checks what the AI says.
+
+21
+00:01:27.150 --> 00:01:32.420
+A great follow-up is to ask the AI to quiz you instead of explaining more.
+
+22
+00:01:32.420 --> 00:01:39.080
+Answering questions in your own words shows you understand the code.
+
+23
+00:01:39.080 --> 00:01:43.050
+Your log has three columns: the line, what the AI said, and what you say.
+
+24
+00:01:43.050 --> 00:01:49.160
+Add a star next to every mistake you caught by running the code.
+
+25
+00:01:49.160 --> 00:01:51.430
+Great work! Let’s remember what we learned.
+
+26
+00:01:51.430 --> 00:01:56.300
+Now build along, then try the challenges. You’ve got this!

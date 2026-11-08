@@ -1,0 +1,59 @@
+{
+ "duration": 48.11,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.62,
+   "text": "It’s project time! Retell a fairy tale in ScratchJr: storyboard it, use at least two pages, give it a beginning, middle and end, and make the characters talk and move.",
+   "scene": 0
+  },
+  {
+   "start": 13.62,
+   "end": 18.14,
+   "text": "The Three Little Pigs, Goldilocks, the Gingerbread Man… pick one you know well.",
+   "scene": 1
+  },
+  {
+   "start": 18.14,
+   "end": 20.4,
+   "text": "Draw the beginning, middle and end in three boxes.",
+   "scene": 2
+  },
+  {
+   "start": 20.4,
+   "end": 28.3,
+   "text": "Use at least two pages, like the forest and the house.",
+   "scene": 3
+  },
+  {
+   "start": 28.3,
+   "end": 31.09,
+   "text": "Give your characters their famous lines!",
+   "scene": 4
+  },
+  {
+   "start": 31.09,
+   "end": 37.53,
+   "text": "The gingerbread man says “Run, run!”, runs right 4, hops, and says “Can’t catch me!”.",
+   "scene": 5
+  },
+  {
+   "start": 37.53,
+   "end": 39.6,
+   "text": "As fast as you can — you can’t catch him!",
+   "scene": 5
+  },
+  {
+   "start": 39.6,
+   "end": 44.53,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 44.53,
+   "end": 47.78,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

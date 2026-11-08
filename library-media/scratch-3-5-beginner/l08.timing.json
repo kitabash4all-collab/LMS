@@ -1,0 +1,77 @@
+{
+ "duration": 70.38,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.52,
+   "text": "Today you will learn the secret map of the stage, and make things fall from the sky.",
+   "scene": 0
+  },
+  {
+   "start": 8.52,
+   "end": 11.99,
+   "text": "Every place on the stage has an x and a y.",
+   "scene": 1
+  },
+  {
+   "start": 11.99,
+   "end": 20.4,
+   "text": "x goes from minus 240 on the left to 240 on the right. y goes from minus 180 at the bottom to 180 at the top.",
+   "scene": 1
+  },
+  {
+   "start": 20.4,
+   "end": 24.14,
+   "text": "The very middle is x 0, y 0.",
+   "scene": 1
+  },
+  {
+   "start": 24.14,
+   "end": 27.43,
+   "text": "Go to x and y jumps straight to a spot.",
+   "scene": 2
+  },
+  {
+   "start": 27.43,
+   "end": 34.12,
+   "text": "Change y by minus 5 moves down a little. Do it in a loop, and the sprite falls!",
+   "scene": 2
+  },
+  {
+   "start": 34.12,
+   "end": 37.65,
+   "text": "Each square here is 100 steps.",
+   "scene": 3
+  },
+  {
+   "start": 37.65,
+   "end": 43.77,
+   "text": "Go to x 100, y minus 200: right one square and down two. Pip lands on the star.",
+   "scene": 3
+  },
+  {
+   "start": 43.77,
+   "end": 50.74,
+   "text": "Pick random chooses a number for you, like rolling a dice.",
+   "scene": 4
+  },
+  {
+   "start": 50.74,
+   "end": 57.54,
+   "text": "Here the apple starts at a random place along the top of the stage — a different place every time.",
+   "scene": 4
+  },
+  {
+   "start": 57.54,
+   "end": 66.81,
+   "text": "Put it all together: the apple falls, and if its y gets below minus 170, it jumps back to a random spot at the top.",
+   "scene": 5
+  },
+  {
+   "start": 66.81,
+   "end": 70.38,
+   "text": "Now make it rain apples in the Code Lab!",
+   "scene": 6
+  }
+ ]
+}

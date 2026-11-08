@@ -1,0 +1,71 @@
+{
+ "duration": 47.44,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.15,
+   "text": "It’s project time! Make a character walk from home to the park in ScratchJr: choose a background, start with a green flag, use arrow blocks with numbers, and share it with a friend.",
+   "scene": 0
+  },
+  {
+   "start": 13.15,
+   "end": 16.09,
+   "text": "Your character goes from home to the park.",
+   "scene": 1
+  },
+  {
+   "start": 16.09,
+   "end": 18.62,
+   "text": "Plan the path with arrows first.",
+   "scene": 1
+  },
+  {
+   "start": 18.62,
+   "end": 23.24,
+   "text": "In ScratchJr, tap the picture button to choose a park background.",
+   "scene": 2
+  },
+  {
+   "start": 23.24,
+   "end": 27.27,
+   "text": "Use arrow blocks with numbers to walk your character to the slide.",
+   "scene": 3
+  },
+  {
+   "start": 27.27,
+   "end": 30.14,
+   "text": "Press the green flag and show your trip.",
+   "scene": 4
+  },
+  {
+   "start": 30.14,
+   "end": 32.28,
+   "text": "What did your friend like?",
+   "scene": 4
+  },
+  {
+   "start": 32.28,
+   "end": 38.82,
+   "text": "Walk the child from home to the slide (star). Follow the path.",
+   "scene": 5
+  },
+  {
+   "start": 38.82,
+   "end": 40.24,
+   "text": "You made it to the park! Wheee!",
+   "scene": 5
+  },
+  {
+   "start": 40.24,
+   "end": 43.88,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 43.88,
+   "end": 47.16,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

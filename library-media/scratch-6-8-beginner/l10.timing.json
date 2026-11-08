@@ -1,0 +1,77 @@
+{
+ "duration": 53.15,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.53,
+   "text": "Time to make a real game. Every arcade game is built on the same engine: the game loop.",
+   "scene": 0
+  },
+  {
+   "start": 6.53,
+   "end": 11.77,
+   "text": "Each frame the game loop updates positions, checks collisions and reacts.",
+   "scene": 1
+  },
+  {
+   "start": 11.77,
+   "end": 15.62,
+   "text": "In Scratch, each sprite runs its own forever loop.",
+   "scene": 1
+  },
+  {
+   "start": 15.62,
+   "end": 20.94,
+   "text": "When a falling rock leaves the bottom, move it back to the top at a random x.",
+   "scene": 2
+  },
+  {
+   "start": 20.94,
+   "end": 23.63,
+   "text": "One sprite becomes endless rocks.",
+   "scene": 2
+  },
+  {
+   "start": 23.63,
+   "end": 26.48,
+   "text": "Touching checks if two sprites overlap.",
+   "scene": 3
+  },
+  {
+   "start": 26.48,
+   "end": 32.71,
+   "text": "When the rock hits the player, lose a life and recycle the rock — once per hit.",
+   "scene": 3
+  },
+  {
+   "start": 32.71,
+   "end": 35.66,
+   "text": "Lives and score are the game’s state.",
+   "scene": 4
+  },
+  {
+   "start": 35.66,
+   "end": 39.67,
+   "text": "Reset them on the green flag so each game starts fair.",
+   "scene": 4
+  },
+  {
+   "start": 39.67,
+   "end": 45.73,
+   "text": "Text-based games use exactly the same loop: move, recycle, check collisions.",
+   "scene": 5
+  },
+  {
+   "start": 45.73,
+   "end": 49.18,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 49.18,
+   "end": 52.82,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

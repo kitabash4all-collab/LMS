@@ -1,0 +1,113 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.840
+Today you will build forms with boxes to type in, menus to choose from and buttons to press.
+
+2
+00:00:06.840 --> 00:00:12.320
+A form is a group of boxes, menus and buttons that ask the visitor questions.
+
+3
+00:00:12.320 --> 00:00:15.210
+The form tag wraps all of them together.
+
+4
+00:00:15.210 --> 00:00:19.320
+Sign-up pages, quizzes and search bars are all forms.
+
+5
+00:00:19.320 --> 00:00:23.890
+The input tag makes a box, and its type decides what kind.
+
+6
+00:00:23.890 --> 00:00:29.470
+Type text is for words, number is for numbers, and checkbox is a tick box.
+
+7
+00:00:29.470 --> 00:00:35.310
+A textarea is a big box for longer answers, and select makes a drop-down menu.
+
+8
+00:00:35.310 --> 00:00:38.370
+A label tells people what to type in a box.
+
+9
+00:00:38.370 --> 00:00:41.240
+Its for part must match the input’s id.
+
+10
+00:00:41.240 --> 00:00:47.060
+Then screen readers read the label aloud, and clicking the label jumps into the box.
+
+11
+00:00:47.060 --> 00:00:50.770
+The button tag makes something on the page you can press.
+
+12
+00:00:50.770 --> 00:00:55.160
+Write clear words on it, like Send feedback, not just Click.
+
+13
+00:00:55.160 --> 00:00:59.560
+Next lesson, JavaScript will make our buttons actually do things.
+
+14
+00:00:59.560 --> 00:01:03.040
+Our practice forms in this course send nothing anywhere.
+
+15
+00:01:03.040 --> 00:01:10.050
+Even so, never build a form that asks for phone numbers, addresses, passwords or ID numbers.
+
+16
+00:01:10.050 --> 00:01:14.910
+Real websites need a parent’s and the school’s permission to collect personal details.
+
+17
+00:01:14.910 --> 00:01:19.700
+The label’s for matches the input’s id, so they are joined together.
+
+18
+00:01:19.700 --> 00:01:24.360
+Click the words and the cursor jumps into the box, which helps everyone.
+
+19
+00:01:24.360 --> 00:01:28.650
+Changing the type changes the kind of box the browser draws.
+
+20
+00:01:28.650 --> 00:01:34.380
+A textarea is for long answers, and select makes a drop-down menu of options.
+
+21
+00:01:34.380 --> 00:01:38.660
+The button tag makes something you can press.
+
+22
+00:01:38.660 --> 00:01:42.070
+For now it does nothing, and next lesson JavaScript will bring it to life.
+
+23
+00:01:42.070 --> 00:01:47.500
+Display block puts each label on its own line, so the form is easy to follow.
+
+24
+00:01:47.500 --> 00:01:52.170
+Padding makes boxes bigger and easier to tap on a phone.
+
+25
+00:01:52.170 --> 00:01:55.590
+Look closely at the spelling of for and id.
+
+26
+00:01:55.590 --> 00:02:01.770
+One says colour and the other says color, so they do not match and are not joined.
+
+27
+00:02:01.770 --> 00:02:05.220
+Great work! Let’s remember what we learned.
+
+28
+00:02:05.220 --> 00:02:09.510
+Now build along, then try the challenges. You’ve got this!

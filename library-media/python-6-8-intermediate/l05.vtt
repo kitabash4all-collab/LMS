@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.440
+Today you meet the dictionary, a way to store pairs of information, like names and numbers in a phone book.
+
+2
+00:00:07.440 --> 00:00:12.480
+A dictionary stores pairs, just like a phone book stores a name and a number.
+
+3
+00:00:12.480 --> 00:00:21.000
+The first part is the key and the second is the value. capitals = {"Kerala": "Thiruvananthapuram"} holds one pair.
+
+4
+00:00:21.000 --> 00:00:24.740
+capitals["Kerala"] gives the value stored for that key.
+
+5
+00:00:24.740 --> 00:00:28.720
+Keys must match exactly, so "kerala" with a small k is a different key.
+
+6
+00:00:28.720 --> 00:00:33.720
+Asking for a key that is not there gives a KeyError.
+
+7
+00:00:33.720 --> 00:00:37.410
+menu["idli"] = 30 adds a new pair if idli is not there yet.
+
+8
+00:00:37.410 --> 00:00:40.760
+If it is already there, the old value is replaced.
+
+9
+00:00:40.760 --> 00:00:45.970
+Use "idli" in menu to check before you look something up.
+
+10
+00:00:45.970 --> 00:00:49.180
+for item, price in menu.items(): visits every pair.
+
+11
+00:00:49.180 --> 00:00:54.730
+Each time round, item holds the key and price holds the value. len(menu) tells you how many pairs there are.
+
+12
+00:00:54.730 --> 00:01:02.200
+Curly brackets make a dictionary, and a colon joins each key to its value.
+
+13
+00:01:02.200 --> 00:01:07.150
+We look up Gujarat by its key, and Python finds the capital straight away.
+
+14
+00:01:07.150 --> 00:01:11.630
+Idli was not on the menu, so this line adds a brand new pair.
+
+15
+00:01:11.630 --> 00:01:16.150
+Chai was already there, so its price is replaced with twelve rupees.
+
+16
+00:01:16.150 --> 00:01:20.210
+The items method hands us one key and one value at a time.
+
+17
+00:01:20.210 --> 00:01:23.990
+This is how a canteen app could print its whole price list.
+
+18
+00:01:23.990 --> 00:01:28.750
+The class voted for its favourite fruit, and we start with an empty dictionary.
+
+19
+00:01:28.750 --> 00:01:34.260
+A new fruit gets a count of one, and a fruit we have seen before goes up by one.
+
+20
+00:01:34.260 --> 00:01:38.870
+Pizza is not a key in this dictionary, so Python stops with a KeyError.
+
+21
+00:01:38.870 --> 00:01:44.180
+Check first with if pizza in menu, or use the get method with a default value.
+
+22
+00:01:44.180 --> 00:01:47.530
+Great work! Let’s remember what we learned.
+
+23
+00:01:47.530 --> 00:01:52.120
+Now build along, then try the challenges. You’ve got this!

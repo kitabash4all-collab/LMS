@@ -1,0 +1,59 @@
+{
+ "duration": 53.93,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14.29,
+   "text": "It’s project time! Write rules that make art: use nested loops to build patterns from shapes, controlled randomness so every run is different, and explain your rules in an artist statement.",
+   "scene": 0
+  },
+  {
+   "start": 14.29,
+   "end": 19.23,
+   "text": "Generative artists write rules, and the computer makes the art.",
+   "scene": 1
+  },
+  {
+   "start": 19.23,
+   "end": 22.73,
+   "text": "Randomness means every run is different.",
+   "scene": 1
+  },
+  {
+   "start": 22.73,
+   "end": 30.61,
+   "text": "A loop inside a loop: the inner loop draws a shape, the outer loop repeats it with a turn to make a rosette.",
+   "scene": 2
+  },
+  {
+   "start": 30.61,
+   "end": 38.78,
+   "text": "Use pick random for colour, position or size — but keep some rules fixed so it still looks designed.",
+   "scene": 3
+  },
+  {
+   "start": 38.78,
+   "end": 42.48,
+   "text": "Real generative artists explain their rules.",
+   "scene": 4
+  },
+  {
+   "start": 42.48,
+   "end": 45.83,
+   "text": "Write which rules you chose and why.",
+   "scene": 4
+  },
+  {
+   "start": 45.83,
+   "end": 49.23,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 49.23,
+   "end": 53.64,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

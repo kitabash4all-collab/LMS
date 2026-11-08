@@ -1,0 +1,65 @@
+{
+ "duration": 54.89,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14.11,
+   "text": "It’s project time! Build an app that asks an anonymous number question, collects the answers in a list, and reports the number of responses, average, maximum and minimum, plus one extra insight.",
+   "scene": 0
+  },
+  {
+   "start": 14.11,
+   "end": 19.73,
+   "text": "Choose a number question to ask classmates: hours of sleep, minutes of reading, number of pets.",
+   "scene": 1
+  },
+  {
+   "start": 19.73,
+   "end": 21.31,
+   "text": "Your app collects the answers.",
+   "scene": 1
+  },
+  {
+   "start": 21.31,
+   "end": 31.24,
+   "text": "Ask how many people will answer, then repeat that many times: ask the question and add the answer to the list.",
+   "scene": 2
+  },
+  {
+   "start": 31.24,
+   "end": 34.67,
+   "text": "Report the number of responses, the average, the highest and the lowest.",
+   "scene": 3
+  },
+  {
+   "start": 34.67,
+   "end": 38.89,
+   "text": "Add one more insight of your own.",
+   "scene": 3
+  },
+  {
+   "start": 38.89,
+   "end": 44.11,
+   "text": "Collect only what you need, keep it anonymous, and tell people what it’s for.",
+   "scene": 4
+  },
+  {
+   "start": 44.11,
+   "end": 47.43,
+   "text": "Never collect names with sensitive answers.",
+   "scene": 4
+  },
+  {
+   "start": 47.43,
+   "end": 51.04,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.04,
+   "end": 54.58,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

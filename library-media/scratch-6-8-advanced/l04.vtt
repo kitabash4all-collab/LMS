@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.910
+Sorting is everywhere — search results, leaderboards, your music by artist. It starts with one small move: the swap.
+
+2
+00:00:08.910 --> 00:00:12.690
+To swap two cups of juice you need a third, empty cup.
+
+3
+00:00:12.690 --> 00:00:18.330
+Code is the same: copy one value into temp first, or it gets overwritten.
+
+4
+00:00:18.330 --> 00:00:21.400
+Compare each pair of neighbours from left to right.
+
+5
+00:00:21.400 --> 00:00:23.840
+If they’re in the wrong order, swap them.
+
+6
+00:00:23.840 --> 00:00:28.350
+After one pass, the biggest value has “bubbled” to the end.
+
+7
+00:00:28.350 --> 00:00:32.480
+Put the three swap blocks in a My Block with an input i.
+
+8
+00:00:32.480 --> 00:00:35.810
+It swaps item i and item i + 1.
+
+9
+00:00:35.810 --> 00:00:37.980
+Now the pass is easy to read.
+
+10
+00:00:37.980 --> 00:00:44.700
+A list of n items has n − 1 neighbouring pairs, so one pass makes n − 1 comparisons.
+
+11
+00:00:44.700 --> 00:00:52.180
+Python can swap in one line — but underneath, it still needs somewhere to keep a value while it moves the other.
+
+12
+00:00:52.180 --> 00:00:55.600
+Great work! Let’s remember what we learned.
+
+13
+00:00:55.600 --> 00:00:59.590
+Now build along, then try the challenges. You’ve got this!

@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.070
+Programs need memory. Variables are how they remember scores, names, totals — anything that changes.
+
+2
+00:00:08.070 --> 00:00:11.120
+A variable is a named storage location.
+
+3
+00:00:11.120 --> 00:00:13.140
+Set gives it a value; change adds to it.
+
+4
+00:00:13.140 --> 00:00:17.970
+Its value can change while the program runs.
+
+5
+00:00:17.970 --> 00:00:20.410
+Ask and wait lets the user type.
+
+6
+00:00:20.410 --> 00:00:23.040
+Whatever they type is stored in answer.
+
+7
+00:00:23.040 --> 00:00:26.310
+Copy it into your own variable if you need it later.
+
+8
+00:00:26.310 --> 00:00:29.650
+Arithmetic operators (+ − × ÷ mod) calculate.
+
+9
+00:00:29.650 --> 00:00:34.110
+Join sticks text together to build messages.
+
+10
+00:00:34.110 --> 00:00:41.370
+Name variables for what they hold: score, lives, total — not x1 or thing.
+
+11
+00:00:41.370 --> 00:00:43.950
+Clear names make code readable.
+
+12
+00:00:43.950 --> 00:00:50.300
+In Python, input is like ask and wait, and the variables a and b store the numbers.
+
+13
+00:00:50.300 --> 00:00:53.130
+Great work! Let’s remember what we learned.
+
+14
+00:00:53.130 --> 00:00:57.280
+Now build along, then try the challenges. You’ve got this!

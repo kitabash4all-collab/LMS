@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.120
+Today you will store many things in one variable and use it to build Rock, Paper, Scissors.
+
+2
+00:00:06.120 --> 00:00:13.490
+A list keeps many values in order inside square brackets, like team = ["Aarav", "Meera", "Kabir"].
+
+3
+00:00:13.490 --> 00:00:16.740
+Commas separate the items.
+
+4
+00:00:16.740 --> 00:00:18.090
+One variable, many values!
+
+5
+00:00:18.090 --> 00:00:21.290
+Each item has a position called its index.
+
+6
+00:00:21.290 --> 00:00:28.190
+The first item is team[0], the second is team[1]. team[-1] gives the last item.
+
+7
+00:00:28.190 --> 00:00:36.350
+team.append("Zoya") adds Zoya to the end of the list. len(team) tells you how many items it has now.
+
+8
+00:00:36.350 --> 00:00:38.030
+for player in team: visits every item, one at a time.
+
+9
+00:00:38.030 --> 00:00:46.190
+"Zoya" in team gives True or False, so you can check if something is in the list.
+
+10
+00:00:46.190 --> 00:00:50.180
+Square brackets make a list, and commas separate the items.
+
+11
+00:00:50.180 --> 00:00:55.820
+Index zero is the first player, Aarav, and index two is the third player, Kabir.
+
+12
+00:00:55.820 --> 00:00:58.790
+Append adds Zoya to the end of the list.
+
+13
+00:00:58.790 --> 00:01:03.080
+Then len counts the items, so now the team has four players.
+
+14
+00:01:03.080 --> 00:01:08.190
+The for loop visits each snack in the list, one after another.
+
+15
+00:01:08.190 --> 00:01:13.170
+We never need to know the index numbers. Python handles them for us.
+
+16
+00:01:13.170 --> 00:01:17.070
+The word in checks whether banana is one of the moves.
+
+17
+00:01:17.070 --> 00:01:21.550
+It is not, so the program politely says it is not a move.
+
+18
+00:01:21.550 --> 00:01:24.950
+Great work! Let’s remember what we learned.
+
+19
+00:01:24.950 --> 00:01:29.100
+Now build along, then try the challenges. You’ve got this!

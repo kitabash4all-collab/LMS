@@ -1,0 +1,71 @@
+{
+ "duration": 53.37,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.89,
+   "text": "Real games feel real because things fall like they do in the real world. Today you’ll code gravity!",
+   "scene": 0
+  },
+  {
+   "start": 6.89,
+   "end": 11.05,
+   "text": "Make a variable called vy (velocity in y).",
+   "scene": 1
+  },
+  {
+   "start": 11.05,
+   "end": 15.54,
+   "text": "It says how many steps the sprite moves up or down each frame.",
+   "scene": 1
+  },
+  {
+   "start": 15.54,
+   "end": 18.02,
+   "text": "Negative vy means falling.",
+   "scene": 1
+  },
+  {
+   "start": 18.02,
+   "end": 24.84,
+   "text": "Every frame, gravity changes vy by -1, then the sprite changes y by vy.",
+   "scene": 2
+  },
+  {
+   "start": 24.84,
+   "end": 29.3,
+   "text": "The fall gets faster and faster — just like a real apple.",
+   "scene": 2
+  },
+  {
+   "start": 29.3,
+   "end": 36.5,
+   "text": "If the sprite goes below the floor, put it back on the floor and set vy to 0 so it stops falling.",
+   "scene": 3
+  },
+  {
+   "start": 36.5,
+   "end": 40.83,
+   "text": "In another forever loop, check the arrow keys and change x.",
+   "scene": 4
+  },
+  {
+   "start": 40.83,
+   "end": 44.58,
+   "text": "Now the hero can walk and fall at the same time.",
+   "scene": 4
+  },
+  {
+   "start": 44.58,
+   "end": 48.48,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 48.48,
+   "end": 53.2,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

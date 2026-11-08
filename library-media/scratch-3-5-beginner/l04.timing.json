@@ -1,0 +1,89 @@
+{
+ "duration": 53.47,
+ "lines": [
+  {
+   "start": 0,
+   "end": 2.39,
+   "text": "Welcome to Module 2: loops!",
+   "scene": 0
+  },
+  {
+   "start": 2.39,
+   "end": 6.38,
+   "text": "Today you will learn a shortcut that programmers use all the time.",
+   "scene": 0
+  },
+  {
+   "start": 6.38,
+   "end": 8.26,
+   "text": "Lots of things repeat.",
+   "scene": 1
+  },
+  {
+   "start": 8.26,
+   "end": 14.02,
+   "text": "Climbing stairs is step, step, step. A square is a side and a turn, four times.",
+   "scene": 1
+  },
+  {
+   "start": 14.02,
+   "end": 19.25,
+   "text": "When you see a pattern, you can use a loop.",
+   "scene": 1
+  },
+  {
+   "start": 19.25,
+   "end": 22.11,
+   "text": "Both of these scripts draw a square.",
+   "scene": 2
+  },
+  {
+   "start": 22.11,
+   "end": 25.51,
+   "text": "The one on the right uses a repeat loop. It is shorter, and easier to read and change.",
+   "scene": 2
+  },
+  {
+   "start": 25.51,
+   "end": 28.08,
+   "text": "Here Pip climbs the stairs with a loop.",
+   "scene": 3
+  },
+  {
+   "start": 28.08,
+   "end": 33.16,
+   "text": "The four blocks inside the loop run, then run again, and again: three times.",
+   "scene": 3
+  },
+  {
+   "start": 33.16,
+   "end": 36.31,
+   "text": "Pip reaches the top with only five blocks!",
+   "scene": 3
+  },
+  {
+   "start": 36.31,
+   "end": 39.06,
+   "text": "With the pen, loops draw shapes.",
+   "scene": 4
+  },
+  {
+   "start": 39.06,
+   "end": 43.7,
+   "text": "For a triangle, repeat three times and turn 120 degrees.",
+   "scene": 4
+  },
+  {
+   "start": 43.7,
+   "end": 48.82,
+   "text": "The turns always add up to 360 degrees — one full turn.",
+   "scene": 4
+  },
+  {
+   "start": 48.82,
+   "end": 53.11,
+   "text": "Fantastic! Now try loops in the Code Lab and the puzzles.",
+   "scene": 5
+  }
+ ]
+}

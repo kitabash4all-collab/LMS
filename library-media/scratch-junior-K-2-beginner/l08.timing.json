@@ -1,0 +1,77 @@
+{
+ "duration": 43.47,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.35,
+   "text": "In this lesson, you will learn to plan a path to visit every gem and use a pick-up block at each one.",
+   "scene": 0
+  },
+  {
+   "start": 7.35,
+   "end": 12.76,
+   "text": "Walk onto a gem, then use the pick-up block to collect it.",
+   "scene": 1
+  },
+  {
+   "start": 12.76,
+   "end": 15.01,
+   "text": "Look at the map first.",
+   "scene": 2
+  },
+  {
+   "start": 15.01,
+   "end": 17.28,
+   "text": "Which gem is closest?",
+   "scene": 2
+  },
+  {
+   "start": 17.28,
+   "end": 20.19,
+   "text": "Plan a path that visits every gem.",
+   "scene": 2
+  },
+  {
+   "start": 20.19,
+   "end": 21.62,
+   "text": "Count the gems.",
+   "scene": 3
+  },
+  {
+   "start": 21.62,
+   "end": 23.22,
+   "text": "Did you collect them all?",
+   "scene": 3
+  },
+  {
+   "start": 23.22,
+   "end": 30.3,
+   "text": "If the gems are in a row, a repeat can collect them: move, pick up — again and again!",
+   "scene": 4
+  },
+  {
+   "start": 30.3,
+   "end": 32.35,
+   "text": "Collect both gems.",
+   "scene": 5
+  },
+  {
+   "start": 32.35,
+   "end": 34.36,
+   "text": "Two gems in the bag!",
+   "scene": 5
+  },
+  {
+   "start": 34.36,
+   "end": 38.23,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 38.23,
+   "end": 43.09,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

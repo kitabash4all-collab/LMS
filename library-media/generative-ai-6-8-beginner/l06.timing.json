@@ -1,0 +1,143 @@
+{
+ "duration": 113.78,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.13,
+   "text": "So far you have used AI. Today you will train one yourself, with no code at all.",
+   "scene": 0
+  },
+  {
+   "start": 6.13,
+   "end": 11.06,
+   "text": "Machine learning means a computer learns from examples instead of rules.",
+   "scene": 1
+  },
+  {
+   "start": 11.06,
+   "end": 16.48,
+   "text": "Show it many photos of paper and plastic, and it learns to tell them apart.",
+   "scene": 1
+  },
+  {
+   "start": 16.48,
+   "end": 22.78,
+   "text": "Each group you want it to learn is called a class, like “Paper”, “Plastic” and “Nothing”.",
+   "scene": 2
+  },
+  {
+   "start": 22.78,
+   "end": 25.3,
+   "text": "The photos you give it are the data.",
+   "scene": 2
+  },
+  {
+   "start": 25.3,
+   "end": 28.9,
+   "text": "More varied data usually makes a smarter model.",
+   "scene": 2
+  },
+  {
+   "start": 28.9,
+   "end": 32.33,
+   "text": "Training is when the computer studies your examples.",
+   "scene": 3
+  },
+  {
+   "start": 32.33,
+   "end": 36.19,
+   "text": "Testing is when you show it new things it has never seen.",
+   "scene": 3
+  },
+  {
+   "start": 36.19,
+   "end": 39.64,
+   "text": "A model is only as good as your test says.",
+   "scene": 3
+  },
+  {
+   "start": 39.64,
+   "end": 44.33,
+   "text": "Every model makes mistakes, even one that looks perfect at first.",
+   "scene": 4
+  },
+  {
+   "start": 44.33,
+   "end": 49.11,
+   "text": "If you only trained with blue bottles, a green bottle may confuse it.",
+   "scene": 4
+  },
+  {
+   "start": 49.11,
+   "end": 52.75,
+   "text": "Write down what fails and why in your data diary.",
+   "scene": 4
+  },
+  {
+   "start": 52.75,
+   "end": 63.14,
+   "text": "Open Teachable Machine and start an image project — you do not need an account.",
+   "scene": 5
+  },
+  {
+   "start": 63.14,
+   "end": 68.38,
+   "text": "Make one class for each thing you want it to recognise, and name them clearly.",
+   "scene": 5
+  },
+  {
+   "start": 68.38,
+   "end": 73.73,
+   "text": "Add lots of example photos to each class, then click Train Model.",
+   "scene": 5
+  },
+  {
+   "start": 73.73,
+   "end": 75.29,
+   "text": "Now hold up new objects in the preview and watch the confidence bars move.",
+   "scene": 5
+  },
+  {
+   "start": 75.29,
+   "end": 80.87,
+   "text": "A real tester tries to break the model with new objects, new backgrounds and dim light.",
+   "scene": 6
+  },
+  {
+   "start": 80.87,
+   "end": 86.56,
+   "text": "Write every test in your data diary, then look for a pattern in the mistakes.",
+   "scene": 6
+  },
+  {
+   "start": 86.56,
+   "end": 92.87,
+   "text": "The learner describes the problem to the AI helper, without sharing any personal details.",
+   "scene": 7
+  },
+  {
+   "start": 92.87,
+   "end": 99.24,
+   "text": "The helper suggests the model learned the light and background, not just the object.",
+   "scene": 7
+  },
+  {
+   "start": 99.24,
+   "end": 104.87,
+   "text": "That is a great idea to test — so we add more varied photos and train again.",
+   "scene": 7
+  },
+  {
+   "start": 104.87,
+   "end": 108.85,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 8
+  },
+  {
+   "start": 108.85,
+   "end": 113.55,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 8
+  }
+ ]
+}

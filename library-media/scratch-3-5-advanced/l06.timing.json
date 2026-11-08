@@ -1,0 +1,53 @@
+{
+ "duration": 50.88,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.45,
+   "text": "It’s project time! Build a mini platformer: the hero walks and jumps with gravity, collects coins for points, avoids a hazard and reaches a goal.",
+   "scene": 0
+  },
+  {
+   "start": 10.45,
+   "end": 20.06,
+   "text": "Build a level: the hero walks and jumps with gravity, collects coins for points, avoids a hazard, and reaches a flag to win.",
+   "scene": 1
+  },
+  {
+   "start": 20.06,
+   "end": 24.09,
+   "text": "A coin checks if it is touching the hero.",
+   "scene": 2
+  },
+  {
+   "start": 24.09,
+   "end": 29.12,
+   "text": "When it is: change score, play a sound, and hide (or move somewhere new).",
+   "scene": 2
+  },
+  {
+   "start": 29.12,
+   "end": 34.41,
+   "text": "If the hero touches a hazard, send it back to the start (or lose a life).",
+   "scene": 3
+  },
+  {
+   "start": 34.41,
+   "end": 43.01,
+   "text": "If x position > 230, set x to 230 — walls at the edges stop the hero walking off.",
+   "scene": 4
+  },
+  {
+   "start": 43.01,
+   "end": 46.6,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 46.6,
+   "end": 50.58,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

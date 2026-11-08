@@ -1,0 +1,71 @@
+{
+ "duration": 56.41,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.37,
+   "text": "Today your sprites will send each other messages, and your games will get proper endings.",
+   "scene": 0
+  },
+  {
+   "start": 5.37,
+   "end": 8.95,
+   "text": "A broadcast is a message sent to every sprite.",
+   "scene": 1
+  },
+  {
+   "start": 8.95,
+   "end": 13.84,
+   "text": "Any sprite with “when I receive you win” starts its script.",
+   "scene": 1
+  },
+  {
+   "start": 13.84,
+   "end": 20.61,
+   "text": "One message can make lots of things happen at once.",
+   "scene": 1
+  },
+  {
+   "start": 20.61,
+   "end": 22.76,
+   "text": "The star waits until the score equals 5, then broadcasts you win.",
+   "scene": 2
+  },
+  {
+   "start": 22.76,
+   "end": 27.42,
+   "text": "The banner receives the message, shows itself and says You win!",
+   "scene": 2
+  },
+  {
+   "start": 27.42,
+   "end": 33.38,
+   "text": "The timer counts seconds. Reset it at the start.",
+   "scene": 3
+  },
+  {
+   "start": 33.38,
+   "end": 37.37,
+   "text": "When it passes 30 seconds, broadcast game over, and stop all the scripts.",
+   "scene": 3
+  },
+  {
+   "start": 37.37,
+   "end": 42.78,
+   "text": "Every programmer makes bugs. Good programmers find them.",
+   "scene": 4
+  },
+  {
+   "start": 42.78,
+   "end": 51.96,
+   "text": "Read your code out loud, check the hat blocks, check the numbers and message names, and test one small part at a time.",
+   "scene": 4
+  },
+  {
+   "start": 51.96,
+   "end": 56.09,
+   "text": "Now give your games endings, and become a bug hunter!",
+   "scene": 5
+  }
+ ]
+}

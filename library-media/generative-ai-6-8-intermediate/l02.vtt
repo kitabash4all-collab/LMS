@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.270
+Every programmer writes bugs. Today you learn to hunt them down with an AI helper, and understand them.
+
+2
+00:00:07.270 --> 00:00:13.220
+Tell the AI what you expected, what actually happened, and what you already tried.
+
+3
+00:00:13.220 --> 00:00:16.240
+A clear bug report gets a clear answer.
+
+4
+00:00:16.240 --> 00:00:19.170
+Saying it does not work only gets a guess.
+
+5
+00:00:19.170 --> 00:00:24.410
+Copy the exact error message, including the line number and the error type.
+
+6
+00:00:24.410 --> 00:00:27.950
+Error messages are clues, not insults.
+
+7
+00:00:27.950 --> 00:00:32.360
+Ask the AI what the message means before you ask for a fix.
+
+8
+00:00:32.360 --> 00:00:35.360
+Never trust a fix until you run it yourself.
+
+9
+00:00:35.360 --> 00:00:40.320
+Test with normal values and a tricky one, like zero or an empty list.
+
+10
+00:00:40.320 --> 00:00:44.390
+If it still fails, tell the AI exactly what happened.
+
+11
+00:00:44.390 --> 00:00:49.380
+When it works, ask why the bug happened and write the reason in one sentence.
+
+12
+00:00:49.380 --> 00:00:53.280
+Ask for a hint first, not the full fixed program.
+
+13
+00:00:53.280 --> 00:00:56.230
+Next time you will spot the same bug on your own.
+
+14
+00:00:56.230 --> 00:01:01.370
+Meera wants her quiz to print the score, but Python shows an error instead.
+
+15
+00:01:01.370 --> 00:01:06.380
+The error message says line three, and the type of error is a TypeError.
+
+16
+00:01:06.380 --> 00:01:09.330
+That is two useful clues to give the AI.
+
+17
+00:01:09.330 --> 00:01:14.550
+The hint is good: Python cannot join text and a number with a plus sign.
+
+18
+00:01:14.550 --> 00:01:18.500
+But the suggested fix turns the number into a number again.
+
+19
+00:01:18.500 --> 00:01:23.770
+Meera runs it, and the very same error appears, so the fix fails the test.
+
+20
+00:01:23.770 --> 00:01:28.230
+Meera tells the AI exactly what happened when she tested the fix.
+
+21
+00:01:28.230 --> 00:01:32.540
+Now the AI explains the real cause and gives a fix that works.
+
+22
+00:01:32.540 --> 00:01:38.230
+She writes one sentence in her bug log: plus cannot mix text and numbers.
+
+23
+00:01:38.230 --> 00:01:42.440
+This is the debug loop that real programmers use every day.
+
+24
+00:01:42.440 --> 00:01:46.510
+Change one thing at a time, so you know which change fixed it.
+
+25
+00:01:46.510 --> 00:01:49.810
+Great work! Let’s remember what we learned.
+
+26
+00:01:49.810 --> 00:01:53.950
+Now build along, then try the challenges. You’ve got this!

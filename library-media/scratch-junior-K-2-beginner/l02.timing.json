@@ -1,0 +1,83 @@
+{
+ "duration": 45.93,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.66,
+   "text": "In this lesson, you will learn to change the number on a block to move more than one square, and choose the fewest blocks.",
+   "scene": 0
+  },
+  {
+   "start": 7.66,
+   "end": 10.36,
+   "text": "Each arrow block has a number.",
+   "scene": 1
+  },
+  {
+   "start": 10.36,
+   "end": 13.71,
+   "text": "It tells the cat how many squares to move.",
+   "scene": 1
+  },
+  {
+   "start": 13.71,
+   "end": 16.32,
+   "text": "Tap the number and pick a new one.",
+   "scene": 2
+  },
+  {
+   "start": 16.32,
+   "end": 19.72,
+   "text": "Right 3 moves three squares right.",
+   "scene": 2
+  },
+  {
+   "start": 19.72,
+   "end": 23.62,
+   "text": "One block with 3 is shorter than three blocks with 1.",
+   "scene": 3
+  },
+  {
+   "start": 23.62,
+   "end": 26.17,
+   "text": "Short code is neat code!",
+   "scene": 3
+  },
+  {
+   "start": 26.17,
+   "end": 28.04,
+   "text": "Count the squares to the goal.",
+   "scene": 4
+  },
+  {
+   "start": 28.04,
+   "end": 30.48,
+   "text": "Then put that number on the block.",
+   "scene": 4
+  },
+  {
+   "start": 30.48,
+   "end": 33.69,
+   "text": "Get the dog to the star with just ONE block.",
+   "scene": 5
+  },
+  {
+   "start": 33.69,
+   "end": 38.61,
+   "text": "Right 4 — one block did the job of four!",
+   "scene": 5
+  },
+  {
+   "start": 38.61,
+   "end": 40.88,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 40.88,
+   "end": 45.63,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

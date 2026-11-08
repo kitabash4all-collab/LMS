@@ -1,0 +1,149 @@
+{
+ "duration": 117.42,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.42,
+   "text": "AI can help you learn faster, or help you learn nothing at all. Today you choose the first one.",
+   "scene": 0
+  },
+  {
+   "start": 6.42,
+   "end": 11.47,
+   "text": "When you are stuck on a chapter, ask the AI to explain it like you are 10.",
+   "scene": 1
+  },
+  {
+   "start": 11.47,
+   "end": 16.3,
+   "text": "Ask for an everyday example from your own life to make it easy to picture.",
+   "scene": 1
+  },
+  {
+   "start": 16.3,
+   "end": 20.75,
+   "text": "Then explain it back in your own words to make sure you really get it.",
+   "scene": 1
+  },
+  {
+   "start": 20.75,
+   "end": 25.89,
+   "text": "Ask the AI to quiz you one question at a time and wait for your answer.",
+   "scene": 2
+  },
+  {
+   "start": 25.89,
+   "end": 29.77,
+   "text": "Testing yourself is one of the best ways to remember things.",
+   "scene": 2
+  },
+  {
+   "start": 29.77,
+   "end": 34.48,
+   "text": "Tell the AI not to give you the answer, but to ask you questions instead.",
+   "scene": 3
+  },
+  {
+   "start": 34.48,
+   "end": 40.55,
+   "text": "This turns the AI into a coach, so your own brain does the thinking and the learning.",
+   "scene": 3
+  },
+  {
+   "start": 40.55,
+   "end": 45.94,
+   "text": "AI sometimes invents facts, dates or names that sound completely real.",
+   "scene": 4
+  },
+  {
+   "start": 45.94,
+   "end": 51.08,
+   "text": "Check every important fact against your textbook or a trusted website.",
+   "scene": 4
+  },
+  {
+   "start": 51.08,
+   "end": 54.38,
+   "text": "Write what you checked in a fact-check table.",
+   "scene": 4
+  },
+  {
+   "start": 54.38,
+   "end": 57.14,
+   "text": "Never hand in AI work as your own.",
+   "scene": 5
+  },
+  {
+   "start": 57.14,
+   "end": 62.57,
+   "text": "Ask your teacher what AI use is allowed, and say when you used it.",
+   "scene": 5
+  },
+  {
+   "start": 62.57,
+   "end": 66.46,
+   "text": "Use AI to learn, not to skip the learning.",
+   "scene": 5
+  },
+  {
+   "start": 66.46,
+   "end": 71.71,
+   "text": "Here the learner asks for a simple explanation with a familiar example and a set length.",
+   "scene": 6
+  },
+  {
+   "start": 71.71,
+   "end": 76.5,
+   "text": "The kitchen comparison makes a hard idea easy to picture and remember.",
+   "scene": 6
+  },
+  {
+   "start": 76.5,
+   "end": 80.58,
+   "text": "The AI made a quiz, but its answer to question one is wrong.",
+   "scene": 7
+  },
+  {
+   "start": 80.58,
+   "end": 86.65,
+   "text": "Our science textbook says photosynthesis happens in the chloroplasts, not the mitochondria.",
+   "scene": 7
+  },
+  {
+   "start": 86.65,
+   "end": 91.31,
+   "text": "We write this in our fact-check table and tell the AI to correct it.",
+   "scene": 7
+  },
+  {
+   "start": 91.31,
+   "end": 96.25,
+   "text": "In Socratic mode, the AI asks questions instead of giving the answer.",
+   "scene": 8
+  },
+  {
+   "start": 96.25,
+   "end": 101.42,
+   "text": "You do the thinking, so you can solve the next problem on your own in the exam.",
+   "scene": 8
+  },
+  {
+   "start": 101.42,
+   "end": 109.34,
+   "text": "Your fact-check table has four columns: what AI said, what the source says, right or wrong, and the fix.",
+   "scene": 9
+  },
+  {
+   "start": 109.34,
+   "end": 112.69,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 112.69,
+   "end": 117.15,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

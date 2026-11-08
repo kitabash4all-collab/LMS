@@ -1,0 +1,71 @@
+{
+ "duration": 56.11,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.78,
+   "text": "Professional programmers spend most of their time organising code. Procedures are their most important tool.",
+   "scene": 0
+  },
+  {
+   "start": 6.78,
+   "end": 10.49,
+   "text": "A procedure is a named, reusable piece of code.",
+   "scene": 1
+  },
+  {
+   "start": 10.49,
+   "end": 15.54,
+   "text": "In Scratch it’s a My Block: you define it once and call it whenever you need it.",
+   "scene": 1
+  },
+  {
+   "start": 15.54,
+   "end": 22,
+   "text": "The input name in the define hat is a parameter.",
+   "scene": 2
+  },
+  {
+   "start": 22,
+   "end": 25.48,
+   "text": "The value you give when you call it is an argument: polygon (5) passes 5 as sides.",
+   "scene": 2
+  },
+  {
+   "start": 25.48,
+   "end": 29.2,
+   "text": "A parameter only exists inside its define script.",
+   "scene": 3
+  },
+  {
+   "start": 29.2,
+   "end": 33.12,
+   "text": "That keeps procedures independent and safe to reuse.",
+   "scene": 3
+  },
+  {
+   "start": 33.12,
+   "end": 40.73,
+   "text": "Call a new procedure with a few arguments (3, 4, 10) before using it inside bigger programs.",
+   "scene": 4
+  },
+  {
+   "start": 40.73,
+   "end": 48.44,
+   "text": "In Python, def defines a procedure, called a function. sides is the parameter; 3 and 6 are arguments.",
+   "scene": 5
+  },
+  {
+   "start": 48.44,
+   "end": 51.91,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 51.91,
+   "end": 55.79,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

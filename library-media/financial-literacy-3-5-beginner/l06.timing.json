@@ -1,0 +1,185 @@
+{
+ "duration": 156.1,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.61,
+   "text": "Today you become a shopping detective. You will find the real best deal, spot ad tricks, and check every bill.",
+   "scene": 0
+  },
+  {
+   "start": 7.61,
+   "end": 12.89,
+   "text": "The same thing can cost different amounts in different shops or apps.",
+   "scene": 1
+  },
+  {
+   "start": 12.89,
+   "end": 17.9,
+   "text": "Before you buy, check at least two places.",
+   "scene": 1
+  },
+  {
+   "start": 17.9,
+   "end": 20.91,
+   "text": "A few minutes of checking can save real money.",
+   "scene": 1
+  },
+  {
+   "start": 20.91,
+   "end": 22.44,
+   "text": "Unit price means the price of one piece, or one kilo.",
+   "scene": 2
+  },
+  {
+   "start": 22.44,
+   "end": 29.48,
+   "text": "Two pens for ₹20 is ₹10 a pen, but three pens for ₹27 is ₹9 a pen.",
+   "scene": 2
+  },
+  {
+   "start": 29.48,
+   "end": 34.33,
+   "text": "The bigger pack is cheaper for each pen, but only if you need all three.",
+   "scene": 2
+  },
+  {
+   "start": 34.33,
+   "end": 40.12,
+   "text": "Buy one get one free sounds great, but it only saves money if you really need two.",
+   "scene": 3
+  },
+  {
+   "start": 40.12,
+   "end": 45.79,
+   "text": "Half price means you pay only half of the normal price.",
+   "scene": 3
+  },
+  {
+   "start": 45.79,
+   "end": 48.55,
+   "text": "Ask yourself: would I buy this if there was no offer?",
+   "scene": 3
+  },
+  {
+   "start": 48.55,
+   "end": 51.37,
+   "text": "Ads are made to make you want things.",
+   "scene": 4
+  },
+  {
+   "start": 51.37,
+   "end": 58.8,
+   "text": "They use famous faces, bright colours, catchy songs and words like ‘Hurry, last day!’.",
+   "scene": 4
+  },
+  {
+   "start": 58.8,
+   "end": 61.68,
+   "text": "Enjoy the ad, then ask what the product really does.",
+   "scene": 4
+  },
+  {
+   "start": 61.68,
+   "end": 66.36,
+   "text": "Always check the bill before you pay, and count your change after.",
+   "scene": 5
+  },
+  {
+   "start": 66.36,
+   "end": 71.37,
+   "text": "Make sure each item and price is right and nothing is added twice.",
+   "scene": 5
+  },
+  {
+   "start": 71.37,
+   "end": 74.78,
+   "text": "Shopkeepers are busy, and mistakes happen.",
+   "scene": 5
+  },
+  {
+   "start": 74.78,
+   "end": 81.81,
+   "text": "A small biscuit pack costs ten rupees, and a family box of four packs costs thirty six rupees.",
+   "scene": 6
+  },
+  {
+   "start": 81.81,
+   "end": 88.15,
+   "text": "Thirty six divided by four is nine, so each pack in the box costs nine rupees.",
+   "scene": 6
+  },
+  {
+   "start": 88.15,
+   "end": 94.51,
+   "text": "The family box is cheaper for each pack, but only if your family will eat all four.",
+   "scene": 6
+  },
+  {
+   "start": 94.51,
+   "end": 99.87,
+   "text": "A deal is only smart when the price is better and you really need the amount.",
+   "scene": 6
+  },
+  {
+   "start": 99.87,
+   "end": 105.32,
+   "text": "Aarav needs one drawing book for a school project, and it costs forty rupees.",
+   "scene": 7
+  },
+  {
+   "start": 105.32,
+   "end": 111.6,
+   "text": "Another shop shouts buy one get one free, but the pair costs seventy rupees.",
+   "scene": 7
+  },
+  {
+   "start": 111.6,
+   "end": 121.6,
+   "text": "Aarav needs only one book, so the offer would cost him thirty rupees more.",
+   "scene": 7
+  },
+  {
+   "start": 121.6,
+   "end": 124.55,
+   "text": "A free item is not a saving if you did not need it in the first place.",
+   "scene": 7
+  },
+  {
+   "start": 124.55,
+   "end": 129.14,
+   "text": "Zoya buys pencils for twenty rupees, an eraser for five rupees and a notebook for forty rupees.",
+   "scene": 8
+  },
+  {
+   "start": 129.14,
+   "end": 135.57,
+   "text": "She adds it up herself and gets sixty five rupees, but the bill says seventy five.",
+   "scene": 8
+  },
+  {
+   "start": 135.57,
+   "end": 140.31,
+   "text": "She politely shows the shopkeeper, who thanks her and fixes the bill.",
+   "scene": 8
+  },
+  {
+   "start": 140.31,
+   "end": 146.87,
+   "text": "Zoya pays with a hundred rupee note and counts her change, thirty five rupees.",
+   "scene": 8
+  },
+  {
+   "start": 146.87,
+   "end": 150.48,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 150.48,
+   "end": 156.1,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

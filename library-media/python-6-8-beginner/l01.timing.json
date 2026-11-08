@@ -1,0 +1,167 @@
+{
+ "duration": 118.15,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.69,
+   "text": "Today you will type your first real Python code and make the computer talk back to you.",
+   "scene": 0
+  },
+  {
+   "start": 5.69,
+   "end": 10.8,
+   "text": "Python is a real programming language that professional coders use every day.",
+   "scene": 1
+  },
+  {
+   "start": 10.8,
+   "end": 15.79,
+   "text": "Scientists, game makers and website builders all use it.",
+   "scene": 1
+  },
+  {
+   "start": 15.79,
+   "end": 19.23,
+   "text": "You type words, and the computer follows them.",
+   "scene": 1
+  },
+  {
+   "start": 19.23,
+   "end": 22.56,
+   "text": "The print() command shows a message on the screen.",
+   "scene": 2
+  },
+  {
+   "start": 22.56,
+   "end": 26.84,
+   "text": "Put your message inside the brackets, like print(\"Hello\").",
+   "scene": 2
+  },
+  {
+   "start": 26.84,
+   "end": 29.25,
+   "text": "Each print starts a new line.",
+   "scene": 2
+  },
+  {
+   "start": 29.25,
+   "end": 31.86,
+   "text": "Text in quotes is called a string.",
+   "scene": 3
+  },
+  {
+   "start": 31.86,
+   "end": 36.7,
+   "text": "You can use \"double\" or 'single' quotes, but both ends must match.",
+   "scene": 3
+  },
+  {
+   "start": 36.7,
+   "end": 39.56,
+   "text": "Forget a quote and Python shows an error.",
+   "scene": 3
+  },
+  {
+   "start": 39.56,
+   "end": 42.85,
+   "text": "A line that starts with # is a comment.",
+   "scene": 4
+  },
+  {
+   "start": 42.85,
+   "end": 45.09,
+   "text": "Python skips it completely.",
+   "scene": 4
+  },
+  {
+   "start": 45.09,
+   "end": 49.34,
+   "text": "Use comments to explain your code or to switch a line off.",
+   "scene": 4
+  },
+  {
+   "start": 49.34,
+   "end": 53.35,
+   "text": "Three quotes in a row make a string that can cover many lines.",
+   "scene": 5
+  },
+  {
+   "start": 53.35,
+   "end": 60.87,
+   "text": "That is perfect for drawing pictures and posters with keyboard symbols.",
+   "scene": 5
+  },
+  {
+   "start": 60.87,
+   "end": 65.67,
+   "text": "Watch me type the word print, then round brackets, then a message in quotes.",
+   "scene": 6
+  },
+  {
+   "start": 65.67,
+   "end": 69.04,
+   "text": "When I press Run, Python shows exactly what was inside the quotes.",
+   "scene": 6
+  },
+  {
+   "start": 69.04,
+   "end": 73.24,
+   "text": "Three print lines give us three lines of output, in the same order.",
+   "scene": 7
+  },
+  {
+   "start": 73.24,
+   "end": 82.53,
+   "text": "Python always runs your code from top to bottom, one line at a time.",
+   "scene": 7
+  },
+  {
+   "start": 82.53,
+   "end": 84.58,
+   "text": "Lines that start with a hash sign are comments, so Python skips them.",
+   "scene": 8
+  },
+  {
+   "start": 84.58,
+   "end": 87.49,
+   "text": "Football never shows up, because we turned that line into a comment.",
+   "scene": 8
+  },
+  {
+   "start": 87.49,
+   "end": 92.08,
+   "text": "Three quote marks let one string stretch across many lines.",
+   "scene": 9
+  },
+  {
+   "start": 92.08,
+   "end": 97.66,
+   "text": "Every space you type stays exactly where you put it, so you can draw pictures.",
+   "scene": 9
+  },
+  {
+   "start": 97.66,
+   "end": 103.34,
+   "text": "Here the closing quote is missing, so Python does not know where the text ends.",
+   "scene": 10
+  },
+  {
+   "start": 103.34,
+   "end": 109.54,
+   "text": "An error is not a disaster, it is a clue. Read it, fix it, and run again.",
+   "scene": 10
+  },
+  {
+   "start": 109.54,
+   "end": 113.26,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 113.26,
+   "end": 117.83,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

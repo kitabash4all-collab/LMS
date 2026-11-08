@@ -1,0 +1,65 @@
+{
+ "duration": 47.79,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.83,
+   "text": "In this lesson, you will learn to make something happen when two characters touch (bump), and use bumps in game rules.",
+   "scene": 0
+  },
+  {
+   "start": 8.83,
+   "end": 14.76,
+   "text": "The yellow “start on bump” block runs when another character touches this one.",
+   "scene": 1
+  },
+  {
+   "start": 14.76,
+   "end": 19,
+   "text": "An apple can hide when the hero bumps it — collected!",
+   "scene": 2
+  },
+  {
+   "start": 19,
+   "end": 25.53,
+   "text": "A monster can make the hero shrink when they bump.",
+   "scene": 3
+  },
+  {
+   "start": 25.53,
+   "end": 27.82,
+   "text": "Watch out!",
+   "scene": 3
+  },
+  {
+   "start": 27.82,
+   "end": 29.91,
+   "text": "Bumps make rules: good bumps and bad bumps.",
+   "scene": 4
+  },
+  {
+   "start": 29.91,
+   "end": 36.51,
+   "text": "Bump into each apple (gem) and collect it, then grow from eating!",
+   "scene": 5
+  },
+  {
+   "start": 36.51,
+   "end": 37.86,
+   "text": "Bump, munch, grow!",
+   "scene": 5
+  },
+  {
+   "start": 37.86,
+   "end": 40.07,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 40.07,
+   "end": 47.49,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

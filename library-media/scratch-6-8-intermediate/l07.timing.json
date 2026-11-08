@@ -1,0 +1,83 @@
+{
+ "duration": 58.91,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.5,
+   "text": "Scientists, engineers and game designers use computers to run an experiment thousands of times in a second. That’s simulation.",
+   "scene": 0
+  },
+  {
+   "start": 8.5,
+   "end": 12.23,
+   "text": "pick random gives an unpredictable number in a range.",
+   "scene": 1
+  },
+  {
+   "start": 12.23,
+   "end": 18.31,
+   "text": "Computers use clever formulas, so they’re called pseudo-random — good enough for simulations.",
+   "scene": 1
+  },
+  {
+   "start": 18.31,
+   "end": 22.46,
+   "text": "pick random 1 to 2: call 1 heads and 2 tails.",
+   "scene": 2
+  },
+  {
+   "start": 22.46,
+   "end": 25.33,
+   "text": "Repeat 100 times and count the heads.",
+   "scene": 2
+  },
+  {
+   "start": 25.33,
+   "end": 27.5,
+   "text": "Theory says heads half the time.",
+   "scene": 3
+  },
+  {
+   "start": 27.5,
+   "end": 32.59,
+   "text": "One experiment won’t give exactly 50 — but the more flips, the closer you get.",
+   "scene": 3
+  },
+  {
+   "start": 32.59,
+   "end": 35.64,
+   "text": "This is the law of large numbers.",
+   "scene": 3
+  },
+  {
+   "start": 35.64,
+   "end": 39.59,
+   "text": "Some problems are too hard to work out by hand.",
+   "scene": 4
+  },
+  {
+   "start": 39.59,
+   "end": 43.59,
+   "text": "Simulate them many times and look at the results instead.",
+   "scene": 4
+  },
+  {
+   "start": 43.59,
+   "end": 51.02,
+   "text": "The same simulation in Python uses random.randint. Each run gives a slightly different answer.",
+   "scene": 5
+  },
+  {
+   "start": 51.02,
+   "end": 54.67,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 54.67,
+   "end": 58.59,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

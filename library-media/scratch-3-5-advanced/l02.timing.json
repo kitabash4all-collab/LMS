@@ -1,0 +1,65 @@
+{
+ "duration": 54.86,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.13,
+   "text": "In this lesson, you will learn to give clones different speeds, sizes and reactions, and detect when a clone touches the player.",
+   "scene": 0
+  },
+  {
+   "start": 10.13,
+   "end": 19.5,
+   "text": "Use pick random inside the clone’s script so every clone gets its own size, position or costume.",
+   "scene": 1
+  },
+  {
+   "start": 19.5,
+   "end": 23.12,
+   "text": "Each clone can check if it is touching the player.",
+   "scene": 2
+  },
+  {
+   "start": 23.12,
+   "end": 27.52,
+   "text": "When it is, it can change the score and delete itself.",
+   "scene": 2
+  },
+  {
+   "start": 27.52,
+   "end": 31.39,
+   "text": "For games, use a forever loop that checks keys.",
+   "scene": 3
+  },
+  {
+   "start": 31.39,
+   "end": 34.55,
+   "text": "The player moves smoothly while you hold the key.",
+   "scene": 3
+  },
+  {
+   "start": 34.55,
+   "end": 39.85,
+   "text": "Use a variable for the fall speed and change it as the game goes on.",
+   "scene": 4
+  },
+  {
+   "start": 39.85,
+   "end": 44.13,
+   "text": "Every new clone falls a little faster.",
+   "scene": 4
+  },
+  {
+   "start": 44.13,
+   "end": 48.95,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 48.95,
+   "end": 54.51,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

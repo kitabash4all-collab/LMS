@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:15.300
+It’s project time! Run linear and binary search on the same sorted list of 100 numbers, count the steps each takes for several targets, and report which is more efficient — with each search in its own procedure.
+
+2
+00:00:15.300 --> 00:00:18.660
+Make a sorted list of 100 numbers.
+
+3
+00:00:18.660 --> 00:00:25.070
+For a target, run linear search and binary search, count the steps of each, and report both.
+
+4
+00:00:25.070 --> 00:00:29.280
+Put each search in its own My Block with the target as the input.
+
+5
+00:00:29.280 --> 00:00:31.730
+Your main script just calls them.
+
+6
+00:00:31.730 --> 00:00:38.160
+Same list, same target, same counting rule (one step per comparison).
+
+7
+00:00:38.160 --> 00:00:43.120
+Try several targets: small, middle, large, missing.
+
+8
+00:00:43.120 --> 00:00:49.220
+Write what you found: which was faster, by how much, and when the difference matters most.
+
+9
+00:00:49.220 --> 00:00:52.440
+Great work! Let’s remember what we learned.
+
+10
+00:00:52.440 --> 00:00:56.470
+Now plan it, build it, test it, and share it!

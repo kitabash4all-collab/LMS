@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.650
+Everything you’ve learned comes together now: algorithms, events, loops, variables, decisions and game loops.
+
+2
+00:00:08.650 --> 00:00:16.440
+Write a short design: goal, controls, objects, rules (what happens on each collision), state variables and how the game ends.
+
+3
+00:00:16.440 --> 00:00:23.240
+Build the smallest version that’s fun: player + one object + one rule.
+
+4
+00:00:23.240 --> 00:00:26.950
+Then add features one at a time.
+
+5
+00:00:26.950 --> 00:00:29.800
+Watch two people play without helping.
+
+6
+00:00:29.800 --> 00:00:36.350
+Note where they get stuck or bored, then tune.
+
+7
+00:00:36.350 --> 00:00:42.950
+Demo your game, explain one interesting piece of code, and show how you used test feedback.
+
+8
+00:00:42.950 --> 00:00:44.170
+Great work! Let’s remember what we learned.
+
+9
+00:00:44.170 --> 00:00:49.490
+Now plan it, build it, test it, and share it!

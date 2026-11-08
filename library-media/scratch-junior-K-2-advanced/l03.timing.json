@@ -1,0 +1,71 @@
+{
+ "duration": 50.84,
+ "lines": [
+  {
+   "start": 0,
+   "end": 11.11,
+   "text": "It’s project time! Make a ScratchJr tap game: three characters that react when tapped, a green-flag start message and something moving forever.",
+   "scene": 0
+  },
+  {
+   "start": 11.11,
+   "end": 16.74,
+   "text": "Put 3 characters on the stage.",
+   "scene": 1
+  },
+  {
+   "start": 16.74,
+   "end": 20.39,
+   "text": "Each one does something funny when tapped.",
+   "scene": 1
+  },
+  {
+   "start": 20.39,
+   "end": 23.59,
+   "text": "Use the green flag to say “Tap us!”.",
+   "scene": 2
+  },
+  {
+   "start": 23.59,
+   "end": 25.36,
+   "text": "Add a background character that moves forever.",
+   "scene": 3
+  },
+  {
+   "start": 25.36,
+   "end": 29.76,
+   "text": "Ask a friend to play.",
+   "scene": 4
+  },
+  {
+   "start": 29.76,
+   "end": 32.71,
+   "text": "Did every character react?",
+   "scene": 4
+  },
+  {
+   "start": 32.71,
+   "end": 39.02,
+   "text": "Use 👆 start on tap: the balloon grows 2 times, says “POP!” and hides.",
+   "scene": 5
+  },
+  {
+   "start": 39.02,
+   "end": 41.67,
+   "text": "Grow, grow… POP! Great game reaction.",
+   "scene": 5
+  },
+  {
+   "start": 41.67,
+   "end": 46.25,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 46.25,
+   "end": 50.55,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

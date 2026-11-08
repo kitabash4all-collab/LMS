@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.570
+Capstone time! You will use everything from Level 2 to design an AI helper for a real problem at your school.
+
+2
+00:00:07.570 --> 00:00:15.440
+Start with a real problem you have seen, like lost water bottles, confusing recycling bins or last-minute revision panic.
+
+3
+00:00:15.440 --> 00:00:20.080
+Name the user, like Grade 6 students or the school librarian.
+
+4
+00:00:20.080 --> 00:00:23.700
+Ask two or three people if the problem is real for them.
+
+5
+00:00:23.700 --> 00:00:28.060
+Write a spec: what goes in, what comes out, and the rules.
+
+6
+00:00:28.060 --> 00:00:31.890
+Decide what the AI does and what a human must still do.
+
+7
+00:00:31.890 --> 00:00:36.080
+Some parts are better without AI, and that is a smart choice too.
+
+8
+00:00:36.080 --> 00:00:43.700
+Build a small working version: app instructions, a short Python or Scratch program, a survey chart or a video.
+
+9
+00:00:43.700 --> 00:00:47.040
+Test it with normal, tricky and attack cases.
+
+10
+00:00:47.040 --> 00:00:49.130
+Fix what fails and record it.
+
+11
+00:00:49.130 --> 00:00:53.320
+Ask who could be harmed or left out, and what data you collect.
+
+12
+00:00:53.320 --> 00:00:58.460
+Check that it is honest, private and fair.
+
+13
+00:00:58.460 --> 00:01:00.870
+Write what the AI cannot do, so users do not over-trust it.
+
+14
+00:01:00.870 --> 00:01:10.090
+Tell the story in three minutes: the problem, the user, your solution, a live demo, what you tested and your ethics check.
+
+15
+00:01:10.090 --> 00:01:14.390
+End with what you would build next, and practise it with a timer.
+
+16
+00:01:14.390 --> 00:01:20.510
+Here are four capstone ideas, but the best one is a problem you have seen yourself.
+
+17
+00:01:20.510 --> 00:01:25.980
+Pick a problem that is real, small enough to prototype, and helps someone at school.
+
+18
+00:01:25.980 --> 00:01:31.040
+Riya tests her recycling guide with a tricky item: a used chips packet.
+
+19
+00:01:31.040 --> 00:01:36.090
+It confidently says the paper bin, but these packets are usually plastic and foil.
+
+20
+00:01:36.090 --> 00:01:42.690
+She adds the school’s real bin list to the instructions, and a rule to say ask a teacher when unsure.
+
+21
+00:01:42.690 --> 00:01:48.360
+Kabir asks the AI to act as a critical friend and find risks in his idea.
+
+22
+00:01:48.360 --> 00:01:54.020
+He checks each risk himself, keeps the useful ones, and adds them to his rules.
+
+23
+00:01:54.020 --> 00:02:00.160
+A strong pitch follows this route, from the problem to the next step, in three minutes.
+
+24
+00:02:00.160 --> 00:02:06.890
+The live demo is the star, so practise it, and have a screenshot ready in case the internet fails.
+
+25
+00:02:06.890 --> 00:02:09.960
+Great work! Let’s remember what we learned.
+
+26
+00:02:09.960 --> 00:02:13.530
+Now plan it, build it, test it, and share it!

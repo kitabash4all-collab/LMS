@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.360
+Today you organise data like a real app, from a whole cricket team to your own virtual pet.
+
+2
+00:00:06.360 --> 00:00:13.440
+A list can hold dictionaries, one for each player. team[0]["runs"] means the runs of the first player.
+
+3
+00:00:13.440 --> 00:00:17.890
+This is how real apps store tables of data.
+
+4
+00:00:17.890 --> 00:00:22.530
+for player in team: gives you one dictionary at a time.
+
+5
+00:00:22.530 --> 00:00:27.450
+You can read it, add it up or change it, like player["runs"] += 4.
+
+6
+00:00:27.450 --> 00:00:28.750
+Every record has the same keys.
+
+7
+00:00:28.750 --> 00:00:31.920
+class Pet: describes what every pet has and what it can do.
+
+8
+00:00:31.920 --> 00:00:38.620
+Pet("Moti") builds one real pet object from the blueprint.
+
+9
+00:00:38.620 --> 00:00:42.750
+You can build as many pets as you like.
+
+10
+00:00:42.750 --> 00:00:53.760
+Inside the class, self means this particular pet. self.hunger = 5 is an attribute, a value the pet remembers. def feed(self): is a method, an action you call with pet.feed().
+
+11
+00:00:53.760 --> 00:00:58.460
+Each player is a dictionary with the same keys, and the list holds them all.
+
+12
+00:00:58.460 --> 00:01:02.350
+Team zero name means the first record, then its name key.
+
+13
+00:01:02.350 --> 00:01:05.900
+We start by guessing that the first player is the best.
+
+14
+00:01:05.900 --> 00:01:09.930
+Whenever we find someone with more runs, they become the new best.
+
+15
+00:01:09.930 --> 00:01:19.780
+The init method runs every time we build a new pet from the blueprint.
+
+16
+00:01:19.780 --> 00:01:25.530
+Moti and Bijli are two separate objects, and each remembers its own name.
+
+17
+00:01:25.530 --> 00:01:27.950
+A method is a function that lives inside the class and always starts with self.
+
+18
+00:01:27.950 --> 00:01:32.470
+When we call moti dot feed, self means Moti, so only Moti gets less hungry.
+
+19
+00:01:32.470 --> 00:01:38.680
+Python always passes the object itself into a method, as the first argument.
+
+20
+00:01:38.680 --> 00:01:44.780
+The method forgot to accept it. Writing self in the brackets fixes the error.
+
+21
+00:01:44.780 --> 00:01:48.610
+Great work! Let’s remember what we learned.
+
+22
+00:01:48.610 --> 00:01:52.880
+Now build along, then try the challenges. You’ve got this!

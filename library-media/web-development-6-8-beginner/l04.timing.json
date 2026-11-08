@@ -1,0 +1,149 @@
+{
+ "duration": 100.26,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.51,
+   "text": "It’s project time! Today you will plan, build and check your own fan page or club page.",
+   "scene": 0
+  },
+  {
+   "start": 5.51,
+   "end": 9.87,
+   "text": "Real web designers draw a quick sketch called a wireframe first.",
+   "scene": 1
+  },
+  {
+   "start": 9.87,
+   "end": 14.4,
+   "text": "Draw boxes for the title and each section, and write what goes in them.",
+   "scene": 1
+  },
+  {
+   "start": 14.4,
+   "end": 17.71,
+   "text": "Coding is much faster when you know what you are building.",
+   "scene": 1
+  },
+  {
+   "start": 17.71,
+   "end": 21.63,
+   "text": "The section tag wraps a heading and everything that belongs with it.",
+   "scene": 2
+  },
+  {
+   "start": 21.63,
+   "end": 27.06,
+   "text": "Three sections make three clear parts, like About, What we do and Join us.",
+   "scene": 2
+  },
+  {
+   "start": 27.06,
+   "end": 30.74,
+   "text": "One CSS rule can style every section at once.",
+   "scene": 2
+  },
+  {
+   "start": 30.74,
+   "end": 35.23,
+   "text": "Pick two or three colours and one font, and use them everywhere.",
+   "scene": 3
+  },
+  {
+   "start": 35.23,
+   "end": 39.39,
+   "text": "Matching colours and fonts make a page look calm and professional.",
+   "scene": 3
+  },
+  {
+   "start": 39.39,
+   "end": 42.99,
+   "text": "Using too many different colours makes a page feel messy.",
+   "scene": 3
+  },
+  {
+   "start": 42.99,
+   "end": 48.32,
+   "text": "Before anyone sees your page, check that every picture has alt text and a credit.",
+   "scene": 4
+  },
+  {
+   "start": 48.32,
+   "end": 51.12,
+   "text": "Click every link to make sure it works.",
+   "scene": 4
+  },
+  {
+   "start": 51.12,
+   "end": 53.99,
+   "text": "Make sure there are no personal details anywhere.",
+   "scene": 4
+  },
+  {
+   "start": 53.99,
+   "end": 58.61,
+   "text": "Each section tag holds one heading and the content that belongs with it.",
+   "scene": 5
+  },
+  {
+   "start": 58.61,
+   "end": 63.07,
+   "text": "Three sections give your page three clear parts that are easy to read.",
+   "scene": 5
+  },
+  {
+   "start": 63.07,
+   "end": 66.44,
+   "text": "This one rule picks every section on the page.",
+   "scene": 6
+  },
+  {
+   "start": 66.44,
+   "end": 70.77,
+   "text": "Change the border colour here, and all three boxes change together.",
+   "scene": 6
+  },
+  {
+   "start": 70.77,
+   "end": 75.8,
+   "text": "First sketch your page, then build the HTML without any styles.",
+   "scene": 7
+  },
+  {
+   "start": 75.8,
+   "end": 79.45,
+   "text": "Next add your colours and font in one style tag.",
+   "scene": 7
+  },
+  {
+   "start": 79.45,
+   "end": 84.29,
+   "text": "Finally run the safety checklist, press Check, and submit with your reflection.",
+   "scene": 7
+  },
+  {
+   "start": 84.29,
+   "end": 90.76,
+   "text": "Here is the checklist real web teams use before a page goes live.",
+   "scene": 8
+  },
+  {
+   "start": 90.76,
+   "end": 92.74,
+   "text": "If any line is not ticked, fix it before you share.",
+   "scene": 8
+  },
+  {
+   "start": 92.74,
+   "end": 95.96,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 95.96,
+   "end": 99.97,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

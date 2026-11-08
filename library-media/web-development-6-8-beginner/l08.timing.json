@@ -1,0 +1,143 @@
+{
+ "duration": 98.98,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.53,
+   "text": "It’s capstone time! Today you will build a complete website for a cause or idea you care about.",
+   "scene": 0
+  },
+  {
+   "start": 6.53,
+   "end": 11.98,
+   "text": "Choose something real that matters to you, like a park clean-up or a book swap.",
+   "scene": 1
+  },
+  {
+   "start": 11.98,
+   "end": 15.58,
+   "text": "Ask who the page is for and what you want visitors to do.",
+   "scene": 1
+  },
+  {
+   "start": 15.58,
+   "end": 18.58,
+   "text": "Your answer becomes the goal of your whole page.",
+   "scene": 1
+  },
+  {
+   "start": 18.58,
+   "end": 22.35,
+   "text": "Give each section an id, like id equals gallery.",
+   "scene": 2
+  },
+  {
+   "start": 22.35,
+   "end": 26.93,
+   "text": "A link with href set to hash gallery jumps straight to that section.",
+   "scene": 2
+  },
+  {
+   "start": 26.93,
+   "end": 30.4,
+   "text": "A row of these links at the top is called a nav bar.",
+   "scene": 2
+  },
+  {
+   "start": 30.4,
+   "end": 34.27,
+   "text": "Your gallery uses flexbox cards from lesson five.",
+   "scene": 3
+  },
+  {
+   "start": 34.27,
+   "end": 37.55,
+   "text": "Your form uses the labels you learned in lesson six.",
+   "scene": 3
+  },
+  {
+   "start": 37.55,
+   "end": 41.21,
+   "text": "Your button uses the JavaScript you learned in lesson seven.",
+   "scene": 3
+  },
+  {
+   "start": 41.21,
+   "end": 47.07,
+   "text": "Check every picture has alt text and a credit, and every label is joined.",
+   "scene": 4
+  },
+  {
+   "start": 47.07,
+   "end": 50.94,
+   "text": "Click every button and link in the live preview.",
+   "scene": 4
+  },
+  {
+   "start": 50.94,
+   "end": 55.59,
+   "text": "Make sure there are no personal details and that every claim is honest.",
+   "scene": 4
+  },
+  {
+   "start": 55.59,
+   "end": 59.12,
+   "text": "The hash in the link means a place on this same page.",
+   "scene": 5
+  },
+  {
+   "start": 59.12,
+   "end": 64.19,
+   "text": "It jumps to the section whose id matches the word after the hash.",
+   "scene": 5
+  },
+  {
+   "start": 64.19,
+   "end": 68.79,
+   "text": "The header tag holds the title and tagline at the top of the page.",
+   "scene": 6
+  },
+  {
+   "start": 68.79,
+   "end": 74.83,
+   "text": "The footer holds the credit line at the bottom, using a club name, not your full name.",
+   "scene": 6
+  },
+  {
+   "start": 74.83,
+   "end": 77.88,
+   "text": "A small button makes the page feel alive.",
+   "scene": 7
+  },
+  {
+   "start": 77.88,
+   "end": 82.38,
+   "text": "It uses the same find, listen and change pattern from last lesson.",
+   "scene": 7
+  },
+  {
+   "start": 82.38,
+   "end": 86.57,
+   "text": "Before launch day, go down this checklist one line at a time.",
+   "scene": 8
+  },
+  {
+   "start": 86.57,
+   "end": 91.58,
+   "text": "Fix anything that is not ticked, then press Check and submit with your reflection.",
+   "scene": 8
+  },
+  {
+   "start": 91.58,
+   "end": 94.87,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 94.87,
+   "end": 98.66,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "duration": 59.32,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.31,
+   "text": "Sorting is everywhere — search results, leaderboards, your music by artist. It starts with one small move: the swap.",
+   "scene": 0
+  },
+  {
+   "start": 8.31,
+   "end": 12.09,
+   "text": "To swap two cups of juice you need a third, empty cup.",
+   "scene": 1
+  },
+  {
+   "start": 12.09,
+   "end": 17.73,
+   "text": "Code is the same: copy one value into temp first, or it gets overwritten.",
+   "scene": 1
+  },
+  {
+   "start": 17.73,
+   "end": 20.8,
+   "text": "Compare each pair of neighbours from left to right.",
+   "scene": 2
+  },
+  {
+   "start": 20.8,
+   "end": 23.24,
+   "text": "If they’re in the wrong order, swap them.",
+   "scene": 2
+  },
+  {
+   "start": 23.24,
+   "end": 27.75,
+   "text": "After one pass, the biggest value has “bubbled” to the end.",
+   "scene": 2
+  },
+  {
+   "start": 27.75,
+   "end": 31.88,
+   "text": "Put the three swap blocks in a My Block with an input i.",
+   "scene": 3
+  },
+  {
+   "start": 31.88,
+   "end": 35.21,
+   "text": "It swaps item i and item i + 1.",
+   "scene": 3
+  },
+  {
+   "start": 35.21,
+   "end": 37.38,
+   "text": "Now the pass is easy to read.",
+   "scene": 3
+  },
+  {
+   "start": 37.38,
+   "end": 44.1,
+   "text": "A list of n items has n − 1 neighbouring pairs, so one pass makes n − 1 comparisons.",
+   "scene": 4
+  },
+  {
+   "start": 44.1,
+   "end": 51.58,
+   "text": "Python can swap in one line — but underneath, it still needs somewhere to keep a value while it moves the other.",
+   "scene": 5
+  },
+  {
+   "start": 51.58,
+   "end": 55,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 55,
+   "end": 58.99,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

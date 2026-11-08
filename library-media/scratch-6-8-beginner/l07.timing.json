@@ -1,0 +1,89 @@
+{
+ "duration": 56.99,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.47,
+   "text": "Programs need memory. Variables are how they remember scores, names, totals — anything that changes.",
+   "scene": 0
+  },
+  {
+   "start": 7.47,
+   "end": 10.52,
+   "text": "A variable is a named storage location.",
+   "scene": 1
+  },
+  {
+   "start": 10.52,
+   "end": 12.54,
+   "text": "Set gives it a value; change adds to it.",
+   "scene": 1
+  },
+  {
+   "start": 12.54,
+   "end": 17.37,
+   "text": "Its value can change while the program runs.",
+   "scene": 1
+  },
+  {
+   "start": 17.37,
+   "end": 19.81,
+   "text": "Ask and wait lets the user type.",
+   "scene": 2
+  },
+  {
+   "start": 19.81,
+   "end": 22.44,
+   "text": "Whatever they type is stored in answer.",
+   "scene": 2
+  },
+  {
+   "start": 22.44,
+   "end": 25.71,
+   "text": "Copy it into your own variable if you need it later.",
+   "scene": 2
+  },
+  {
+   "start": 25.71,
+   "end": 29.05,
+   "text": "Arithmetic operators (+ − × ÷ mod) calculate.",
+   "scene": 3
+  },
+  {
+   "start": 29.05,
+   "end": 33.51,
+   "text": "Join sticks text together to build messages.",
+   "scene": 3
+  },
+  {
+   "start": 33.51,
+   "end": 40.77,
+   "text": "Name variables for what they hold: score, lives, total — not x1 or thing.",
+   "scene": 4
+  },
+  {
+   "start": 40.77,
+   "end": 43.35,
+   "text": "Clear names make code readable.",
+   "scene": 4
+  },
+  {
+   "start": 43.35,
+   "end": 49.7,
+   "text": "In Python, input is like ask and wait, and the variables a and b store the numbers.",
+   "scene": 5
+  },
+  {
+   "start": 49.7,
+   "end": 52.53,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 52.53,
+   "end": 56.68,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

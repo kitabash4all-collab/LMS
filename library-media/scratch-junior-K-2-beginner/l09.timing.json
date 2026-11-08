@@ -1,0 +1,65 @@
+{
+ "duration": 54.33,
+ "lines": [
+  {
+   "start": 0,
+   "end": 12.97,
+   "text": "It’s project time! Make a treasure hunt in ScratchJr: plan a map, start with the green flag, walk to the treasure, say something when it’s found, test and fix, and share.",
+   "scene": 0
+  },
+  {
+   "start": 12.97,
+   "end": 19.13,
+   "text": "Your pirate walks around an island, finds treasure and says something when it’s found.",
+   "scene": 1
+  },
+  {
+   "start": 19.13,
+   "end": 23.93,
+   "text": "Draw the island, the treasure and the path with arrows first.",
+   "scene": 2
+  },
+  {
+   "start": 23.93,
+   "end": 29.34,
+   "text": "When the pirate finds the treasure, add a say block: “I found it!”.",
+   "scene": 3
+  },
+  {
+   "start": 29.34,
+   "end": 31.12,
+   "text": "Press the flag.",
+   "scene": 4
+  },
+  {
+   "start": 31.12,
+   "end": 36.16,
+   "text": "If the pirate goes the wrong way, change one block and try again.",
+   "scene": 4
+  },
+  {
+   "start": 36.16,
+   "end": 42.29,
+   "text": "Collect both treasures, say “I found it!”, and finish on the star.",
+   "scene": 5
+  },
+  {
+   "start": 42.29,
+   "end": 47.08,
+   "text": "Treasure found! Arrr!",
+   "scene": 5
+  },
+  {
+   "start": 47.08,
+   "end": 49.56,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 49.56,
+   "end": 54.04,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

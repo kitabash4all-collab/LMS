@@ -1,0 +1,167 @@
+{
+ "duration": 129.11,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.69,
+   "text": "HTML builds the page. Today CSS makes it beautiful, with colours, fonts and boxes.",
+   "scene": 0
+  },
+  {
+   "start": 5.69,
+   "end": 7.45,
+   "text": "HTML says what each part of the page is.",
+   "scene": 1
+  },
+  {
+   "start": 7.45,
+   "end": 15.32,
+   "text": "CSS says how it looks, like its colour, size and spacing.",
+   "scene": 1
+  },
+  {
+   "start": 15.32,
+   "end": 19.47,
+   "text": "We write CSS inside a style tag at the top of the page.",
+   "scene": 1
+  },
+  {
+   "start": 19.47,
+   "end": 24.31,
+   "text": "A rule starts with a selector, like h1, that picks what to style.",
+   "scene": 2
+  },
+  {
+   "start": 24.31,
+   "end": 29.08,
+   "text": "Inside curly brackets you write a property, a colon and a value.",
+   "scene": 2
+  },
+  {
+   "start": 29.08,
+   "end": 32.57,
+   "text": "Every property and value line ends with a semicolon.",
+   "scene": 2
+  },
+  {
+   "start": 32.57,
+   "end": 37.47,
+   "text": "The color property changes text colour, and background-color paints behind it.",
+   "scene": 3
+  },
+  {
+   "start": 37.47,
+   "end": 43.96,
+   "text": "You can use names like orange, or hex codes like ff9933 for saffron.",
+   "scene": 3
+  },
+  {
+   "start": 43.96,
+   "end": 46.68,
+   "text": "Pick colours that are easy to read together.",
+   "scene": 3
+  },
+  {
+   "start": 46.68,
+   "end": 52.2,
+   "text": "The font-family property picks the typeface, and font-size sets how big it is.",
+   "scene": 4
+  },
+  {
+   "start": 52.2,
+   "end": 57.57,
+   "text": "Always add a backup font, like sans-serif, in case the first one is missing.",
+   "scene": 4
+  },
+  {
+   "start": 57.57,
+   "end": 61.97,
+   "text": "Padding is the space inside a box, between the words and the border.",
+   "scene": 5
+  },
+  {
+   "start": 61.97,
+   "end": 64.51,
+   "text": "The border is the line around the box.",
+   "scene": 5
+  },
+  {
+   "start": 64.51,
+   "end": 68.44,
+   "text": "Margin is the space outside, pushing other boxes away.",
+   "scene": 5
+  },
+  {
+   "start": 68.44,
+   "end": 74.74,
+   "text": "The style tag holds our CSS, and this rule picks every h1 on the page.",
+   "scene": 6
+  },
+  {
+   "start": 74.74,
+   "end": 80.3,
+   "text": "The property is color, the value is orange, and a semicolon ends the line.",
+   "scene": 6
+  },
+  {
+   "start": 80.3,
+   "end": 84.03,
+   "text": "The body selector styles the whole page at once.",
+   "scene": 7
+  },
+  {
+   "start": 84.03,
+   "end": 88.7,
+   "text": "Arial is our first choice of font, and sans serif is the backup.",
+   "scene": 7
+  },
+  {
+   "start": 88.7,
+   "end": 93.4,
+   "text": "The border draws an orange line three pixels thick around the paragraph.",
+   "scene": 8
+  },
+  {
+   "start": 93.4,
+   "end": 100.49,
+   "text": "Padding pushes the words away from the border, and margin pushes other things away from the box.",
+   "scene": 8
+  },
+  {
+   "start": 100.49,
+   "end": 105.02,
+   "text": "Yellow on white looks bright, but it is very hard to read.",
+   "scene": 9
+  },
+  {
+   "start": 105.02,
+   "end": 111.48,
+   "text": "Dark text on a light background is clear for everyone, including people with weak eyesight.",
+   "scene": 9
+  },
+  {
+   "start": 111.48,
+   "end": 116.02,
+   "text": "The first rule is missing its colon, so the browser skips it.",
+   "scene": 10
+  },
+  {
+   "start": 116.02,
+   "end": 121.5,
+   "text": "The second rule still works, but a semicolon at the end is a good habit.",
+   "scene": 10
+  },
+  {
+   "start": 121.5,
+   "end": 124.72,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 124.72,
+   "end": 128.78,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

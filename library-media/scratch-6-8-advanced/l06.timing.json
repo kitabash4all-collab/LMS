@@ -1,0 +1,59 @@
+{
+ "duration": 55.42,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.7,
+   "text": "It’s project time! Build a leaderboard: collect any number of scores into a list, sort them highest-first with your sorting procedure, announce the top three, and handle edge cases like fewer than three players.",
+   "scene": 0
+  },
+  {
+   "start": 13.7,
+   "end": 23.14,
+   "text": "Ask how many players, collect each score into a list, sort it from highest to lowest, and announce the top three.",
+   "scene": 1
+  },
+  {
+   "start": 23.14,
+   "end": 31.02,
+   "text": "swap (i) and a sort procedure from Lesson 5 make the main script short: collect, sort, report.",
+   "scene": 2
+  },
+  {
+   "start": 31.02,
+   "end": 33.42,
+   "text": "What if only two players?",
+   "scene": 3
+  },
+  {
+   "start": 33.42,
+   "end": 36.53,
+   "text": "Or two players tie?",
+   "scene": 3
+  },
+  {
+   "start": 36.53,
+   "end": 40.5,
+   "text": "Handle these so the app never shows nonsense.",
+   "scene": 3
+  },
+  {
+   "start": 40.5,
+   "end": 47.9,
+   "text": "Use test sets you can check: already sorted, reverse sorted, with ties, and with just one player.",
+   "scene": 4
+  },
+  {
+   "start": 47.9,
+   "end": 51.37,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.37,
+   "end": 55.08,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

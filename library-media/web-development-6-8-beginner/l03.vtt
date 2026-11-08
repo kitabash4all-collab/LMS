@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.290
+HTML builds the page. Today CSS makes it beautiful, with colours, fonts and boxes.
+
+2
+00:00:06.290 --> 00:00:08.050
+HTML says what each part of the page is.
+
+3
+00:00:08.050 --> 00:00:15.920
+CSS says how it looks, like its colour, size and spacing.
+
+4
+00:00:15.920 --> 00:00:20.070
+We write CSS inside a style tag at the top of the page.
+
+5
+00:00:20.070 --> 00:00:24.910
+A rule starts with a selector, like h1, that picks what to style.
+
+6
+00:00:24.910 --> 00:00:29.680
+Inside curly brackets you write a property, a colon and a value.
+
+7
+00:00:29.680 --> 00:00:33.170
+Every property and value line ends with a semicolon.
+
+8
+00:00:33.170 --> 00:00:38.070
+The color property changes text colour, and background-color paints behind it.
+
+9
+00:00:38.070 --> 00:00:44.560
+You can use names like orange, or hex codes like ff9933 for saffron.
+
+10
+00:00:44.560 --> 00:00:47.280
+Pick colours that are easy to read together.
+
+11
+00:00:47.280 --> 00:00:52.800
+The font-family property picks the typeface, and font-size sets how big it is.
+
+12
+00:00:52.800 --> 00:00:58.170
+Always add a backup font, like sans-serif, in case the first one is missing.
+
+13
+00:00:58.170 --> 00:01:02.570
+Padding is the space inside a box, between the words and the border.
+
+14
+00:01:02.570 --> 00:01:05.110
+The border is the line around the box.
+
+15
+00:01:05.110 --> 00:01:09.040
+Margin is the space outside, pushing other boxes away.
+
+16
+00:01:09.040 --> 00:01:15.340
+The style tag holds our CSS, and this rule picks every h1 on the page.
+
+17
+00:01:15.340 --> 00:01:20.900
+The property is color, the value is orange, and a semicolon ends the line.
+
+18
+00:01:20.900 --> 00:01:24.630
+The body selector styles the whole page at once.
+
+19
+00:01:24.630 --> 00:01:29.300
+Arial is our first choice of font, and sans serif is the backup.
+
+20
+00:01:29.300 --> 00:01:34.000
+The border draws an orange line three pixels thick around the paragraph.
+
+21
+00:01:34.000 --> 00:01:41.090
+Padding pushes the words away from the border, and margin pushes other things away from the box.
+
+22
+00:01:41.090 --> 00:01:45.620
+Yellow on white looks bright, but it is very hard to read.
+
+23
+00:01:45.620 --> 00:01:52.080
+Dark text on a light background is clear for everyone, including people with weak eyesight.
+
+24
+00:01:52.080 --> 00:01:56.620
+The first rule is missing its colon, so the browser skips it.
+
+25
+00:01:56.620 --> 00:02:02.100
+The second rule still works, but a semicolon at the end is a good habit.
+
+26
+00:02:02.100 --> 00:02:05.320
+Great work! Let’s remember what we learned.
+
+27
+00:02:05.320 --> 00:02:09.380
+Now build along, then try the challenges. You’ve got this!

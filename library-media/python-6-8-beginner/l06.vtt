@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.310
+Today you will make games that surprise you, because even you will not know what the computer picks.
+
+2
+00:00:06.310 --> 00:00:16.460
+Python has extra toolboxes called modules. import random at the top of your program opens the random toolbox.
+
+3
+00:00:16.460 --> 00:00:19.010
+Now you can use its commands.
+
+4
+00:00:19.010 --> 00:00:23.050
+random.randint(1, 6) gives a whole number from 1 to 6, like rolling a dice.
+
+5
+00:00:23.050 --> 00:00:27.180
+Both end numbers can come up.
+
+6
+00:00:27.180 --> 00:00:30.400
+Every run can give a different number.
+
+7
+00:00:30.400 --> 00:00:37.760
+random.choice(["rock", "paper", "scissors"]) picks one item from the list at random.
+
+8
+00:00:37.760 --> 00:00:41.370
+Use it for lucky snacks, random names or computer moves.
+
+9
+00:00:41.370 --> 00:00:47.550
+Most games repeat the same steps: ask, check, give a hint.
+
+10
+00:00:47.550 --> 00:00:51.530
+A while loop keeps the game going until the player wins or runs out of tries.
+
+11
+00:00:51.530 --> 00:00:56.770
+First we import the random toolbox, then randint picks a number from one to six.
+
+12
+00:00:56.770 --> 00:01:01.870
+Your number may be different every time you run it. That is the fun part!
+
+13
+00:01:01.870 --> 00:01:06.780
+The choice command picks one snack from the list.
+
+14
+00:01:06.780 --> 00:01:11.520
+Run it again and the computer might choose jalebi or idli instead.
+
+15
+00:01:11.520 --> 00:01:15.950
+The player guessed thirty, which is bigger than the secret number.
+
+16
+00:01:15.950 --> 00:01:19.540
+So the program gives a hint: Too high. Now the player knows to go lower.
+
+17
+00:01:19.540 --> 00:01:24.880
+The loop keeps asking while the guess is wrong and there are tries left.
+
+18
+00:01:24.880 --> 00:01:33.370
+Every guess adds one to attempts, so we can tell the player how many tries they took.
+
+19
+00:01:33.370 --> 00:01:35.990
+Great work! Let’s remember what we learned.
+
+20
+00:01:35.990 --> 00:01:41.100
+Now build along, then try the challenges. You’ve got this!

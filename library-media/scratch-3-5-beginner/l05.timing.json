@@ -1,0 +1,71 @@
+{
+ "duration": 50.92,
+ "lines": [
+  {
+   "start": 0,
+   "end": 3.5,
+   "text": "Today you will make sprites come alive with animation.",
+   "scene": 0
+  },
+  {
+   "start": 3.5,
+   "end": 6.11,
+   "text": "Animation is like a flip book.",
+   "scene": 1
+  },
+  {
+   "start": 6.11,
+   "end": 12.9,
+   "text": "Each page shows a slightly different picture. In Scratch, these pictures are called costumes.",
+   "scene": 1
+  },
+  {
+   "start": 12.9,
+   "end": 17.51,
+   "text": "If you switch costumes quickly, the sprite looks like it is moving.",
+   "scene": 1
+  },
+  {
+   "start": 17.51,
+   "end": 20.53,
+   "text": "A forever loop repeats its blocks forever.",
+   "scene": 2
+  },
+  {
+   "start": 20.53,
+   "end": 27.25,
+   "text": "Next costume, wait, next costume, wait… and the sprite keeps animating until you press stop.",
+   "scene": 2
+  },
+  {
+   "start": 27.25,
+   "end": 32.92,
+   "text": "Computers are very fast. Without a wait, the costumes change too quickly to see.",
+   "scene": 3
+  },
+  {
+   "start": 32.92,
+   "end": 35.75,
+   "text": "A short wait makes the animation smooth.",
+   "scene": 3
+  },
+  {
+   "start": 35.75,
+   "end": 42.34,
+   "text": "Add move and “if on edge, bounce”, and your sprite walks back and forth across the stage.",
+   "scene": 4
+  },
+  {
+   "start": 42.34,
+   "end": 47.54,
+   "text": "Setting the rotation style to left-right stops it walking upside down!",
+   "scene": 4
+  },
+  {
+   "start": 47.54,
+   "end": 50.62,
+   "text": "Now animate your own sprite in the Code Lab!",
+   "scene": 5
+  }
+ ]
+}

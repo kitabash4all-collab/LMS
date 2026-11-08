@@ -1,0 +1,167 @@
+{
+ "duration": 129.08,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.64,
+   "text": "It’s project time, and today you are a party planner with two thousand rupees to spend!",
+   "scene": 0
+  },
+  {
+   "start": 5.64,
+   "end": 10.19,
+   "text": "You have ₹2,000 to plan a birthday party for ten friends.",
+   "scene": 1
+  },
+  {
+   "start": 10.19,
+   "end": 13.72,
+   "text": "You must keep at least ₹200 as savings.",
+   "scene": 1
+  },
+  {
+   "start": 13.72,
+   "end": 17.86,
+   "text": "Your plan must cover the must-haves before any nice-to-haves.",
+   "scene": 1
+  },
+  {
+   "start": 17.86,
+   "end": 21.66,
+   "text": "Must-haves are the things the party cannot happen without.",
+   "scene": 2
+  },
+  {
+   "start": 21.66,
+   "end": 27.82,
+   "text": "For our party, they are a cake, snacks, drinks and simple decorations.",
+   "scene": 2
+  },
+  {
+   "start": 27.82,
+   "end": 30.21,
+   "text": "Price these first and add them up.",
+   "scene": 2
+  },
+  {
+   "start": 30.21,
+   "end": 37.31,
+   "text": "Nice-to-haves make the party extra fun, like return gifts, a magician or a music speaker.",
+   "scene": 3
+  },
+  {
+   "start": 37.31,
+   "end": 41.62,
+   "text": "Choose them only with the money left after the must-haves and savings.",
+   "scene": 3
+  },
+  {
+   "start": 41.62,
+   "end": 45.15,
+   "text": "You cannot have them all, so pick your favourites.",
+   "scene": 3
+  },
+  {
+   "start": 45.15,
+   "end": 48.77,
+   "text": "Show your plan to the class like a real party planner.",
+   "scene": 4
+  },
+  {
+   "start": 48.77,
+   "end": 53.23,
+   "text": "Say your total, your savings and one hard choice you made.",
+   "scene": 4
+  },
+  {
+   "start": 53.23,
+   "end": 55.72,
+   "text": "Explain what you gave up and why.",
+   "scene": 4
+  },
+  {
+   "start": 55.72,
+   "end": 61.26,
+   "text": "Our party budget is two thousand rupees, and we will keep two hundred rupees as savings.",
+   "scene": 5
+  },
+  {
+   "start": 61.26,
+   "end": 66.88,
+   "text": "The cake, snacks, drinks and decorations add up to one thousand three hundred rupees.",
+   "scene": 5
+  },
+  {
+   "start": 66.88,
+   "end": 73.39,
+   "text": "Two thousand minus one thousand three hundred is seven hundred rupees.",
+   "scene": 5
+  },
+  {
+   "start": 73.39,
+   "end": 79.09,
+   "text": "Take away the two hundred rupees of savings, and five hundred rupees is left for nice-to-haves.",
+   "scene": 5
+  },
+  {
+   "start": 79.09,
+   "end": 86.07,
+   "text": "Meera really wants a magician, but the magician costs eight hundred rupees.",
+   "scene": 6
+  },
+  {
+   "start": 86.07,
+   "end": 91.71,
+   "text": "That is more than the five hundred rupees she has for nice-to-haves.",
+   "scene": 6
+  },
+  {
+   "start": 91.71,
+   "end": 97.78,
+   "text": "Return gifts and party hats together cost four hundred rupees, and they fit.",
+   "scene": 6
+  },
+  {
+   "start": 97.78,
+   "end": 103.99,
+   "text": "Meera chooses the return gifts and hats, and she says what she gave up when she presents.",
+   "scene": 6
+  },
+  {
+   "start": 103.99,
+   "end": 107.53,
+   "text": "A great presentation shows every item and its price, so anyone can check your maths.",
+   "scene": 7
+  },
+  {
+   "start": 107.53,
+   "end": 112.49,
+   "text": "Say your total spending and how much you saved.",
+   "scene": 7
+  },
+  {
+   "start": 112.49,
+   "end": 115.68,
+   "text": "Then share one hard choice, and what you gave up to make it.",
+   "scene": 7
+  },
+  {
+   "start": 115.68,
+   "end": 122.87,
+   "text": "Speak slowly and clearly, and smile, because you are the party planner today.",
+   "scene": 7
+  },
+  {
+   "start": 122.87,
+   "end": 125.97,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 8
+  },
+  {
+   "start": 125.97,
+   "end": 128.77,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 8
+  }
+ ]
+}

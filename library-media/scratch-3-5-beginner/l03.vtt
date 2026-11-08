@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:02.170
+It is project time!
+
+2
+00:00:02.170 --> 00:00:07.470
+You will turn your name into an animation that reacts when people click it.
+
+3
+00:00:07.470 --> 00:00:11.170
+Each letter of your name will be its own sprite.
+
+4
+00:00:11.170 --> 00:00:17.310
+When someone clicks a letter, it spins, grows, changes colour or makes a sound.
+
+5
+00:00:17.310 --> 00:00:21.110
+And the green flag puts every letter back to normal.
+
+6
+00:00:21.110 --> 00:00:25.740
+Here are two ideas.
+
+7
+00:00:25.740 --> 00:00:29.490
+The first letter changes colour and pops. The second grows, waits, then shrinks back.
+
+8
+00:00:29.490 --> 00:00:35.930
+After lots of clicks, your letters might be big, upside down and rainbow coloured!
+
+9
+00:00:35.930 --> 00:00:43.360
+A reset script under the green flag puts each letter back, so your project always starts the same way.
+
+10
+00:00:43.360 --> 00:00:46.360
+Real programmers work in a cycle.
+
+11
+00:00:46.360 --> 00:00:51.810
+Plan, build a little, test it, fix it, and then share it.
+
+12
+00:00:51.810 --> 00:00:55.980
+Use the checklist as you work. Have fun, and be creative!

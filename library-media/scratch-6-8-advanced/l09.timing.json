@@ -1,0 +1,65 @@
+{
+ "duration": 49.73,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14.08,
+   "text": "It’s project time! Build a messenger that encrypts and decrypts with a Caesar cipher: a menu, message and key inputs, one shift procedure used for both directions, validation, and round-trip tests.",
+   "scene": 0
+  },
+  {
+   "start": 14.08,
+   "end": 15.61,
+   "text": "A menu: 1 to encrypt, 2 to decrypt.",
+   "scene": 1
+  },
+  {
+   "start": 15.61,
+   "end": 19.21,
+   "text": "Ask for the message and the key, then show the result.",
+   "scene": 1
+  },
+  {
+   "start": 19.21,
+   "end": 23.59,
+   "text": "Write shift (amount) once.",
+   "scene": 2
+  },
+  {
+   "start": 23.59,
+   "end": 28.23,
+   "text": "Encrypt calls it with the key; decrypt calls it with minus the key.",
+   "scene": 2
+  },
+  {
+   "start": 28.23,
+   "end": 33.2,
+   "text": "The menu choice must be 1 or 2; the key should be a number from 1 to 25.",
+   "scene": 3
+  },
+  {
+   "start": 33.2,
+   "end": 40.08,
+   "text": "Encrypt a message, then decrypt the result with the same key.",
+   "scene": 4
+  },
+  {
+   "start": 40.08,
+   "end": 42.67,
+   "text": "You must get the original back.",
+   "scene": 4
+  },
+  {
+   "start": 42.67,
+   "end": 46.34,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 46.34,
+   "end": 49.4,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

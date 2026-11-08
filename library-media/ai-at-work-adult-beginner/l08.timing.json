@@ -1,0 +1,167 @@
+{
+ "duration": 160.76,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.52,
+   "text": "Project time! Today you will turn one boring weekly task into a fast, safe AI routine.",
+   "scene": 0
+  },
+  {
+   "start": 6.52,
+   "end": 13.96,
+   "text": "Pick one task you do every week, like a sales report, a parents’ newsletter or a client reminder list.",
+   "scene": 1
+  },
+  {
+   "start": 13.96,
+   "end": 18.88,
+   "text": "Write every step in order and time each one with your phone stopwatch.",
+   "scene": 1
+  },
+  {
+   "start": 18.88,
+   "end": 22.41,
+   "text": "This gives you the “before” time to compare with later.",
+   "scene": 1
+  },
+  {
+   "start": 22.41,
+   "end": 28.87,
+   "text": "Mark which steps AI can draft, such as summarising, formatting or translating.",
+   "scene": 2
+  },
+  {
+   "start": 28.87,
+   "end": 35.75,
+   "text": "Mark where a person must decide or check, like numbers, promises and anything sent to clients.",
+   "scene": 2
+  },
+  {
+   "start": 35.75,
+   "end": 40.31,
+   "text": "Always remove private details before any step that uses AI.",
+   "scene": 2
+  },
+  {
+   "start": 40.31,
+   "end": 51.22,
+   "text": "Save the prompts from your library, a custom assistant from lesson 7, or a spreadsheet template from lesson 4.",
+   "scene": 3
+  },
+  {
+   "start": 51.22,
+   "end": 53.72,
+   "text": "Write a one-page routine card: step, tool, prompt, check.",
+   "scene": 3
+  },
+  {
+   "start": 53.72,
+   "end": 60.13,
+   "text": "Next week, you simply follow the card step by step.",
+   "scene": 3
+  },
+  {
+   "start": 60.13,
+   "end": 65.28,
+   "text": "Do the task the new way and time it again, including your checking time.",
+   "scene": 4
+  },
+  {
+   "start": 65.28,
+   "end": 73.67,
+   "text": "Present a 3-minute demo: the task, before and after times, one mistake you caught, and your responsible-use checklist.",
+   "scene": 4
+  },
+  {
+   "start": 73.67,
+   "end": 77.09,
+   "text": "Start with paper, not AI: write every step of your weekly task in order.",
+   "scene": 5
+  },
+  {
+   "start": 77.09,
+   "end": 85.52,
+   "text": "Time each step, because you cannot prove time saved without a before number.",
+   "scene": 5
+  },
+  {
+   "start": 85.52,
+   "end": 92.68,
+   "text": "Circle the slow, repetitive steps, because that is where AI usually helps most.",
+   "scene": 5
+  },
+  {
+   "start": 92.68,
+   "end": 100.22,
+   "text": "We describe our weekly task to Claude and ask where AI can help and where we must check.",
+   "scene": 6
+  },
+  {
+   "start": 100.22,
+   "end": 105.68,
+   "text": "The table is useful: AI drafts and writes formulas, and we check numbers and send.",
+   "scene": 6
+  },
+  {
+   "start": 105.68,
+   "end": 111.48,
+   "text": "But look at the tip at the end: it suggests uploading customer names and phone numbers.",
+   "scene": 6
+  },
+  {
+   "start": 111.48,
+   "end": 118.42,
+   "text": "That breaks our privacy rule, so we ignore it, because you set the rules, not the AI.",
+   "scene": 6
+  },
+  {
+   "start": 118.42,
+   "end": 124.11,
+   "text": "Now we save one reusable prompt that turns any week’s table into a five-line update.",
+   "scene": 7
+  },
+  {
+   "start": 124.11,
+   "end": 132.42,
+   "text": "It says use only the numbers I give, so the AI does not invent figures.",
+   "scene": 7
+  },
+  {
+   "start": 132.42,
+   "end": 134.88,
+   "text": "Next week, the routine is: clean, total, paste, check, send.",
+   "scene": 7
+  },
+  {
+   "start": 134.88,
+   "end": 138.52,
+   "text": "Measure the new way honestly, and include the time you spend checking.",
+   "scene": 8
+  },
+  {
+   "start": 138.52,
+   "end": 146.29,
+   "text": "Ninety minutes before and thirty-five after means fifty-five minutes saved every week.",
+   "scene": 8
+  },
+  {
+   "start": 146.29,
+   "end": 152.49,
+   "text": "That is your headline for the demo, along with one mistake you caught.",
+   "scene": 8
+  },
+  {
+   "start": 152.49,
+   "end": 156.67,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 156.67,
+   "end": 160.44,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "duration": 141.99,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.82,
+   "text": "Numbers tell stories. Today you collect real data, let AI help you read it, and check that the story is true.",
+   "scene": 0
+  },
+  {
+   "start": 7.82,
+   "end": 13.26,
+   "text": "Ask one clear question with a few choices, like what is your favourite sport.",
+   "scene": 1
+  },
+  {
+   "start": 13.26,
+   "end": 16.49,
+   "text": "Keep it anonymous, so nobody writes their name.",
+   "scene": 1
+  },
+  {
+   "start": 16.49,
+   "end": 20.21,
+   "text": "Make sure every person can pick exactly one answer.",
+   "scene": 1
+  },
+  {
+   "start": 20.21,
+   "end": 23.97,
+   "text": "Put the answers in a spreadsheet, one answer per row.",
+   "scene": 2
+  },
+  {
+   "start": 23.97,
+   "end": 28.27,
+   "text": "Use a formula like COUNTIF to count each choice for you.",
+   "scene": 2
+  },
+  {
+   "start": 28.27,
+   "end": 31.76,
+   "text": "The sheet does the maths, and you can check it.",
+   "scene": 2
+  },
+  {
+   "start": 31.76,
+   "end": 36.61,
+   "text": "Paste only the counts into the AI, never names or personal details.",
+   "scene": 3
+  },
+  {
+   "start": 36.61,
+   "end": 40.71,
+   "text": "Ask for the percentages, three findings, and its working.",
+   "scene": 3
+  },
+  {
+   "start": 40.71,
+   "end": 44.3,
+   "text": "A summary is only useful if the numbers are right.",
+   "scene": 3
+  },
+  {
+   "start": 44.3,
+   "end": 49.81,
+   "text": "AI often slips with maths, so check the total and each percentage yourself.",
+   "scene": 4
+  },
+  {
+   "start": 49.81,
+   "end": 56.66,
+   "text": "Percentages for one question should add up to about one hundred.",
+   "scene": 4
+  },
+  {
+   "start": 56.66,
+   "end": 59.34,
+   "text": "If a number is wrong, fix it before it goes in your report.",
+   "scene": 4
+  },
+  {
+   "start": 59.34,
+   "end": 64.69,
+   "text": "Use a bar chart to compare choices and a pie chart to show parts of one whole.",
+   "scene": 5
+  },
+  {
+   "start": 64.69,
+   "end": 69.19,
+   "text": "Use a line chart for change over time, like rainfall each month.",
+   "scene": 5
+  },
+  {
+   "start": 69.19,
+   "end": 72.39,
+   "text": "Always give the chart a title and labels.",
+   "scene": 5
+  },
+  {
+   "start": 72.39,
+   "end": 79.06,
+   "text": "Each student gets a code like S zero one instead of a name, so the survey stays anonymous.",
+   "scene": 6
+  },
+  {
+   "start": 79.06,
+   "end": 85,
+   "text": "COUNTIF counts how many times each sport appears, and SUM checks the total.",
+   "scene": 6
+  },
+  {
+   "start": 85,
+   "end": 90.26,
+   "text": "Twenty five answers in, twenty five counted, so the counting is correct.",
+   "scene": 6
+  },
+  {
+   "start": 90.26,
+   "end": 94.99,
+   "text": "The AI showed its working, which makes it easy for us to check.",
+   "scene": 7
+  },
+  {
+   "start": 94.99,
+   "end": 102.4,
+   "text": "Three divided by twenty five is twelve percent, not fifteen, so the total comes to one hundred and three.",
+   "scene": 7
+  },
+  {
+   "start": 102.4,
+   "end": 108.74,
+   "text": "Finding one says more than half chose cricket, but forty eight percent is less than half.",
+   "scene": 7
+  },
+  {
+   "start": 108.74,
+   "end": 113.33,
+   "text": "Two mistakes caught, just by checking the maths ourselves.",
+   "scene": 7
+  },
+  {
+   "start": 113.33,
+   "end": 118.22,
+   "text": "You make the chart in the spreadsheet yourself, straight from the checked counts.",
+   "scene": 8
+  },
+  {
+   "start": 118.22,
+   "end": 122.9,
+   "text": "A clear title and labels tell the reader exactly what the chart shows.",
+   "scene": 8
+  },
+  {
+   "start": 122.9,
+   "end": 128.56,
+   "text": "Your report has the question, a chart, three findings, and an honest label.",
+   "scene": 9
+  },
+  {
+   "start": 128.56,
+   "end": 133.43,
+   "text": "If the AI helped, say so, and say that you checked the numbers.",
+   "scene": 9
+  },
+  {
+   "start": 133.43,
+   "end": 135.45,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 135.45,
+   "end": 141.67,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

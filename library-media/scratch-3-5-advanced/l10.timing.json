@@ -1,0 +1,71 @@
+{
+ "duration": 51.79,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.22,
+   "text": "Real programmers hate writing the same code twice. Today you’ll invent your own Scratch blocks!",
+   "scene": 0
+  },
+  {
+   "start": 7.22,
+   "end": 11.08,
+   "text": "Make a Block lets you give a name to a group of blocks.",
+   "scene": 1
+  },
+  {
+   "start": 11.08,
+   "end": 17.63,
+   "text": "Then one block does the whole job — your code gets shorter and easier to read.",
+   "scene": 1
+  },
+  {
+   "start": 17.63,
+   "end": 23.02,
+   "text": "An input (like size) is a value you give the block when you use it.",
+   "scene": 2
+  },
+  {
+   "start": 23.02,
+   "end": 26.6,
+   "text": "The same block can draw a small square or a big one.",
+   "scene": 2
+  },
+  {
+   "start": 26.6,
+   "end": 29.65,
+   "text": "The define hat says what the block does.",
+   "scene": 3
+  },
+  {
+   "start": 29.65,
+   "end": 34.33,
+   "text": "Using the block anywhere runs that code with the input you gave it.",
+   "scene": 3
+  },
+  {
+   "start": 34.33,
+   "end": 40.47,
+   "text": "If there’s a bug in your block, fix the define script once and every use is fixed.",
+   "scene": 4
+  },
+  {
+   "start": 40.47,
+   "end": 43.43,
+   "text": "That’s why programmers love procedures.",
+   "scene": 4
+  },
+  {
+   "start": 43.43,
+   "end": 45.02,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 45.02,
+   "end": 51.45,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

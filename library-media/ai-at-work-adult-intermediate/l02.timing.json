@@ -1,0 +1,209 @@
+{
+ "duration": 210.87,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.8,
+   "text": "Today you will build a weekly dashboard that does its own sums, and you will learn to prove that every number is right.",
+   "scene": 0
+  },
+  {
+   "start": 6.8,
+   "end": 11.36,
+   "text": "In Level 1 you used SUMIF for one condition, like one region.",
+   "scene": 1
+  },
+  {
+   "start": 11.36,
+   "end": 23.38,
+   "text": "SUMIFS and COUNTIFS check several conditions at once, such as this week, delivered only, and paid on credit.",
+   "scene": 1
+  },
+  {
+   "start": 23.38,
+   "end": 26.3,
+   "text": "You describe the conditions in plain words, and the AI writes the formula.",
+   "scene": 1
+  },
+  {
+   "start": 26.3,
+   "end": 31.22,
+   "text": "The AI can write cleaning formulas for you.",
+   "scene": 2
+  },
+  {
+   "start": 31.22,
+   "end": 39.53,
+   "text": "TRIM removes extra spaces, and a check column shows OK or Check when an amount is not quantity times rate.",
+   "scene": 2
+  },
+  {
+   "start": 39.53,
+   "end": 44.79,
+   "text": "Clean the data first, or every total after it will be wrong.",
+   "scene": 2
+  },
+  {
+   "start": 44.79,
+   "end": 49.8,
+   "text": "Put the week start date in one cell, and point every formula at that cell.",
+   "scene": 3
+  },
+  {
+   "start": 49.8,
+   "end": 54.47,
+   "text": "Change the date or add new rows, and the whole dashboard recalculates.",
+   "scene": 3
+  },
+  {
+   "start": 54.47,
+   "end": 62.19,
+   "text": "The TEXT function turns dates and amounts into neat labels, such as Week of 19 Oct.",
+   "scene": 3
+  },
+  {
+   "start": 62.19,
+   "end": 68.87,
+   "text": "Conditional formatting colours a cell automatically when a rule is true, such as red when sales are below target.",
+   "scene": 4
+  },
+  {
+   "start": 68.87,
+   "end": 73.73,
+   "text": "The AI can write the rule for you.",
+   "scene": 4
+  },
+  {
+   "start": 73.73,
+   "end": 79.97,
+   "text": "Colour helps you notice a problem, but you still decide what to do.",
+   "scene": 4
+  },
+  {
+   "start": 79.97,
+   "end": 85.32,
+   "text": "A formula can look perfect and still be wrong by one day or one condition.",
+   "scene": 5
+  },
+  {
+   "start": 85.32,
+   "end": 89.89,
+   "text": "Check one number yourself with a filter and compare it with the dashboard.",
+   "scene": 5
+  },
+  {
+   "start": 89.89,
+   "end": 96.95,
+   "text": "If they differ, find out why before you share anything.",
+   "scene": 5
+  },
+  {
+   "start": 96.95,
+   "end": 99.21,
+   "text": "We upload the practice orders file and ask Claude what would make our weekly totals wrong.",
+   "scene": 6
+  },
+  {
+   "start": 99.21,
+   "end": 105.09,
+   "text": "It finds a duplicate order, extra spaces, amounts typed as text, and one blank amount.",
+   "scene": 6
+  },
+  {
+   "start": 105.09,
+   "end": 112.06,
+   "text": "Best of all, it suggests a check column that flags every row where the amount does not add up.",
+   "scene": 6
+  },
+  {
+   "start": 112.06,
+   "end": 118.62,
+   "text": "We fix each problem ourselves in the sheet, until every row in the check column says OK.",
+   "scene": 6
+  },
+  {
+   "start": 118.62,
+   "end": 125.35,
+   "text": "Here is the whole dashboard, and every formula points at one cell, B1, the week start date.",
+   "scene": 7
+  },
+  {
+   "start": 125.35,
+   "end": 132.15,
+   "text": "SUMIFS adds the amounts for this week and delivered orders only, and COUNTIFS counts them.",
+   "scene": 7
+  },
+  {
+   "start": 132.15,
+   "end": 138.56,
+   "text": "The credit formula adds one more condition, so it only counts orders paid on credit.",
+   "scene": 7
+  },
+  {
+   "start": 138.56,
+   "end": 146.06,
+   "text": "For the week of nineteenth October, delivered sales are fifteen thousand, three hundred and ten rupees.",
+   "scene": 7
+  },
+  {
+   "start": 146.06,
+   "end": 154.33,
+   "text": "Now we ask Gemini for the weekly sales formula, without saying exactly where the week ends.",
+   "scene": 8
+  },
+  {
+   "start": 154.33,
+   "end": 161.01,
+   "text": "The formula looks right, and it gives sixteen thousand, five hundred and thirty rupees.",
+   "scene": 8
+  },
+  {
+   "start": 161.01,
+   "end": 166.96,
+   "text": "But our filter check, for nineteenth to twenty-fifth October, says fifteen thousand, three hundred and ten.",
+   "scene": 8
+  },
+  {
+   "start": 166.96,
+   "end": 175.55,
+   "text": "The less-than-or-equal sign also counted next Monday, so we change it to less than, and the numbers match.",
+   "scene": 8
+  },
+  {
+   "start": 175.55,
+   "end": 182.85,
+   "text": "Conditional formatting turns a number into a signal, green for on target and red for below.",
+   "scene": 9
+  },
+  {
+   "start": 182.85,
+   "end": 189.05,
+   "text": "The dollar sign in the row rule keeps the colour on the whole row, not just one cell.",
+   "scene": 9
+  },
+  {
+   "start": 189.05,
+   "end": 194.8,
+   "text": "Now change the week date, and watch every number and colour update by itself.",
+   "scene": 9
+  },
+  {
+   "start": 194.8,
+   "end": 201.63,
+   "text": "Finally, check one total with a filter, because a dashboard is only useful when it is right.",
+   "scene": 9
+  },
+  {
+   "start": 201.63,
+   "end": 205.09,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 205.09,
+   "end": 210.57,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

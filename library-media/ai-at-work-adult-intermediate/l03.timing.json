@@ -1,0 +1,239 @@
+{
+ "duration": 218.15,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.4,
+   "text": "Today you will build a small workflow: a form collects answers, AI finds the themes, and a script emails you the summary.",
+   "scene": 0
+  },
+  {
+   "start": 9.4,
+   "end": 15.32,
+   "text": "Google Forms and Microsoft Forms collect answers in the same shape every time.",
+   "scene": 1
+  },
+  {
+   "start": 15.32,
+   "end": 19.71,
+   "text": "The answers go straight into a sheet, so nobody retypes anything.",
+   "scene": 1
+  },
+  {
+   "start": 19.71,
+   "end": 23.93,
+   "text": "Turn off collecting email addresses unless you really need them.",
+   "scene": 1
+  },
+  {
+   "start": 23.93,
+   "end": 31.72,
+   "text": "Remove any personal details, then paste the comments and ask for themes with counts and exact quotes.",
+   "scene": 2
+  },
+  {
+   "start": 31.72,
+   "end": 36.05,
+   "text": "Tell the AI to quote word for word and not to invent anything.",
+   "scene": 2
+  },
+  {
+   "start": 36.05,
+   "end": 41.11,
+   "text": "Then check the biggest claims yourself with COUNTIF or a filter.",
+   "scene": 2
+  },
+  {
+   "start": 41.11,
+   "end": 46.72,
+   "text": "Apps Script is a helper built into Google Sheets that runs small programs.",
+   "scene": 3
+  },
+  {
+   "start": 46.72,
+   "end": 52.49,
+   "text": "The AI can write a script that reads the responses and emails you a summary.",
+   "scene": 3
+  },
+  {
+   "start": 52.49,
+   "end": 57.98,
+   "text": "You do not need to be a programmer, but you must understand every line before you run it.",
+   "scene": 3
+  },
+  {
+   "start": 57.98,
+   "end": 62.75,
+   "text": "Before running any script, ask the AI to explain it line by line.",
+   "scene": 4
+  },
+  {
+   "start": 62.75,
+   "end": 69.65,
+   "text": "Make sure it only reads data, emails only you, and sends one email, not one for every row.",
+   "scene": 4
+  },
+  {
+   "start": 69.65,
+   "end": 74.33,
+   "text": "Test it on a copy of the sheet first, and know how to switch it off.",
+   "scene": 4
+  },
+  {
+   "start": 74.33,
+   "end": 79.52,
+   "text": "A trigger runs your script automatically, for example every Monday morning.",
+   "scene": 5
+  },
+  {
+   "start": 79.52,
+   "end": 85.67,
+   "text": "With Microsoft Forms, Power Automate can do a similar job, and Zapier works with both.",
+   "scene": 5
+  },
+  {
+   "start": 85.67,
+   "end": 91.36,
+   "text": "They have free plans, but check the current free plan and your company rules first.",
+   "scene": 5
+  },
+  {
+   "start": 91.36,
+   "end": 96.91,
+   "text": "A form collects every answer in the same shape, which makes summarising easy.",
+   "scene": 6
+  },
+  {
+   "start": 96.91,
+   "end": 102.79,
+   "text": "Keep email collection off for honest, anonymous feedback, unless you truly need it.",
+   "scene": 6
+  },
+  {
+   "start": 102.79,
+   "end": 108.71,
+   "text": "Link the form to a sheet, and every new answer lands in a new row by itself.",
+   "scene": 6
+  },
+  {
+   "start": 108.71,
+   "end": 114.47,
+   "text": "For practice, we use eighteen invented responses from a workshop feedback form.",
+   "scene": 6
+  },
+  {
+   "start": 114.47,
+   "end": 121.17,
+   "text": "First we deleted a phone number that one person typed into a comment, then we pasted the responses.",
+   "scene": 7
+  },
+  {
+   "start": 121.17,
+   "end": 127.92,
+   "text": "Claude groups the comments into four themes, with a count and an exact quote for each.",
+   "scene": 7
+  },
+  {
+   "start": 127.92,
+   "end": 132.69,
+   "text": "But the first theme says over half of the people found it too fast.",
+   "scene": 7
+  },
+  {
+   "start": 132.69,
+   "end": 139.75,
+   "text": "A quick COUNTIF finds only five comments out of eighteen, so we correct the summary before sharing.",
+   "scene": 7
+  },
+  {
+   "start": 139.75,
+   "end": 144.96,
+   "text": "Now we ask ChatGPT for a small script that emails us one summary.",
+   "scene": 8
+  },
+  {
+   "start": 144.96,
+   "end": 150.52,
+   "text": "The script reads the rows, adds up the ratings, and counts the low ones.",
+   "scene": 8
+  },
+  {
+   "start": 150.52,
+   "end": 155.5,
+   "text": "But look where the email line sits: inside the loop that visits every row.",
+   "scene": 8
+  },
+  {
+   "start": 155.5,
+   "end": 161.26,
+   "text": "That would send eighteen emails, so we move it after the loop, where it runs only once.",
+   "scene": 8
+  },
+  {
+   "start": 161.26,
+   "end": 166.62,
+   "text": "Here is the checked script, and the comments explain each part in plain words.",
+   "scene": 9
+  },
+  {
+   "start": 166.62,
+   "end": 171.67,
+   "text": "It opens the responses tab, reads every row, and skips the heading row.",
+   "scene": 9
+  },
+  {
+   "start": 171.67,
+   "end": 175.88,
+   "text": "The loop adds up the ratings and counts how many were one or two.",
+   "scene": 9
+  },
+  {
+   "start": 175.88,
+   "end": 182.19,
+   "text": "After the loop, it works out the average and sends exactly one email, only to you.",
+   "scene": 9
+  },
+  {
+   "start": 182.19,
+   "end": 187.14,
+   "text": "It never changes or deletes anything, and that is the first thing you check.",
+   "scene": 9
+  },
+  {
+   "start": 187.14,
+   "end": 193.28,
+   "text": "Always practise on a copy, so a mistake can never touch the real responses.",
+   "scene": 10
+  },
+  {
+   "start": 193.28,
+   "end": 199.27,
+   "text": "The first time, Google asks for permission, so read exactly what the script wants to do.",
+   "scene": 10
+  },
+  {
+   "start": 199.27,
+   "end": 202.95,
+   "text": "Check your inbox for one email with the right numbers.",
+   "scene": 10
+  },
+  {
+   "start": 202.95,
+   "end": 209.14,
+   "text": "Only then add a weekly trigger, and note how to delete it if you ever need to stop it.",
+   "scene": 10
+  },
+  {
+   "start": 209.14,
+   "end": 213.03,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 213.03,
+   "end": 217.85,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

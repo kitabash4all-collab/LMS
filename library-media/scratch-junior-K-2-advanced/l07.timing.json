@@ -1,0 +1,77 @@
+{
+ "duration": 50.35,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.29,
+   "text": "In this lesson, you will learn to explain how one character can send a message that starts another character’s script, and plan a relay.",
+   "scene": 0
+  },
+  {
+   "start": 8.29,
+   "end": 13.31,
+   "text": "The orange envelope block sends a message — like passing a note.",
+   "scene": 1
+  },
+  {
+   "start": 13.31,
+   "end": 18.67,
+   "text": "The yellow “start on message” block waits for that message, then runs.",
+   "scene": 2
+  },
+  {
+   "start": 18.67,
+   "end": 20.84,
+   "text": "Messages have colours.",
+   "scene": 3
+  },
+  {
+   "start": 20.84,
+   "end": 24.43,
+   "text": "A red message only starts scripts waiting for red.",
+   "scene": 3
+  },
+  {
+   "start": 24.43,
+   "end": 27.6,
+   "text": "Rabbit runs, then sends a message.",
+   "scene": 4
+  },
+  {
+   "start": 27.6,
+   "end": 30.32,
+   "text": "Turtle gets it and runs next.",
+   "scene": 4
+  },
+  {
+   "start": 30.32,
+   "end": 31.81,
+   "text": "Teamwork!",
+   "scene": 4
+  },
+  {
+   "start": 31.81,
+   "end": 38.5,
+   "text": "The rabbit runs to the turtle (star) and says “Your turn!” — that’s the message.",
+   "scene": 5
+  },
+  {
+   "start": 38.5,
+   "end": 41.98,
+   "text": "Message passed — now the turtle can go!",
+   "scene": 5
+  },
+  {
+   "start": 41.98,
+   "end": 45.6,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 45.6,
+   "end": 50.01,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

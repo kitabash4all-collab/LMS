@@ -1,0 +1,77 @@
+{
+ "duration": 57.95,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.88,
+   "text": "In this lesson, you will learn to complete bubble sort with nested loops, sort in either order, and measure how the number of comparisons grows with the list size.",
+   "scene": 0
+  },
+  {
+   "start": 9.88,
+   "end": 12.4,
+   "text": "One pass puts the largest at the end.",
+   "scene": 1
+  },
+  {
+   "start": 12.4,
+   "end": 18.16,
+   "text": "Repeat the pass (n − 1) times and every value reaches its place: that’s bubble sort.",
+   "scene": 1
+  },
+  {
+   "start": 18.16,
+   "end": 23.38,
+   "text": "Change > to < and the list sorts biggest-first — perfect for a leaderboard.",
+   "scene": 2
+  },
+  {
+   "start": 23.38,
+   "end": 26.87,
+   "text": "Bubble sort makes about n × n comparisons.",
+   "scene": 3
+  },
+  {
+   "start": 26.87,
+   "end": 30.1,
+   "text": "Double the list and the work roughly quadruples.",
+   "scene": 3
+  },
+  {
+   "start": 30.1,
+   "end": 33.71,
+   "text": "For 1,000 items that’s about a million comparisons.",
+   "scene": 3
+  },
+  {
+   "start": 33.71,
+   "end": 40.65,
+   "text": "Real apps use cleverer sorts (like merge sort) that take about n × log n steps.",
+   "scene": 4
+  },
+  {
+   "start": 40.65,
+   "end": 44.12,
+   "text": "Bubble sort is great for learning because it’s easy to see.",
+   "scene": 4
+  },
+  {
+   "start": 44.12,
+   "end": 50.35,
+   "text": "Nested loops in Python: the outer loop repeats the pass, the inner loop compares neighbours.",
+   "scene": 5
+  },
+  {
+   "start": 50.35,
+   "end": 53.8,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 53.8,
+   "end": 57.61,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

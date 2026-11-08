@@ -1,0 +1,143 @@
+{
+ "duration": 111.83,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.64,
+   "text": "A vague prompt gets a vague answer. Today you learn the formula that makes AI really useful.",
+   "scene": 0
+  },
+  {
+   "start": 6.64,
+   "end": 13.24,
+   "text": "Start by giving the AI a role, for example a friendly study coach or a patient maths tutor.",
+   "scene": 1
+  },
+  {
+   "start": 13.24,
+   "end": 18.11,
+   "text": "Then say the task clearly, so the AI knows exactly what to make.",
+   "scene": 1
+  },
+  {
+   "start": 18.11,
+   "end": 22.81,
+   "text": "Context is the useful background that helps the AI make the answer fit you.",
+   "scene": 2
+  },
+  {
+   "start": 22.81,
+   "end": 28.09,
+   "text": "Say your grade, your subjects, your exam dates and how much time you have.",
+   "scene": 2
+  },
+  {
+   "start": 28.09,
+   "end": 33.18,
+   "text": "Describe yourself generally, and never give your real name or school.",
+   "scene": 2
+  },
+  {
+   "start": 33.18,
+   "end": 36.34,
+   "text": "Format is the shape of the answer you want to get back.",
+   "scene": 3
+  },
+  {
+   "start": 36.34,
+   "end": 41.2,
+   "text": "Ask for a table, a numbered list, five bullet points or a short paragraph.",
+   "scene": 3
+  },
+  {
+   "start": 41.2,
+   "end": 45.01,
+   "text": "The right format makes the answer much easier to use.",
+   "scene": 3
+  },
+  {
+   "start": 45.01,
+   "end": 49.9,
+   "text": "Show a small example of what you want, and the AI will copy the pattern.",
+   "scene": 4
+  },
+  {
+   "start": 49.9,
+   "end": 54.57,
+   "text": "Say the tone too, like friendly, simple or encouraging.",
+   "scene": 4
+  },
+  {
+   "start": 54.57,
+   "end": 58.82,
+   "text": "The first answer the AI gives you is only a first draft.",
+   "scene": 5
+  },
+  {
+   "start": 58.82,
+   "end": 64.62,
+   "text": "Send a follow-up message, for example asking it to make Wednesday lighter or add short breaks.",
+   "scene": 5
+  },
+  {
+   "start": 64.62,
+   "end": 68.26,
+   "text": "Keep improving the answer until it really fits your week.",
+   "scene": 5
+  },
+  {
+   "start": 68.26,
+   "end": 71.36,
+   "text": "Here is a vague prompt with no details at all.",
+   "scene": 6
+  },
+  {
+   "start": 71.36,
+   "end": 76.27,
+   "text": "The answer is true, but it is so general that it does not really help anyone.",
+   "scene": 6
+  },
+  {
+   "start": 76.27,
+   "end": 82.27,
+   "text": "Now watch the same request with a role, a clear task, context, a format and a tone.",
+   "scene": 7
+  },
+  {
+   "start": 82.27,
+   "end": 87.09,
+   "text": "The answer is a table built around this learner’s real exam days and study time.",
+   "scene": 7
+  },
+  {
+   "start": 87.09,
+   "end": 93.07,
+   "text": "Look closely: the AI said the total was ten hours, but the rows do not add up to that.",
+   "scene": 8
+  },
+  {
+   "start": 93.07,
+   "end": 98.23,
+   "text": "We send a follow-up asking it to check the sum and to make Saturday lighter.",
+   "scene": 8
+  },
+  {
+   "start": 98.23,
+   "end": 104.38,
+   "text": "Always do a quick check of numbers yourself, because AI often makes small maths slips.",
+   "scene": 8
+  },
+  {
+   "start": 104.38,
+   "end": 107.25,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 107.25,
+   "end": 111.48,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

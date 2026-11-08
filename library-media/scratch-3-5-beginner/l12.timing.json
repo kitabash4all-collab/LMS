@@ -1,0 +1,59 @@
+{
+ "duration": 46.24,
+ "lines": [
+  {
+   "start": 0,
+   "end": 3.38,
+   "text": "This is it — your capstone project!",
+   "scene": 0
+  },
+  {
+   "start": 3.38,
+   "end": 6.99,
+   "text": "You will design and build your very own arcade game.",
+   "scene": 0
+  },
+  {
+   "start": 6.99,
+   "end": 12.23,
+   "text": "You can make a catch game, a maze game, a dodge game, or your own idea.",
+   "scene": 1
+  },
+  {
+   "start": 12.23,
+   "end": 14.42,
+   "text": "Pick one that excites you.",
+   "scene": 1
+  },
+  {
+   "start": 14.42,
+   "end": 22.82,
+   "text": "Your game must use everything you have learned: events, loops, if-then rules, a variable, and a win or lose ending.",
+   "scene": 2
+  },
+  {
+   "start": 22.82,
+   "end": 31.89,
+   "text": "Here is a skeleton every game can use: reset the score and timer, then keep checking for a win or a game over.",
+   "scene": 3
+  },
+  {
+   "start": 31.89,
+   "end": 35.81,
+   "text": "When a friend tests your game, watch without helping.",
+   "scene": 4
+  },
+  {
+   "start": 35.81,
+   "end": 40.37,
+   "text": "Ask for two stars and a wish, then improve one thing.",
+   "scene": 4
+  },
+  {
+   "start": 40.37,
+   "end": 45.9,
+   "text": "You have learned so much. Now make something amazing, and share it with the world!",
+   "scene": 5
+  }
+ ]
+}

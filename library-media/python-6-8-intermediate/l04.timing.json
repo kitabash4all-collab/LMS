@@ -1,0 +1,143 @@
+{
+ "duration": 102.55,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.15,
+   "text": "It is project time! Today you build a drawing studio where the user is the artist.",
+   "scene": 0
+  },
+  {
+   "start": 5.15,
+   "end": 11.56,
+   "text": "Give every shape its own function: draw_square(size), draw_star(size) and so on.",
+   "scene": 1
+  },
+  {
+   "start": 11.56,
+   "end": 14,
+   "text": "Each one is short and easy to test.",
+   "scene": 1
+  },
+  {
+   "start": 14,
+   "end": 16.98,
+   "text": "The main program just picks which one to call.",
+   "scene": 1
+  },
+  {
+   "start": 16.98,
+   "end": 21.54,
+   "text": "Ask the user for a shape, a colour and a size.",
+   "scene": 2
+  },
+  {
+   "start": 21.54,
+   "end": 26.86,
+   "text": "Clean the shape with .strip().lower() and turn the size into a number with int().",
+   "scene": 2
+  },
+  {
+   "start": 26.86,
+   "end": 29.77,
+   "text": "Then if, elif and else call the right function.",
+   "scene": 2
+  },
+  {
+   "start": 29.77,
+   "end": 32.34,
+   "text": "A while loop keeps the studio open.",
+   "scene": 3
+  },
+  {
+   "start": 32.34,
+   "end": 35.29,
+   "text": "Each time round it asks for a new shape.",
+   "scene": 3
+  },
+  {
+   "start": 35.29,
+   "end": 40.72,
+   "text": "When the user types done, set the loop variable to False and the studio closes.",
+   "scene": 3
+  },
+  {
+   "start": 40.72,
+   "end": 43.48,
+   "text": "Shapes on top of each other look messy.",
+   "scene": 4
+  },
+  {
+   "start": 43.48,
+   "end": 49.72,
+   "text": "A move_to_spot(number) function can lift the pen, goto a new place and put the pen down.",
+   "scene": 4
+  },
+  {
+   "start": 49.72,
+   "end": 52.65,
+   "text": "Then every shape gets its own space.",
+   "scene": 4
+  },
+  {
+   "start": 52.65,
+   "end": 56.76,
+   "text": "Each shape gets its own small function with a size parameter.",
+   "scene": 5
+  },
+  {
+   "start": 56.76,
+   "end": 63.35,
+   "text": "A star turns one hundred and forty-four degrees five times, and goes round the centre twice.",
+   "scene": 5
+  },
+  {
+   "start": 63.35,
+   "end": 69.05,
+   "text": "The user typed Star with a capital letter, and lower turns it into star.",
+   "scene": 6
+  },
+  {
+   "start": 69.05,
+   "end": 75.47,
+   "text": "The if and elif lines choose which shape function to call, with the size the user chose.",
+   "scene": 6
+  },
+  {
+   "start": 75.47,
+   "end": 79.57,
+   "text": "The while loop keeps asking for shapes while drawing is True.",
+   "scene": 7
+  },
+  {
+   "start": 79.57,
+   "end": 85.33,
+   "text": "Typing done switches drawing to False, so the loop ends and the studio closes.",
+   "scene": 7
+  },
+  {
+   "start": 85.33,
+   "end": 90.47,
+   "text": "Build one shape function, test it, and only then add the next.",
+   "scene": 8
+  },
+  {
+   "start": 90.47,
+   "end": 95.4,
+   "text": "When the menu works, wrap it in a loop and let a friend become the artist.",
+   "scene": 8
+  },
+  {
+   "start": 95.4,
+   "end": 98.66,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 98.66,
+   "end": 102.25,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "duration": 53.5,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.74,
+   "text": "A variable holds one thing. But what if your game needs to remember ten names, or fifty high scores? You need a list!",
+   "scene": 0
+  },
+  {
+   "start": 7.74,
+   "end": 12.69,
+   "text": "A list is like a variable with numbered boxes.",
+   "scene": 1
+  },
+  {
+   "start": 12.69,
+   "end": 15.99,
+   "text": "Item 1, item 2, item 3… One list can hold many words or numbers.",
+   "scene": 1
+  },
+  {
+   "start": 15.99,
+   "end": 23.24,
+   "text": "Use “item (2) of fruits” to read the second thing.",
+   "scene": 2
+  },
+  {
+   "start": 23.24,
+   "end": 26.93,
+   "text": "The length of the list tells you how many items it holds.",
+   "scene": 2
+  },
+  {
+   "start": 26.93,
+   "end": 30.57,
+   "text": "Lists remember items even after the program stops.",
+   "scene": 3
+  },
+  {
+   "start": 30.57,
+   "end": 35.87,
+   "text": "Use “delete all of” when the flag is clicked so the list doesn’t keep growing.",
+   "scene": 3
+  },
+  {
+   "start": 35.87,
+   "end": 40,
+   "text": "Pick a random position from 1 to the length of the list.",
+   "scene": 4
+  },
+  {
+   "start": 40,
+   "end": 44.95,
+   "text": "This is how games choose a random word, question or prize.",
+   "scene": 4
+  },
+  {
+   "start": 44.95,
+   "end": 48.62,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 48.62,
+   "end": 53.17,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

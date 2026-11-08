@@ -1,0 +1,65 @@
+{
+ "duration": 43.82,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.79,
+   "text": "In this lesson, you will learn to make a character say something with a speech-bubble block, at the right moment in a script.",
+   "scene": 0
+  },
+  {
+   "start": 7.79,
+   "end": 10.63,
+   "text": "The say block makes a speech bubble.",
+   "scene": 1
+  },
+  {
+   "start": 10.63,
+   "end": 13.49,
+   "text": "Type the words you want your character to say.",
+   "scene": 1
+  },
+  {
+   "start": 13.49,
+   "end": 19.69,
+   "text": "Put the say block where you want the talking to happen: at the start, in the middle or at the end.",
+   "scene": 2
+  },
+  {
+   "start": 19.69,
+   "end": 24.9,
+   "text": "A character can say “Hi!” at the start and “Bye!” at the end.",
+   "scene": 3
+  },
+  {
+   "start": 24.9,
+   "end": 30.21,
+   "text": "In ScratchJr you can also record your own voice with the green sound block.",
+   "scene": 4
+  },
+  {
+   "start": 30.21,
+   "end": 33.17,
+   "text": "Walk to the star, THEN say “Hello!”.",
+   "scene": 5
+  },
+  {
+   "start": 33.17,
+   "end": 35.77,
+   "text": "The cat walked, then said hello!",
+   "scene": 5
+  },
+  {
+   "start": 35.77,
+   "end": 39.09,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 39.09,
+   "end": 43.5,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

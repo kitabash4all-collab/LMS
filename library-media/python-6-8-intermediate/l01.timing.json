@@ -1,0 +1,149 @@
+{
+ "duration": 114.14,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.23,
+   "text": "Welcome to Level 2! Today your functions stop just printing and start giving answers back, like a real calculator.",
+   "scene": 0
+  },
+  {
+   "start": 7.23,
+   "end": 12.66,
+   "text": "A parameter is a name inside the brackets of def, like def strike_rate(runs, balls).",
+   "scene": 1
+  },
+  {
+   "start": 12.66,
+   "end": 17.31,
+   "text": "When you call the function you pass in values, called arguments.",
+   "scene": 1
+  },
+  {
+   "start": 17.31,
+   "end": 20.57,
+   "text": "Inside the function they work just like variables.",
+   "scene": 1
+  },
+  {
+   "start": 20.57,
+   "end": 25.64,
+   "text": "return sends a value back to the line that called the function.",
+   "scene": 2
+  },
+  {
+   "start": 25.64,
+   "end": 28.13,
+   "text": "You can store it, print it or use it in more maths.",
+   "scene": 2
+  },
+  {
+   "start": 28.13,
+   "end": 36.3,
+   "text": "A function with no return gives back None, which means nothing.",
+   "scene": 2
+  },
+  {
+   "start": 36.3,
+   "end": 41.85,
+   "text": "Put a formula inside a function and use it for every player. strike_rate(45, 30) and strike_rate(80, 50) run the same code.",
+   "scene": 3
+  },
+  {
+   "start": 41.85,
+   "end": 44.91,
+   "text": "Fix a bug once and every use is fixed.",
+   "scene": 3
+  },
+  {
+   "start": 44.91,
+   "end": 48.7,
+   "text": "A parameter can have a default value, like overs=20.",
+   "scene": 4
+  },
+  {
+   "start": 48.7,
+   "end": 52.39,
+   "text": "If you leave it out when you call the function, Python uses 20.",
+   "scene": 4
+  },
+  {
+   "start": 52.39,
+   "end": 55.37,
+   "text": "If you pass a value, your value wins.",
+   "scene": 4
+  },
+  {
+   "start": 55.37,
+   "end": 59.58,
+   "text": "This function takes two parameters, the runs and the balls faced.",
+   "scene": 5
+  },
+  {
+   "start": 59.58,
+   "end": 65.2,
+   "text": "The return line sends the answer back, and we store it in a variable called sr.",
+   "scene": 5
+  },
+  {
+   "start": 65.2,
+   "end": 70.81,
+   "text": "The first function only prints, so it gives nothing back and a holds None.",
+   "scene": 6
+  },
+  {
+   "start": 70.81,
+   "end": 76.78,
+   "text": "The second function returns its answer, so b holds the shout and we can use it later.",
+   "scene": 6
+  },
+  {
+   "start": 76.78,
+   "end": 80.7,
+   "text": "Five fours and two sixes make thirty-two runs from boundaries.",
+   "scene": 7
+  },
+  {
+   "start": 80.7,
+   "end": 87.64,
+   "text": "Because the function returns a number, we can add seven singles straight onto it.",
+   "scene": 7
+  },
+  {
+   "start": 87.64,
+   "end": 90.56,
+   "text": "When we leave out the overs, Python uses the default of twenty overs.",
+   "scene": 8
+  },
+  {
+   "start": 90.56,
+   "end": 95.1,
+   "text": "When we pass twelve, our value replaces the default for that call.",
+   "scene": 8
+  },
+  {
+   "start": 95.1,
+   "end": 100.88,
+   "text": "The function works out the answer, but it never sends it back.",
+   "scene": 9
+  },
+  {
+   "start": 100.88,
+   "end": 105.75,
+   "text": "Without the word return, the function gives back None. Add return and you get forty-two.",
+   "scene": 9
+  },
+  {
+   "start": 105.75,
+   "end": 110.13,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 110.13,
+   "end": 114.14,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

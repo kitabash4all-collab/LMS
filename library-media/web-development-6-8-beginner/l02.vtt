@@ -1,0 +1,113 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.320
+Today your pages get lists, links to other pages and pictures, the way real websites do.
+
+2
+00:00:07.320 --> 00:00:12.980
+The ul tag makes a bulleted list, and the ol tag makes a numbered list.
+
+3
+00:00:12.980 --> 00:00:16.280
+Each item goes inside its own li tag.
+
+4
+00:00:16.280 --> 00:00:18.690
+Use numbers when the order matters, like recipe steps.
+
+5
+00:00:18.690 --> 00:00:20.400
+The a tag turns words into a link you can click.
+
+6
+00:00:20.400 --> 00:00:24.160
+Its href part holds the web address to visit.
+
+7
+00:00:24.160 --> 00:00:30.780
+The words between the tags are what people click.
+
+8
+00:00:30.780 --> 00:00:36.460
+The img tag shows a picture, and its src part says where the picture lives.
+
+9
+00:00:36.460 --> 00:00:38.470
+An img tag is special, because it has no closing tag.
+
+10
+00:00:38.470 --> 00:00:40.700
+It just sits in the page like a stamp.
+
+11
+00:00:40.700 --> 00:00:43.910
+Alt text is a short description of the image.
+
+12
+00:00:43.910 --> 00:00:47.620
+Screen readers read it aloud for people who cannot see the picture.
+
+13
+00:00:47.620 --> 00:00:52.260
+It also shows up if the picture fails to load.
+
+14
+00:00:52.260 --> 00:00:55.830
+Pictures belong to the people who made them.
+
+15
+00:00:55.830 --> 00:01:00.120
+Use your own drawings, free placeholder images or free pictures that allow sharing.
+
+16
+00:01:00.120 --> 00:01:04.060
+Always write who made it under the picture.
+
+17
+00:01:04.060 --> 00:01:11.340
+The ul tag wraps the whole list, and each li tag holds one item.
+
+18
+00:01:11.340 --> 00:01:15.270
+The browser adds a round bullet in front of every item for us.
+
+19
+00:01:15.270 --> 00:01:18.850
+Swap ul for ol and the bullets become numbers.
+
+20
+00:01:18.850 --> 00:01:23.490
+If you add a new step in the middle, the browser renumbers everything for you.
+
+21
+00:01:23.490 --> 00:01:28.060
+The href holds the address, and the word mangoes is what you click.
+
+22
+00:01:28.060 --> 00:01:31.770
+Links are what join millions of pages into one giant web.
+
+23
+00:01:31.770 --> 00:01:36.970
+The src says where the picture lives, and the alt describes it in words.
+
+24
+00:01:36.970 --> 00:01:43.450
+If the picture cannot load, or someone uses a screen reader, the alt text tells them what it shows.
+
+25
+00:01:43.450 --> 00:01:49.430
+Two problems here. The list items never close, and the picture has no alt text.
+
+26
+00:01:49.430 --> 00:01:54.030
+Close every li tag, and always describe your picture with alt text.
+
+27
+00:01:54.030 --> 00:01:57.130
+Great work! Let’s remember what we learned.
+
+28
+00:01:57.130 --> 00:02:01.240
+Now build along, then try the challenges. You’ve got this!

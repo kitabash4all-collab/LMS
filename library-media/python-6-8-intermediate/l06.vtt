@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.490
+Today you become a text detective, cutting words apart and building the classic game of Hangman.
+
+2
+00:00:06.490 --> 00:00:17.740
+A string is a row of letters, and each one has an index starting at 0. city[0] is the first letter and city[-1] is the last. len(city) counts them all.
+
+3
+00:00:17.740 --> 00:00:23.810
+city[0:5] gives the letters from index 0 up to, but not including, index 5.
+
+4
+00:00:23.810 --> 00:00:31.200
+Leave a number out to start from the beginning or go to the end. city[::-1] gives the whole string backwards.
+
+5
+00:00:31.200 --> 00:00:42.590
+.upper(), .lower() and .title() change the capitals. .replace() swaps text, .count() counts it and .split() breaks a sentence into a list of words.
+
+6
+00:00:42.590 --> 00:00:47.040
+Each one makes a new string, because a string can never be changed.
+
+7
+00:00:47.040 --> 00:00:53.660
+"sam" in "samosa" is True, so in can search inside text. for letter in word: visits each letter in turn.
+
+8
+00:00:53.660 --> 00:00:55.910
+That is exactly what Hangman needs.
+
+9
+00:00:55.910 --> 00:01:03.040
+Index zero is the first letter, and minus one is the last letter.
+
+10
+00:01:03.040 --> 00:01:06.330
+The slice from zero to five gives five letters, stopping just before index five.
+
+11
+00:01:06.330 --> 00:01:13.960
+Title gives every word a capital letter, and replace swaps chai for lassi.
+
+12
+00:01:13.960 --> 00:01:16.880
+Count finds four letter a, and split breaks the sentence into a list of words.
+
+13
+00:01:16.880 --> 00:01:23.910
+The loop visits one letter at a time, from the first to the last.
+
+14
+00:01:23.910 --> 00:01:28.990
+Each time the letter is found inside the vowel string, we add one to the count.
+
+15
+00:01:28.990 --> 00:01:34.180
+This is the heart of Hangman: we show the letters already guessed.
+
+16
+00:01:34.180 --> 00:01:39.020
+Every other letter becomes an underscore, so the player sees the gaps.
+
+17
+00:01:39.020 --> 00:01:43.830
+Strings cannot be changed one letter at a time, so this line crashes.
+
+18
+00:01:43.830 --> 00:01:50.750
+Instead, build a new string, for example with word dot capitalize or by adding pieces together.
+
+19
+00:01:50.750 --> 00:01:53.620
+Great work! Let’s remember what we learned.
+
+20
+00:01:53.620 --> 00:01:58.070
+Now build along, then try the challenges. You’ve got this!

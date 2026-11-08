@@ -1,0 +1,65 @@
+{
+ "duration": 58.59,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8,
+   "text": "Spell-checkers, search boxes and password rules all process text one character at a time. Let’s learn how.",
+   "scene": 0
+  },
+  {
+   "start": 8,
+   "end": 16.86,
+   "text": "Text is a string of characters, each with a position. letter (1) of [apple] is a; length of [apple] is 5.",
+   "scene": 1
+  },
+  {
+   "start": 16.86,
+   "end": 23.88,
+   "text": "Same pattern as lists: i from 1 to the length, read letter i each time.",
+   "scene": 2
+  },
+  {
+   "start": 23.88,
+   "end": 28.05,
+   "text": "Start with an empty string and join letters onto it.",
+   "scene": 3
+  },
+  {
+   "start": 28.05,
+   "end": 32.76,
+   "text": "Joining each letter to the FRONT reverses the word.",
+   "scene": 3
+  },
+  {
+   "start": 32.76,
+   "end": 37.08,
+   "text": "A palindrome reads the same backwards: level, racecar, noon.",
+   "scene": 4
+  },
+  {
+   "start": 37.08,
+   "end": 39.87,
+   "text": "Reverse the word and compare it with the original.",
+   "scene": 4
+  },
+  {
+   "start": 39.87,
+   "end": 50.33,
+   "text": "In Python, a for loop can walk through the characters of a string, just like our Scratch loop.",
+   "scene": 5
+  },
+  {
+   "start": 50.33,
+   "end": 53.72,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 53.72,
+   "end": 58.28,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

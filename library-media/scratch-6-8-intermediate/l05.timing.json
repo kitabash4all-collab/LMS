@@ -1,0 +1,59 @@
+{
+ "duration": 54.7,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.66,
+   "text": "In this lesson, you will learn to break a problem into smaller procedures, build a solution from them, and refactor repeated code into a procedure.",
+   "scene": 0
+  },
+  {
+   "start": 10.66,
+   "end": 15.46,
+   "text": "Decomposition means breaking a big problem into smaller ones.",
+   "scene": 1
+  },
+  {
+   "start": 15.46,
+   "end": 21.18,
+   "text": "A house is a square plus a roof; a street is houses in a row.",
+   "scene": 1
+  },
+  {
+   "start": 21.18,
+   "end": 29.07,
+   "text": "Write and test the small procedures first (square, roof), then a bigger one (house) that calls them.",
+   "scene": 2
+  },
+  {
+   "start": 29.07,
+   "end": 33.85,
+   "text": "Once house works, you can use it without thinking about its details.",
+   "scene": 3
+  },
+  {
+   "start": 33.85,
+   "end": 37.57,
+   "text": "Abstraction hides complexity behind a simple name.",
+   "scene": 3
+  },
+  {
+   "start": 37.57,
+   "end": 46.65,
+   "text": "Refactoring is improving the structure of code without changing what it does — like replacing copy-pasted blocks with a procedure.",
+   "scene": 4
+  },
+  {
+   "start": 46.65,
+   "end": 50.08,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 50.08,
+   "end": 54.36,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "duration": 55.95,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.06,
+   "text": "Welcome back, coders! Today you will put a loop inside a loop to make amazing pattern art.",
+   "scene": 0
+  },
+  {
+   "start": 6.06,
+   "end": 8.59,
+   "text": "The inner loop draws one square.",
+   "scene": 1
+  },
+  {
+   "start": 8.59,
+   "end": 15.42,
+   "text": "The outer loop repeats the whole square and turns a little each time.",
+   "scene": 1
+  },
+  {
+   "start": 15.42,
+   "end": 19.47,
+   "text": "This is called a nested loop.",
+   "scene": 1
+  },
+  {
+   "start": 19.47,
+   "end": 22.95,
+   "text": "Multiply to find how many times the inside blocks run.",
+   "scene": 2
+  },
+  {
+   "start": 22.95,
+   "end": 27.84,
+   "text": "An outer loop of 8 and an inner loop of 4 means the move block runs 8 × 4 = 32 times!",
+   "scene": 2
+  },
+  {
+   "start": 27.84,
+   "end": 32.06,
+   "text": "Use “set pen color” and “set pen size” before you draw.",
+   "scene": 3
+  },
+  {
+   "start": 32.06,
+   "end": 36.06,
+   "text": "Change the colour inside the outer loop to make a rainbow pattern.",
+   "scene": 3
+  },
+  {
+   "start": 36.06,
+   "end": 42.4,
+   "text": "To spread shapes evenly around a circle, divide 360 by the number of shapes.",
+   "scene": 4
+  },
+  {
+   "start": 42.4,
+   "end": 47.14,
+   "text": "8 squares → turn 45 degrees after each one.",
+   "scene": 4
+  },
+  {
+   "start": 47.14,
+   "end": 50.84,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 50.84,
+   "end": 55.64,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

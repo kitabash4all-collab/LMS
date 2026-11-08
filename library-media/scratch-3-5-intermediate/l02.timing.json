@@ -1,0 +1,77 @@
+{
+ "duration": 53.64,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.06,
+   "text": "In this lesson, you will learn to change a variable each time round a loop to make patterns that grow, like spirals, and to count.",
+   "scene": 0
+  },
+  {
+   "start": 8.06,
+   "end": 10.15,
+   "text": "Make a variable called length.",
+   "scene": 1
+  },
+  {
+   "start": 10.15,
+   "end": 16.78,
+   "text": "Set it to 10 before the loop, then change it by 10 inside the loop.",
+   "scene": 1
+  },
+  {
+   "start": 16.78,
+   "end": 20.29,
+   "text": "Each time round, the sprite moves further.",
+   "scene": 1
+  },
+  {
+   "start": 20.29,
+   "end": 22.18,
+   "text": "Moving a little further after every turn makes a spiral.",
+   "scene": 2
+  },
+  {
+   "start": 22.18,
+   "end": 28.43,
+   "text": "Try different turn angles: 90 makes a square spiral, 120 a triangle spiral, 89 a twisted one!",
+   "scene": 2
+  },
+  {
+   "start": 28.43,
+   "end": 30.07,
+   "text": "A loop can count.",
+   "scene": 3
+  },
+  {
+   "start": 30.07,
+   "end": 35.22,
+   "text": "Set a variable to 1, say it, then change it by 1 — again and again.",
+   "scene": 3
+  },
+  {
+   "start": 35.22,
+   "end": 40.94,
+   "text": "To use a variable inside a block, put the orange variable reporter into the white slot.",
+   "scene": 4
+  },
+  {
+   "start": 40.94,
+   "end": 46.27,
+   "text": "In the Code Lab, tap the small ▾ next to the number and pick your variable.",
+   "scene": 4
+  },
+  {
+   "start": 46.27,
+   "end": 49.43,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 49.43,
+   "end": 53.3,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

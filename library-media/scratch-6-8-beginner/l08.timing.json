@@ -1,0 +1,77 @@
+{
+ "duration": 54.16,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.72,
+   "text": "In this lesson, you will learn to write programs that choose between paths with if-else, and combine conditions with and, or and not.",
+   "scene": 0
+  },
+  {
+   "start": 8.72,
+   "end": 15.67,
+   "text": "If-else chooses between two paths: one when the condition is true, the other when it is false.",
+   "scene": 1
+  },
+  {
+   "start": 15.67,
+   "end": 18,
+   "text": "Exactly one path runs.",
+   "scene": 1
+  },
+  {
+   "start": 18,
+   "end": 24.92,
+   "text": "Put an if-else inside the else to test several ranges in order — like grade boundaries.",
+   "scene": 2
+  },
+  {
+   "start": 24.92,
+   "end": 27.92,
+   "text": "Booleans are true or false.",
+   "scene": 3
+  },
+  {
+   "start": 27.92,
+   "end": 31.96,
+   "text": "AND needs both conditions true.",
+   "scene": 3
+  },
+  {
+   "start": 31.96,
+   "end": 34.87,
+   "text": "OR needs at least one.",
+   "scene": 3
+  },
+  {
+   "start": 34.87,
+   "end": 37.03,
+   "text": "Test values on and around each boundary: 89, 90 and 91.",
+   "scene": 4
+  },
+  {
+   "start": 37.03,
+   "end": 39.48,
+   "text": "Most bugs hide at the edges.",
+   "scene": 4
+  },
+  {
+   "start": 39.48,
+   "end": 45.66,
+   "text": "Python uses if, elif and else for the same chain of decisions.",
+   "scene": 5
+  },
+  {
+   "start": 45.66,
+   "end": 47.61,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 47.61,
+   "end": 53.86,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

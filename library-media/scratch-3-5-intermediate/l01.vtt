@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.660
+Welcome back, coders! Today you will put a loop inside a loop to make amazing pattern art.
+
+2
+00:00:06.660 --> 00:00:09.190
+The inner loop draws one square.
+
+3
+00:00:09.190 --> 00:00:16.020
+The outer loop repeats the whole square and turns a little each time.
+
+4
+00:00:16.020 --> 00:00:20.070
+This is called a nested loop.
+
+5
+00:00:20.070 --> 00:00:23.550
+Multiply to find how many times the inside blocks run.
+
+6
+00:00:23.550 --> 00:00:28.440
+An outer loop of 8 and an inner loop of 4 means the move block runs 8 × 4 = 32 times!
+
+7
+00:00:28.440 --> 00:00:32.660
+Use “set pen color” and “set pen size” before you draw.
+
+8
+00:00:32.660 --> 00:00:36.660
+Change the colour inside the outer loop to make a rainbow pattern.
+
+9
+00:00:36.660 --> 00:00:43.000
+To spread shapes evenly around a circle, divide 360 by the number of shapes.
+
+10
+00:00:43.000 --> 00:00:47.740
+8 squares → turn 45 degrees after each one.
+
+11
+00:00:47.740 --> 00:00:51.440
+Great work! Let’s remember what we learned.
+
+12
+00:00:51.440 --> 00:00:56.240
+Now build along, then try the challenges. You’ve got this!

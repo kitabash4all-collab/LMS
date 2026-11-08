@@ -1,0 +1,185 @@
+{
+ "duration": 144.72,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.06,
+   "text": "Today you will type your first real web page and watch the browser bring it to life.",
+   "scene": 0
+  },
+  {
+   "start": 5.06,
+   "end": 9.74,
+   "text": "Every web page is a text file written in a language called HTML.",
+   "scene": 1
+  },
+  {
+   "start": 9.74,
+   "end": 13.89,
+   "text": "Your browser reads that file and draws the page on your screen.",
+   "scene": 1
+  },
+  {
+   "start": 13.89,
+   "end": 18.3,
+   "text": "Every website you have ever visited started as text like this.",
+   "scene": 1
+  },
+  {
+   "start": 18.3,
+   "end": 24.36,
+   "text": "Tags are short words inside angle brackets that tell the browser what each part of the page is.",
+   "scene": 2
+  },
+  {
+   "start": 24.36,
+   "end": 32.55,
+   "text": "Most tags come in pairs, an opening tag and a closing tag with a slash.",
+   "scene": 2
+  },
+  {
+   "start": 32.55,
+   "end": 36.29,
+   "text": "The words in between the two tags are the content.",
+   "scene": 2
+  },
+  {
+   "start": 36.29,
+   "end": 42.14,
+   "text": "Heading tags make titles, from h1, the biggest, down to h6, the smallest.",
+   "scene": 3
+  },
+  {
+   "start": 42.14,
+   "end": 45.79,
+   "text": "Use just one h1 heading for the title of your page.",
+   "scene": 3
+  },
+  {
+   "start": 45.79,
+   "end": 49.25,
+   "text": "Then use h2 headings for each section of your page.",
+   "scene": 3
+  },
+  {
+   "start": 49.25,
+   "end": 53.36,
+   "text": "The p tag makes a paragraph of normal text.",
+   "scene": 4
+  },
+  {
+   "start": 53.36,
+   "end": 56.65,
+   "text": "The browser ignores extra spaces and new lines inside your code.",
+   "scene": 4
+  },
+  {
+   "start": 56.65,
+   "end": 59.71,
+   "text": "So every new paragraph needs its own p tag.",
+   "scene": 4
+  },
+  {
+   "start": 59.71,
+   "end": 65.89,
+   "text": "Anyone in the world can read a public web page.",
+   "scene": 5
+  },
+  {
+   "start": 65.89,
+   "end": 68.84,
+   "text": "Share your favourite things, but never your full name, school, address, phone number or photo.",
+   "scene": 5
+  },
+  {
+   "start": 68.84,
+   "end": 74.85,
+   "text": "A nickname is all a web page needs.",
+   "scene": 5
+  },
+  {
+   "start": 74.85,
+   "end": 79.54,
+   "text": "The Web Lab has two halves, your code on the left and the live preview on the right.",
+   "scene": 6
+  },
+  {
+   "start": 79.54,
+   "end": 84.31,
+   "text": "Every time you type, the preview redraws your page a moment later.",
+   "scene": 6
+  },
+  {
+   "start": 84.31,
+   "end": 91.15,
+   "text": "When you think you are done, press Check to see which goals you have reached.",
+   "scene": 6
+  },
+  {
+   "start": 91.15,
+   "end": 97.57,
+   "text": "Here is an opening h1 tag, the words Hello web, and a closing h1 tag.",
+   "scene": 7
+  },
+  {
+   "start": 97.57,
+   "end": 100.75,
+   "text": "The closing tag has a forward slash, which tells the browser the heading ends here.",
+   "scene": 7
+  },
+  {
+   "start": 100.75,
+   "end": 104.26,
+   "text": "The browser reads the file from top to bottom, one tag at a time.",
+   "scene": 8
+  },
+  {
+   "start": 104.26,
+   "end": 109.27,
+   "text": "The h1 is biggest, the h2 is a little smaller, and each paragraph sits on its own line.",
+   "scene": 8
+  },
+  {
+   "start": 109.27,
+   "end": 116.74,
+   "text": "Look at all those spaces and new lines inside one paragraph.",
+   "scene": 9
+  },
+  {
+   "start": 116.74,
+   "end": 121.83,
+   "text": "The browser squashes them into single spaces, so it all shows on one neat line.",
+   "scene": 9
+  },
+  {
+   "start": 121.83,
+   "end": 125.01,
+   "text": "Can you see the mistake? The closing tag is missing its slash.",
+   "scene": 10
+  },
+  {
+   "start": 125.01,
+   "end": 132.55,
+   "text": "The browser thinks the heading never ends, so everything after it becomes huge.",
+   "scene": 10
+  },
+  {
+   "start": 132.55,
+   "end": 135.95,
+   "text": "Add the slash, and the paragraph goes back to normal size.",
+   "scene": 10
+  },
+  {
+   "start": 135.95,
+   "end": 139.87,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 139.87,
+   "end": 144.43,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

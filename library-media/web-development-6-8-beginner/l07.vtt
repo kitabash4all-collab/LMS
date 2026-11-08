@@ -1,0 +1,125 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.160
+Today your web page wakes up. You will write JavaScript so buttons react when you click them.
+
+2
+00:00:06.160 --> 00:00:10.070
+HTML builds the page and CSS styles it.
+
+3
+00:00:10.070 --> 00:00:14.650
+JavaScript makes it react, like changing words when you click a button.
+
+4
+00:00:14.650 --> 00:00:17.550
+Every game and app on the web uses it.
+
+5
+00:00:17.550 --> 00:00:22.650
+JavaScript goes inside a script tag, usually at the very bottom of the page.
+
+6
+00:00:22.650 --> 00:00:26.320
+The browser builds the page first, then runs the script.
+
+7
+00:00:26.320 --> 00:00:32.070
+In the Web Lab, the live preview runs your script, so you can click your buttons right away.
+
+8
+00:00:32.070 --> 00:00:35.740
+Give an element an id, like id equals score.
+
+9
+00:00:35.740 --> 00:00:40.510
+In JavaScript, document dot getElementById finds that element.
+
+10
+00:00:40.510 --> 00:00:45.370
+Then you can change its words with textContent, or its colour with style.
+
+11
+00:00:45.370 --> 00:00:50.050
+The addEventListener command tells a button to listen for a click.
+
+12
+00:00:50.050 --> 00:00:54.260
+Inside it, you write what should happen each time it is clicked.
+
+13
+00:00:54.260 --> 00:01:00.740
+That code runs again every single time you click.
+
+14
+00:01:00.740 --> 00:01:06.790
+A variable is a named box that stores a value, like let score equals zero.
+
+15
+00:01:06.790 --> 00:01:10.110
+Score equals score plus one adds one to it.
+
+16
+00:01:10.110 --> 00:01:14.880
+Show the new score on the page and you have a counter.
+
+17
+00:01:14.880 --> 00:01:19.480
+The script finds the paragraph by its id and stores it in msg.
+
+18
+00:01:19.480 --> 00:01:22.660
+Then textContent replaces the words, so the page shows a new message.
+
+19
+00:01:22.660 --> 00:01:27.150
+addEventListener tells the button to wait for a click.
+
+20
+00:01:27.150 --> 00:01:31.940
+The code inside the curly brackets runs only when the click happens.
+
+21
+00:01:31.940 --> 00:01:37.590
+The variable called clicks starts at zero before anyone clicks.
+
+22
+00:01:37.590 --> 00:01:41.510
+Every click adds one, and textContent shows the new number on the page.
+
+23
+00:01:41.510 --> 00:01:46.230
+JavaScript can change CSS too, using style.
+
+24
+00:01:46.230 --> 00:01:48.930
+In JavaScript, background color is written as one word with a capital C.
+
+25
+00:01:48.930 --> 00:01:57.760
+The live preview runs your JavaScript, so you can click your buttons straight away.
+
+26
+00:01:57.760 --> 00:02:02.350
+If nothing happens, compare each id carefully and make sure every quote mark has a partner.
+
+27
+00:02:02.350 --> 00:02:05.440
+When it works, press Check to see which goals you have reached.
+
+28
+00:02:05.440 --> 00:02:08.090
+The id in the script says scor, but the paragraph’s id is score.
+
+29
+00:02:08.090 --> 00:02:14.610
+JavaScript cannot find it, so check that ids match exactly.
+
+30
+00:02:14.610 --> 00:02:18.220
+Great work! Let’s remember what we learned.
+
+31
+00:02:18.220 --> 00:02:22.410
+Now build along, then try the challenges. You’ve got this!

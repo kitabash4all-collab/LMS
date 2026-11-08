@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.900
+In this lesson, you will learn to use broadcasts and variables to add a start screen, levels and a game-over state to a game.
+
+2
+00:00:08.900 --> 00:00:16.380
+A game is in different states: a start menu, playing, the next level, game over.
+
+3
+00:00:16.380 --> 00:00:19.210
+Code needs to know which state it is in.
+
+4
+00:00:19.210 --> 00:00:23.530
+When the player presses space on the menu, broadcast start.
+
+5
+00:00:23.530 --> 00:00:28.540
+Every sprite that needs to begin listens for “when I receive start”.
+
+6
+00:00:28.540 --> 00:00:32.350
+A level variable remembers how far the player is.
+
+7
+00:00:32.350 --> 00:00:38.390
+When the score reaches a target, change the level, switch the backdrop and make it harder.
+
+8
+00:00:38.390 --> 00:00:46.000
+When lives reach 0 or time runs out, broadcast game over: show the final score and stop all.
+
+9
+00:00:46.000 --> 00:00:47.670
+Great work! Let’s remember what we learned.
+
+10
+00:00:47.670 --> 00:00:53.790
+Now build along, then try the challenges. You’ve got this!

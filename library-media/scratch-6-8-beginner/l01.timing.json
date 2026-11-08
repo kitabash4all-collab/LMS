@@ -1,0 +1,71 @@
+{
+ "duration": 54.17,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.88,
+   "text": "Every app, game and website runs on algorithms. Today you’ll learn to write instructions a computer can follow exactly.",
+   "scene": 0
+  },
+  {
+   "start": 8.88,
+   "end": 15.57,
+   "text": "An algorithm is a precise, step-by-step set of instructions to solve a problem.",
+   "scene": 1
+  },
+  {
+   "start": 15.57,
+   "end": 20.05,
+   "text": "Recipes, directions and dance routines are all algorithms.",
+   "scene": 1
+  },
+  {
+   "start": 20.05,
+   "end": 25.6,
+   "text": "A computer does exactly what you say, in exactly the order you say it — never what you meant.",
+   "scene": 2
+  },
+  {
+   "start": 25.6,
+   "end": 27.25,
+   "text": "Precision matters.",
+   "scene": 2
+  },
+  {
+   "start": 27.25,
+   "end": 30.92,
+   "text": "Sequence means order.",
+   "scene": 3
+  },
+  {
+   "start": 30.92,
+   "end": 38.15,
+   "text": "Swap two steps and you can get a completely different result.",
+   "scene": 3
+  },
+  {
+   "start": 38.15,
+   "end": 42.45,
+   "text": "The same idea in Python’s turtle module looks like: forward(100), right(90), forward(50).",
+   "scene": 4
+  },
+  {
+   "start": 42.45,
+   "end": 46.4,
+   "text": "Blocks and text code share the same thinking.",
+   "scene": 4
+  },
+  {
+   "start": 46.4,
+   "end": 49.54,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 49.54,
+   "end": 53.84,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

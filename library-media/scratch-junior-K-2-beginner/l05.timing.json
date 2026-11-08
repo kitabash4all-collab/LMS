@@ -1,0 +1,77 @@
+{
+ "duration": 50.36,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.47,
+   "text": "In this lesson, you will learn to use a repeat block to do the same moves many times and make code shorter.",
+   "scene": 0
+  },
+  {
+   "start": 7.47,
+   "end": 11.51,
+   "text": "The repeat block does the blocks inside it again and again.",
+   "scene": 1
+  },
+  {
+   "start": 11.51,
+   "end": 18.47,
+   "text": "The number on the repeat block says how many times.",
+   "scene": 2
+  },
+  {
+   "start": 18.47,
+   "end": 20.25,
+   "text": "Repeat 3 does it three times.",
+   "scene": 2
+  },
+  {
+   "start": 20.25,
+   "end": 24.09,
+   "text": "Stairs go right, up, right, up.",
+   "scene": 3
+  },
+  {
+   "start": 24.09,
+   "end": 26.77,
+   "text": "Put “right, up” inside a repeat!",
+   "scene": 3
+  },
+  {
+   "start": 26.77,
+   "end": 28.97,
+   "text": "A repeat makes long code short.",
+   "scene": 4
+  },
+  {
+   "start": 28.97,
+   "end": 31.07,
+   "text": "Fewer blocks, same moves.",
+   "scene": 4
+  },
+  {
+   "start": 31.07,
+   "end": 37.56,
+   "text": "Go right 6 squares. The arrow can only move 1, so use 🔁 repeat!",
+   "scene": 5
+  },
+  {
+   "start": 37.56,
+   "end": 40.63,
+   "text": "Repeat 6 times: move right. Two blocks instead of six!",
+   "scene": 5
+  },
+  {
+   "start": 40.63,
+   "end": 45.31,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 45.31,
+   "end": 50.05,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

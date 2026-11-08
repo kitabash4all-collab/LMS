@@ -1,0 +1,173 @@
+{
+ "duration": 129.2,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.24,
+   "text": "Today you will build forms with boxes to type in, menus to choose from and buttons to press.",
+   "scene": 0
+  },
+  {
+   "start": 6.24,
+   "end": 11.72,
+   "text": "A form is a group of boxes, menus and buttons that ask the visitor questions.",
+   "scene": 1
+  },
+  {
+   "start": 11.72,
+   "end": 14.61,
+   "text": "The form tag wraps all of them together.",
+   "scene": 1
+  },
+  {
+   "start": 14.61,
+   "end": 18.72,
+   "text": "Sign-up pages, quizzes and search bars are all forms.",
+   "scene": 1
+  },
+  {
+   "start": 18.72,
+   "end": 23.29,
+   "text": "The input tag makes a box, and its type decides what kind.",
+   "scene": 2
+  },
+  {
+   "start": 23.29,
+   "end": 28.87,
+   "text": "Type text is for words, number is for numbers, and checkbox is a tick box.",
+   "scene": 2
+  },
+  {
+   "start": 28.87,
+   "end": 34.71,
+   "text": "A textarea is a big box for longer answers, and select makes a drop-down menu.",
+   "scene": 2
+  },
+  {
+   "start": 34.71,
+   "end": 37.77,
+   "text": "A label tells people what to type in a box.",
+   "scene": 3
+  },
+  {
+   "start": 37.77,
+   "end": 40.64,
+   "text": "Its for part must match the input’s id.",
+   "scene": 3
+  },
+  {
+   "start": 40.64,
+   "end": 46.46,
+   "text": "Then screen readers read the label aloud, and clicking the label jumps into the box.",
+   "scene": 3
+  },
+  {
+   "start": 46.46,
+   "end": 50.17,
+   "text": "The button tag makes something on the page you can press.",
+   "scene": 4
+  },
+  {
+   "start": 50.17,
+   "end": 54.56,
+   "text": "Write clear words on it, like Send feedback, not just Click.",
+   "scene": 4
+  },
+  {
+   "start": 54.56,
+   "end": 58.96,
+   "text": "Next lesson, JavaScript will make our buttons actually do things.",
+   "scene": 4
+  },
+  {
+   "start": 58.96,
+   "end": 62.44,
+   "text": "Our practice forms in this course send nothing anywhere.",
+   "scene": 5
+  },
+  {
+   "start": 62.44,
+   "end": 69.45,
+   "text": "Even so, never build a form that asks for phone numbers, addresses, passwords or ID numbers.",
+   "scene": 5
+  },
+  {
+   "start": 69.45,
+   "end": 74.31,
+   "text": "Real websites need a parent’s and the school’s permission to collect personal details.",
+   "scene": 5
+  },
+  {
+   "start": 74.31,
+   "end": 79.1,
+   "text": "The label’s for matches the input’s id, so they are joined together.",
+   "scene": 6
+  },
+  {
+   "start": 79.1,
+   "end": 83.76,
+   "text": "Click the words and the cursor jumps into the box, which helps everyone.",
+   "scene": 6
+  },
+  {
+   "start": 83.76,
+   "end": 88.05,
+   "text": "Changing the type changes the kind of box the browser draws.",
+   "scene": 7
+  },
+  {
+   "start": 88.05,
+   "end": 93.78,
+   "text": "A textarea is for long answers, and select makes a drop-down menu of options.",
+   "scene": 7
+  },
+  {
+   "start": 93.78,
+   "end": 98.06,
+   "text": "The button tag makes something you can press.",
+   "scene": 8
+  },
+  {
+   "start": 98.06,
+   "end": 101.47,
+   "text": "For now it does nothing, and next lesson JavaScript will bring it to life.",
+   "scene": 8
+  },
+  {
+   "start": 101.47,
+   "end": 106.9,
+   "text": "Display block puts each label on its own line, so the form is easy to follow.",
+   "scene": 9
+  },
+  {
+   "start": 106.9,
+   "end": 111.57,
+   "text": "Padding makes boxes bigger and easier to tap on a phone.",
+   "scene": 9
+  },
+  {
+   "start": 111.57,
+   "end": 114.99,
+   "text": "Look closely at the spelling of for and id.",
+   "scene": 10
+  },
+  {
+   "start": 114.99,
+   "end": 121.17,
+   "text": "One says colour and the other says color, so they do not match and are not joined.",
+   "scene": 10
+  },
+  {
+   "start": 121.17,
+   "end": 124.62,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 124.62,
+   "end": 128.91,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

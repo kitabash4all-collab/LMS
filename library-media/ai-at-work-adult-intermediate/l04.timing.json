@@ -1,0 +1,179 @@
+{
+ "duration": 149.3,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.2,
+   "text": "Project time! Today you will join everything from this module into one report that almost builds itself, with you checking at every important step.",
+   "scene": 0
+  },
+  {
+   "start": 9.2,
+   "end": 16.16,
+   "text": "You now have three tools: templates, a self-updating dashboard, and a script that emails you.",
+   "scene": 1
+  },
+  {
+   "start": 16.16,
+   "end": 20.55,
+   "text": "A report pipeline joins them, from data in to message out.",
+   "scene": 1
+  },
+  {
+   "start": 20.55,
+   "end": 23.54,
+   "text": "Each step hands its result to the next one.",
+   "scene": 1
+  },
+  {
+   "start": 23.54,
+   "end": 28.61,
+   "text": "A checkpoint is a planned stop where a person looks before the work moves on.",
+   "scene": 2
+  },
+  {
+   "start": 28.61,
+   "end": 34.63,
+   "text": "Put one after cleaning, one after the numbers, and one before anything leaves your inbox.",
+   "scene": 2
+  },
+  {
+   "start": 34.63,
+   "end": 40.08,
+   "text": "The automation sends drafts to you, and you send the final version to others.",
+   "scene": 2
+  },
+  {
+   "start": 40.08,
+   "end": 45.24,
+   "text": "Give the AI only the dashboard numbers, not the full order list.",
+   "scene": 3
+  },
+  {
+   "start": 45.24,
+   "end": 51.77,
+   "text": "Ask it to use only those numbers, to say up or down correctly, and to add no reasons of its own.",
+   "scene": 3
+  },
+  {
+   "start": 51.77,
+   "end": 55.63,
+   "text": "Then compare every number in its draft with the dashboard.",
+   "scene": 3
+  },
+  {
+   "start": 55.63,
+   "end": 61.58,
+   "text": "Each week, write the date, the minutes taken including checks, and any problem you caught.",
+   "scene": 4
+  },
+  {
+   "start": 61.58,
+   "end": 66.5,
+   "text": "Also count the setup time, and work out how many weeks it takes to pay back.",
+   "scene": 4
+  },
+  {
+   "start": 66.5,
+   "end": 70.58,
+   "text": "After a month, you have honest proof to show your manager.",
+   "scene": 4
+  },
+  {
+   "start": 70.58,
+   "end": 76.67,
+   "text": "Start on paper: draw every step of the report, from data in to message out.",
+   "scene": 5
+  },
+  {
+   "start": 76.67,
+   "end": 82.93,
+   "text": "Mark three checkpoints, after cleaning, after the numbers, and before anything is sent.",
+   "scene": 5
+  },
+  {
+   "start": 82.93,
+   "end": 88.38,
+   "text": "The script only ever emails you, and you decide what goes to your manager.",
+   "scene": 5
+  },
+  {
+   "start": 88.38,
+   "end": 93.51,
+   "text": "We give Copilot only the dashboard numbers, never the full order list.",
+   "scene": 6
+  },
+  {
+   "start": 93.51,
+   "end": 98.25,
+   "text": "The note is short and clear, but checkpoint C finds two problems.",
+   "scene": 6
+  },
+  {
+   "start": 98.25,
+   "end": 102.55,
+   "text": "The rise is about eight point seven percent, not twelve percent.",
+   "scene": 6
+  },
+  {
+   "start": 102.55,
+   "end": 108.84,
+   "text": "And the reason about Veg Thali was invented, because we never gave the AI any reasons.",
+   "scene": 6
+  },
+  {
+   "start": 108.84,
+   "end": 113.56,
+   "text": "This script reads the dashboard cells exactly as they appear on screen.",
+   "scene": 7
+  },
+  {
+   "start": 113.56,
+   "end": 118.08,
+   "text": "If the dashboard is empty, it stops and sends nothing at all.",
+   "scene": 7
+  },
+  {
+   "start": 118.08,
+   "end": 123.02,
+   "text": "It emails you one draft, with a reminder of what to check before forwarding.",
+   "scene": 7
+  },
+  {
+   "start": 123.02,
+   "end": 127.65,
+   "text": "Run the same seven-point check from lesson three before you use it.",
+   "scene": 7
+  },
+  {
+   "start": 127.65,
+   "end": 132.13,
+   "text": "Honest measuring means counting checking time and setup time too.",
+   "scene": 8
+  },
+  {
+   "start": 132.13,
+   "end": 136.52,
+   "text": "In our example, the report drops from seventy-five minutes to twenty.",
+   "scene": 8
+  },
+  {
+   "start": 136.52,
+   "end": 142.61,
+   "text": "The setup took one hundred and fifty minutes, so it pays for itself in about three weeks.",
+   "scene": 8
+  },
+  {
+   "start": 142.61,
+   "end": 145.69,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 145.69,
+   "end": 149.03,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

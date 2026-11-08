@@ -1,0 +1,85 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.570
+It’s project time! Build a five-question quiz game on a topic you love.
+
+2
+00:00:05.570 --> 00:00:09.000
+Start with score = 0 before the first question.
+
+3
+00:00:09.000 --> 00:00:13.360
+Each time the player is right, add one with score += 1.
+
+4
+00:00:13.360 --> 00:00:16.010
+At the end, the variable holds the total.
+
+5
+00:00:16.010 --> 00:00:23.080
+Each question is an input() followed by an if and an else.
+
+6
+00:00:23.080 --> 00:00:25.770
+The if gives the point and says Correct.
+
+7
+00:00:25.770 --> 00:00:27.850
+The else kindly shows the right answer.
+
+8
+00:00:27.850 --> 00:00:37.080
+Players type in different ways. answer.lower() makes the answer small letters, and .strip() removes extra spaces.
+
+9
+00:00:37.080 --> 00:00:39.750
+Then one comparison catches them all.
+
+10
+00:00:39.750 --> 00:00:43.870
+After the last question, use if, elif and else on the score.
+
+11
+00:00:43.870 --> 00:00:47.020
+Five gets Quiz Champion, three or more gets Star Player, and so on.
+
+12
+00:00:47.020 --> 00:00:52.750
+The score starts at zero, like a fresh scoreboard before a match.
+
+13
+00:00:52.750 --> 00:00:59.400
+Both lines add one, and plus equals is just a shorter way to write it.
+
+14
+00:00:59.400 --> 00:01:04.760
+The player typed MARS in capitals with an extra space.
+
+15
+00:01:04.760 --> 00:01:08.120
+strip and lower clean it up to mars, so the answer still counts.
+
+16
+00:01:08.120 --> 00:01:11.270
+With a score of four, the first test is False, but the elif is True.
+
+17
+00:01:11.270 --> 00:01:18.170
+Always put the biggest score first, or everyone becomes a Star Player.
+
+18
+00:01:18.170 --> 00:01:24.030
+Good coders plan before they type. Write your questions on paper first.
+
+19
+00:01:24.030 --> 00:01:29.090
+Build one question, test it, then copy the pattern for the rest.
+
+20
+00:01:29.090 --> 00:01:31.090
+Great work! Let’s remember what we learned.
+
+21
+00:01:31.090 --> 00:01:35.370
+Now plan it, build it, test it, and share it!

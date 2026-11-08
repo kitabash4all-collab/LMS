@@ -1,0 +1,53 @@
+{
+ "duration": 54.04,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14.93,
+   "text": "It’s project time! Simulate a real-world process to answer a question: write rules and assumptions, build it with randomness and agents or time steps, measure a result, and run an experiment by changing one setting.",
+   "scene": 0
+  },
+  {
+   "start": 14.93,
+   "end": 24.17,
+   "text": "Pick something real: how a rumour spreads, traffic at a crossing, fish and sharks, rain filling a tank, or dice games.",
+   "scene": 1
+  },
+  {
+   "start": 24.17,
+   "end": 30.6,
+   "text": "Write your rules (what each agent or step does) and your assumptions (what you leave out).",
+   "scene": 2
+  },
+  {
+   "start": 30.6,
+   "end": 35.54,
+   "text": "A simulation needs a measurement: a counter, a percentage, a population over time.",
+   "scene": 3
+  },
+  {
+   "start": 35.54,
+   "end": 38.94,
+   "text": "Report it at the end.",
+   "scene": 3
+  },
+  {
+   "start": 38.94,
+   "end": 46.77,
+   "text": "Use your simulation to answer a question: “What happens if we double the speed?” Change one thing and compare.",
+   "scene": 4
+  },
+  {
+   "start": 46.77,
+   "end": 49.94,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 49.94,
+   "end": 53.72,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

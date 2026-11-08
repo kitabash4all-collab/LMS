@@ -1,0 +1,59 @@
+{
+ "duration": 46.86,
+ "lines": [
+  {
+   "start": 0,
+   "end": 11.9,
+   "text": "It’s project time! Generate a city skyline from procedures: a building procedure with a height parameter called in a loop with random arguments, plus at least one detail procedure.",
+   "scene": 0
+  },
+  {
+   "start": 11.9,
+   "end": 16.85,
+   "text": "Games like Minecraft generate worlds from procedures and random numbers.",
+   "scene": 1
+  },
+  {
+   "start": 16.85,
+   "end": 19.39,
+   "text": "You’ll generate a city skyline.",
+   "scene": 1
+  },
+  {
+   "start": 19.39,
+   "end": 25.61,
+   "text": "building (height) draws a rectangle of a fixed width and the given height.",
+   "scene": 2
+  },
+  {
+   "start": 25.61,
+   "end": 27.94,
+   "text": "Call it with random heights.",
+   "scene": 2
+  },
+  {
+   "start": 27.94,
+   "end": 34.55,
+   "text": "Add procedures for windows, roofs, trees or stars — each one small and tested.",
+   "scene": 3
+  },
+  {
+   "start": 34.55,
+   "end": 39.67,
+   "text": "List your procedures, their parameters and what each draws before you code.",
+   "scene": 4
+  },
+  {
+   "start": 39.67,
+   "end": 43.14,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 43.14,
+   "end": 46.55,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

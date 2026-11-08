@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.900
+Today you will build your own AI helper that already knows your FAQ and your rules.
+
+2
+00:00:05.900 --> 00:00:14.610
+A custom assistant is a saved setup: instructions plus reference files, so you do not repeat yourself in every chat.
+
+3
+00:00:14.610 --> 00:00:21.890
+Claude has Projects, ChatGPT has custom GPTs and Projects, and Gemini has Gems.
+
+4
+00:00:21.890 --> 00:00:26.420
+Which ones you can create depends on your plan, so check your account.
+
+5
+00:00:26.420 --> 00:00:33.270
+Use the 4 parts again: who it is, who it helps, how it answers, and the format.
+
+6
+00:00:33.270 --> 00:00:38.860
+Add rules: answer only from the files, and if the answer is missing, say so.
+
+7
+00:00:38.860 --> 00:00:41.180
+Add what it must never do, like promise discounts.
+
+8
+00:00:41.180 --> 00:00:49.310
+Add public, up-to-date files like your FAQ, price list, timings and return policy.
+
+9
+00:00:49.310 --> 00:00:54.900
+Never add customer lists, staff salaries, passwords or bank details.
+
+10
+00:00:54.900 --> 00:00:56.570
+When a price changes, update the file the same day.
+
+11
+00:00:56.570 --> 00:01:05.360
+Ask it things not in the files, an angry message, a question in Hindi, and a request for private information.
+
+12
+00:01:05.360 --> 00:01:08.380
+Write each test and result in a test log.
+
+13
+00:01:08.380 --> 00:01:12.040
+When it fails, fix the instructions and test again.
+
+14
+00:01:12.040 --> 00:01:17.170
+All three big tools let you save instructions and files as your own assistant.
+
+15
+00:01:17.170 --> 00:01:23.560
+In Claude it is a project, in ChatGPT a GPT or project, and in Gemini a Gem.
+
+16
+00:01:23.560 --> 00:01:29.400
+If your plan does not show the option, paste your saved instructions at the start of a new chat.
+
+17
+00:01:29.400 --> 00:01:36.190
+We test our shop helper with a product that is not in the price list.
+
+18
+00:01:36.190 --> 00:01:41.840
+It says it does not have the details, and sends the customer to the shop.
+
+19
+00:01:41.840 --> 00:01:44.320
+That is exactly what our instructions asked for: no guessing about prices.
+
+20
+00:01:44.320 --> 00:01:49.120
+Now a test it fails: a customer asks for a Sunday delivery.
+
+21
+00:01:49.120 --> 00:01:55.700
+The assistant happily says yes, but our FAQ says we are closed on Sundays.
+
+22
+00:01:55.700 --> 00:02:01.990
+We add a rule: answer only from the FAQ, and never promise delivery days that are not listed.
+
+23
+00:02:01.990 --> 00:02:07.790
+Then we ask the same question again, and write both results in our test log.
+
+24
+00:02:07.790 --> 00:02:11.420
+Great work! Let’s remember what we learned.
+
+25
+00:02:11.420 --> 00:02:16.400
+Now build along, then try the challenges. You’ve got this!

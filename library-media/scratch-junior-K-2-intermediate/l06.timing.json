@@ -1,0 +1,65 @@
+{
+ "duration": 57.95,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.16,
+   "text": "It’s project time! Make 2–3 animals march in a ScratchJr parade using repeats with chunks, add grow or shrink for showing off, and start them all with the green flag.",
+   "scene": 0
+  },
+  {
+   "start": 13.16,
+   "end": 19.57,
+   "text": "Animals march across the screen in a parade.",
+   "scene": 1
+  },
+  {
+   "start": 19.57,
+   "end": 24.54,
+   "text": "Each one has its own dance chunk.",
+   "scene": 1
+  },
+  {
+   "start": 24.54,
+   "end": 30.04,
+   "text": "Give each animal a chunk (like right, hop) inside a repeat.",
+   "scene": 2
+  },
+  {
+   "start": 30.04,
+   "end": 34.26,
+   "text": "Make one animal grow and shrink as it marches — it’s showing off!",
+   "scene": 3
+  },
+  {
+   "start": 34.26,
+   "end": 37.14,
+   "text": "Every animal starts on the green flag.",
+   "scene": 4
+  },
+  {
+   "start": 37.14,
+   "end": 44.49,
+   "text": "March to the star: right, hop — 4 times — then grow to take a bow!",
+   "scene": 5
+  },
+  {
+   "start": 44.49,
+   "end": 49.01,
+   "text": "Stomp, hop, stomp, hop… and a big bow!",
+   "scene": 5
+  },
+  {
+   "start": 49.01,
+   "end": 53.33,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 53.33,
+   "end": 57.61,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

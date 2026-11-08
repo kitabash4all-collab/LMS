@@ -1,0 +1,65 @@
+{
+ "duration": 56.86,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.92,
+   "text": "It’s project time! Build a quiz game on a topic you love: at least five checkable questions, a score that starts at 0, feedback after every answer, and a final message with the score.",
+   "scene": 0
+  },
+  {
+   "start": 13.92,
+   "end": 20.64,
+   "text": "Make a quiz on any topic you love: maths, animals, space, cricket… At least five questions, a score, and feedback after every answer.",
+   "scene": 1
+  },
+  {
+   "start": 20.64,
+   "end": 28.42,
+   "text": "Write clear questions with one right answer.",
+   "scene": 2
+  },
+  {
+   "start": 28.42,
+   "end": 33.19,
+   "text": "Short answers (a number or one word) are easiest to check.",
+   "scene": 2
+  },
+  {
+   "start": 33.19,
+   "end": 36.9,
+   "text": "Celebrate correct answers with a sound and a message.",
+   "scene": 3
+  },
+  {
+   "start": 36.9,
+   "end": 41.39,
+   "text": "For wrong answers, tell the player the right answer so they learn.",
+   "scene": 3
+  },
+  {
+   "start": 41.39,
+   "end": 44.87,
+   "text": "At the end, say the final score with join.",
+   "scene": 4
+  },
+  {
+   "start": 44.87,
+   "end": 48.03,
+   "text": "Add a special message for a perfect score!",
+   "scene": 4
+  },
+  {
+   "start": 48.03,
+   "end": 52.13,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 52.13,
+   "end": 56.55,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

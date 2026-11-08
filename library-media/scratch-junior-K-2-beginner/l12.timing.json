@@ -1,0 +1,59 @@
+{
+ "duration": 41.71,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.39,
+   "text": "It’s show time! You will make your very own story with everything you learned.",
+   "scene": 0
+  },
+  {
+   "start": 5.39,
+   "end": 10.61,
+   "text": "Think of a story: who is in it, where it happens, and what happens.",
+   "scene": 1
+  },
+  {
+   "start": 10.61,
+   "end": 13.84,
+   "text": "Draw three boxes: beginning, middle and end.",
+   "scene": 2
+  },
+  {
+   "start": 13.84,
+   "end": 19.48,
+   "text": "Green flag to start, arrows to move, say to talk, repeat for patterns.",
+   "scene": 3
+  },
+  {
+   "start": 19.48,
+   "end": 22.78,
+   "text": "Show your story to the class and tell them about it.",
+   "scene": 4
+  },
+  {
+   "start": 22.78,
+   "end": 31.24,
+   "text": "The fox says “Hello!”, hops 3 times to the right (up, down, right), collects the gem, then says “The end!”.",
+   "scene": 5
+  },
+  {
+   "start": 31.24,
+   "end": 34.29,
+   "text": "A whole story with talking, hopping and treasure!",
+   "scene": 5
+  },
+  {
+   "start": 34.29,
+   "end": 37.47,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 37.47,
+   "end": 41.4,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

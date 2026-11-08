@@ -1,0 +1,209 @@
+{
+ "duration": 205.41,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.28,
+   "text": "Today you choose your path and build a role kit of five prompts, each with the check that keeps it fair, accurate and safe.",
+   "scene": 0
+  },
+  {
+   "start": 8.28,
+   "end": 18.1,
+   "text": "Path A is HR, path B is an office administrator or executive assistant, and path C is a small business owner.",
+   "scene": 1
+  },
+  {
+   "start": 18.1,
+   "end": 21.55,
+   "text": "Every task today has an example for each path.",
+   "scene": 1
+  },
+  {
+   "start": 21.55,
+   "end": 26.94,
+   "text": "By the end you will have five prompts for your own role, each with its own check.",
+   "scene": 1
+  },
+  {
+   "start": 26.94,
+   "end": 32.68,
+   "text": "Ask the AI for a job post with the real duties, skills, hours and pay range.",
+   "scene": 2
+  },
+  {
+   "start": 32.68,
+   "end": 41.83,
+   "text": "Then run a bias check: remove age limits, gender, religion, marital status, looks, and words like young or native speaker.",
+   "scene": 2
+  },
+  {
+   "start": 41.83,
+   "end": 45.78,
+   "text": "Describe the skills the job needs, not the type of person.",
+   "scene": 2
+  },
+  {
+   "start": 45.78,
+   "end": 53.59,
+   "text": "Paste a public or approved policy section and ask for a plain-words version and a short list of common questions.",
+   "scene": 3
+  },
+  {
+   "start": 53.59,
+   "end": 58.48,
+   "text": "Check that no rule, number or date has changed.",
+   "scene": 3
+  },
+  {
+   "start": 58.48,
+   "end": 61,
+   "text": "The original policy always stays the official version.",
+   "scene": 3
+  },
+  {
+   "start": 61,
+   "end": 67.06,
+   "text": "AI can turn notes into formal minutes and draft the wording of a quotation or invoice.",
+   "scene": 4
+  },
+  {
+   "start": 67.06,
+   "end": 74.36,
+   "text": "Let your sheet or billing software do the maths, and never let the AI choose a tax rate.",
+   "scene": 4
+  },
+  {
+   "start": 74.36,
+   "end": 79.82,
+   "text": "Check every amount, tax detail and date before sending.",
+   "scene": 4
+  },
+  {
+   "start": 79.82,
+   "end": 86.22,
+   "text": "Never let AI shortlist, reject or rate candidates or staff on its own.",
+   "scene": 5
+  },
+  {
+   "start": 86.22,
+   "end": 92.09,
+   "text": "It can help you write fair questions, clear criteria and polite letters.",
+   "scene": 5
+  },
+  {
+   "start": 92.09,
+   "end": 99.56,
+   "text": "People make the decisions, and confidential HR data stays out of personal AI accounts.",
+   "scene": 5
+  },
+  {
+   "start": 99.56,
+   "end": 105.15,
+   "text": "An HR executive asks for a simple receptionist job post with the duties, hours and salary.",
+   "scene": 6
+  },
+  {
+   "start": 105.15,
+   "end": 108.06,
+   "text": "The AI copies old job-ad habits it has seen many times.",
+   "scene": 6
+  },
+  {
+   "start": 108.06,
+   "end": 115.05,
+   "text": "It adds an age limit, a gender, a pleasant personality and a photo, and none of that was asked for.",
+   "scene": 6
+  },
+  {
+   "start": 115.05,
+   "end": 122.5,
+   "text": "These lines shut out good candidates, so we run a bias check and rewrite the post around skills.",
+   "scene": 6
+  },
+  {
+   "start": 122.5,
+   "end": 126.22,
+   "text": "Now we ask Claude to check the same post for bias, and list every problem it finds.",
+   "scene": 7
+  },
+  {
+   "start": 126.22,
+   "end": 137.63,
+   "text": "It flags the age limit, the gender, the words about looks, and the photo request.",
+   "scene": 7
+  },
+  {
+   "start": 137.63,
+   "end": 141.88,
+   "text": "The rewrite describes the work and the skills, and welcomes freshers.",
+   "scene": 7
+  },
+  {
+   "start": 141.88,
+   "end": 147.22,
+   "text": "You still read the final version yourself, because the post goes out under your name.",
+   "scene": 7
+  },
+  {
+   "start": 147.22,
+   "end": 152.92,
+   "text": "A small business owner asks Copilot to draft a quotation with GST.",
+   "scene": 8
+  },
+  {
+   "start": 152.92,
+   "end": 156.69,
+   "text": "The layout and terms look professional and complete.",
+   "scene": 8
+  },
+  {
+   "start": 156.69,
+   "end": 164.96,
+   "text": "But the subtotal is wrong: forty times three fifty plus forty times one twenty is eighteen thousand, eight hundred.",
+   "scene": 8
+  },
+  {
+   "start": 164.96,
+   "end": 172.23,
+   "text": "So the AI writes the words, the sheet does the maths, and your accountant confirms the tax rate.",
+   "scene": 8
+  },
+  {
+   "start": 172.23,
+   "end": 178.03,
+   "text": "An office administrator turns meeting notes into formal minutes with owners and dates.",
+   "scene": 9
+  },
+  {
+   "start": 178.03,
+   "end": 184.32,
+   "text": "The AI should flag anything unclear, and you check every decision against your notes.",
+   "scene": 9
+  },
+  {
+   "start": 184.32,
+   "end": 190.6,
+   "text": "For policies, ask for plain words, then check that no rule or number changed.",
+   "scene": 9
+  },
+  {
+   "start": 190.6,
+   "end": 196.5,
+   "text": "Save each prompt with its check, so your kit is safe for a colleague to use too.",
+   "scene": 9
+  },
+  {
+   "start": 196.5,
+   "end": 200.08,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 200.08,
+   "end": 205.11,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

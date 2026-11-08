@@ -1,0 +1,71 @@
+{
+ "duration": 55.07,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.91,
+   "text": "Welcome, arcade engineer! Today you’ll learn how games make dozens of enemies, coins and raindrops from just one sprite.",
+   "scene": 0
+  },
+  {
+   "start": 8.91,
+   "end": 13.56,
+   "text": "A clone is a copy of a sprite, made while the program runs.",
+   "scene": 1
+  },
+  {
+   "start": 13.56,
+   "end": 19,
+   "text": "One Star sprite can make ten falling stars without you drawing ten sprites.",
+   "scene": 1
+  },
+  {
+   "start": 19,
+   "end": 23.74,
+   "text": "Every new clone runs the script under “when I start as a clone”.",
+   "scene": 2
+  },
+  {
+   "start": 23.74,
+   "end": 28.06,
+   "text": "Each clone can go to its own random place and move by itself.",
+   "scene": 2
+  },
+  {
+   "start": 28.06,
+   "end": 33.37,
+   "text": "Usually the original sprite hides and just makes clones — like a factory.",
+   "scene": 3
+  },
+  {
+   "start": 33.37,
+   "end": 36.11,
+   "text": "Each clone shows itself when it starts.",
+   "scene": 3
+  },
+  {
+   "start": 36.11,
+   "end": 41.01,
+   "text": "Delete clones when they are finished (for example, when they fall off the bottom).",
+   "scene": 4
+  },
+  {
+   "start": 41.01,
+   "end": 46.6,
+   "text": "Too many clones slow a game down — Scratch allows 300.",
+   "scene": 4
+  },
+  {
+   "start": 46.6,
+   "end": 50.3,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 50.3,
+   "end": 55.07,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

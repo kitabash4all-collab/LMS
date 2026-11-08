@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.950
+In this lesson, you will learn to check whether a list contains something and use it to make decisions, like a password checker or an inventory.
+
+2
+00:00:09.950 --> 00:00:15.990
+The block “list contains thing?” is true if the thing is anywhere in the list.
+
+3
+00:00:15.990 --> 00:00:19.910
+It works in if blocks just like other conditions.
+
+4
+00:00:19.910 --> 00:00:25.340
+Many games keep an inventory: a list of things the player has collected.
+
+5
+00:00:25.340 --> 00:00:29.300
+Add an item when collected; check the list to open a door.
+
+6
+00:00:29.300 --> 00:00:32.100
+Store allowed passwords in a list.
+
+7
+00:00:32.100 --> 00:00:36.480
+Ask for the password and check if the list contains the answer.
+
+8
+00:00:36.480 --> 00:00:44.150
+Use “not” to check the opposite: if not (bag contains key) → say “You need a key!”.
+
+9
+00:00:44.150 --> 00:00:47.640
+Great work! Let’s remember what we learned.
+
+10
+00:00:47.640 --> 00:00:51.760
+Now build along, then try the challenges. You’ve got this!

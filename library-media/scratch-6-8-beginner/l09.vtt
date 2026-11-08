@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:15.090
+It’s project time! Build a helpful assistant app: ask at least two questions, store the answers in variables, calculate with operators, decide with if/else, reply with a joined message, and validate odd inputs.
+
+2
+00:00:15.090 --> 00:00:24.340
+Build a helpful assistant: a study timer planner, a pocket-money calculator, a recipe scaler, a fitness helper — your choice.
+
+3
+00:00:24.340 --> 00:00:33.840
+Every app follows this pattern: get input (ask), process it (variables, operators, decisions), and give output (say).
+
+4
+00:00:33.840 --> 00:00:36.430
+Users type surprising things.
+
+5
+00:00:36.430 --> 00:00:42.410
+Check the input is sensible (e.g. not negative) and respond kindly if it isn’t.
+
+6
+00:00:42.410 --> 00:00:44.050
+Write a test table: input, expected output, actual output.
+
+7
+00:00:44.050 --> 00:00:47.450
+Include normal, boundary and invalid inputs.
+
+8
+00:00:47.450 --> 00:00:51.670
+Great work! Let’s remember what we learned.
+
+9
+00:00:51.670 --> 00:00:56.410
+Now plan it, build it, test it, and share it!

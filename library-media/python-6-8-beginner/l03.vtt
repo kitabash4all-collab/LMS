@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.890
+Today your programs learn to do maths and make decisions, just like a shopkeeper with a calculator.
+
+2
+00:00:06.890 --> 00:00:11.940
+input() always gives text, so "5" plus "3" would make "53".
+
+3
+00:00:11.940 --> 00:00:16.560
+Wrap it in int() to get a real number: int(input("How many? ")).
+
+4
+00:00:16.560 --> 00:00:18.970
+Now you can do maths with it.
+
+5
+00:00:18.970 --> 00:00:24.120
+Use + to add, - to subtract, * to multiply and / to divide.
+
+6
+00:00:24.120 --> 00:00:28.300
+Use // for whole-number division and % for the remainder.
+
+7
+00:00:28.300 --> 00:00:32.640
+Python follows BODMAS, just like your maths class.
+
+8
+00:00:32.640 --> 00:00:36.250
+Python compares with < > <= >= and ==, which means “is equal to”.
+
+9
+00:00:36.250 --> 00:00:39.260
+Use != for “is not equal to”.
+
+10
+00:00:39.260 --> 00:00:42.710
+Every comparison is either True or False.
+
+11
+00:00:42.710 --> 00:00:46.550
+if runs code only when a comparison is True. elif checks another option, and else catches everything left.
+
+12
+00:00:46.550 --> 00:00:51.370
+The lines inside must be indented by four spaces.
+
+13
+00:00:51.370 --> 00:00:55.480
+Watch what happens when we add two answers from input.
+
+14
+00:00:55.480 --> 00:01:03.600
+Without int we get fifty-three, because text just sticks together. With int we get eight.
+
+15
+00:01:03.600 --> 00:01:05.760
+Three samosas at forty rupees each cost one hundred and twenty rupees.
+
+16
+00:01:05.760 --> 00:01:10.690
+Two friends share the bill, so double slash divides it into whole rupees.
+
+17
+00:01:10.690 --> 00:01:20.790
+Python checks the first condition, and sixty-seven is not one hundred or more.
+
+18
+00:01:20.790 --> 00:01:25.730
+Then elif checks fifty or more, which is True, so we see Half century.
+
+19
+00:01:25.730 --> 00:01:30.100
+Notice the colon at the end and the four spaces before each print.
+
+20
+00:01:30.100 --> 00:01:34.760
+Python cannot compare text with a number, so it shows a TypeError.
+
+21
+00:01:34.760 --> 00:01:39.550
+The fix is to wrap the input in int, so money becomes a real number.
+
+22
+00:01:39.550 --> 00:01:42.290
+Great work! Let’s remember what we learned.
+
+23
+00:01:42.290 --> 00:01:46.030
+Now build along, then try the challenges. You’ve got this!

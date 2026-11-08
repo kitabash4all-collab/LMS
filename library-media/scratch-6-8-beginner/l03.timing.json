@@ -1,0 +1,65 @@
+{
+ "duration": 57.18,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14,
+   "text": "It’s project time! Build an interactive poster about a topic you care about: at least three sprites that react to clicks with facts, motion, sound or effects, linked by a broadcast, and reset on the green flag.",
+   "scene": 0
+  },
+  {
+   "start": 14,
+   "end": 21.31,
+   "text": "Make an interactive poster about a topic you care about — a sport, an animal, a place, a cause.",
+   "scene": 1
+  },
+  {
+   "start": 21.31,
+   "end": 24.01,
+   "text": "Each sprite reacts when clicked.",
+   "scene": 1
+  },
+  {
+   "start": 24.01,
+   "end": 32.09,
+   "text": "For each sprite, decide its event (click or key) and its reaction (fact, sound, animation).",
+   "scene": 2
+  },
+  {
+   "start": 32.09,
+   "end": 35.07,
+   "text": "Draw a quick storyboard first.",
+   "scene": 2
+  },
+  {
+   "start": 35.07,
+   "end": 42.6,
+   "text": "Use a broadcast so one click can start several reactions — like a title that makes everything dance.",
+   "scene": 3
+  },
+  {
+   "start": 42.6,
+   "end": 46.87,
+   "text": "Ask a classmate to explore your poster without help.",
+   "scene": 4
+  },
+  {
+   "start": 46.87,
+   "end": 49.64,
+   "text": "Could they find every interaction?",
+   "scene": 4
+  },
+  {
+   "start": 49.64,
+   "end": 53.35,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 53.35,
+   "end": 56.86,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

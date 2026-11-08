@@ -1,0 +1,191 @@
+{
+ "duration": 170,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.23,
+   "text": "Welcome to Level 2! Today you will stop rewriting the same messages and build templates that do the work for you.",
+   "scene": 0
+  },
+  {
+   "start": 8.23,
+   "end": 11.68,
+   "text": "In Level 1 you saved good prompts.",
+   "scene": 1
+  },
+  {
+   "start": 11.68,
+   "end": 19.96,
+   "text": "A template goes one step further, because it has blanks called placeholders, like Customer name or Due date in square brackets.",
+   "scene": 1
+  },
+  {
+   "start": 19.96,
+   "end": 24.47,
+   "text": "You write it carefully once, and then you only fill the blanks each week.",
+   "scene": 1
+  },
+  {
+   "start": 24.47,
+   "end": 30.43,
+   "text": "A prompt template is what you paste into the AI, such as your monthly update prompt.",
+   "scene": 2
+  },
+  {
+   "start": 30.43,
+   "end": 39.19,
+   "text": "A message template is the finished text with merge fields, such as a fee reminder with a blank for the first name.",
+   "scene": 2
+  },
+  {
+   "start": 39.19,
+   "end": 43.87,
+   "text": "The AI helps you write both, but only you fill in the real details.",
+   "scene": 2
+  },
+  {
+   "start": 43.87,
+   "end": 50.76,
+   "text": "Mail merge joins one message template with a list in a sheet, so each person gets their own name, amount and date.",
+   "scene": 3
+  },
+  {
+   "start": 50.76,
+   "end": 54.5,
+   "text": "The AI writes the template, and your sheet fills in the names.",
+   "scene": 3
+  },
+  {
+   "start": 54.5,
+   "end": 60.21,
+   "text": "The AI never needs to see your real customer list.",
+   "scene": 3
+  },
+  {
+   "start": 60.21,
+   "end": 63.96,
+   "text": "Before sending, read at least three finished messages.",
+   "scene": 4
+  },
+  {
+   "start": 63.96,
+   "end": 69.44,
+   "text": "Look for empty blanks, wrong amounts and a field name the AI quietly changed.",
+   "scene": 4
+  },
+  {
+   "start": 69.44,
+   "end": 72.21,
+   "text": "Then send one test to yourself first.",
+   "scene": 4
+  },
+  {
+   "start": 72.21,
+   "end": 79.69,
+   "text": "Keep all your templates in one place, such as a Google Doc, a sheet, or saved templates in Gmail or Outlook.",
+   "scene": 5
+  },
+  {
+   "start": 79.69,
+   "end": 83.61,
+   "text": "For each one, note when to use it, its placeholders, and what to check.",
+   "scene": 5
+  },
+  {
+   "start": 83.61,
+   "end": 88.33,
+   "text": "A colleague should be able to pick it up and use it safely.",
+   "scene": 5
+  },
+  {
+   "start": 88.33,
+   "end": 94.82,
+   "text": "Here the front desk of a coaching centre asks for a fee reminder with four merge fields.",
+   "scene": 6
+  },
+  {
+   "start": 94.82,
+   "end": 99.99,
+   "text": "The prompt says to keep the field names exactly, and not to add any new facts.",
+   "scene": 6
+  },
+  {
+   "start": 99.99,
+   "end": 104.46,
+   "text": "The reminder is short and polite, but look closely at the last field.",
+   "scene": 6
+  },
+  {
+   "start": 104.46,
+   "end": 109.32,
+   "text": "The AI changed Due Date to just Date, so the merge would leave a gap.",
+   "scene": 6
+  },
+  {
+   "start": 109.32,
+   "end": 115.61,
+   "text": "We fix the field name before we save it, and that one check saves forty broken messages.",
+   "scene": 6
+  },
+  {
+   "start": 115.61,
+   "end": 120.78,
+   "text": "Now the sheet does the personal part, and the AI only writes the formula.",
+   "scene": 7
+  },
+  {
+   "start": 120.78,
+   "end": 125.28,
+   "text": "We describe the columns and give one example of the finished message.",
+   "scene": 7
+  },
+  {
+   "start": 125.28,
+   "end": 131.97,
+   "text": "The formula joins the pieces of text, and the TEXT part makes the amount and date look neat.",
+   "scene": 7
+  },
+  {
+   "start": 131.97,
+   "end": 138.65,
+   "text": "Drag it down, and every row gets its own message, while the real list never left the sheet.",
+   "scene": 7
+  },
+  {
+   "start": 138.65,
+   "end": 144.47,
+   "text": "Save your best message templates where you write emails, in Gmail or Outlook.",
+   "scene": 8
+  },
+  {
+   "start": 144.47,
+   "end": 151.21,
+   "text": "For mail merge, Word and Outlook work together, and some Google Workspace accounts have it inside Gmail.",
+   "scene": 8
+  },
+  {
+   "start": 151.21,
+   "end": 156.04,
+   "text": "If you have neither, the sheet formula already made every message for you.",
+   "scene": 8
+  },
+  {
+   "start": 156.04,
+   "end": 161.71,
+   "text": "Whatever tool you use, preview three messages and send a test to yourself first.",
+   "scene": 8
+  },
+  {
+   "start": 161.71,
+   "end": 164.72,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 164.72,
+   "end": 169.65,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

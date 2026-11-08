@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.760
+In this lesson, you will learn to use the timer and counters to limit time, increase difficulty as the game goes on, and end the game cleanly.
+
+2
+00:00:09.760 --> 00:00:14.960
+A countdown variable starts at a number and goes down by 1 every second.
+
+3
+00:00:14.960 --> 00:00:17.930
+When it reaches 0, the game ends.
+
+4
+00:00:17.930 --> 00:00:21.770
+Store the speed in a variable and increase it over time.
+
+5
+00:00:21.770 --> 00:00:29.010
+Use the variable in the movement block so everything speeds up.
+
+6
+00:00:29.010 --> 00:00:31.880
+When lives reach 0 or time runs out: show the final score and stop all.
+
+7
+00:00:31.880 --> 00:00:36.570
+A clear ending makes a game feel finished.
+
+8
+00:00:36.570 --> 00:00:38.490
+Start easy, get harder gradually.
+
+9
+00:00:38.490 --> 00:00:43.220
+Players should feel “I almost made it — one more go!”
+
+10
+00:00:43.220 --> 00:00:46.910
+Great work! Let’s remember what we learned.
+
+11
+00:00:46.910 --> 00:00:51.690
+Now build along, then try the challenges. You’ve got this!

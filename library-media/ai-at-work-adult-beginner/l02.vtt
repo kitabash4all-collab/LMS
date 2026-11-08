@@ -1,0 +1,113 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.900
+Today you will learn four simple parts that make AI replies useful the first time.
+
+2
+00:00:05.900 --> 00:00:11.550
+Role tells the AI who to be, for example a polite customer-care helper for your shop.
+
+3
+00:00:11.550 --> 00:00:16.880
+Task says exactly what you want, for example a WhatsApp reply to a customer.
+
+4
+00:00:16.880 --> 00:00:23.270
+Start every prompt you write with these two simple parts.
+
+5
+00:00:23.270 --> 00:00:29.480
+Context is the background the AI cannot guess: who the reader is, what happened, and the facts.
+
+6
+00:00:29.480 --> 00:00:31.770
+The AI does not know your shop, your school or your client.
+
+7
+00:00:31.770 --> 00:00:38.580
+The more useful facts you give, the fewer facts it makes up.
+
+8
+00:00:38.580 --> 00:00:44.920
+Format is the shape of the answer: length, bullet points, a table, Hindi or English, formal or friendly.
+
+9
+00:00:44.920 --> 00:00:49.810
+Saying “3 short lines for WhatsApp” saves you from editing a long essay.
+
+10
+00:00:49.810 --> 00:00:53.220
+The first reply is a draft, not the end.
+
+11
+00:00:53.220 --> 00:00:58.230
+Reply with “shorter”, “more polite” or “in Hindi” to improve it.
+
+12
+00:00:58.230 --> 00:01:03.200
+For bigger tasks, add “Ask me any questions you need before you write.”
+
+13
+00:01:03.200 --> 00:01:08.470
+Here is the prompt most people type first: write a reply to a customer.
+
+14
+00:01:08.470 --> 00:01:14.040
+The answer is polite, but it says nothing, because the AI had to guess everything.
+
+15
+00:01:14.040 --> 00:01:20.900
+Now the same job with all four parts: role, task, context and format.
+
+16
+00:01:20.900 --> 00:01:27.470
+The reply has the real reason, the new day and time, and fits on a phone screen.
+
+17
+00:01:27.470 --> 00:01:33.580
+Same tool, same minute, but a far better answer, because you gave it what it needed.
+
+18
+00:01:33.580 --> 00:01:38.340
+For bigger tasks, ask the AI to ask you questions first.
+
+19
+00:01:38.340 --> 00:01:44.950
+Gemini asks for the date, the classes and what to bring, which are things a good assistant would check.
+
+20
+00:01:44.950 --> 00:01:50.260
+You answer in one message, and the notice comes out right the first time.
+
+21
+00:01:50.260 --> 00:01:55.360
+Translation is a daily job, so let’s try a customer’s message in Hinglish.
+
+22
+00:01:55.360 --> 00:02:02.170
+Copilot says the payment was sent yesterday, but the customer said they will send it by tomorrow.
+
+23
+00:02:02.170 --> 00:02:08.230
+In Hindi, kal means both yesterday and tomorrow, and the AI guessed wrong.
+
+24
+00:02:08.230 --> 00:02:13.660
+If you can read both languages, always check the meaning, not just the grammar.
+
+25
+00:02:13.660 --> 00:02:18.150
+Good prompts are worth saving, just like a good letter format.
+
+26
+00:02:18.150 --> 00:02:24.840
+Put brackets around the parts that change, and you can reuse a prompt in seconds, in any tool.
+
+27
+00:02:24.840 --> 00:02:28.160
+Great work! Let’s remember what we learned.
+
+28
+00:02:28.160 --> 00:02:32.410
+Now build along, then try the challenges. You’ve got this!

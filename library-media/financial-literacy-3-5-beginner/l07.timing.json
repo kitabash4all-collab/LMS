@@ -1,0 +1,185 @@
+{
+ "duration": 152.31,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.24,
+   "text": "Today you will learn how phone payments work, and the safety rules that keep your family’s money safe.",
+   "scene": 0
+  },
+  {
+   "start": 6.24,
+   "end": 11.67,
+   "text": "UPI lets people send money from one bank account to another using a phone app.",
+   "scene": 1
+  },
+  {
+   "start": 11.67,
+   "end": 15.12,
+   "text": "It works in seconds, at any time of the day.",
+   "scene": 1
+  },
+  {
+   "start": 15.12,
+   "end": 20.73,
+   "text": "In India, people use it to pay for everything from vegetables to school fees.",
+   "scene": 1
+  },
+  {
+   "start": 20.73,
+   "end": 24.97,
+   "text": "A QR code is a square pattern of black and white dots.",
+   "scene": 2
+  },
+  {
+   "start": 24.97,
+   "end": 31.84,
+   "text": "A grown-up scans the shop’s QR code with a UPI app, and the app shows the shop’s name.",
+   "scene": 2
+  },
+  {
+   "start": 31.84,
+   "end": 35.49,
+   "text": "Always check the name and the amount before paying.",
+   "scene": 2
+  },
+  {
+   "start": 35.49,
+   "end": 39.22,
+   "text": "A debit card takes money straight from a bank account.",
+   "scene": 3
+  },
+  {
+   "start": 39.22,
+   "end": 43.7,
+   "text": "A credit card uses borrowed money that must be paid back later.",
+   "scene": 3
+  },
+  {
+   "start": 43.7,
+   "end": 46.69,
+   "text": "Both are protected by a secret PIN.",
+   "scene": 3
+  },
+  {
+   "start": 46.69,
+   "end": 53.35,
+   "text": "A PIN is a secret number, and an OTP is a one-time password sent by text message.",
+   "scene": 4
+  },
+  {
+   "start": 53.35,
+   "end": 59.46,
+   "text": "Never share them with anyone, even someone who says they are from the bank.",
+   "scene": 4
+  },
+  {
+   "start": 59.46,
+   "end": 62.02,
+   "text": "Real banks never ask for your PIN or OTP.",
+   "scene": 4
+  },
+  {
+   "start": 62.02,
+   "end": 67.86,
+   "text": "Messages like ‘You won a free phone, pay ₹99 to claim it!’ are scams.",
+   "scene": 5
+  },
+  {
+   "start": 67.86,
+   "end": 72.28,
+   "text": "You never need to enter a PIN to receive money, only to send it.",
+   "scene": 5
+  },
+  {
+   "start": 72.28,
+   "end": 76.14,
+   "text": "If something feels strange, stop and tell a grown-up.",
+   "scene": 5
+  },
+  {
+   "start": 76.14,
+   "end": 80.99,
+   "text": "Riya and her father are paying eighty five rupees at the kirana shop.",
+   "scene": 6
+  },
+  {
+   "start": 80.99,
+   "end": 85.45,
+   "text": "Papa opens his UPI app and scans the QR code on the counter.",
+   "scene": 6
+  },
+  {
+   "start": 85.45,
+   "end": 91.41,
+   "text": "The phone shows the shop’s name, so they check that it is the right shop, and then check the amount.",
+   "scene": 6
+  },
+  {
+   "start": 91.41,
+   "end": 102.23,
+   "text": "Papa types his secret PIN while hiding the screen, and the payment successful message appears.",
+   "scene": 6
+  },
+  {
+   "start": 102.23,
+   "end": 106.94,
+   "text": "Kabir sees this message on his mother’s phone, saying he won a free phone.",
+   "scene": 7
+  },
+  {
+   "start": 106.94,
+   "end": 112.04,
+   "text": "It asks for ninety nine rupees and says hurry, the offer ends in ten minutes.",
+   "scene": 7
+  },
+  {
+   "start": 112.04,
+   "end": 118.68,
+   "text": "Red flags: a prize he never entered, a payment for something free, and a rush.",
+   "scene": 7
+  },
+  {
+   "start": 118.68,
+   "end": 124.7,
+   "text": "Kabir does not click anything, and he shows the message to his mother straight away.",
+   "scene": 7
+  },
+  {
+   "start": 124.7,
+   "end": 130.13,
+   "text": "Rule one, never share a PIN, an OTP or a password with anyone.",
+   "scene": 8
+  },
+  {
+   "start": 130.13,
+   "end": 131.55,
+   "text": "Rule two, always ask a grown-up before any online payment.",
+   "scene": 8
+  },
+  {
+   "start": 131.55,
+   "end": 137.23,
+   "text": "Rule three, check the name and the amount before any money is sent.",
+   "scene": 8
+  },
+  {
+   "start": 137.23,
+   "end": 144.34,
+   "text": "Rule four, if there is a free prize, a rush or a stranger asking, stop and tell a grown-up.",
+   "scene": 8
+  },
+  {
+   "start": 144.34,
+   "end": 148.04,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 148.04,
+   "end": 152.02,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

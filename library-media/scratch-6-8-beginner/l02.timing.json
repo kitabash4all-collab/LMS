@@ -1,0 +1,77 @@
+{
+ "duration": 56.52,
+ "lines": [
+  {
+   "start": 0,
+   "end": 11.96,
+   "text": "In this lesson, you will learn to use event hats (flag, key, click, broadcast) to make programs respond to users, and run several scripts at the same time.",
+   "scene": 0
+  },
+  {
+   "start": 11.96,
+   "end": 18.02,
+   "text": "Most apps wait for events — a tap, a key, a message — and then react.",
+   "scene": 1
+  },
+  {
+   "start": 18.02,
+   "end": 22.66,
+   "text": "In Scratch, hat blocks start scripts when an event happens.",
+   "scene": 1
+  },
+  {
+   "start": 22.66,
+   "end": 25.29,
+   "text": "A sprite can have many scripts.",
+   "scene": 2
+  },
+  {
+   "start": 25.29,
+   "end": 29.93,
+   "text": "They run at the same time, like several workers each doing one job.",
+   "scene": 2
+  },
+  {
+   "start": 29.93,
+   "end": 33.25,
+   "text": "Broadcast sends a message to every sprite.",
+   "scene": 3
+  },
+  {
+   "start": 33.25,
+   "end": 38.13,
+   "text": "Any script with “when I receive” that message starts.",
+   "scene": 3
+  },
+  {
+   "start": 38.13,
+   "end": 41.11,
+   "text": "This is how sprites talk to each other.",
+   "scene": 3
+  },
+  {
+   "start": 41.11,
+   "end": 45.94,
+   "text": "Web pages do the same thing: button.onclick = startParty.",
+   "scene": 4
+  },
+  {
+   "start": 45.94,
+   "end": 48.47,
+   "text": "Same idea, different language.",
+   "scene": 4
+  },
+  {
+   "start": 48.47,
+   "end": 51.94,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.94,
+   "end": 56.11,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

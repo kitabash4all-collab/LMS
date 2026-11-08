@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.830
+Welcome to Level 2! Today your functions stop just printing and start giving answers back, like a real calculator.
+
+2
+00:00:07.830 --> 00:00:13.260
+A parameter is a name inside the brackets of def, like def strike_rate(runs, balls).
+
+3
+00:00:13.260 --> 00:00:17.910
+When you call the function you pass in values, called arguments.
+
+4
+00:00:17.910 --> 00:00:21.170
+Inside the function they work just like variables.
+
+5
+00:00:21.170 --> 00:00:26.240
+return sends a value back to the line that called the function.
+
+6
+00:00:26.240 --> 00:00:28.730
+You can store it, print it or use it in more maths.
+
+7
+00:00:28.730 --> 00:00:36.900
+A function with no return gives back None, which means nothing.
+
+8
+00:00:36.900 --> 00:00:42.450
+Put a formula inside a function and use it for every player. strike_rate(45, 30) and strike_rate(80, 50) run the same code.
+
+9
+00:00:42.450 --> 00:00:45.510
+Fix a bug once and every use is fixed.
+
+10
+00:00:45.510 --> 00:00:49.300
+A parameter can have a default value, like overs=20.
+
+11
+00:00:49.300 --> 00:00:52.990
+If you leave it out when you call the function, Python uses 20.
+
+12
+00:00:52.990 --> 00:00:55.970
+If you pass a value, your value wins.
+
+13
+00:00:55.970 --> 00:01:00.180
+This function takes two parameters, the runs and the balls faced.
+
+14
+00:01:00.180 --> 00:01:05.800
+The return line sends the answer back, and we store it in a variable called sr.
+
+15
+00:01:05.800 --> 00:01:11.410
+The first function only prints, so it gives nothing back and a holds None.
+
+16
+00:01:11.410 --> 00:01:17.380
+The second function returns its answer, so b holds the shout and we can use it later.
+
+17
+00:01:17.380 --> 00:01:21.300
+Five fours and two sixes make thirty-two runs from boundaries.
+
+18
+00:01:21.300 --> 00:01:28.240
+Because the function returns a number, we can add seven singles straight onto it.
+
+19
+00:01:28.240 --> 00:01:31.160
+When we leave out the overs, Python uses the default of twenty overs.
+
+20
+00:01:31.160 --> 00:01:35.700
+When we pass twelve, our value replaces the default for that call.
+
+21
+00:01:35.700 --> 00:01:41.480
+The function works out the answer, but it never sends it back.
+
+22
+00:01:41.480 --> 00:01:46.350
+Without the word return, the function gives back None. Add return and you get forty-two.
+
+23
+00:01:46.350 --> 00:01:50.730
+Great work! Let’s remember what we learned.
+
+24
+00:01:50.730 --> 00:01:54.740
+Now build along, then try the challenges. You’ve got this!

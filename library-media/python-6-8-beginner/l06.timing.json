@@ -1,0 +1,125 @@
+{
+ "duration": 100.81,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.71,
+   "text": "Today you will make games that surprise you, because even you will not know what the computer picks.",
+   "scene": 0
+  },
+  {
+   "start": 5.71,
+   "end": 15.86,
+   "text": "Python has extra toolboxes called modules. import random at the top of your program opens the random toolbox.",
+   "scene": 1
+  },
+  {
+   "start": 15.86,
+   "end": 18.41,
+   "text": "Now you can use its commands.",
+   "scene": 1
+  },
+  {
+   "start": 18.41,
+   "end": 22.45,
+   "text": "random.randint(1, 6) gives a whole number from 1 to 6, like rolling a dice.",
+   "scene": 2
+  },
+  {
+   "start": 22.45,
+   "end": 26.58,
+   "text": "Both end numbers can come up.",
+   "scene": 2
+  },
+  {
+   "start": 26.58,
+   "end": 29.8,
+   "text": "Every run can give a different number.",
+   "scene": 2
+  },
+  {
+   "start": 29.8,
+   "end": 37.16,
+   "text": "random.choice([\"rock\", \"paper\", \"scissors\"]) picks one item from the list at random.",
+   "scene": 3
+  },
+  {
+   "start": 37.16,
+   "end": 40.77,
+   "text": "Use it for lucky snacks, random names or computer moves.",
+   "scene": 3
+  },
+  {
+   "start": 40.77,
+   "end": 46.95,
+   "text": "Most games repeat the same steps: ask, check, give a hint.",
+   "scene": 4
+  },
+  {
+   "start": 46.95,
+   "end": 50.93,
+   "text": "A while loop keeps the game going until the player wins or runs out of tries.",
+   "scene": 4
+  },
+  {
+   "start": 50.93,
+   "end": 56.17,
+   "text": "First we import the random toolbox, then randint picks a number from one to six.",
+   "scene": 5
+  },
+  {
+   "start": 56.17,
+   "end": 61.27,
+   "text": "Your number may be different every time you run it. That is the fun part!",
+   "scene": 5
+  },
+  {
+   "start": 61.27,
+   "end": 66.18,
+   "text": "The choice command picks one snack from the list.",
+   "scene": 6
+  },
+  {
+   "start": 66.18,
+   "end": 70.92,
+   "text": "Run it again and the computer might choose jalebi or idli instead.",
+   "scene": 6
+  },
+  {
+   "start": 70.92,
+   "end": 75.35,
+   "text": "The player guessed thirty, which is bigger than the secret number.",
+   "scene": 7
+  },
+  {
+   "start": 75.35,
+   "end": 78.94,
+   "text": "So the program gives a hint: Too high. Now the player knows to go lower.",
+   "scene": 7
+  },
+  {
+   "start": 78.94,
+   "end": 84.28,
+   "text": "The loop keeps asking while the guess is wrong and there are tries left.",
+   "scene": 8
+  },
+  {
+   "start": 84.28,
+   "end": 92.77,
+   "text": "Every guess adds one to attempts, so we can tell the player how many tries they took.",
+   "scene": 8
+  },
+  {
+   "start": 92.77,
+   "end": 95.39,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 95.39,
+   "end": 100.5,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

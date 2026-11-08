@@ -1,0 +1,143 @@
+{
+ "duration": 123.46,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.28,
+   "text": "Today you are the art director. AI is your artist, and you decide exactly what it should draw.",
+   "scene": 0
+  },
+  {
+   "start": 6.28,
+   "end": 11.41,
+   "text": "First say the subject: who or what is in the picture and what they are doing.",
+   "scene": 1
+  },
+  {
+   "start": 11.41,
+   "end": 17.57,
+   "text": "Then choose a style, like cartoon, watercolour, poster art or paper-cut.",
+   "scene": 1
+  },
+  {
+   "start": 17.57,
+   "end": 22.51,
+   "text": "Lighting sets the mood, like a sunny morning or glowing festival lights.",
+   "scene": 2
+  },
+  {
+   "start": 22.51,
+   "end": 26.99,
+   "text": "Pick two or three colours that match your event and your club.",
+   "scene": 2
+  },
+  {
+   "start": 26.99,
+   "end": 31.87,
+   "text": "Composition says where things go, like leaving space for a title at the top.",
+   "scene": 2
+  },
+  {
+   "start": 31.87,
+   "end": 37.45,
+   "text": "AI learned from pictures made by people, so it can repeat unfair patterns.",
+   "scene": 3
+  },
+  {
+   "start": 37.45,
+   "end": 42.72,
+   "text": "Ask it to draw a doctor or an engineer four times and notice who appears.",
+   "scene": 3
+  },
+  {
+   "start": 42.72,
+   "end": 48.06,
+   "text": "Then write prompts that include everyone, whatever their gender or background.",
+   "scene": 3
+  },
+  {
+   "start": 48.06,
+   "end": 53.26,
+   "text": "Do not copy famous characters or logos that belong to other people.",
+   "scene": 4
+  },
+  {
+   "start": 53.26,
+   "end": 58.4,
+   "text": "Never make fake pictures of real people, like a cricket star or a classmate.",
+   "scene": 4
+  },
+  {
+   "start": 58.4,
+   "end": 62.6,
+   "text": "Always add a small label that says the image was made with AI.",
+   "scene": 4
+  },
+  {
+   "start": 62.6,
+   "end": 68.17,
+   "text": "This prompt names the subject, the style, the lighting, the colours and the layout.",
+   "scene": 5
+  },
+  {
+   "start": 68.17,
+   "end": 74.03,
+   "text": "Because we asked for empty space at the top, there is room to add our own title in Canva.",
+   "scene": 5
+  },
+  {
+   "start": 74.03,
+   "end": 79.37,
+   "text": "Now a bias check: we ask for a doctor several times and look at who appears.",
+   "scene": 6
+  },
+  {
+   "start": 79.37,
+   "end": 85.46,
+   "text": "If the pictures keep showing the same kind of person, the AI is repeating a pattern from its data.",
+   "scene": 6
+  },
+  {
+   "start": 85.46,
+   "end": 91.17,
+   "text": "We fix it by describing exactly who we want, so our poster includes everyone.",
+   "scene": 6
+  },
+  {
+   "start": 91.17,
+   "end": 96.44,
+   "text": "The picture looks great, but the AI has misspelled almost every word on it.",
+   "scene": 7
+  },
+  {
+   "start": 96.44,
+   "end": 102.94,
+   "text": "Image tools often get text wrong, so we ask for no text and add our own words in Canva.",
+   "scene": 7
+  },
+  {
+   "start": 102.94,
+   "end": 109.58,
+   "text": "In Canva, add your picture to a poster, then type the title, day, time and place yourself.",
+   "scene": 8
+  },
+  {
+   "start": 109.58,
+   "end": 115.19,
+   "text": "Check every detail, add a small “Image made with AI” label, and download it.",
+   "scene": 8
+  },
+  {
+   "start": 115.19,
+   "end": 118.34,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 118.34,
+   "end": 123.19,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

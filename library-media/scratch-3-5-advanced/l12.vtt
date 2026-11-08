@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.060
+This is it, arcade engineer: your own game, built with everything you’ve learned.
+
+2
+00:00:06.060 --> 00:00:15.720
+Write a one-page game design: the goal, the player, what clones do, your variables, your states and how it ends.
+
+3
+00:00:15.720 --> 00:00:18.780
+Clones for many enemies or items.
+
+4
+00:00:18.780 --> 00:00:20.680
+Velocity for jumping.
+
+5
+00:00:20.680 --> 00:00:23.270
+Lists for words or inventories.
+
+6
+00:00:23.270 --> 00:00:28.620
+Get the smallest playable version working first (player + one rule).
+
+7
+00:00:28.620 --> 00:00:32.640
+Then add one feature at a time and test after each.
+
+8
+00:00:32.640 --> 00:00:38.550
+Show your game, explain one clever piece of code, and share what playtesters said.
+
+9
+00:00:38.550 --> 00:00:41.900
+Great work! Let’s remember what we learned.
+
+10
+00:00:41.900 --> 00:00:45.550
+Now plan it, build it, test it, and share it!

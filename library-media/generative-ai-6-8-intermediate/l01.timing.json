@@ -1,0 +1,161 @@
+{
+ "duration": 116.02,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.49,
+   "text": "Welcome back, Gen-AI Creators! In Level 2 you become a programmer with an AI coach beside you.",
+   "scene": 0
+  },
+  {
+   "start": 6.49,
+   "end": 10.01,
+   "text": "An AI coding buddy helps you understand code.",
+   "scene": 1
+  },
+  {
+   "start": 10.01,
+   "end": 12.54,
+   "text": "It does not write your homework for you.",
+   "scene": 1
+  },
+  {
+   "start": 12.54,
+   "end": 16.62,
+   "text": "If you cannot explain a line, it is not your code yet.",
+   "scene": 1
+  },
+  {
+   "start": 16.62,
+   "end": 21.67,
+   "text": "Paste a short program and ask the AI to explain it one line at a time.",
+   "scene": 2
+  },
+  {
+   "start": 21.67,
+   "end": 24.85,
+   "text": "Ask for simple words and an everyday example.",
+   "scene": 2
+  },
+  {
+   "start": 24.85,
+   "end": 28.04,
+   "text": "Then explain the code back in your own words.",
+   "scene": 2
+  },
+  {
+   "start": 28.04,
+   "end": 33.22,
+   "text": "AI can explain code wrongly, or invent a command that does not exist.",
+   "scene": 3
+  },
+  {
+   "start": 33.22,
+   "end": 35.87,
+   "text": "It sounds just as sure when it is wrong.",
+   "scene": 3
+  },
+  {
+   "start": 35.87,
+   "end": 39.32,
+   "text": "So you always run the code yourself and compare.",
+   "scene": 3
+  },
+  {
+   "start": 39.32,
+   "end": 43.31,
+   "text": "Only paste your own practice code into an AI tool.",
+   "scene": 4
+  },
+  {
+   "start": 43.31,
+   "end": 48.18,
+   "text": "Never paste code that has a password or a real person’s details inside it.",
+   "scene": 4
+  },
+  {
+   "start": 48.18,
+   "end": 52.49,
+   "text": "Under 13, use the Kitabash AI helper in the lesson.",
+   "scene": 4
+  },
+  {
+   "start": 52.49,
+   "end": 59.68,
+   "text": "Here is a short Python program that adds up the runs in one cricket over.",
+   "scene": 5
+  },
+  {
+   "start": 59.68,
+   "end": 62.94,
+   "text": "When we run it, it prints the total, seventeen, and then says great over.",
+   "scene": 5
+  },
+  {
+   "start": 62.94,
+   "end": 67.95,
+   "text": "Now let us ask the AI to explain it, and see if it gets everything right.",
+   "scene": 5
+  },
+  {
+   "start": 67.95,
+   "end": 74.5,
+   "text": "The explanation of the loop is clear, and it did not rewrite our code.",
+   "scene": 6
+  },
+  {
+   "start": 74.5,
+   "end": 77.41,
+   "text": "But look at line six: the AI says the total is sixteen.",
+   "scene": 6
+  },
+  {
+   "start": 77.41,
+   "end": 82.69,
+   "text": "We ran the program and it printed seventeen, so the AI made a maths slip.",
+   "scene": 6
+  },
+  {
+   "start": 82.69,
+   "end": 86.55,
+   "text": "Running the code is how a programmer checks what the AI says.",
+   "scene": 6
+  },
+  {
+   "start": 86.55,
+   "end": 91.82,
+   "text": "A great follow-up is to ask the AI to quiz you instead of explaining more.",
+   "scene": 7
+  },
+  {
+   "start": 91.82,
+   "end": 98.48,
+   "text": "Answering questions in your own words shows you understand the code.",
+   "scene": 7
+  },
+  {
+   "start": 98.48,
+   "end": 102.45,
+   "text": "Your log has three columns: the line, what the AI said, and what you say.",
+   "scene": 8
+  },
+  {
+   "start": 102.45,
+   "end": 108.56,
+   "text": "Add a star next to every mistake you caught by running the code.",
+   "scene": 8
+  },
+  {
+   "start": 108.56,
+   "end": 110.83,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 110.83,
+   "end": 115.7,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

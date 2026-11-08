@@ -1,0 +1,65 @@
+{
+ "duration": 59.12,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.9,
+   "text": "You already think like a programmer. Text languages like Python use the same ideas — just typed instead of dragged.",
+   "scene": 0
+  },
+  {
+   "start": 7.9,
+   "end": 17.17,
+   "text": "set → =, repeat (n) → for i in range(n), if-else → if/else, forever → while True, My Block → def, list → [ ].",
+   "scene": 1
+  },
+  {
+   "start": 17.17,
+   "end": 21.48,
+   "text": "In Python, the lines inside a loop or if are indented.",
+   "scene": 2
+  },
+  {
+   "start": 21.48,
+   "end": 25.32,
+   "text": "Indentation does the job of the C-shaped block in Scratch.",
+   "scene": 2
+  },
+  {
+   "start": 25.32,
+   "end": 33.29,
+   "text": "Python lists and strings start at index 0, not 1. letter (1) of word is word[0] in Python.",
+   "scene": 3
+  },
+  {
+   "start": 33.29,
+   "end": 39.62,
+   "text": "Blocks can’t be typed wrong, but text can: a missing colon or bracket stops the program.",
+   "scene": 4
+  },
+  {
+   "start": 39.62,
+   "end": 42.62,
+   "text": "Read error messages — they tell you the line.",
+   "scene": 4
+  },
+  {
+   "start": 42.62,
+   "end": 51.72,
+   "text": "FizzBuzz is a classic programming test. Read it carefully — you’re about to build it in blocks.",
+   "scene": 5
+  },
+  {
+   "start": 51.72,
+   "end": 54.84,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 54.84,
+   "end": 58.78,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

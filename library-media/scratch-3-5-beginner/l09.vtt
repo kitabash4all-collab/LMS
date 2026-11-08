@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:03.140
+Time to build your first real game!
+
+2
+00:00:03.140 --> 00:00:07.460
+Move a bowl with the arrow keys and catch the falling apples.
+
+3
+00:00:07.460 --> 00:00:10.870
+The bowl moves left and right with the arrow keys.
+
+4
+00:00:10.870 --> 00:00:16.310
+An apple falls from a random place at the top.
+
+5
+00:00:16.310 --> 00:00:22.980
+If the apple touches the bowl, play a sound and drop a new apple. If it reaches the bottom, drop a new apple too.
+
+6
+00:00:22.980 --> 00:00:25.150
+This is the apple’s script.
+
+7
+00:00:25.150 --> 00:00:32.400
+It falls in a forever loop, and two if blocks check: touching the bowl? And at the bottom?
+
+8
+00:00:32.400 --> 00:00:38.330
+The bowl starts at the bottom and moves with the arrow keys — just like Lesson 2!
+
+9
+00:00:38.330 --> 00:00:42.250
+Game designers test their games again and again.
+
+10
+00:00:42.250 --> 00:00:49.640
+If it is too easy, make the apple fall faster. Ask a friend to play and watch what they do.
+
+11
+00:00:49.640 --> 00:00:54.410
+In the next module you will add a score. Now build your game!

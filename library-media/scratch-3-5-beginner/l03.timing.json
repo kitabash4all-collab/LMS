@@ -1,0 +1,77 @@
+{
+ "duration": 55.74,
+ "lines": [
+  {
+   "start": 0,
+   "end": 1.57,
+   "text": "It is project time!",
+   "scene": 0
+  },
+  {
+   "start": 1.57,
+   "end": 6.87,
+   "text": "You will turn your name into an animation that reacts when people click it.",
+   "scene": 0
+  },
+  {
+   "start": 6.87,
+   "end": 10.57,
+   "text": "Each letter of your name will be its own sprite.",
+   "scene": 1
+  },
+  {
+   "start": 10.57,
+   "end": 16.71,
+   "text": "When someone clicks a letter, it spins, grows, changes colour or makes a sound.",
+   "scene": 1
+  },
+  {
+   "start": 16.71,
+   "end": 20.51,
+   "text": "And the green flag puts every letter back to normal.",
+   "scene": 1
+  },
+  {
+   "start": 20.51,
+   "end": 25.14,
+   "text": "Here are two ideas.",
+   "scene": 2
+  },
+  {
+   "start": 25.14,
+   "end": 28.89,
+   "text": "The first letter changes colour and pops. The second grows, waits, then shrinks back.",
+   "scene": 2
+  },
+  {
+   "start": 28.89,
+   "end": 35.33,
+   "text": "After lots of clicks, your letters might be big, upside down and rainbow coloured!",
+   "scene": 3
+  },
+  {
+   "start": 35.33,
+   "end": 42.76,
+   "text": "A reset script under the green flag puts each letter back, so your project always starts the same way.",
+   "scene": 3
+  },
+  {
+   "start": 42.76,
+   "end": 45.76,
+   "text": "Real programmers work in a cycle.",
+   "scene": 4
+  },
+  {
+   "start": 45.76,
+   "end": 51.21,
+   "text": "Plan, build a little, test it, fix it, and then share it.",
+   "scene": 4
+  },
+  {
+   "start": 51.21,
+   "end": 55.38,
+   "text": "Use the checklist as you work. Have fun, and be creative!",
+   "scene": 5
+  }
+ ]
+}

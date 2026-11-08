@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.970
+Today your sprites will send each other messages, and your games will get proper endings.
+
+2
+00:00:05.970 --> 00:00:09.550
+A broadcast is a message sent to every sprite.
+
+3
+00:00:09.550 --> 00:00:14.440
+Any sprite with “when I receive you win” starts its script.
+
+4
+00:00:14.440 --> 00:00:21.210
+One message can make lots of things happen at once.
+
+5
+00:00:21.210 --> 00:00:23.360
+The star waits until the score equals 5, then broadcasts you win.
+
+6
+00:00:23.360 --> 00:00:28.020
+The banner receives the message, shows itself and says You win!
+
+7
+00:00:28.020 --> 00:00:33.980
+The timer counts seconds. Reset it at the start.
+
+8
+00:00:33.980 --> 00:00:37.970
+When it passes 30 seconds, broadcast game over, and stop all the scripts.
+
+9
+00:00:37.970 --> 00:00:43.380
+Every programmer makes bugs. Good programmers find them.
+
+10
+00:00:43.380 --> 00:00:52.560
+Read your code out loud, check the hat blocks, check the numbers and message names, and test one small part at a time.
+
+11
+00:00:52.560 --> 00:00:56.690
+Now give your games endings, and become a bug hunter!

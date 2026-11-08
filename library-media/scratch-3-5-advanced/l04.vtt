@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.490
+Real games feel real because things fall like they do in the real world. Today you’ll code gravity!
+
+2
+00:00:07.490 --> 00:00:11.650
+Make a variable called vy (velocity in y).
+
+3
+00:00:11.650 --> 00:00:16.140
+It says how many steps the sprite moves up or down each frame.
+
+4
+00:00:16.140 --> 00:00:18.620
+Negative vy means falling.
+
+5
+00:00:18.620 --> 00:00:25.440
+Every frame, gravity changes vy by -1, then the sprite changes y by vy.
+
+6
+00:00:25.440 --> 00:00:29.900
+The fall gets faster and faster — just like a real apple.
+
+7
+00:00:29.900 --> 00:00:37.100
+If the sprite goes below the floor, put it back on the floor and set vy to 0 so it stops falling.
+
+8
+00:00:37.100 --> 00:00:41.430
+In another forever loop, check the arrow keys and change x.
+
+9
+00:00:41.430 --> 00:00:45.180
+Now the hero can walk and fall at the same time.
+
+10
+00:00:45.180 --> 00:00:49.080
+Great work! Let’s remember what we learned.
+
+11
+00:00:49.080 --> 00:00:53.800
+Now build along, then try the challenges. You’ve got this!

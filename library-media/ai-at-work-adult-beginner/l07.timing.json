@@ -1,0 +1,155 @@
+{
+ "duration": 136.1,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.3,
+   "text": "Today you will build your own AI helper that already knows your FAQ and your rules.",
+   "scene": 0
+  },
+  {
+   "start": 5.3,
+   "end": 14.01,
+   "text": "A custom assistant is a saved setup: instructions plus reference files, so you do not repeat yourself in every chat.",
+   "scene": 1
+  },
+  {
+   "start": 14.01,
+   "end": 21.29,
+   "text": "Claude has Projects, ChatGPT has custom GPTs and Projects, and Gemini has Gems.",
+   "scene": 1
+  },
+  {
+   "start": 21.29,
+   "end": 25.82,
+   "text": "Which ones you can create depends on your plan, so check your account.",
+   "scene": 1
+  },
+  {
+   "start": 25.82,
+   "end": 32.67,
+   "text": "Use the 4 parts again: who it is, who it helps, how it answers, and the format.",
+   "scene": 2
+  },
+  {
+   "start": 32.67,
+   "end": 38.26,
+   "text": "Add rules: answer only from the files, and if the answer is missing, say so.",
+   "scene": 2
+  },
+  {
+   "start": 38.26,
+   "end": 40.58,
+   "text": "Add what it must never do, like promise discounts.",
+   "scene": 2
+  },
+  {
+   "start": 40.58,
+   "end": 48.71,
+   "text": "Add public, up-to-date files like your FAQ, price list, timings and return policy.",
+   "scene": 3
+  },
+  {
+   "start": 48.71,
+   "end": 54.3,
+   "text": "Never add customer lists, staff salaries, passwords or bank details.",
+   "scene": 3
+  },
+  {
+   "start": 54.3,
+   "end": 55.97,
+   "text": "When a price changes, update the file the same day.",
+   "scene": 3
+  },
+  {
+   "start": 55.97,
+   "end": 64.76,
+   "text": "Ask it things not in the files, an angry message, a question in Hindi, and a request for private information.",
+   "scene": 4
+  },
+  {
+   "start": 64.76,
+   "end": 67.78,
+   "text": "Write each test and result in a test log.",
+   "scene": 4
+  },
+  {
+   "start": 67.78,
+   "end": 71.44,
+   "text": "When it fails, fix the instructions and test again.",
+   "scene": 4
+  },
+  {
+   "start": 71.44,
+   "end": 76.57,
+   "text": "All three big tools let you save instructions and files as your own assistant.",
+   "scene": 5
+  },
+  {
+   "start": 76.57,
+   "end": 82.96,
+   "text": "In Claude it is a project, in ChatGPT a GPT or project, and in Gemini a Gem.",
+   "scene": 5
+  },
+  {
+   "start": 82.96,
+   "end": 88.8,
+   "text": "If your plan does not show the option, paste your saved instructions at the start of a new chat.",
+   "scene": 5
+  },
+  {
+   "start": 88.8,
+   "end": 95.59,
+   "text": "We test our shop helper with a product that is not in the price list.",
+   "scene": 6
+  },
+  {
+   "start": 95.59,
+   "end": 101.24,
+   "text": "It says it does not have the details, and sends the customer to the shop.",
+   "scene": 6
+  },
+  {
+   "start": 101.24,
+   "end": 103.72,
+   "text": "That is exactly what our instructions asked for: no guessing about prices.",
+   "scene": 6
+  },
+  {
+   "start": 103.72,
+   "end": 108.52,
+   "text": "Now a test it fails: a customer asks for a Sunday delivery.",
+   "scene": 7
+  },
+  {
+   "start": 108.52,
+   "end": 115.1,
+   "text": "The assistant happily says yes, but our FAQ says we are closed on Sundays.",
+   "scene": 7
+  },
+  {
+   "start": 115.1,
+   "end": 121.39,
+   "text": "We add a rule: answer only from the FAQ, and never promise delivery days that are not listed.",
+   "scene": 7
+  },
+  {
+   "start": 121.39,
+   "end": 127.19,
+   "text": "Then we ask the same question again, and write both results in our test log.",
+   "scene": 7
+  },
+  {
+   "start": 127.19,
+   "end": 130.82,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 8
+  },
+  {
+   "start": 130.82,
+   "end": 135.8,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 8
+  }
+ ]
+}

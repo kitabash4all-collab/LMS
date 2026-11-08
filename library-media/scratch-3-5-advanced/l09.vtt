@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.600
+It’s project time! Build a guessing game: a random secret is picked from a list, the player guesses until right, and the game reports the number of guesses.
+
+2
+00:00:11.600 --> 00:00:15.900
+The computer secretly picks a random animal from a list.
+
+3
+00:00:15.900 --> 00:00:19.440
+The player keeps guessing until they get it right.
+
+4
+00:00:19.440 --> 00:00:23.210
+Count the guesses!
+
+5
+00:00:23.210 --> 00:00:29.290
+Set a variable secret to a random item of the animals list, so it stays the same while the player guesses.
+
+6
+00:00:29.290 --> 00:00:35.590
+Repeat until answer = secret: ask for a guess and change guesses by 1.
+
+7
+00:00:35.590 --> 00:00:39.370
+After the loop, say how many guesses it took.
+
+8
+00:00:39.370 --> 00:00:48.040
+Make it friendlier: if the guess isn’t in the animals list at all, say “That’s not one of my animals!”.
+
+9
+00:00:48.040 --> 00:00:52.050
+Great work! Let’s remember what we learned.
+
+10
+00:00:52.050 --> 00:00:56.140
+Now plan it, build it, test it, and share it!

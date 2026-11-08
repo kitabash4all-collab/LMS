@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.750
+It is project time! Today you build a drawing studio where the user is the artist.
+
+2
+00:00:05.750 --> 00:00:12.160
+Give every shape its own function: draw_square(size), draw_star(size) and so on.
+
+3
+00:00:12.160 --> 00:00:14.600
+Each one is short and easy to test.
+
+4
+00:00:14.600 --> 00:00:17.580
+The main program just picks which one to call.
+
+5
+00:00:17.580 --> 00:00:22.140
+Ask the user for a shape, a colour and a size.
+
+6
+00:00:22.140 --> 00:00:27.460
+Clean the shape with .strip().lower() and turn the size into a number with int().
+
+7
+00:00:27.460 --> 00:00:30.370
+Then if, elif and else call the right function.
+
+8
+00:00:30.370 --> 00:00:32.940
+A while loop keeps the studio open.
+
+9
+00:00:32.940 --> 00:00:35.890
+Each time round it asks for a new shape.
+
+10
+00:00:35.890 --> 00:00:41.320
+When the user types done, set the loop variable to False and the studio closes.
+
+11
+00:00:41.320 --> 00:00:44.080
+Shapes on top of each other look messy.
+
+12
+00:00:44.080 --> 00:00:50.320
+A move_to_spot(number) function can lift the pen, goto a new place and put the pen down.
+
+13
+00:00:50.320 --> 00:00:53.250
+Then every shape gets its own space.
+
+14
+00:00:53.250 --> 00:00:57.360
+Each shape gets its own small function with a size parameter.
+
+15
+00:00:57.360 --> 00:01:03.950
+A star turns one hundred and forty-four degrees five times, and goes round the centre twice.
+
+16
+00:01:03.950 --> 00:01:09.650
+The user typed Star with a capital letter, and lower turns it into star.
+
+17
+00:01:09.650 --> 00:01:16.070
+The if and elif lines choose which shape function to call, with the size the user chose.
+
+18
+00:01:16.070 --> 00:01:20.170
+The while loop keeps asking for shapes while drawing is True.
+
+19
+00:01:20.170 --> 00:01:25.930
+Typing done switches drawing to False, so the loop ends and the studio closes.
+
+20
+00:01:25.930 --> 00:01:31.070
+Build one shape function, test it, and only then add the next.
+
+21
+00:01:31.070 --> 00:01:36.000
+When the menu works, wrap it in a loop and let a friend become the artist.
+
+22
+00:01:36.000 --> 00:01:39.260
+Great work! Let’s remember what we learned.
+
+23
+00:01:39.260 --> 00:01:42.850
+Now plan it, build it, test it, and share it!

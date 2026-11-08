@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:02.990
+Welcome to Module 2: loops!
+
+2
+00:00:02.990 --> 00:00:06.980
+Today you will learn a shortcut that programmers use all the time.
+
+3
+00:00:06.980 --> 00:00:08.860
+Lots of things repeat.
+
+4
+00:00:08.860 --> 00:00:14.620
+Climbing stairs is step, step, step. A square is a side and a turn, four times.
+
+5
+00:00:14.620 --> 00:00:19.850
+When you see a pattern, you can use a loop.
+
+6
+00:00:19.850 --> 00:00:22.710
+Both of these scripts draw a square.
+
+7
+00:00:22.710 --> 00:00:26.110
+The one on the right uses a repeat loop. It is shorter, and easier to read and change.
+
+8
+00:00:26.110 --> 00:00:28.680
+Here Pip climbs the stairs with a loop.
+
+9
+00:00:28.680 --> 00:00:33.760
+The four blocks inside the loop run, then run again, and again: three times.
+
+10
+00:00:33.760 --> 00:00:36.910
+Pip reaches the top with only five blocks!
+
+11
+00:00:36.910 --> 00:00:39.660
+With the pen, loops draw shapes.
+
+12
+00:00:39.660 --> 00:00:44.300
+For a triangle, repeat three times and turn 120 degrees.
+
+13
+00:00:44.300 --> 00:00:49.420
+The turns always add up to 360 degrees — one full turn.
+
+14
+00:00:49.420 --> 00:00:53.710
+Fantastic! Now try loops in the Code Lab and the puzzles.

@@ -1,0 +1,65 @@
+{
+ "duration": 55.82,
+ "lines": [
+  {
+   "start": 0,
+   "end": 11,
+   "text": "It’s project time! Build a guessing game: a random secret is picked from a list, the player guesses until right, and the game reports the number of guesses.",
+   "scene": 0
+  },
+  {
+   "start": 11,
+   "end": 15.3,
+   "text": "The computer secretly picks a random animal from a list.",
+   "scene": 1
+  },
+  {
+   "start": 15.3,
+   "end": 18.84,
+   "text": "The player keeps guessing until they get it right.",
+   "scene": 1
+  },
+  {
+   "start": 18.84,
+   "end": 22.61,
+   "text": "Count the guesses!",
+   "scene": 1
+  },
+  {
+   "start": 22.61,
+   "end": 28.69,
+   "text": "Set a variable secret to a random item of the animals list, so it stays the same while the player guesses.",
+   "scene": 2
+  },
+  {
+   "start": 28.69,
+   "end": 34.99,
+   "text": "Repeat until answer = secret: ask for a guess and change guesses by 1.",
+   "scene": 3
+  },
+  {
+   "start": 34.99,
+   "end": 38.77,
+   "text": "After the loop, say how many guesses it took.",
+   "scene": 3
+  },
+  {
+   "start": 38.77,
+   "end": 47.44,
+   "text": "Make it friendlier: if the guess isn’t in the animals list at all, say “That’s not one of my animals!”.",
+   "scene": 4
+  },
+  {
+   "start": 47.44,
+   "end": 51.45,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.45,
+   "end": 55.54,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

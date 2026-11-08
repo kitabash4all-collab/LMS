@@ -1,0 +1,59 @@
+{
+ "duration": 39.95,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.16,
+   "text": "It’s your big show! Plan a story, build it with everything you know, and share it with the class.",
+   "scene": 0
+  },
+  {
+   "start": 6.16,
+   "end": 9.66,
+   "text": "Draw your story: beginning, middle, end.",
+   "scene": 1
+  },
+  {
+   "start": 9.66,
+   "end": 11.52,
+   "text": "Use at least two pages.",
+   "scene": 2
+  },
+  {
+   "start": 11.52,
+   "end": 16.16,
+   "text": "Moves, talking, grow and shrink, hide and show, hop and repeat.",
+   "scene": 3
+  },
+  {
+   "start": 16.16,
+   "end": 22.35,
+   "text": "Show your animated story to the class and tell them about it.",
+   "scene": 4
+  },
+  {
+   "start": 22.35,
+   "end": 29.81,
+   "text": "Dragon: say “I’m tiny!”, grow 2 times, fly up 2 to the cloud (star), hop 2 times with 🔁, then say “The end!”.",
+   "scene": 5
+  },
+  {
+   "start": 29.81,
+   "end": 30.82,
+   "text": "A whole animated story in one script!",
+   "scene": 5
+  },
+  {
+   "start": 30.82,
+   "end": 36.33,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 36.33,
+   "end": 39.59,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

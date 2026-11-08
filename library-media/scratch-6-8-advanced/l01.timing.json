@@ -1,0 +1,77 @@
+{
+ "duration": 56.38,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.88,
+   "text": "Every time you search your contacts or a shop’s website, a search algorithm runs. Today you’ll write the simplest one — and measure it.",
+   "scene": 0
+  },
+  {
+   "start": 8.88,
+   "end": 12.49,
+   "text": "Start at item 1 and check each item in turn.",
+   "scene": 1
+  },
+  {
+   "start": 12.49,
+   "end": 16.46,
+   "text": "Stop when you find the target, or when you run out of items.",
+   "scene": 1
+  },
+  {
+   "start": 16.46,
+   "end": 20.12,
+   "text": "There’s no point checking more items once you’ve found the target.",
+   "scene": 2
+  },
+  {
+   "start": 20.12,
+   "end": 24.45,
+   "text": "A repeat-until with two conditions stops at the right moment.",
+   "scene": 2
+  },
+  {
+   "start": 24.45,
+   "end": 28.25,
+   "text": "Algorithms must handle the case where the target isn’t there.",
+   "scene": 3
+  },
+  {
+   "start": 28.25,
+   "end": 32.38,
+   "text": "Use a found variable that stays 0 if nothing matches.",
+   "scene": 3
+  },
+  {
+   "start": 32.38,
+   "end": 36.49,
+   "text": "Efficiency means how much work an algorithm does.",
+   "scene": 4
+  },
+  {
+   "start": 36.49,
+   "end": 42.17,
+   "text": "Count comparisons: in the worst case linear search checks every item.",
+   "scene": 4
+  },
+  {
+   "start": 42.17,
+   "end": 49.25,
+   "text": "In Python, linear search is a function that returns the position, or minus one when the target isn’t found.",
+   "scene": 5
+  },
+  {
+   "start": 49.25,
+   "end": 52.22,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 52.22,
+   "end": 56.07,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

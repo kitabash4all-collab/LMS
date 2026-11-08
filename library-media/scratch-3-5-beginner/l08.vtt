@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.120
+Today you will learn the secret map of the stage, and make things fall from the sky.
+
+2
+00:00:09.120 --> 00:00:12.590
+Every place on the stage has an x and a y.
+
+3
+00:00:12.590 --> 00:00:21.000
+x goes from minus 240 on the left to 240 on the right. y goes from minus 180 at the bottom to 180 at the top.
+
+4
+00:00:21.000 --> 00:00:24.740
+The very middle is x 0, y 0.
+
+5
+00:00:24.740 --> 00:00:28.030
+Go to x and y jumps straight to a spot.
+
+6
+00:00:28.030 --> 00:00:34.720
+Change y by minus 5 moves down a little. Do it in a loop, and the sprite falls!
+
+7
+00:00:34.720 --> 00:00:38.250
+Each square here is 100 steps.
+
+8
+00:00:38.250 --> 00:00:44.370
+Go to x 100, y minus 200: right one square and down two. Pip lands on the star.
+
+9
+00:00:44.370 --> 00:00:51.340
+Pick random chooses a number for you, like rolling a dice.
+
+10
+00:00:51.340 --> 00:00:58.140
+Here the apple starts at a random place along the top of the stage — a different place every time.
+
+11
+00:00:58.140 --> 00:01:07.410
+Put it all together: the apple falls, and if its y gets below minus 170, it jumps back to a random spot at the top.
+
+12
+00:01:07.410 --> 00:01:10.980
+Now make it rain apples in the Code Lab!

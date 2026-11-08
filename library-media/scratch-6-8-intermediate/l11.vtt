@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.640
+In this lesson, you will learn to make apps robust: re-ask until input is valid, handle every menu choice, and organise features into procedures.
+
+2
+00:00:11.640 --> 00:00:17.840
+Keep asking until the input makes sense: repeat until the answer is in range.
+
+3
+00:00:17.840 --> 00:00:21.380
+The program never continues with bad data.
+
+4
+00:00:21.380 --> 00:00:24.360
+A menu asks the user to choose 1, 2 or 3.
+
+5
+00:00:24.360 --> 00:00:31.630
+An if-else chain handles each choice — and the final else catches anything else.
+
+6
+00:00:31.630 --> 00:00:34.900
+Put each menu option in its own My Block.
+
+7
+00:00:34.900 --> 00:00:37.440
+The menu just calls the right one.
+
+8
+00:00:37.440 --> 00:00:40.420
+Easy to read, easy to extend.
+
+9
+00:00:40.420 --> 00:00:46.850
+Test empty answers, words instead of numbers, negative numbers and huge numbers.
+
+10
+00:00:46.850 --> 00:00:50.170
+A robust app handles them politely.
+
+11
+00:00:50.170 --> 00:00:53.600
+Great work! Let’s remember what we learned.
+
+12
+00:00:53.600 --> 00:00:57.700
+Now build along, then try the challenges. You’ve got this!

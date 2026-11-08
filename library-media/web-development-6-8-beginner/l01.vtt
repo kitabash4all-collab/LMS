@@ -1,0 +1,121 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.660
+Today you will type your first real web page and watch the browser bring it to life.
+
+2
+00:00:05.660 --> 00:00:10.340
+Every web page is a text file written in a language called HTML.
+
+3
+00:00:10.340 --> 00:00:14.490
+Your browser reads that file and draws the page on your screen.
+
+4
+00:00:14.490 --> 00:00:18.900
+Every website you have ever visited started as text like this.
+
+5
+00:00:18.900 --> 00:00:24.960
+Tags are short words inside angle brackets that tell the browser what each part of the page is.
+
+6
+00:00:24.960 --> 00:00:33.150
+Most tags come in pairs, an opening tag and a closing tag with a slash.
+
+7
+00:00:33.150 --> 00:00:36.890
+The words in between the two tags are the content.
+
+8
+00:00:36.890 --> 00:00:42.740
+Heading tags make titles, from h1, the biggest, down to h6, the smallest.
+
+9
+00:00:42.740 --> 00:00:46.390
+Use just one h1 heading for the title of your page.
+
+10
+00:00:46.390 --> 00:00:49.850
+Then use h2 headings for each section of your page.
+
+11
+00:00:49.850 --> 00:00:53.960
+The p tag makes a paragraph of normal text.
+
+12
+00:00:53.960 --> 00:00:57.250
+The browser ignores extra spaces and new lines inside your code.
+
+13
+00:00:57.250 --> 00:01:00.310
+So every new paragraph needs its own p tag.
+
+14
+00:01:00.310 --> 00:01:06.490
+Anyone in the world can read a public web page.
+
+15
+00:01:06.490 --> 00:01:09.440
+Share your favourite things, but never your full name, school, address, phone number or photo.
+
+16
+00:01:09.440 --> 00:01:15.450
+A nickname is all a web page needs.
+
+17
+00:01:15.450 --> 00:01:20.140
+The Web Lab has two halves, your code on the left and the live preview on the right.
+
+18
+00:01:20.140 --> 00:01:24.910
+Every time you type, the preview redraws your page a moment later.
+
+19
+00:01:24.910 --> 00:01:31.750
+When you think you are done, press Check to see which goals you have reached.
+
+20
+00:01:31.750 --> 00:01:38.170
+Here is an opening h1 tag, the words Hello web, and a closing h1 tag.
+
+21
+00:01:38.170 --> 00:01:41.350
+The closing tag has a forward slash, which tells the browser the heading ends here.
+
+22
+00:01:41.350 --> 00:01:44.860
+The browser reads the file from top to bottom, one tag at a time.
+
+23
+00:01:44.860 --> 00:01:49.870
+The h1 is biggest, the h2 is a little smaller, and each paragraph sits on its own line.
+
+24
+00:01:49.870 --> 00:01:57.340
+Look at all those spaces and new lines inside one paragraph.
+
+25
+00:01:57.340 --> 00:02:02.430
+The browser squashes them into single spaces, so it all shows on one neat line.
+
+26
+00:02:02.430 --> 00:02:05.610
+Can you see the mistake? The closing tag is missing its slash.
+
+27
+00:02:05.610 --> 00:02:13.150
+The browser thinks the heading never ends, so everything after it becomes huge.
+
+28
+00:02:13.150 --> 00:02:16.550
+Add the slash, and the paragraph goes back to normal size.
+
+29
+00:02:16.550 --> 00:02:20.470
+Great work! Let’s remember what we learned.
+
+30
+00:02:20.470 --> 00:02:25.030
+Now build along, then try the challenges. You’ve got this!

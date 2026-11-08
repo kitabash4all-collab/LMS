@@ -1,0 +1,71 @@
+{
+ "duration": 54.12,
+ "lines": [
+  {
+   "start": 0,
+   "end": 2.54,
+   "text": "Time to build your first real game!",
+   "scene": 0
+  },
+  {
+   "start": 2.54,
+   "end": 6.86,
+   "text": "Move a bowl with the arrow keys and catch the falling apples.",
+   "scene": 0
+  },
+  {
+   "start": 6.86,
+   "end": 10.27,
+   "text": "The bowl moves left and right with the arrow keys.",
+   "scene": 1
+  },
+  {
+   "start": 10.27,
+   "end": 15.71,
+   "text": "An apple falls from a random place at the top.",
+   "scene": 1
+  },
+  {
+   "start": 15.71,
+   "end": 22.38,
+   "text": "If the apple touches the bowl, play a sound and drop a new apple. If it reaches the bottom, drop a new apple too.",
+   "scene": 1
+  },
+  {
+   "start": 22.38,
+   "end": 24.55,
+   "text": "This is the apple’s script.",
+   "scene": 2
+  },
+  {
+   "start": 24.55,
+   "end": 31.8,
+   "text": "It falls in a forever loop, and two if blocks check: touching the bowl? And at the bottom?",
+   "scene": 2
+  },
+  {
+   "start": 31.8,
+   "end": 37.73,
+   "text": "The bowl starts at the bottom and moves with the arrow keys — just like Lesson 2!",
+   "scene": 3
+  },
+  {
+   "start": 37.73,
+   "end": 41.65,
+   "text": "Game designers test their games again and again.",
+   "scene": 4
+  },
+  {
+   "start": 41.65,
+   "end": 49.04,
+   "text": "If it is too easy, make the apple fall faster. Ask a friend to play and watch what they do.",
+   "scene": 4
+  },
+  {
+   "start": 49.04,
+   "end": 53.81,
+   "text": "In the next module you will add a score. Now build your game!",
+   "scene": 5
+  }
+ ]
+}

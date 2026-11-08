@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.890
+Today you will make boxes line up side by side, like the cards on your favourite apps.
+
+2
+00:00:05.890 --> 00:00:10.910
+A class is a name you give to some elements, like class equals card.
+
+3
+00:00:10.910 --> 00:00:16.100
+In CSS, a dot in front of the name picks every element with that class.
+
+4
+00:00:16.100 --> 00:00:19.740
+Now you can style some paragraphs without changing all of them.
+
+5
+00:00:19.740 --> 00:00:27.700
+The div tag is a plain box with no special meaning.
+
+6
+00:00:27.700 --> 00:00:30.850
+We use it to group things together so we can style or move them as one.
+
+7
+00:00:30.850 --> 00:00:35.420
+Cards and rows are usually divs with a class.
+
+8
+00:00:35.420 --> 00:00:39.630
+Put display flex on a parent box, and its children line up in a row.
+
+9
+00:00:39.630 --> 00:00:43.910
+The gap property adds equal space between the boxes.
+
+10
+00:00:43.910 --> 00:00:46.440
+Flex-wrap lets cards move to a new line when the screen is narrow.
+
+11
+00:00:46.440 --> 00:00:53.120
+A card is a box with padding, a border and rounded corners from border-radius.
+
+12
+00:00:53.120 --> 00:00:56.590
+A white card on a coloured background really stands out.
+
+13
+00:00:56.590 --> 00:01:00.410
+Apps like video and shopping sites use cards everywhere.
+
+14
+00:01:00.410 --> 00:01:06.760
+Only the paragraphs with class big get the large font.
+
+15
+00:01:06.760 --> 00:01:09.820
+In CSS we write a dot before the class name, but in HTML there is no dot.
+
+16
+00:01:09.820 --> 00:01:15.980
+Normally every div starts on a new line, so the boxes stack like plates.
+
+17
+00:01:15.980 --> 00:01:20.880
+To put them side by side, we need flexbox.
+
+18
+00:01:20.880 --> 00:01:23.540
+We wrap the cards in a row div, then give the row display flex.
+
+19
+00:01:23.540 --> 00:01:26.300
+The children line up side by side, and gap adds the space between them.
+
+20
+00:01:26.300 --> 00:01:34.860
+Border radius rounds the corners, and padding gives the words room to breathe.
+
+21
+00:01:34.860 --> 00:01:37.710
+Now it looks like a real app.
+
+22
+00:01:37.710 --> 00:01:39.380
+Two small mistakes are hiding in this code. Can you find them?
+
+23
+00:01:39.380 --> 00:01:45.890
+The CSS needs a dot before card, and the HTML class should not have a dot.
+
+24
+00:01:45.890 --> 00:01:49.730
+Great work! Let’s remember what we learned.
+
+25
+00:01:49.730 --> 00:01:54.340
+Now build along, then try the challenges. You’ve got this!

@@ -1,0 +1,125 @@
+{
+ "duration": 101.22,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.37,
+   "text": "Today your programs start to listen. You will store answers in variables and use them in a funny story.",
+   "scene": 0
+  },
+  {
+   "start": 6.37,
+   "end": 11.14,
+   "text": "A variable stores a value under a name, like score = 0.",
+   "scene": 1
+  },
+  {
+   "start": 11.14,
+   "end": 14.89,
+   "text": "The = sign means “put this value in the box”.",
+   "scene": 1
+  },
+  {
+   "start": 14.89,
+   "end": 17.63,
+   "text": "Later you can use the name instead of the value.",
+   "scene": 1
+  },
+  {
+   "start": 17.63,
+   "end": 25.77,
+   "text": "input(\"What is your name? \") shows a question and waits for the user to type.",
+   "scene": 2
+  },
+  {
+   "start": 25.77,
+   "end": 30.29,
+   "text": "Whatever they type is stored, usually in a variable. input() always gives back text, even if they type a number.",
+   "scene": 2
+  },
+  {
+   "start": 30.29,
+   "end": 37.97,
+   "text": "Put an f before the quotes and a variable name inside curly brackets.",
+   "scene": 3
+  },
+  {
+   "start": 37.97,
+   "end": 39.83,
+   "text": "So f\"Hi {name}!\" becomes Hi Meera! when name holds Meera.",
+   "scene": 3
+  },
+  {
+   "start": 39.83,
+   "end": 48.34,
+   "text": "Names can use letters, numbers and underscores, but cannot start with a number or have spaces.",
+   "scene": 4
+  },
+  {
+   "start": 48.34,
+   "end": 51.1,
+   "text": "Choose names that explain themselves, like player_name or total_runs.",
+   "scene": 4
+  },
+  {
+   "start": 51.1,
+   "end": 58.28,
+   "text": "We put the text Mumbai Waves into a variable called team.",
+   "scene": 5
+  },
+  {
+   "start": 58.28,
+   "end": 64.54,
+   "text": "Now we can use the word team again and again, without typing the whole name.",
+   "scene": 5
+  },
+  {
+   "start": 64.54,
+   "end": 66.78,
+   "text": "A variable holds one value at a time.",
+   "scene": 6
+  },
+  {
+   "start": 66.78,
+   "end": 71.32,
+   "text": "When we store vada pav, the samosa is replaced, so only vada pav is printed.",
+   "scene": 6
+  },
+  {
+   "start": 71.32,
+   "end": 76.3,
+   "text": "The input command shows the question and waits for the user to type.",
+   "scene": 7
+  },
+  {
+   "start": 76.3,
+   "end": 81.69,
+   "text": "Riya typed her name, and the f-string dropped it straight into the sentence.",
+   "scene": 7
+  },
+  {
+   "start": 81.69,
+   "end": 86.63,
+   "text": "Oops, the output says curly bracket name instead of Kabir.",
+   "scene": 8
+  },
+  {
+   "start": 86.63,
+   "end": 93.08,
+   "text": "We forgot the little f before the quotes, so Python printed the brackets as plain text.",
+   "scene": 8
+  },
+  {
+   "start": 93.08,
+   "end": 96.75,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 96.75,
+   "end": 100.91,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "duration": 105.06,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.55,
+   "text": "Every AI helper you have used follows hidden instructions. Today you write your own.",
+   "scene": 0
+  },
+  {
+   "start": 5.55,
+   "end": 9.45,
+   "text": "Many chatbots are given instructions before you ever type.",
+   "scene": 1
+  },
+  {
+   "start": 9.45,
+   "end": 12.87,
+   "text": "They say what the bot is for and how it should behave.",
+   "scene": 1
+  },
+  {
+   "start": 12.87,
+   "end": 16.32,
+   "text": "You can write these instructions yourself, with no code.",
+   "scene": 1
+  },
+  {
+   "start": 16.32,
+   "end": 24.66,
+   "text": "Start with the purpose, for example helping Grade 7 students with maths homework by giving hints.",
+   "scene": 2
+  },
+  {
+   "start": 24.66,
+   "end": 31.62,
+   "text": "Then choose the personality: patient, cheerful, or full of energy like a cricket coach.",
+   "scene": 2
+  },
+  {
+   "start": 31.62,
+   "end": 35.11,
+   "text": "Rules say what the bot must always and never do.",
+   "scene": 3
+  },
+  {
+   "start": 35.11,
+   "end": 38.17,
+   "text": "Refusals say how it politely says no, like “I can’t give the full answer, but here is a hint.”",
+   "scene": 3
+  },
+  {
+   "start": 38.17,
+   "end": 45.07,
+   "text": "Test your bot with normal questions, tricky ones and off-topic ones.",
+   "scene": 4
+  },
+  {
+   "start": 45.07,
+   "end": 48.5,
+   "text": "Write what should happen, then check what really happened.",
+   "scene": 4
+  },
+  {
+   "start": 48.5,
+   "end": 57.01,
+   "text": "If a test fails, fix the instructions and run all the tests again.",
+   "scene": 4
+  },
+  {
+   "start": 57.01,
+   "end": 60.03,
+   "text": "Here the learner pastes the instruction sheet as the very first message of a new chat.",
+   "scene": 5
+  },
+  {
+   "start": 60.03,
+   "end": 67.07,
+   "text": "It sets the purpose, the personality, the rules and how to refuse.",
+   "scene": 5
+  },
+  {
+   "start": 67.07,
+   "end": 72.08,
+   "text": "In this tricky test, the bot gave the full answer and broke its own rule.",
+   "scene": 6
+  },
+  {
+   "start": 72.08,
+   "end": 74.04,
+   "text": "That is why we test — we found a weak spot before a real user did.",
+   "scene": 6
+  },
+  {
+   "start": 74.04,
+   "end": 79.36,
+   "text": "We make the rule clearer, add an example of a polite refusal, and test again.",
+   "scene": 6
+  },
+  {
+   "start": 79.36,
+   "end": 83.91,
+   "text": "After the fix, the bot refuses politely and gives a helpful hint instead. Test passed!",
+   "scene": 7
+  },
+  {
+   "start": 83.91,
+   "end": 91.02,
+   "text": "You can test your bot by pasting the instruction sheet as the first message of a new chat.",
+   "scene": 8
+  },
+  {
+   "start": 91.02,
+   "end": 97.08,
+   "text": "Run each test, mark it pass or fail, fix the instructions, and test again.",
+   "scene": 8
+  },
+  {
+   "start": 97.08,
+   "end": 100.58,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 100.58,
+   "end": 104.75,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

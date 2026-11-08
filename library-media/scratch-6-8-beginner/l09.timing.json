@@ -1,0 +1,59 @@
+{
+ "duration": 56.14,
+ "lines": [
+  {
+   "start": 0,
+   "end": 14.49,
+   "text": "It’s project time! Build a helpful assistant app: ask at least two questions, store the answers in variables, calculate with operators, decide with if/else, reply with a joined message, and validate odd inputs.",
+   "scene": 0
+  },
+  {
+   "start": 14.49,
+   "end": 23.74,
+   "text": "Build a helpful assistant: a study timer planner, a pocket-money calculator, a recipe scaler, a fitness helper — your choice.",
+   "scene": 1
+  },
+  {
+   "start": 23.74,
+   "end": 33.24,
+   "text": "Every app follows this pattern: get input (ask), process it (variables, operators, decisions), and give output (say).",
+   "scene": 2
+  },
+  {
+   "start": 33.24,
+   "end": 35.83,
+   "text": "Users type surprising things.",
+   "scene": 3
+  },
+  {
+   "start": 35.83,
+   "end": 41.81,
+   "text": "Check the input is sensible (e.g. not negative) and respond kindly if it isn’t.",
+   "scene": 3
+  },
+  {
+   "start": 41.81,
+   "end": 43.45,
+   "text": "Write a test table: input, expected output, actual output.",
+   "scene": 4
+  },
+  {
+   "start": 43.45,
+   "end": 46.85,
+   "text": "Include normal, boundary and invalid inputs.",
+   "scene": 4
+  },
+  {
+   "start": 46.85,
+   "end": 51.07,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.07,
+   "end": 55.81,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

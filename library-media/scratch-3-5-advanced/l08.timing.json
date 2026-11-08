@@ -1,0 +1,65 @@
+{
+ "duration": 51.47,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.35,
+   "text": "In this lesson, you will learn to check whether a list contains something and use it to make decisions, like a password checker or an inventory.",
+   "scene": 0
+  },
+  {
+   "start": 9.35,
+   "end": 15.39,
+   "text": "The block “list contains thing?” is true if the thing is anywhere in the list.",
+   "scene": 1
+  },
+  {
+   "start": 15.39,
+   "end": 19.31,
+   "text": "It works in if blocks just like other conditions.",
+   "scene": 1
+  },
+  {
+   "start": 19.31,
+   "end": 24.74,
+   "text": "Many games keep an inventory: a list of things the player has collected.",
+   "scene": 2
+  },
+  {
+   "start": 24.74,
+   "end": 28.7,
+   "text": "Add an item when collected; check the list to open a door.",
+   "scene": 2
+  },
+  {
+   "start": 28.7,
+   "end": 31.5,
+   "text": "Store allowed passwords in a list.",
+   "scene": 3
+  },
+  {
+   "start": 31.5,
+   "end": 35.88,
+   "text": "Ask for the password and check if the list contains the answer.",
+   "scene": 3
+  },
+  {
+   "start": 35.88,
+   "end": 43.55,
+   "text": "Use “not” to check the opposite: if not (bag contains key) → say “You need a key!”.",
+   "scene": 4
+  },
+  {
+   "start": 43.55,
+   "end": 47.04,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 47.04,
+   "end": 51.16,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

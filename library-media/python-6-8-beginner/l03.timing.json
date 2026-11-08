@@ -1,0 +1,143 @@
+{
+ "duration": 105.74,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.29,
+   "text": "Today your programs learn to do maths and make decisions, just like a shopkeeper with a calculator.",
+   "scene": 0
+  },
+  {
+   "start": 6.29,
+   "end": 11.34,
+   "text": "input() always gives text, so \"5\" plus \"3\" would make \"53\".",
+   "scene": 1
+  },
+  {
+   "start": 11.34,
+   "end": 15.96,
+   "text": "Wrap it in int() to get a real number: int(input(\"How many? \")).",
+   "scene": 1
+  },
+  {
+   "start": 15.96,
+   "end": 18.37,
+   "text": "Now you can do maths with it.",
+   "scene": 1
+  },
+  {
+   "start": 18.37,
+   "end": 23.52,
+   "text": "Use + to add, - to subtract, * to multiply and / to divide.",
+   "scene": 2
+  },
+  {
+   "start": 23.52,
+   "end": 27.7,
+   "text": "Use // for whole-number division and % for the remainder.",
+   "scene": 2
+  },
+  {
+   "start": 27.7,
+   "end": 32.04,
+   "text": "Python follows BODMAS, just like your maths class.",
+   "scene": 2
+  },
+  {
+   "start": 32.04,
+   "end": 35.65,
+   "text": "Python compares with < > <= >= and ==, which means “is equal to”.",
+   "scene": 3
+  },
+  {
+   "start": 35.65,
+   "end": 38.66,
+   "text": "Use != for “is not equal to”.",
+   "scene": 3
+  },
+  {
+   "start": 38.66,
+   "end": 42.11,
+   "text": "Every comparison is either True or False.",
+   "scene": 3
+  },
+  {
+   "start": 42.11,
+   "end": 45.95,
+   "text": "if runs code only when a comparison is True. elif checks another option, and else catches everything left.",
+   "scene": 4
+  },
+  {
+   "start": 45.95,
+   "end": 50.77,
+   "text": "The lines inside must be indented by four spaces.",
+   "scene": 4
+  },
+  {
+   "start": 50.77,
+   "end": 54.88,
+   "text": "Watch what happens when we add two answers from input.",
+   "scene": 5
+  },
+  {
+   "start": 54.88,
+   "end": 63,
+   "text": "Without int we get fifty-three, because text just sticks together. With int we get eight.",
+   "scene": 5
+  },
+  {
+   "start": 63,
+   "end": 65.16,
+   "text": "Three samosas at forty rupees each cost one hundred and twenty rupees.",
+   "scene": 6
+  },
+  {
+   "start": 65.16,
+   "end": 70.09,
+   "text": "Two friends share the bill, so double slash divides it into whole rupees.",
+   "scene": 6
+  },
+  {
+   "start": 70.09,
+   "end": 80.19,
+   "text": "Python checks the first condition, and sixty-seven is not one hundred or more.",
+   "scene": 7
+  },
+  {
+   "start": 80.19,
+   "end": 85.13,
+   "text": "Then elif checks fifty or more, which is True, so we see Half century.",
+   "scene": 7
+  },
+  {
+   "start": 85.13,
+   "end": 89.5,
+   "text": "Notice the colon at the end and the four spaces before each print.",
+   "scene": 7
+  },
+  {
+   "start": 89.5,
+   "end": 94.16,
+   "text": "Python cannot compare text with a number, so it shows a TypeError.",
+   "scene": 8
+  },
+  {
+   "start": 94.16,
+   "end": 98.95,
+   "text": "The fix is to wrap the input in int, so money becomes a real number.",
+   "scene": 8
+  },
+  {
+   "start": 98.95,
+   "end": 101.69,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 101.69,
+   "end": 105.43,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

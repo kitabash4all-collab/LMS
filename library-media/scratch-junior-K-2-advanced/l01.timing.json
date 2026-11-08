@@ -1,0 +1,65 @@
+{
+ "duration": 48.08,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.97,
+   "text": "Hello, game builder! Games need players to tap and play. Let’s learn the tap start block.",
+   "scene": 0
+  },
+  {
+   "start": 6.97,
+   "end": 12.24,
+   "text": "The yellow “start on tap” block runs a script when you tap the character.",
+   "scene": 1
+  },
+  {
+   "start": 12.24,
+   "end": 15.48,
+   "text": "The green flag starts the whole game.",
+   "scene": 2
+  },
+  {
+   "start": 15.48,
+   "end": 18.78,
+   "text": "Tapping starts one character’s script.",
+   "scene": 2
+  },
+  {
+   "start": 18.78,
+   "end": 24.35,
+   "text": "In games, players tap characters to make them do things — that’s interaction!",
+   "scene": 3
+  },
+  {
+   "start": 24.35,
+   "end": 30.65,
+   "text": "One character can have a flag script AND a tap script.",
+   "scene": 4
+  },
+  {
+   "start": 30.65,
+   "end": 36.68,
+   "text": "Use 👆 start on tap. When tapped, the cat hops and says “Hee hee!”.",
+   "scene": 5
+  },
+  {
+   "start": 36.68,
+   "end": 39.09,
+   "text": "Tap → hop → giggle. Your first game interaction!",
+   "scene": 5
+  },
+  {
+   "start": 39.09,
+   "end": 42.89,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 42.89,
+   "end": 48.08,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

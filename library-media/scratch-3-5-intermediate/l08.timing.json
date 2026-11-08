@@ -1,0 +1,71 @@
+{
+ "duration": 52.7,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.16,
+   "text": "In this lesson, you will learn to generate random quiz questions, keep score in a variable, and add a time limit with the timer.",
+   "scene": 0
+  },
+  {
+   "start": 9.16,
+   "end": 13.96,
+   "text": "Store two random numbers in variables, then ask about them.",
+   "scene": 1
+  },
+  {
+   "start": 13.96,
+   "end": 20.42,
+   "text": "Every time the quiz runs, the questions are different.",
+   "scene": 1
+  },
+  {
+   "start": 20.42,
+   "end": 24.09,
+   "text": "Set score to 0 at the start.",
+   "scene": 2
+  },
+  {
+   "start": 24.09,
+   "end": 26.63,
+   "text": "Each correct answer: change score by 1.",
+   "scene": 2
+  },
+  {
+   "start": 26.63,
+   "end": 29.49,
+   "text": "At the end, say the score.",
+   "scene": 2
+  },
+  {
+   "start": 29.49,
+   "end": 34.01,
+   "text": "Put the question code inside repeat (5) to ask five different questions.",
+   "scene": 3
+  },
+  {
+   "start": 34.01,
+   "end": 39.46,
+   "text": "Reset the timer at the start.",
+   "scene": 4
+  },
+  {
+   "start": 39.46,
+   "end": 42.5,
+   "text": "“wait until timer > 10” lets you end the game after 10 seconds.",
+   "scene": 4
+  },
+  {
+   "start": 42.5,
+   "end": 47.66,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 47.66,
+   "end": 52.7,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

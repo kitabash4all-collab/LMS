@@ -1,0 +1,149 @@
+{
+ "duration": 111.26,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.51,
+   "text": "Today you mix chance with functions, roll hundreds of dice in a blink and build a Ludo race.",
+   "scene": 0
+  },
+  {
+   "start": 6.51,
+   "end": 11.11,
+   "text": "Put random.randint inside a function and return the result.",
+   "scene": 1
+  },
+  {
+   "start": 11.11,
+   "end": 15.6,
+   "text": "Now roll_dice() gives a fresh number every time you call it.",
+   "scene": 1
+  },
+  {
+   "start": 15.6,
+   "end": 18.54,
+   "text": "Your game code starts to read like a story.",
+   "scene": 1
+  },
+  {
+   "start": 18.54,
+   "end": 22.2,
+   "text": "A loop can roll a dice hundreds of times in a blink.",
+   "scene": 2
+  },
+  {
+   "start": 22.2,
+   "end": 27.73,
+   "text": "Counting the results shows patterns, like a six coming up about one time in six.",
+   "scene": 2
+  },
+  {
+   "start": 27.73,
+   "end": 31.25,
+   "text": "Scientists and game designers test ideas this way.",
+   "scene": 2
+  },
+  {
+   "start": 31.25,
+   "end": 36.72,
+   "text": "def take_turn(name, position): handles one player’s whole turn.",
+   "scene": 3
+  },
+  {
+   "start": 36.72,
+   "end": 40.45,
+   "text": "It rolls, moves, prints and returns the new position.",
+   "scene": 3
+  },
+  {
+   "start": 40.45,
+   "end": 43.57,
+   "text": "Two players simply call it with different names.",
+   "scene": 3
+  },
+  {
+   "start": 43.57,
+   "end": 52.98,
+   "text": "Game rules can be functions too. move(position, roll) returns the square you land on, and keeps you still if you would go past the finish.",
+   "scene": 4
+  },
+  {
+   "start": 52.98,
+   "end": 55.89,
+   "text": "Small rule functions are easy to test.",
+   "scene": 4
+  },
+  {
+   "start": 55.89,
+   "end": 61.64,
+   "text": "The parameter sides decides how big the dice is.",
+   "scene": 5
+  },
+  {
+   "start": 61.64,
+   "end": 64.49,
+   "text": "Every call returns a new random number, so your output will be different from mine.",
+   "scene": 5
+  },
+  {
+   "start": 64.49,
+   "end": 70.43,
+   "text": "This function returns heads or tails, just like the coin toss before a match.",
+   "scene": 6
+  },
+  {
+   "start": 70.43,
+   "end": 73.97,
+   "text": "We store the answer and use it in a decision.",
+   "scene": 6
+  },
+  {
+   "start": 73.97,
+   "end": 79.33,
+   "text": "The loop rolls the dice six hundred times faster than you can blink.",
+   "scene": 7
+  },
+  {
+   "start": 79.33,
+   "end": 84.65,
+   "text": "We get close to one hundred sixes, about one roll in every six.",
+   "scene": 7
+  },
+  {
+   "start": 84.65,
+   "end": 88.41,
+   "text": "From square ten, a four takes you to square fourteen.",
+   "scene": 8
+  },
+  {
+   "start": 88.41,
+   "end": 94.5,
+   "text": "From square twenty-eight, a five would pass the finish at thirty, so you stay where you are.",
+   "scene": 8
+  },
+  {
+   "start": 94.5,
+   "end": 98.25,
+   "text": "The function rolls the dice but forgets to return the number.",
+   "scene": 9
+  },
+  {
+   "start": 98.25,
+   "end": 103.21,
+   "text": "So roll holds None, and Python cannot multiply nothing by two.",
+   "scene": 9
+  },
+  {
+   "start": 103.21,
+   "end": 106.38,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 106.38,
+   "end": 111.26,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "duration": 45.71,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.42,
+   "text": "You are a game builder now! Design your own game, build it, test it and share it with the class.",
+   "scene": 0
+  },
+  {
+   "start": 7.42,
+   "end": 12.97,
+   "text": "Draw your game: the hero, the treasure, the danger and the goal.",
+   "scene": 1
+  },
+  {
+   "start": 12.97,
+   "end": 15.77,
+   "text": "The player taps to make things happen.",
+   "scene": 2
+  },
+  {
+   "start": 15.77,
+   "end": 20.63,
+   "text": "What happens when characters bump?",
+   "scene": 3
+  },
+  {
+   "start": 20.63,
+   "end": 22.78,
+   "text": "Collect, shrink or win!",
+   "scene": 3
+  },
+  {
+   "start": 22.78,
+   "end": 26.01,
+   "text": "Tell the player when they win.",
+   "scene": 4
+  },
+  {
+   "start": 26.01,
+   "end": 33.79,
+   "text": "Start on tap. Collect 3 stars (gems) with ⭐ +1 each, reach the goal, say “You win!” and hop 3 times.",
+   "scene": 5
+  },
+  {
+   "start": 33.79,
+   "end": 37.44,
+   "text": "Champion! You beat the final level.",
+   "scene": 5
+  },
+  {
+   "start": 37.44,
+   "end": 40.91,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 40.91,
+   "end": 45.44,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

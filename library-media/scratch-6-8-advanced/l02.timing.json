@@ -1,0 +1,77 @@
+{
+ "duration": 57.3,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9,
+   "text": "In this lesson, you will learn to implement binary search on a sorted list using low, high and mid, and compare its efficiency with linear search.",
+   "scene": 0
+  },
+  {
+   "start": 9,
+   "end": 12.89,
+   "text": "If a list is sorted, you can be clever: check the middle.",
+   "scene": 1
+  },
+  {
+   "start": 12.89,
+   "end": 17.98,
+   "text": "If the target is bigger, throw away the lower half; if smaller, the upper half.",
+   "scene": 1
+  },
+  {
+   "start": 17.98,
+   "end": 24.49,
+   "text": "Keep low and high at the ends of the part still possible. mid = round((low + high) / 2).",
+   "scene": 2
+  },
+  {
+   "start": 24.49,
+   "end": 26.81,
+   "text": "Each step halves the range.",
+   "scene": 2
+  },
+  {
+   "start": 26.81,
+   "end": 34.74,
+   "text": "Binary search finds any number in 1–100 in at most 7 steps, and in a million items in at most 20.",
+   "scene": 3
+  },
+  {
+   "start": 34.74,
+   "end": 36.83,
+   "text": "Linear search could take a million.",
+   "scene": 3
+  },
+  {
+   "start": 36.83,
+   "end": 40.67,
+   "text": "Binary search gives wrong answers on unsorted data.",
+   "scene": 4
+  },
+  {
+   "start": 40.67,
+   "end": 43.37,
+   "text": "That’s one reason sorting matters so much.",
+   "scene": 4
+  },
+  {
+   "start": 43.37,
+   "end": 49.78,
+   "text": "In Python, binary search is a while loop with low, high and mid — exactly the same idea.",
+   "scene": 5
+  },
+  {
+   "start": 49.78,
+   "end": 52.88,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 52.88,
+   "end": 56.96,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

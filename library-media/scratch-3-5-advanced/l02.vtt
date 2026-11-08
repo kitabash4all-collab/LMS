@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:10.730
+In this lesson, you will learn to give clones different speeds, sizes and reactions, and detect when a clone touches the player.
+
+2
+00:00:10.730 --> 00:00:20.100
+Use pick random inside the clone’s script so every clone gets its own size, position or costume.
+
+3
+00:00:20.100 --> 00:00:23.720
+Each clone can check if it is touching the player.
+
+4
+00:00:23.720 --> 00:00:28.120
+When it is, it can change the score and delete itself.
+
+5
+00:00:28.120 --> 00:00:31.990
+For games, use a forever loop that checks keys.
+
+6
+00:00:31.990 --> 00:00:35.150
+The player moves smoothly while you hold the key.
+
+7
+00:00:35.150 --> 00:00:40.450
+Use a variable for the fall speed and change it as the game goes on.
+
+8
+00:00:40.450 --> 00:00:44.730
+Every new clone falls a little faster.
+
+9
+00:00:44.730 --> 00:00:49.550
+Great work! Let’s remember what we learned.
+
+10
+00:00:49.550 --> 00:00:55.110
+Now build along, then try the challenges. You’ve got this!

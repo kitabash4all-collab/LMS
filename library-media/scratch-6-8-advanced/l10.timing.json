@@ -1,0 +1,77 @@
+{
+ "duration": 62.79,
+ "lines": [
+  {
+   "start": 0,
+   "end": 10.28,
+   "text": "Some problems contain smaller copies of themselves. Recursion solves them with a procedure that calls itself — one of the most beautiful ideas in computer science.",
+   "scene": 0
+  },
+  {
+   "start": 10.28,
+   "end": 13.83,
+   "text": "A tree is a trunk with two smaller trees on top.",
+   "scene": 1
+  },
+  {
+   "start": 13.83,
+   "end": 18.95,
+   "text": "A countdown from 5 is “say 5, then count down from 4”.",
+   "scene": 1
+  },
+  {
+   "start": 18.95,
+   "end": 22.34,
+   "text": "The problem contains a smaller version of itself.",
+   "scene": 1
+  },
+  {
+   "start": 22.34,
+   "end": 28.81,
+   "text": "Every recursive procedure needs a base case: a simple situation where it stops calling itself.",
+   "scene": 2
+  },
+  {
+   "start": 28.81,
+   "end": 31.13,
+   "text": "Without one it would never end.",
+   "scene": 2
+  },
+  {
+   "start": 31.13,
+   "end": 38.44,
+   "text": "The recursive case calls the procedure again with a SMALLER input, so it gets closer to the base case each time.",
+   "scene": 3
+  },
+  {
+   "start": 38.44,
+   "end": 45.05,
+   "text": "Draw a branch, then two smaller branches at angles, each drawing two smaller branches… until the branches are tiny.",
+   "scene": 4
+  },
+  {
+   "start": 45.05,
+   "end": 48.78,
+   "text": "That’s a fractal tree.",
+   "scene": 4
+  },
+  {
+   "start": 48.78,
+   "end": 54.88,
+   "text": "The same recursive function in Python: a base case and a recursive call with a smaller number.",
+   "scene": 5
+  },
+  {
+   "start": 54.88,
+   "end": 58.17,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 58.17,
+   "end": 62.79,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

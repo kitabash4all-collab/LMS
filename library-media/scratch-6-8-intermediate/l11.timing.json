@@ -1,0 +1,77 @@
+{
+ "duration": 57.4,
+ "lines": [
+  {
+   "start": 0,
+   "end": 11.04,
+   "text": "In this lesson, you will learn to make apps robust: re-ask until input is valid, handle every menu choice, and organise features into procedures.",
+   "scene": 0
+  },
+  {
+   "start": 11.04,
+   "end": 17.24,
+   "text": "Keep asking until the input makes sense: repeat until the answer is in range.",
+   "scene": 1
+  },
+  {
+   "start": 17.24,
+   "end": 20.78,
+   "text": "The program never continues with bad data.",
+   "scene": 1
+  },
+  {
+   "start": 20.78,
+   "end": 23.76,
+   "text": "A menu asks the user to choose 1, 2 or 3.",
+   "scene": 2
+  },
+  {
+   "start": 23.76,
+   "end": 31.03,
+   "text": "An if-else chain handles each choice — and the final else catches anything else.",
+   "scene": 2
+  },
+  {
+   "start": 31.03,
+   "end": 34.3,
+   "text": "Put each menu option in its own My Block.",
+   "scene": 3
+  },
+  {
+   "start": 34.3,
+   "end": 36.84,
+   "text": "The menu just calls the right one.",
+   "scene": 3
+  },
+  {
+   "start": 36.84,
+   "end": 39.82,
+   "text": "Easy to read, easy to extend.",
+   "scene": 3
+  },
+  {
+   "start": 39.82,
+   "end": 46.25,
+   "text": "Test empty answers, words instead of numbers, negative numbers and huge numbers.",
+   "scene": 4
+  },
+  {
+   "start": 46.25,
+   "end": 49.57,
+   "text": "A robust app handles them politely.",
+   "scene": 4
+  },
+  {
+   "start": 49.57,
+   "end": 53,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 53,
+   "end": 57.1,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

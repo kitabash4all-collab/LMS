@@ -1,0 +1,71 @@
+{
+ "duration": 50.51,
+ "lines": [
+  {
+   "start": 0,
+   "end": 2.35,
+   "text": "Welcome to Module 4!",
+   "scene": 0
+  },
+  {
+   "start": 2.35,
+   "end": 6.82,
+   "text": "Today your games will remember things — like the score.",
+   "scene": 0
+  },
+  {
+   "start": 6.82,
+   "end": 10.77,
+   "text": "A variable is like a box with a name on it.",
+   "scene": 1
+  },
+  {
+   "start": 10.77,
+   "end": 13.96,
+   "text": "The box called score holds a number, like 3.",
+   "scene": 1
+  },
+  {
+   "start": 13.96,
+   "end": 18.71,
+   "text": "During the game, the number inside can change.",
+   "scene": 1
+  },
+  {
+   "start": 18.71,
+   "end": 26.19,
+   "text": "Set puts a value in the box. We set the score to 0 at the start of every game.",
+   "scene": 2
+  },
+  {
+   "start": 26.19,
+   "end": 28.56,
+   "text": "Change adds to the value. Change score by 1 adds one point.",
+   "scene": 2
+  },
+  {
+   "start": 28.56,
+   "end": 36.41,
+   "text": "If you forget to set the score at the start, it carries on from the last game.",
+   "scene": 3
+  },
+  {
+   "start": 36.41,
+   "end": 41.05,
+   "text": "Always reset your variables when the green flag is clicked.",
+   "scene": 3
+  },
+  {
+   "start": 41.05,
+   "end": 47.09,
+   "text": "You can use a variable in a condition. If score equals 10, then you win!",
+   "scene": 4
+  },
+  {
+   "start": 47.09,
+   "end": 50.16,
+   "text": "Now add a score to your games in the Code Lab!",
+   "scene": 5
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "duration": 113.26,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.01,
+   "text": "Great programmers plan before they type. Today you plan a quiz game with AI, then build it yourself.",
+   "scene": 0
+  },
+  {
+   "start": 7.01,
+   "end": 13.29,
+   "text": "Write your idea in one sentence, like a three-question quiz about India that keeps score.",
+   "scene": 1
+  },
+  {
+   "start": 13.29,
+   "end": 16.52,
+   "text": "Say who will play it and what counts as winning.",
+   "scene": 1
+  },
+  {
+   "start": 16.52,
+   "end": 19.38,
+   "text": "A clear idea makes a clear plan.",
+   "scene": 1
+  },
+  {
+   "start": 19.38,
+   "end": 23.46,
+   "text": "Pseudocode is your program written as plain English steps.",
+   "scene": 2
+  },
+  {
+   "start": 23.46,
+   "end": 28.84,
+   "text": "Each step is one small action, like ask a question or add one to the score.",
+   "scene": 2
+  },
+  {
+   "start": 28.84,
+   "end": 32.31,
+   "text": "It is not Python yet, so anyone can read it.",
+   "scene": 2
+  },
+  {
+   "start": 32.31,
+   "end": 37.4,
+   "text": "Ask the AI to review your steps or suggest a plan in pseudocode only.",
+   "scene": 3
+  },
+  {
+   "start": 37.4,
+   "end": 39.59,
+   "text": "Tell it not to write the code.",
+   "scene": 3
+  },
+  {
+   "start": 39.59,
+   "end": 43.21,
+   "text": "Then check the plan for missing steps before you build.",
+   "scene": 3
+  },
+  {
+   "start": 43.21,
+   "end": 47.87,
+   "text": "Turn one step into code, run it, and only then add the next step.",
+   "scene": 4
+  },
+  {
+   "start": 47.87,
+   "end": 52.13,
+   "text": "Test with right answers, wrong answers and capital letters.",
+   "scene": 4
+  },
+  {
+   "start": 52.13,
+   "end": 55.37,
+   "text": "The code is yours, because you built every line.",
+   "scene": 4
+  },
+  {
+   "start": 55.37,
+   "end": 60.69,
+   "text": "Zoya asks for a plan in pseudocode only, and the AI keeps to that rule.",
+   "scene": 5
+  },
+  {
+   "start": 60.69,
+   "end": 65.9,
+   "text": "The plan looks tidy, but trace it with your finger: when does the score go up?",
+   "scene": 5
+  },
+  {
+   "start": 65.9,
+   "end": 71.37,
+   "text": "It never does, so every player would score zero. Zoya adds the missing step.",
+   "scene": 5
+  },
+  {
+   "start": 71.37,
+   "end": 76.03,
+   "text": "Zoya turns each pseudocode step into one or two lines of Python.",
+   "scene": 6
+  },
+  {
+   "start": 76.03,
+   "end": 80.92,
+   "text": "She uses lower so that Delhi with a capital letter still counts as correct.",
+   "scene": 6
+  },
+  {
+   "start": 80.92,
+   "end": 85.26,
+   "text": "She runs it after every question, not just at the very end.",
+   "scene": 6
+  },
+  {
+   "start": 85.26,
+   "end": 91.02,
+   "text": "You can build the same plan in Scratch with ask and wait, and an if else block.",
+   "scene": 7
+  },
+  {
+   "start": 91.02,
+   "end": 95.77,
+   "text": "The plan is the same in any language, only the code looks different.",
+   "scene": 7
+  },
+  {
+   "start": 95.77,
+   "end": 100.84,
+   "text": "Test your game the way a real player might use it, including the silly ways.",
+   "scene": 8
+  },
+  {
+   "start": 100.84,
+   "end": 106.6,
+   "text": "Every test that fails is a new bug to hunt, using your debug loop from last lesson.",
+   "scene": 8
+  },
+  {
+   "start": 106.6,
+   "end": 109.31,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 109.31,
+   "end": 112.96,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

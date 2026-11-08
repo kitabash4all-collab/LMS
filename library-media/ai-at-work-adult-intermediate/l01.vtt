@@ -1,0 +1,125 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.830
+Welcome to Level 2! Today you will stop rewriting the same messages and build templates that do the work for you.
+
+2
+00:00:08.830 --> 00:00:12.280
+In Level 1 you saved good prompts.
+
+3
+00:00:12.280 --> 00:00:20.560
+A template goes one step further, because it has blanks called placeholders, like Customer name or Due date in square brackets.
+
+4
+00:00:20.560 --> 00:00:25.070
+You write it carefully once, and then you only fill the blanks each week.
+
+5
+00:00:25.070 --> 00:00:31.030
+A prompt template is what you paste into the AI, such as your monthly update prompt.
+
+6
+00:00:31.030 --> 00:00:39.790
+A message template is the finished text with merge fields, such as a fee reminder with a blank for the first name.
+
+7
+00:00:39.790 --> 00:00:44.470
+The AI helps you write both, but only you fill in the real details.
+
+8
+00:00:44.470 --> 00:00:51.360
+Mail merge joins one message template with a list in a sheet, so each person gets their own name, amount and date.
+
+9
+00:00:51.360 --> 00:00:55.100
+The AI writes the template, and your sheet fills in the names.
+
+10
+00:00:55.100 --> 00:01:00.810
+The AI never needs to see your real customer list.
+
+11
+00:01:00.810 --> 00:01:04.560
+Before sending, read at least three finished messages.
+
+12
+00:01:04.560 --> 00:01:10.040
+Look for empty blanks, wrong amounts and a field name the AI quietly changed.
+
+13
+00:01:10.040 --> 00:01:12.810
+Then send one test to yourself first.
+
+14
+00:01:12.810 --> 00:01:20.290
+Keep all your templates in one place, such as a Google Doc, a sheet, or saved templates in Gmail or Outlook.
+
+15
+00:01:20.290 --> 00:01:24.210
+For each one, note when to use it, its placeholders, and what to check.
+
+16
+00:01:24.210 --> 00:01:28.930
+A colleague should be able to pick it up and use it safely.
+
+17
+00:01:28.930 --> 00:01:35.420
+Here the front desk of a coaching centre asks for a fee reminder with four merge fields.
+
+18
+00:01:35.420 --> 00:01:40.590
+The prompt says to keep the field names exactly, and not to add any new facts.
+
+19
+00:01:40.590 --> 00:01:45.060
+The reminder is short and polite, but look closely at the last field.
+
+20
+00:01:45.060 --> 00:01:49.920
+The AI changed Due Date to just Date, so the merge would leave a gap.
+
+21
+00:01:49.920 --> 00:01:56.210
+We fix the field name before we save it, and that one check saves forty broken messages.
+
+22
+00:01:56.210 --> 00:02:01.380
+Now the sheet does the personal part, and the AI only writes the formula.
+
+23
+00:02:01.380 --> 00:02:05.880
+We describe the columns and give one example of the finished message.
+
+24
+00:02:05.880 --> 00:02:12.570
+The formula joins the pieces of text, and the TEXT part makes the amount and date look neat.
+
+25
+00:02:12.570 --> 00:02:19.250
+Drag it down, and every row gets its own message, while the real list never left the sheet.
+
+26
+00:02:19.250 --> 00:02:25.070
+Save your best message templates where you write emails, in Gmail or Outlook.
+
+27
+00:02:25.070 --> 00:02:31.810
+For mail merge, Word and Outlook work together, and some Google Workspace accounts have it inside Gmail.
+
+28
+00:02:31.810 --> 00:02:36.640
+If you have neither, the sheet formula already made every message for you.
+
+29
+00:02:36.640 --> 00:02:42.310
+Whatever tool you use, preview three messages and send a test to yourself first.
+
+30
+00:02:42.310 --> 00:02:45.320
+Great work! Let’s remember what we learned.
+
+31
+00:02:45.320 --> 00:02:50.250
+Now build along, then try the challenges. You’ve got this!

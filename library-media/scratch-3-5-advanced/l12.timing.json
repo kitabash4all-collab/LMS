@@ -1,0 +1,65 @@
+{
+ "duration": 45.26,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.46,
+   "text": "This is it, arcade engineer: your own game, built with everything you’ve learned.",
+   "scene": 0
+  },
+  {
+   "start": 5.46,
+   "end": 15.12,
+   "text": "Write a one-page game design: the goal, the player, what clones do, your variables, your states and how it ends.",
+   "scene": 1
+  },
+  {
+   "start": 15.12,
+   "end": 18.18,
+   "text": "Clones for many enemies or items.",
+   "scene": 2
+  },
+  {
+   "start": 18.18,
+   "end": 20.08,
+   "text": "Velocity for jumping.",
+   "scene": 2
+  },
+  {
+   "start": 20.08,
+   "end": 22.67,
+   "text": "Lists for words or inventories.",
+   "scene": 2
+  },
+  {
+   "start": 22.67,
+   "end": 28.02,
+   "text": "Get the smallest playable version working first (player + one rule).",
+   "scene": 3
+  },
+  {
+   "start": 28.02,
+   "end": 32.04,
+   "text": "Then add one feature at a time and test after each.",
+   "scene": 3
+  },
+  {
+   "start": 32.04,
+   "end": 37.95,
+   "text": "Show your game, explain one clever piece of code, and share what playtesters said.",
+   "scene": 4
+  },
+  {
+   "start": 37.95,
+   "end": 41.3,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 41.3,
+   "end": 44.95,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "duration": 141.54,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.04,
+   "text": "Today Python becomes a paintbrush. You will steer a turtle with code and turn loops and functions into art.",
+   "scene": 0
+  },
+  {
+   "start": 7.04,
+   "end": 19.33,
+   "text": "import turtle opens the drawing toolbox, and t = turtle.Turtle() gives you a turtle with a pen. t.forward(100) moves it 100 steps and draws a line.",
+   "scene": 1
+  },
+  {
+   "start": 19.33,
+   "end": 23.81,
+   "text": "The Python Lab shows the drawing next to your output.",
+   "scene": 1
+  },
+  {
+   "start": 23.81,
+   "end": 30.52,
+   "text": "t.right(90) turns the turtle 90 degrees clockwise, and t.left(90) turns it the other way.",
+   "scene": 2
+  },
+  {
+   "start": 30.52,
+   "end": 32.1,
+   "text": "A full turn is 360 degrees.",
+   "scene": 2
+  },
+  {
+   "start": 32.1,
+   "end": 37.38,
+   "text": "For a shape with n sides, turn 360 divided by n at every corner.",
+   "scene": 2
+  },
+  {
+   "start": 37.38,
+   "end": 41.13,
+   "text": "A for loop repeats forward and turn to make a shape.",
+   "scene": 3
+  },
+  {
+   "start": 41.13,
+   "end": 50,
+   "text": "Put that loop inside def draw_polygon(sides, size): and one line can draw any shape. draw_polygon(6, 50) draws a hexagon.",
+   "scene": 3
+  },
+  {
+   "start": 50,
+   "end": 60.76,
+   "text": "t.color(\"orange\") changes the pen colour. t.penup() lifts the pen so the turtle moves without drawing, and t.pendown() puts it back. t.goto(x, y) jumps to a point on the canvas.",
+   "scene": 4
+  },
+  {
+   "start": 60.76,
+   "end": 66.25,
+   "text": "Draw one shape, turn a little, and draw it again.",
+   "scene": 5
+  },
+  {
+   "start": 66.25,
+   "end": 70.41,
+   "text": "Do that twelve times and a flower pattern appears.",
+   "scene": 5
+  },
+  {
+   "start": 70.41,
+   "end": 73.74,
+   "text": "That is the secret of a rangoli generator.",
+   "scene": 5
+  },
+  {
+   "start": 73.74,
+   "end": 80.16,
+   "text": "First we import the turtle toolbox and make a turtle called t.",
+   "scene": 6
+  },
+  {
+   "start": 80.16,
+   "end": 85.99,
+   "text": "Forward draws a line, left turns on the spot, and forward again draws the second line.",
+   "scene": 6
+  },
+  {
+   "start": 85.99,
+   "end": 90.48,
+   "text": "A square is four sides and four turns of ninety degrees.",
+   "scene": 7
+  },
+  {
+   "start": 90.48,
+   "end": 94.66,
+   "text": "Instead of typing eight lines, a loop repeats the two lines four times.",
+   "scene": 7
+  },
+  {
+   "start": 94.66,
+   "end": 99.49,
+   "text": "The function takes the number of sides and the size as parameters.",
+   "scene": 8
+  },
+  {
+   "start": 99.49,
+   "end": 109.56,
+   "text": "It turns three hundred and sixty divided by the sides, so any shape closes up perfectly.",
+   "scene": 8
+  },
+  {
+   "start": 109.56,
+   "end": 111.38,
+   "text": "Color changes the pen, so the next shape is orange.",
+   "scene": 9
+  },
+  {
+   "start": 111.38,
+   "end": 120.51,
+   "text": "Pen up lifts the pen, goto jumps to a new spot without drawing, and pen down starts drawing again.",
+   "scene": 9
+  },
+  {
+   "start": 120.51,
+   "end": 127.25,
+   "text": "We draw a hexagon, turn thirty degrees, and repeat twelve times to go all the way round.",
+   "scene": 10
+  },
+  {
+   "start": 127.25,
+   "end": 134.67,
+   "text": "The remainder sign picks the next colour from the list each time, so the colours take turns.",
+   "scene": 10
+  },
+  {
+   "start": 134.67,
+   "end": 136.75,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 136.75,
+   "end": 141.21,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

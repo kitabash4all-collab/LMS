@@ -1,0 +1,197 @@
+{
+ "duration": 169,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.07,
+   "text": "Today you choose your teaching path and build one complete lesson pack with AI, then check it like an examiner.",
+   "scene": 0
+  },
+  {
+   "start": 7.07,
+   "end": 15.78,
+   "text": "Path A is a school teacher, path B is a tutor or coaching centre, and path C is a workplace or skills trainer.",
+   "scene": 1
+  },
+  {
+   "start": 15.78,
+   "end": 19.76,
+   "text": "Every task today has an example for each path.",
+   "scene": 1
+  },
+  {
+   "start": 19.76,
+   "end": 23.91,
+   "text": "Use your own topic, your own learners and your own syllabus.",
+   "scene": 1
+  },
+  {
+   "start": 23.91,
+   "end": 30.65,
+   "text": "Give the AI the class or group, the subject, the topic, the time and one clear goal.",
+   "scene": 2
+  },
+  {
+   "start": 30.65,
+   "end": 35.38,
+   "text": "Ask for a starter, a main activity, practice and a quick check at the end.",
+   "scene": 2
+  },
+  {
+   "start": 35.38,
+   "end": 39.64,
+   "text": "Then shape it to your learners, your board and your own style.",
+   "scene": 2
+  },
+  {
+   "start": 39.64,
+   "end": 45.38,
+   "text": "Differentiated means the same topic at different levels: support, core and challenge.",
+   "scene": 3
+  },
+  {
+   "start": 45.38,
+   "end": 50.52,
+   "text": "Ask for three short versions of a worksheet, with an answer key and working.",
+   "scene": 3
+  },
+  {
+   "start": 50.52,
+   "end": 54.45,
+   "text": "Every learner practises the same idea at the right level.",
+   "scene": 3
+  },
+  {
+   "start": 54.45,
+   "end": 58.32,
+   "text": "A rubric shows what good work looks like at each level.",
+   "scene": 4
+  },
+  {
+   "start": 58.32,
+   "end": 64.31,
+   "text": "The AI can draft one, and can turn your rough notes into kind, specific feedback.",
+   "scene": 4
+  },
+  {
+   "start": 64.31,
+   "end": 69.77,
+   "text": "Use a placeholder instead of the student’s name, and add your own personal touch.",
+   "scene": 4
+  },
+  {
+   "start": 69.77,
+   "end": 74.44,
+   "text": "AI answer keys are often wrong, so solve every question yourself.",
+   "scene": 5
+  },
+  {
+   "start": 74.44,
+   "end": 81.04,
+   "text": "Check the reading level, the examples and the cultural fit, and match it to your own syllabus.",
+   "scene": 5
+  },
+  {
+   "start": 81.04,
+   "end": 86.8,
+   "text": "Students’ names, marks and photos never go into a personal AI account.",
+   "scene": 5
+  },
+  {
+   "start": 86.8,
+   "end": 92.54,
+   "text": "A Class 6 teacher asks for one worksheet on adding fractions, at three levels.",
+   "scene": 6
+  },
+  {
+   "start": 92.54,
+   "end": 98.38,
+   "text": "The questions are clear, and the word problems use familiar names and situations.",
+   "scene": 6
+  },
+  {
+   "start": 98.38,
+   "end": 104.46,
+   "text": "But look at the last core answer: three quarters plus one eighth is not four twelfths.",
+   "scene": 6
+  },
+  {
+   "start": 104.46,
+   "end": 110.15,
+   "text": "The right answer is seven eighths, so we solve every answer ourselves before printing.",
+   "scene": 6
+  },
+  {
+   "start": 110.15,
+   "end": 115.02,
+   "text": "A tutor turns rough marking notes into feedback a student can act on.",
+   "scene": 7
+  },
+  {
+   "start": 115.02,
+   "end": 119.31,
+   "text": "The placeholder means no student name ever goes into the chatbot.",
+   "scene": 7
+  },
+  {
+   "start": 119.31,
+   "end": 123.7,
+   "text": "The comment has one strength, one improvement and one next step.",
+   "scene": 7
+  },
+  {
+   "start": 123.7,
+   "end": 129.27,
+   "text": "The tutor still reads it for accuracy and adds a personal line before sharing it.",
+   "scene": 7
+  },
+  {
+   "start": 129.27,
+   "end": 133.97,
+   "text": "A workplace trainer wants a quiz that comes only from the training handout.",
+   "scene": 8
+  },
+  {
+   "start": 133.97,
+   "end": 139.84,
+   "text": "NotebookLM answers from the sources you add, and shows where each answer came from.",
+   "scene": 8
+  },
+  {
+   "start": 139.84,
+   "end": 145.09,
+   "text": "Click the citations to check, and still answer every question yourself.",
+   "scene": 8
+  },
+  {
+   "start": 145.09,
+   "end": 150.61,
+   "text": "Before any AI material reaches learners, run this six-point check.",
+   "scene": 9
+  },
+  {
+   "start": 150.61,
+   "end": 157.16,
+   "text": "Solve every answer, read it as your weakest reader, and check the examples feel familiar.",
+   "scene": 9
+  },
+  {
+   "start": 157.16,
+   "end": 161.61,
+   "text": "Match it to your syllabus, and check facts against your own book.",
+   "scene": 9
+  },
+  {
+   "start": 161.61,
+   "end": 164.94,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 164.94,
+   "end": 168.7,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.590
+Project time! Today you will analyse a monthly sales sheet with AI and prove every number is right.
+
+2
+00:00:07.590 --> 00:00:13.610
+Upload a CSV or Excel file to ChatGPT or Claude, or paste a few rows.
+
+3
+00:00:13.610 --> 00:00:17.890
+Then ask what each column means and whether it sees any problems.
+
+4
+00:00:17.890 --> 00:00:22.430
+A CSV is just a simple spreadsheet file that any tool can open.
+
+5
+00:00:22.430 --> 00:00:29.330
+Real sheets have duplicates, spelling differences like “bangalore” and “Bengaluru”, and blank cells.
+
+6
+00:00:29.330 --> 00:00:34.680
+Ask the AI to list problems, but fix them yourself so you know what changed.
+
+7
+00:00:34.680 --> 00:00:39.880
+Messy data always gives you wrong totals, however clever the tool is.
+
+8
+00:00:39.880 --> 00:00:43.530
+Describe what you want and AI writes the formula.
+
+9
+00:00:43.530 --> 00:00:49.420
+SUMIF adds up only the rows that match, like one region.
+
+10
+00:00:49.420 --> 00:00:55.550
+XLOOKUP or VLOOKUP finds a value from another table, and IF shows one thing or another, like “Target met”.
+
+11
+00:00:55.550 --> 00:01:01.800
+Ask for a summary table by region or category, then make a chart in Excel or Google Sheets.
+
+12
+00:01:01.800 --> 00:01:06.910
+The golden rule: check every total with your own SUM before you share it.
+
+13
+00:01:06.910 --> 00:01:12.140
+AI can miscount, especially when the data is messy or has duplicates.
+
+14
+00:01:12.140 --> 00:01:17.670
+ChatGPT and Claude can read a spreadsheet file and do the maths for you.
+
+15
+00:01:17.670 --> 00:01:23.330
+First ask what each column means and what problems it sees, before any totals.
+
+16
+00:01:23.330 --> 00:01:28.870
+Then always repeat the key totals in your own sheet, with your own formula.
+
+17
+00:01:28.870 --> 00:01:34.250
+Claude explains every column in plain words, then lists three problems.
+
+18
+00:01:34.250 --> 00:01:40.740
+One invoice appears twice, one city is spelt two ways, and one row has blanks.
+
+19
+00:01:40.740 --> 00:01:44.550
+These are exactly the problems that make totals go wrong.
+
+20
+00:01:44.550 --> 00:01:49.380
+You do not need to remember formulas, you just describe what you want.
+
+21
+00:01:49.380 --> 00:01:54.650
+Gemini writes the SUMIF formula and explains it in one simple sentence.
+
+22
+00:01:54.650 --> 00:02:02.540
+Type it into your sheet, and for West the answer is eighty-one thousand, nine hundred and thirty-five rupees.
+
+23
+00:02:02.540 --> 00:02:08.840
+Now we ask ChatGPT for the month’s total, before cleaning the data.
+
+24
+00:02:08.840 --> 00:02:13.190
+It says five lakh, forty-two thousand, six hundred and ninety-one rupees.
+
+25
+00:02:13.190 --> 00:02:18.110
+But that counts the duplicate invoice twice, so the real total is lower.
+
+26
+00:02:18.110 --> 00:02:27.800
+After cleaning, our own SUM gives five lakh, twenty-three thousand, nine hundred and seventy-one rupees.
+
+27
+00:02:27.800 --> 00:02:33.390
+Some accounts have AI built right into Google Sheets or Excel, and some do not.
+
+28
+00:02:33.390 --> 00:02:39.950
+If yours does not, simply ask a chatbot in another tab and paste the formula into your sheet.
+
+29
+00:02:39.950 --> 00:02:43.130
+Great work! Let’s remember what we learned.
+
+30
+00:02:43.130 --> 00:02:46.720
+Now plan it, build it, test it, and share it!

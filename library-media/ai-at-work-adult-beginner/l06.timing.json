@@ -1,0 +1,167 @@
+{
+ "duration": 149.19,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.15,
+   "text": "AI researches in seconds but can invent facts, so today you learn to research like a careful journalist.",
+   "scene": 0
+  },
+  {
+   "start": 7.15,
+   "end": 14.98,
+   "text": "Perplexity, Gemini and ChatGPT’s search option look up the web and show links next to their answer.",
+   "scene": 1
+  },
+  {
+   "start": 14.98,
+   "end": 19.6,
+   "text": "These links are called sources or citations, and you can click them.",
+   "scene": 1
+  },
+  {
+   "start": 19.6,
+   "end": 24.42,
+   "text": "An answer without sources is only a starting idea, not a fact.",
+   "scene": 1
+  },
+  {
+   "start": 24.42,
+   "end": 29.27,
+   "text": "Click each link and find the exact sentence that supports the claim.",
+   "scene": 2
+  },
+  {
+   "start": 29.27,
+   "end": 35.18,
+   "text": "Check who wrote it, such as a government site, a known newspaper or a company report.",
+   "scene": 2
+  },
+  {
+   "start": 35.18,
+   "end": 39.88,
+   "text": "Also check the date, because rules, rates and deadlines change.",
+   "scene": 2
+  },
+  {
+   "start": 39.88,
+   "end": 47.08,
+   "text": "Watch for numbers with no source, dead links, sources that do not match the claim, and old dates.",
+   "scene": 3
+  },
+  {
+   "start": 47.08,
+   "end": 50.87,
+   "text": "These are signs of a hallucination or old information.",
+   "scene": 3
+  },
+  {
+   "start": 50.87,
+   "end": 54.03,
+   "text": "Remove the claim or find a better source.",
+   "scene": 3
+  },
+  {
+   "start": 54.03,
+   "end": 58.25,
+   "text": "Ask exactly the same question in two different AI tools.",
+   "scene": 4
+  },
+  {
+   "start": 58.25,
+   "end": 62.54,
+   "text": "If they agree and the sources check out, good.",
+   "scene": 4
+  },
+  {
+   "start": 62.54,
+   "end": 68.92,
+   "text": "If they disagree, go to the official source, like a ministry, regulator or the company itself, and trust that.",
+   "scene": 4
+  },
+  {
+   "start": 68.92,
+   "end": 76.39,
+   "text": "Perplexity is built for research, and it shows numbered sources next to the answer.",
+   "scene": 5
+  },
+  {
+   "start": 76.39,
+   "end": 84.91,
+   "text": "Ask for official websites, then click every number and find the exact sentence.",
+   "scene": 5
+  },
+  {
+   "start": 84.91,
+   "end": 91.38,
+   "text": "Check who published it and when, because an old page can be confidently wrong today.",
+   "scene": 5
+  },
+  {
+   "start": 91.38,
+   "end": 96.88,
+   "text": "Here a home baker asks about food-safety registration, and asks for official sources.",
+   "scene": 6
+  },
+  {
+   "start": 96.88,
+   "end": 101.64,
+   "text": "The first claim links to the official FSSAI website, which is a good sign.",
+   "scene": 6
+  },
+  {
+   "start": 101.64,
+   "end": 103.88,
+   "text": "But the renewal claim comes from a blog post from 2019, not from the official site.",
+   "scene": 6
+  },
+  {
+   "start": 103.88,
+   "end": 110.91,
+   "text": "Old or unofficial sources are a red flag, so we check the official website before using it.",
+   "scene": 6
+  },
+  {
+   "start": 110.91,
+   "end": 118.31,
+   "text": "We ask Gemini the same question and compare the two answers.",
+   "scene": 7
+  },
+  {
+   "start": 118.31,
+   "end": 122.91,
+   "text": "Both agree on FSSAI registration, but Gemini does not repeat the six-month claim.",
+   "scene": 7
+  },
+  {
+   "start": 122.91,
+   "end": 127.75,
+   "text": "When tools disagree, the official website decides, not the more confident answer.",
+   "scene": 7
+  },
+  {
+   "start": 127.75,
+   "end": 133.77,
+   "text": "Finally, we ask ChatGPT with search to fact-check our claims in a table.",
+   "scene": 8
+  },
+  {
+   "start": 133.77,
+   "end": 139.94,
+   "text": "One claim could not be verified, so it stays out of our note until we find proof.",
+   "scene": 8
+  },
+  {
+   "start": 139.94,
+   "end": 144.86,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 144.86,
+   "end": 149.19,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

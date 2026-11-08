@@ -1,0 +1,83 @@
+{
+ "duration": 45.68,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.69,
+   "text": "In this lesson, you will learn to find and fix a mistake (a bug) in a script by watching what the character does.",
+   "scene": 0
+  },
+  {
+   "start": 7.69,
+   "end": 10.01,
+   "text": "A bug is a mistake in code.",
+   "scene": 1
+  },
+  {
+   "start": 10.01,
+   "end": 12.53,
+   "text": "It makes the character do the wrong thing.",
+   "scene": 1
+  },
+  {
+   "start": 12.53,
+   "end": 14.68,
+   "text": "Press Run and watch.",
+   "scene": 2
+  },
+  {
+   "start": 14.68,
+   "end": 16.82,
+   "text": "Where does the character go wrong?",
+   "scene": 2
+  },
+  {
+   "start": 16.82,
+   "end": 21.53,
+   "text": "Change one block, then run it again.",
+   "scene": 3
+  },
+  {
+   "start": 21.53,
+   "end": 23.66,
+   "text": "Did that fix it?",
+   "scene": 3
+  },
+  {
+   "start": 23.66,
+   "end": 26.26,
+   "text": "Every coder makes bugs.",
+   "scene": 4
+  },
+  {
+   "start": 26.26,
+   "end": 28.15,
+   "text": "Finding them is part of the fun!",
+   "scene": 4
+  },
+  {
+   "start": 28.15,
+   "end": 33.51,
+   "text": "This code has a bug: the bee goes the wrong way. Fix it so the bee reaches the flower star.",
+   "scene": 5
+  },
+  {
+   "start": 33.51,
+   "end": 37.85,
+   "text": "The down arrow should have been up. Bug squashed!",
+   "scene": 5
+  },
+  {
+   "start": 37.85,
+   "end": 40.87,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 40.87,
+   "end": 45.37,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

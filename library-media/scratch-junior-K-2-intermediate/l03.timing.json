@@ -1,0 +1,77 @@
+{
+ "duration": 43.29,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.29,
+   "text": "It’s project time! Make two pets talk in ScratchJr, taking turns with waits, and add a looks surprise.",
+   "scene": 0
+  },
+  {
+   "start": 8.29,
+   "end": 9.96,
+   "text": "Choose two pets.",
+   "scene": 1
+  },
+  {
+   "start": 9.96,
+   "end": 11.34,
+   "text": "Give them names.",
+   "scene": 1
+  },
+  {
+   "start": 11.34,
+   "end": 13.45,
+   "text": "What will they talk about?",
+   "scene": 1
+  },
+  {
+   "start": 13.45,
+   "end": 16.39,
+   "text": "Each pet says at least two things.",
+   "scene": 2
+  },
+  {
+   "start": 16.39,
+   "end": 17.85,
+   "text": "Use waits so they take turns.",
+   "scene": 2
+  },
+  {
+   "start": 17.85,
+   "end": 22.79,
+   "text": "Add a grow, shrink, hide or show for a funny surprise.",
+   "scene": 3
+  },
+  {
+   "start": 22.79,
+   "end": 27.15,
+   "text": "Press the green flag and show your scene to a friend.",
+   "scene": 4
+  },
+  {
+   "start": 27.15,
+   "end": 32.24,
+   "text": "The puppy says “Watch this!”, grows, says “I’m big!”, then walks to the star.",
+   "scene": 5
+  },
+  {
+   "start": 32.24,
+   "end": 35.15,
+   "text": "Ta-da! A big puppy with big news.",
+   "scene": 5
+  },
+  {
+   "start": 35.15,
+   "end": 38.82,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 38.82,
+   "end": 42.94,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

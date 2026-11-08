@@ -1,0 +1,155 @@
+{
+ "duration": 113.54,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.2,
+   "text": "Project time! You will make your own mini game, with AI as your coach and an honest log to prove it.",
+   "scene": 0
+  },
+  {
+   "start": 6.2,
+   "end": 12.91,
+   "text": "Choose a game you can finish in one class, like a number guessing game, a cricket quiz or a catch game in Scratch.",
+   "scene": 1
+  },
+  {
+   "start": 12.91,
+   "end": 17.42,
+   "text": "Small and working beats big and broken.",
+   "scene": 1
+  },
+  {
+   "start": 17.42,
+   "end": 22.48,
+   "text": "You can always add more later.",
+   "scene": 1
+  },
+  {
+   "start": 22.48,
+   "end": 26.05,
+   "text": "Write your idea and pseudocode first, and ask the AI to review the plan.",
+   "scene": 2
+  },
+  {
+   "start": 26.05,
+   "end": 29.2,
+   "text": "Build one step at a time and run it after each step.",
+   "scene": 2
+  },
+  {
+   "start": 29.2,
+   "end": 31.11,
+   "text": "Use your bug report template when something breaks.",
+   "scene": 2
+  },
+  {
+   "start": 31.11,
+   "end": 36.86,
+   "text": "Every time you use AI, write what you asked, what it said, and what you did with it.",
+   "scene": 3
+  },
+  {
+   "start": 36.86,
+   "end": 41.5,
+   "text": "Write down if its answer was wrong.",
+   "scene": 3
+  },
+  {
+   "start": 41.5,
+   "end": 42.95,
+   "text": "This log is part of your grade, so honesty earns marks.",
+   "scene": 3
+  },
+  {
+   "start": 42.95,
+   "end": 46.07,
+   "text": "At the end you will explain your code to the class or your teacher.",
+   "scene": 4
+  },
+  {
+   "start": 46.07,
+   "end": 53.39,
+   "text": "If there is a line you cannot explain, ask the AI to explain it and practise.",
+   "scene": 4
+  },
+  {
+   "start": 53.39,
+   "end": 54.72,
+   "text": "Your game, your code, your words.",
+   "scene": 4
+  },
+  {
+   "start": 54.72,
+   "end": 59.51,
+   "text": "Here are four mini games you can finish in one class, in Python or Scratch.",
+   "scene": 5
+  },
+  {
+   "start": 59.51,
+   "end": 64.75,
+   "text": "Pick one, or your own idea of the same size, and write it in one sentence.",
+   "scene": 5
+  },
+  {
+   "start": 64.75,
+   "end": 68.87,
+   "text": "Kabir asks the AI to explain one line of his guessing game.",
+   "scene": 6
+  },
+  {
+   "start": 68.87,
+   "end": 73.98,
+   "text": "The AI says the number twenty can never be picked, mixing it up with range.",
+   "scene": 6
+  },
+  {
+   "start": 73.98,
+   "end": 79.18,
+   "text": "Kabir tests it by printing the secret again and again, and twenty does appear.",
+   "scene": 6
+  },
+  {
+   "start": 79.18,
+   "end": 83.74,
+   "text": "He writes the catch in his what AI did log, which earns him marks.",
+   "scene": 6
+  },
+  {
+   "start": 83.74,
+   "end": 90.65,
+   "text": "A good log entry has four parts: what you asked, what it said, what you checked, and the result.",
+   "scene": 7
+  },
+  {
+   "start": 90.65,
+   "end": 95.11,
+   "text": "Notice that Kabir did not paste any AI code into his game.",
+   "scene": 7
+  },
+  {
+   "start": 95.11,
+   "end": 99.9,
+   "text": "Follow the route from idea to sharing, and keep your log open the whole time.",
+   "scene": 8
+  },
+  {
+   "start": 99.9,
+   "end": 105.8,
+   "text": "Your grade comes from the game, your testing, your honest log, and your explanation.",
+   "scene": 8
+  },
+  {
+   "start": 105.8,
+   "end": 109.49,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 109.49,
+   "end": 113.22,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

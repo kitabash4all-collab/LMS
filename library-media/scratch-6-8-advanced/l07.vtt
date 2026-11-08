@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.600
+Spell-checkers, search boxes and password rules all process text one character at a time. Let’s learn how.
+
+2
+00:00:08.600 --> 00:00:17.460
+Text is a string of characters, each with a position. letter (1) of [apple] is a; length of [apple] is 5.
+
+3
+00:00:17.460 --> 00:00:24.480
+Same pattern as lists: i from 1 to the length, read letter i each time.
+
+4
+00:00:24.480 --> 00:00:28.650
+Start with an empty string and join letters onto it.
+
+5
+00:00:28.650 --> 00:00:33.360
+Joining each letter to the FRONT reverses the word.
+
+6
+00:00:33.360 --> 00:00:37.680
+A palindrome reads the same backwards: level, racecar, noon.
+
+7
+00:00:37.680 --> 00:00:40.470
+Reverse the word and compare it with the original.
+
+8
+00:00:40.470 --> 00:00:50.930
+In Python, a for loop can walk through the characters of a string, just like our Scratch loop.
+
+9
+00:00:50.930 --> 00:00:54.320
+Great work! Let’s remember what we learned.
+
+10
+00:00:54.320 --> 00:00:58.880
+Now build along, then try the challenges. You’ve got this!

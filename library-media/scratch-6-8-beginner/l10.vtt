@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.130
+Time to make a real game. Every arcade game is built on the same engine: the game loop.
+
+2
+00:00:07.130 --> 00:00:12.370
+Each frame the game loop updates positions, checks collisions and reacts.
+
+3
+00:00:12.370 --> 00:00:16.220
+In Scratch, each sprite runs its own forever loop.
+
+4
+00:00:16.220 --> 00:00:21.540
+When a falling rock leaves the bottom, move it back to the top at a random x.
+
+5
+00:00:21.540 --> 00:00:24.230
+One sprite becomes endless rocks.
+
+6
+00:00:24.230 --> 00:00:27.080
+Touching checks if two sprites overlap.
+
+7
+00:00:27.080 --> 00:00:33.310
+When the rock hits the player, lose a life and recycle the rock — once per hit.
+
+8
+00:00:33.310 --> 00:00:36.260
+Lives and score are the game’s state.
+
+9
+00:00:36.260 --> 00:00:40.270
+Reset them on the green flag so each game starts fair.
+
+10
+00:00:40.270 --> 00:00:46.330
+Text-based games use exactly the same loop: move, recycle, check collisions.
+
+11
+00:00:46.330 --> 00:00:49.780
+Great work! Let’s remember what we learned.
+
+12
+00:00:49.780 --> 00:00:53.420
+Now build along, then try the challenges. You’ve got this!

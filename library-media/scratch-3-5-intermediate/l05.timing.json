@@ -1,0 +1,65 @@
+{
+ "duration": 48.61,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.63,
+   "text": "In this lesson, you will learn to use “ask and wait” and the answer reporter to personalise a story and let the reader choose what happens next.",
+   "scene": 0
+  },
+  {
+   "start": 9.63,
+   "end": 13.71,
+   "text": "“ask and wait” shows a question and a typing box.",
+   "scene": 1
+  },
+  {
+   "start": 13.71,
+   "end": 17.47,
+   "text": "The script waits until the reader types and presses enter.",
+   "scene": 1
+  },
+  {
+   "start": 17.47,
+   "end": 21.66,
+   "text": "Whatever the reader typed is stored in the blue “answer” reporter.",
+   "scene": 2
+  },
+  {
+   "start": 21.66,
+   "end": 24.78,
+   "text": "Join it to other words to use it in a sentence.",
+   "scene": 2
+  },
+  {
+   "start": 24.78,
+   "end": 31.25,
+   "text": "Use if-else with the answer to make the story branch: different answers lead to different scenes.",
+   "scene": 3
+  },
+  {
+   "start": 31.25,
+   "end": 37.07,
+   "text": "Never ask readers for private information like their address, phone number or school.",
+   "scene": 4
+  },
+  {
+   "start": 37.07,
+   "end": 40.3,
+   "text": "A first name or a choice is enough.",
+   "scene": 4
+  },
+  {
+   "start": 40.3,
+   "end": 43.8,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 43.8,
+   "end": 48.61,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

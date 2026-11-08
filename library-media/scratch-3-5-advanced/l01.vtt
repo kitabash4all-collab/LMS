@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.510
+Welcome, arcade engineer! Today you’ll learn how games make dozens of enemies, coins and raindrops from just one sprite.
+
+2
+00:00:09.510 --> 00:00:14.160
+A clone is a copy of a sprite, made while the program runs.
+
+3
+00:00:14.160 --> 00:00:19.600
+One Star sprite can make ten falling stars without you drawing ten sprites.
+
+4
+00:00:19.600 --> 00:00:24.340
+Every new clone runs the script under “when I start as a clone”.
+
+5
+00:00:24.340 --> 00:00:28.660
+Each clone can go to its own random place and move by itself.
+
+6
+00:00:28.660 --> 00:00:33.970
+Usually the original sprite hides and just makes clones — like a factory.
+
+7
+00:00:33.970 --> 00:00:36.710
+Each clone shows itself when it starts.
+
+8
+00:00:36.710 --> 00:00:41.610
+Delete clones when they are finished (for example, when they fall off the bottom).
+
+9
+00:00:41.610 --> 00:00:47.200
+Too many clones slow a game down — Scratch allows 300.
+
+10
+00:00:47.200 --> 00:00:50.900
+Great work! Let’s remember what we learned.
+
+11
+00:00:50.900 --> 00:00:55.670
+Now build along, then try the challenges. You’ve got this!

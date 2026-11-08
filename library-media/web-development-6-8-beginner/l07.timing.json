@@ -1,0 +1,191 @@
+{
+ "duration": 141.81,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.56,
+   "text": "Today your web page wakes up. You will write JavaScript so buttons react when you click them.",
+   "scene": 0
+  },
+  {
+   "start": 5.56,
+   "end": 9.47,
+   "text": "HTML builds the page and CSS styles it.",
+   "scene": 1
+  },
+  {
+   "start": 9.47,
+   "end": 14.05,
+   "text": "JavaScript makes it react, like changing words when you click a button.",
+   "scene": 1
+  },
+  {
+   "start": 14.05,
+   "end": 16.95,
+   "text": "Every game and app on the web uses it.",
+   "scene": 1
+  },
+  {
+   "start": 16.95,
+   "end": 22.05,
+   "text": "JavaScript goes inside a script tag, usually at the very bottom of the page.",
+   "scene": 2
+  },
+  {
+   "start": 22.05,
+   "end": 25.72,
+   "text": "The browser builds the page first, then runs the script.",
+   "scene": 2
+  },
+  {
+   "start": 25.72,
+   "end": 31.47,
+   "text": "In the Web Lab, the live preview runs your script, so you can click your buttons right away.",
+   "scene": 2
+  },
+  {
+   "start": 31.47,
+   "end": 35.14,
+   "text": "Give an element an id, like id equals score.",
+   "scene": 3
+  },
+  {
+   "start": 35.14,
+   "end": 39.91,
+   "text": "In JavaScript, document dot getElementById finds that element.",
+   "scene": 3
+  },
+  {
+   "start": 39.91,
+   "end": 44.77,
+   "text": "Then you can change its words with textContent, or its colour with style.",
+   "scene": 3
+  },
+  {
+   "start": 44.77,
+   "end": 49.45,
+   "text": "The addEventListener command tells a button to listen for a click.",
+   "scene": 4
+  },
+  {
+   "start": 49.45,
+   "end": 53.66,
+   "text": "Inside it, you write what should happen each time it is clicked.",
+   "scene": 4
+  },
+  {
+   "start": 53.66,
+   "end": 60.14,
+   "text": "That code runs again every single time you click.",
+   "scene": 4
+  },
+  {
+   "start": 60.14,
+   "end": 66.19,
+   "text": "A variable is a named box that stores a value, like let score equals zero.",
+   "scene": 5
+  },
+  {
+   "start": 66.19,
+   "end": 69.51,
+   "text": "Score equals score plus one adds one to it.",
+   "scene": 5
+  },
+  {
+   "start": 69.51,
+   "end": 74.28,
+   "text": "Show the new score on the page and you have a counter.",
+   "scene": 5
+  },
+  {
+   "start": 74.28,
+   "end": 78.88,
+   "text": "The script finds the paragraph by its id and stores it in msg.",
+   "scene": 6
+  },
+  {
+   "start": 78.88,
+   "end": 82.06,
+   "text": "Then textContent replaces the words, so the page shows a new message.",
+   "scene": 6
+  },
+  {
+   "start": 82.06,
+   "end": 86.55,
+   "text": "addEventListener tells the button to wait for a click.",
+   "scene": 7
+  },
+  {
+   "start": 86.55,
+   "end": 91.34,
+   "text": "The code inside the curly brackets runs only when the click happens.",
+   "scene": 7
+  },
+  {
+   "start": 91.34,
+   "end": 96.99,
+   "text": "The variable called clicks starts at zero before anyone clicks.",
+   "scene": 8
+  },
+  {
+   "start": 96.99,
+   "end": 100.91,
+   "text": "Every click adds one, and textContent shows the new number on the page.",
+   "scene": 8
+  },
+  {
+   "start": 100.91,
+   "end": 105.63,
+   "text": "JavaScript can change CSS too, using style.",
+   "scene": 9
+  },
+  {
+   "start": 105.63,
+   "end": 108.33,
+   "text": "In JavaScript, background color is written as one word with a capital C.",
+   "scene": 9
+  },
+  {
+   "start": 108.33,
+   "end": 117.16,
+   "text": "The live preview runs your JavaScript, so you can click your buttons straight away.",
+   "scene": 10
+  },
+  {
+   "start": 117.16,
+   "end": 121.75,
+   "text": "If nothing happens, compare each id carefully and make sure every quote mark has a partner.",
+   "scene": 10
+  },
+  {
+   "start": 121.75,
+   "end": 124.84,
+   "text": "When it works, press Check to see which goals you have reached.",
+   "scene": 10
+  },
+  {
+   "start": 124.84,
+   "end": 127.49,
+   "text": "The id in the script says scor, but the paragraph’s id is score.",
+   "scene": 11
+  },
+  {
+   "start": 127.49,
+   "end": 134.01,
+   "text": "JavaScript cannot find it, so check that ids match exactly.",
+   "scene": 11
+  },
+  {
+   "start": 134.01,
+   "end": 137.62,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 12
+  },
+  {
+   "start": 137.62,
+   "end": 141.81,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 12
+  }
+ ]
+}

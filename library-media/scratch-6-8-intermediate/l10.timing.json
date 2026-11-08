@@ -1,0 +1,71 @@
+{
+ "duration": 58.64,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.4,
+   "text": "In this lesson, you will learn to store questions and answers in parallel lists and write one loop that runs a quiz of any length.",
+   "scene": 0
+  },
+  {
+   "start": 8.4,
+   "end": 14.43,
+   "text": "Two lists line up by index: item 2 of questions goes with item 2 of answers.",
+   "scene": 1
+  },
+  {
+   "start": 14.43,
+   "end": 16.67,
+   "text": "Together they act like a table.",
+   "scene": 1
+  },
+  {
+   "start": 16.67,
+   "end": 22.93,
+   "text": "A single loop asks item i of questions and checks against item i of answers.",
+   "scene": 2
+  },
+  {
+   "start": 22.93,
+   "end": 27.16,
+   "text": "To make a new quiz, change the data — not the code.",
+   "scene": 2
+  },
+  {
+   "start": 27.16,
+   "end": 32,
+   "text": "Professional apps keep content (data) separate from logic (code).",
+   "scene": 3
+  },
+  {
+   "start": 32,
+   "end": 37.36,
+   "text": "Games load levels from files; quiz apps load questions from databases.",
+   "scene": 3
+  },
+  {
+   "start": 37.36,
+   "end": 42.96,
+   "text": "Report score / length of questions so the message is right however many questions there are.",
+   "scene": 4
+  },
+  {
+   "start": 42.96,
+   "end": 49.93,
+   "text": "In Python the same engine uses two lists and an index. Change the lists and you have a new quiz.",
+   "scene": 5
+  },
+  {
+   "start": 49.93,
+   "end": 53.69,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 53.69,
+   "end": 58.32,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.260
+In this lesson, you will learn to break a problem into smaller procedures, build a solution from them, and refactor repeated code into a procedure.
+
+2
+00:00:11.260 --> 00:00:16.060
+Decomposition means breaking a big problem into smaller ones.
+
+3
+00:00:16.060 --> 00:00:21.780
+A house is a square plus a roof; a street is houses in a row.
+
+4
+00:00:21.780 --> 00:00:29.670
+Write and test the small procedures first (square, roof), then a bigger one (house) that calls them.
+
+5
+00:00:29.670 --> 00:00:34.450
+Once house works, you can use it without thinking about its details.
+
+6
+00:00:34.450 --> 00:00:38.170
+Abstraction hides complexity behind a simple name.
+
+7
+00:00:38.170 --> 00:00:47.250
+Refactoring is improving the structure of code without changing what it does — like replacing copy-pasted blocks with a procedure.
+
+8
+00:00:47.250 --> 00:00:50.680
+Great work! Let’s remember what we learned.
+
+9
+00:00:50.680 --> 00:00:54.960
+Now build along, then try the challenges. You’ve got this!

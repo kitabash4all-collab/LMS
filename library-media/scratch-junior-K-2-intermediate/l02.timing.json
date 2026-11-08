@@ -1,0 +1,77 @@
+{
+ "duration": 47.47,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.29,
+   "text": "In this lesson, you will learn to change how a character looks with grow, shrink, hide and show blocks to tell a story.",
+   "scene": 0
+  },
+  {
+   "start": 8.29,
+   "end": 11.48,
+   "text": "The grow block makes a character bigger.",
+   "scene": 1
+  },
+  {
+   "start": 11.48,
+   "end": 14.13,
+   "text": "Use it twice to grow even more.",
+   "scene": 1
+  },
+  {
+   "start": 14.13,
+   "end": 18.55,
+   "text": "Shrink makes a character smaller — like Alice in Wonderland!",
+   "scene": 2
+  },
+  {
+   "start": 18.55,
+   "end": 23.87,
+   "text": "Hide makes a character disappear.",
+   "scene": 3
+  },
+  {
+   "start": 23.87,
+   "end": 26.22,
+   "text": "It’s still there, just invisible.",
+   "scene": 3
+  },
+  {
+   "start": 26.22,
+   "end": 28.24,
+   "text": "Show makes it appear again.",
+   "scene": 4
+  },
+  {
+   "start": 28.24,
+   "end": 31.89,
+   "text": "Great for surprises!",
+   "scene": 4
+  },
+  {
+   "start": 31.89,
+   "end": 34.51,
+   "text": "The bug eats 2 leaves (gems). After each leaf, it grows.",
+   "scene": 5
+  },
+  {
+   "start": 34.51,
+   "end": 38.63,
+   "text": "Munch, grow, munch, grow — what a big bug!",
+   "scene": 5
+  },
+  {
+   "start": 38.63,
+   "end": 42.59,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 42.59,
+   "end": 47.19,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

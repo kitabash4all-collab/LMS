@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:02.210
+Welcome back, coders!
+
+2
+00:00:02.210 --> 00:00:07.510
+Today you will learn how to make your sprites react when you press a key or click.
+
+3
+00:00:07.510 --> 00:00:11.960
+An event is something that happens.
+
+4
+00:00:11.960 --> 00:00:16.840
+Pressing a key is an event. Clicking a sprite is an event.
+
+5
+00:00:16.840 --> 00:00:22.490
+Clicking the green flag is an event too.
+
+6
+00:00:22.490 --> 00:00:27.170
+Event blocks are called hat blocks, because they sit on top of a script like a hat.
+
+7
+00:00:27.170 --> 00:00:30.040
+Each script waits until its event happens, then it runs.
+
+8
+00:00:30.040 --> 00:00:34.130
+One sprite can have lots of scripts, each with its own hat.
+
+9
+00:00:34.130 --> 00:00:39.840
+A script without a hat block never starts by itself.
+
+10
+00:00:39.840 --> 00:00:43.100
+Put a hat on top, and the script knows when to run.
+
+11
+00:00:43.100 --> 00:00:45.890
+Let us make a sprite move with the arrow keys.
+
+12
+00:00:45.890 --> 00:00:49.250
+Change x by 10 moves right. Change x by minus 10 moves left.
+
+13
+00:00:49.250 --> 00:00:53.590
+For up and down, use change y.
+
+14
+00:00:53.590 --> 00:00:58.330
+Brilliant! Now build arrow-key controls in Scratch, then solve the puzzles.

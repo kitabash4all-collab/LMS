@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.970
+Today your programs start to listen. You will store answers in variables and use them in a funny story.
+
+2
+00:00:06.970 --> 00:00:11.740
+A variable stores a value under a name, like score = 0.
+
+3
+00:00:11.740 --> 00:00:15.490
+The = sign means “put this value in the box”.
+
+4
+00:00:15.490 --> 00:00:18.230
+Later you can use the name instead of the value.
+
+5
+00:00:18.230 --> 00:00:26.370
+input("What is your name? ") shows a question and waits for the user to type.
+
+6
+00:00:26.370 --> 00:00:30.890
+Whatever they type is stored, usually in a variable. input() always gives back text, even if they type a number.
+
+7
+00:00:30.890 --> 00:00:38.570
+Put an f before the quotes and a variable name inside curly brackets.
+
+8
+00:00:38.570 --> 00:00:40.430
+So f"Hi {name}!" becomes Hi Meera! when name holds Meera.
+
+9
+00:00:40.430 --> 00:00:48.940
+Names can use letters, numbers and underscores, but cannot start with a number or have spaces.
+
+10
+00:00:48.940 --> 00:00:51.700
+Choose names that explain themselves, like player_name or total_runs.
+
+11
+00:00:51.700 --> 00:00:58.880
+We put the text Mumbai Waves into a variable called team.
+
+12
+00:00:58.880 --> 00:01:05.140
+Now we can use the word team again and again, without typing the whole name.
+
+13
+00:01:05.140 --> 00:01:07.380
+A variable holds one value at a time.
+
+14
+00:01:07.380 --> 00:01:11.920
+When we store vada pav, the samosa is replaced, so only vada pav is printed.
+
+15
+00:01:11.920 --> 00:01:16.900
+The input command shows the question and waits for the user to type.
+
+16
+00:01:16.900 --> 00:01:22.290
+Riya typed her name, and the f-string dropped it straight into the sentence.
+
+17
+00:01:22.290 --> 00:01:27.230
+Oops, the output says curly bracket name instead of Kabir.
+
+18
+00:01:27.230 --> 00:01:33.680
+We forgot the little f before the quotes, so Python printed the brackets as plain text.
+
+19
+00:01:33.680 --> 00:01:37.350
+Great work! Let’s remember what we learned.
+
+20
+00:01:37.350 --> 00:01:41.510
+Now build along, then try the challenges. You’ve got this!

@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.070
+In this lesson, you will learn to use a repeat block to do the same moves many times and make code shorter.
+
+2
+00:00:08.070 --> 00:00:12.110
+The repeat block does the blocks inside it again and again.
+
+3
+00:00:12.110 --> 00:00:19.070
+The number on the repeat block says how many times.
+
+4
+00:00:19.070 --> 00:00:20.850
+Repeat 3 does it three times.
+
+5
+00:00:20.850 --> 00:00:24.690
+Stairs go right, up, right, up.
+
+6
+00:00:24.690 --> 00:00:27.370
+Put “right, up” inside a repeat!
+
+7
+00:00:27.370 --> 00:00:29.570
+A repeat makes long code short.
+
+8
+00:00:29.570 --> 00:00:31.670
+Fewer blocks, same moves.
+
+9
+00:00:31.670 --> 00:00:38.160
+Go right 6 squares. The arrow can only move 1, so use 🔁 repeat!
+
+10
+00:00:38.160 --> 00:00:41.230
+Repeat 6 times: move right. Two blocks instead of six!
+
+11
+00:00:41.230 --> 00:00:45.910
+Great work! Let’s remember what we learned.
+
+12
+00:00:45.910 --> 00:00:50.650
+Now build along, then try the challenges. You’ve got this!

@@ -1,0 +1,77 @@
+{
+ "duration": 47.68,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.77,
+   "text": "In this lesson, you will learn to start a script with the green flag block, and explain that a script needs a start block to run.",
+   "scene": 0
+  },
+  {
+   "start": 9.77,
+   "end": 12.76,
+   "text": "The green flag block starts a script.",
+   "scene": 1
+  },
+  {
+   "start": 12.76,
+   "end": 14.63,
+   "text": "Put it at the very beginning.",
+   "scene": 1
+  },
+  {
+   "start": 14.63,
+   "end": 19.5,
+   "text": "When you press the green flag, every script that starts with it runs.",
+   "scene": 2
+  },
+  {
+   "start": 19.5,
+   "end": 22.13,
+   "text": "Start blocks have a round front.",
+   "scene": 3
+  },
+  {
+   "start": 22.13,
+   "end": 24.65,
+   "text": "They always go first in the row.",
+   "scene": 3
+  },
+  {
+   "start": 24.65,
+   "end": 27.95,
+   "text": "A script without a start block just sits there.",
+   "scene": 4
+  },
+  {
+   "start": 27.95,
+   "end": 30.51,
+   "text": "The flag is what makes it go.",
+   "scene": 4
+  },
+  {
+   "start": 30.51,
+   "end": 35.65,
+   "text": "Add the 🏁 start block, then move the frog to the star.",
+   "scene": 5
+  },
+  {
+   "start": 35.65,
+   "end": 39.83,
+   "text": "The flag started your script — off goes the frog!",
+   "scene": 5
+  },
+  {
+   "start": 39.83,
+   "end": 43.14,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 43.14,
+   "end": 47.37,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

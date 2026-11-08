@@ -1,0 +1,185 @@
+{
+ "duration": 166.37,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.99,
+   "text": "Project time! Today you will analyse a monthly sales sheet with AI and prove every number is right.",
+   "scene": 0
+  },
+  {
+   "start": 6.99,
+   "end": 13.01,
+   "text": "Upload a CSV or Excel file to ChatGPT or Claude, or paste a few rows.",
+   "scene": 1
+  },
+  {
+   "start": 13.01,
+   "end": 17.29,
+   "text": "Then ask what each column means and whether it sees any problems.",
+   "scene": 1
+  },
+  {
+   "start": 17.29,
+   "end": 21.83,
+   "text": "A CSV is just a simple spreadsheet file that any tool can open.",
+   "scene": 1
+  },
+  {
+   "start": 21.83,
+   "end": 28.73,
+   "text": "Real sheets have duplicates, spelling differences like “bangalore” and “Bengaluru”, and blank cells.",
+   "scene": 2
+  },
+  {
+   "start": 28.73,
+   "end": 34.08,
+   "text": "Ask the AI to list problems, but fix them yourself so you know what changed.",
+   "scene": 2
+  },
+  {
+   "start": 34.08,
+   "end": 39.28,
+   "text": "Messy data always gives you wrong totals, however clever the tool is.",
+   "scene": 2
+  },
+  {
+   "start": 39.28,
+   "end": 42.93,
+   "text": "Describe what you want and AI writes the formula.",
+   "scene": 3
+  },
+  {
+   "start": 42.93,
+   "end": 48.82,
+   "text": "SUMIF adds up only the rows that match, like one region.",
+   "scene": 3
+  },
+  {
+   "start": 48.82,
+   "end": 54.95,
+   "text": "XLOOKUP or VLOOKUP finds a value from another table, and IF shows one thing or another, like “Target met”.",
+   "scene": 3
+  },
+  {
+   "start": 54.95,
+   "end": 61.2,
+   "text": "Ask for a summary table by region or category, then make a chart in Excel or Google Sheets.",
+   "scene": 4
+  },
+  {
+   "start": 61.2,
+   "end": 66.31,
+   "text": "The golden rule: check every total with your own SUM before you share it.",
+   "scene": 4
+  },
+  {
+   "start": 66.31,
+   "end": 71.54,
+   "text": "AI can miscount, especially when the data is messy or has duplicates.",
+   "scene": 4
+  },
+  {
+   "start": 71.54,
+   "end": 77.07,
+   "text": "ChatGPT and Claude can read a spreadsheet file and do the maths for you.",
+   "scene": 5
+  },
+  {
+   "start": 77.07,
+   "end": 82.73,
+   "text": "First ask what each column means and what problems it sees, before any totals.",
+   "scene": 5
+  },
+  {
+   "start": 82.73,
+   "end": 88.27,
+   "text": "Then always repeat the key totals in your own sheet, with your own formula.",
+   "scene": 5
+  },
+  {
+   "start": 88.27,
+   "end": 93.65,
+   "text": "Claude explains every column in plain words, then lists three problems.",
+   "scene": 6
+  },
+  {
+   "start": 93.65,
+   "end": 100.14,
+   "text": "One invoice appears twice, one city is spelt two ways, and one row has blanks.",
+   "scene": 6
+  },
+  {
+   "start": 100.14,
+   "end": 103.95,
+   "text": "These are exactly the problems that make totals go wrong.",
+   "scene": 6
+  },
+  {
+   "start": 103.95,
+   "end": 108.78,
+   "text": "You do not need to remember formulas, you just describe what you want.",
+   "scene": 7
+  },
+  {
+   "start": 108.78,
+   "end": 114.05,
+   "text": "Gemini writes the SUMIF formula and explains it in one simple sentence.",
+   "scene": 7
+  },
+  {
+   "start": 114.05,
+   "end": 121.94,
+   "text": "Type it into your sheet, and for West the answer is eighty-one thousand, nine hundred and thirty-five rupees.",
+   "scene": 7
+  },
+  {
+   "start": 121.94,
+   "end": 128.24,
+   "text": "Now we ask ChatGPT for the month’s total, before cleaning the data.",
+   "scene": 8
+  },
+  {
+   "start": 128.24,
+   "end": 132.59,
+   "text": "It says five lakh, forty-two thousand, six hundred and ninety-one rupees.",
+   "scene": 8
+  },
+  {
+   "start": 132.59,
+   "end": 137.51,
+   "text": "But that counts the duplicate invoice twice, so the real total is lower.",
+   "scene": 8
+  },
+  {
+   "start": 137.51,
+   "end": 147.2,
+   "text": "After cleaning, our own SUM gives five lakh, twenty-three thousand, nine hundred and seventy-one rupees.",
+   "scene": 8
+  },
+  {
+   "start": 147.2,
+   "end": 152.79,
+   "text": "Some accounts have AI built right into Google Sheets or Excel, and some do not.",
+   "scene": 9
+  },
+  {
+   "start": 152.79,
+   "end": 159.35,
+   "text": "If yours does not, simply ask a chatbot in another tab and paste the formula into your sheet.",
+   "scene": 9
+  },
+  {
+   "start": 159.35,
+   "end": 162.53,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 162.53,
+   "end": 166.12,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 10
+  }
+ ]
+}

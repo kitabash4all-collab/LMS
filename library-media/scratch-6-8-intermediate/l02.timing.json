@@ -1,0 +1,77 @@
+{
+ "duration": 58.64,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.18,
+   "text": "In this lesson, you will learn to use traversal to calculate an average and find the maximum and minimum values in a list.",
+   "scene": 0
+  },
+  {
+   "start": 8.18,
+   "end": 12.62,
+   "text": "Average = total ÷ number of items.",
+   "scene": 1
+  },
+  {
+   "start": 12.62,
+   "end": 16.67,
+   "text": "Traverse to get the total, then divide by length of list.",
+   "scene": 1
+  },
+  {
+   "start": 16.67,
+   "end": 18.99,
+   "text": "Start max as item 1.",
+   "scene": 2
+  },
+  {
+   "start": 18.99,
+   "end": 24.1,
+   "text": "Traverse: if item i > max, set max to item i.",
+   "scene": 2
+  },
+  {
+   "start": 24.1,
+   "end": 27.13,
+   "text": "At the end, max holds the biggest value.",
+   "scene": 2
+  },
+  {
+   "start": 27.13,
+   "end": 29.69,
+   "text": "Same idea with < instead of >.",
+   "scene": 3
+  },
+  {
+   "start": 29.69,
+   "end": 35.93,
+   "text": "Start min as item 1, not 0 — otherwise 0 might win wrongly.",
+   "scene": 3
+  },
+  {
+   "start": 35.93,
+   "end": 43.36,
+   "text": "Averages and extremes turn raw numbers into facts you can act on: “Saturday was the hottest day.”",
+   "scene": 4
+  },
+  {
+   "start": 43.36,
+   "end": 50.23,
+   "text": "Python has built-in sum, max and min — but inside they work exactly like the loops you are writing.",
+   "scene": 5
+  },
+  {
+   "start": 50.23,
+   "end": 53.97,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 53.97,
+   "end": 58.32,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

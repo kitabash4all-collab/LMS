@@ -1,0 +1,155 @@
+{
+ "duration": 131.29,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.47,
+   "text": "Welcome, Gen-AI Creators! Today you will find out what is really happening inside a chatbot.",
+   "scene": 0
+  },
+  {
+   "start": 6.47,
+   "end": 13,
+   "text": "Generative AI is a computer program that creates new text, pictures or sounds.",
+   "scene": 1
+  },
+  {
+   "start": 13,
+   "end": 16.31,
+   "text": "It learned patterns from a huge number of examples.",
+   "scene": 1
+  },
+  {
+   "start": 16.31,
+   "end": 20.8,
+   "text": "Chatbots like ChatGPT and Gemini are generative AI.",
+   "scene": 1
+  },
+  {
+   "start": 20.8,
+   "end": 24.94,
+   "text": "A chatbot writes its answer one small piece at a time.",
+   "scene": 2
+  },
+  {
+   "start": 24.94,
+   "end": 29.77,
+   "text": "Each time, it guesses which word is most likely to come next.",
+   "scene": 2
+  },
+  {
+   "start": 29.77,
+   "end": 34.85,
+   "text": "It is like a super-powered version of the autocomplete on a phone keyboard.",
+   "scene": 2
+  },
+  {
+   "start": 34.85,
+   "end": 39.13,
+   "text": "AI is great for ideas, explanations and first drafts.",
+   "scene": 3
+  },
+  {
+   "start": 39.13,
+   "end": 45.02,
+   "text": "It can also be confidently wrong, and it does not really know you or today’s news.",
+   "scene": 3
+  },
+  {
+   "start": 45.02,
+   "end": 48.08,
+   "text": "You are the boss, so you always check its work.",
+   "scene": 3
+  },
+  {
+   "start": 48.08,
+   "end": 54.59,
+   "text": "Never type real names, phone numbers, addresses, passwords or Aadhaar numbers into an AI tool.",
+   "scene": 4
+  },
+  {
+   "start": 54.59,
+   "end": 58.49,
+   "text": "Never paste private documents or photos of your friends.",
+   "scene": 4
+  },
+  {
+   "start": 58.49,
+   "end": 63.15,
+   "text": "If you would not pin it on the school notice board, keep it out of AI.",
+   "scene": 4
+  },
+  {
+   "start": 63.15,
+   "end": 69.49,
+   "text": "If you are under 13, watch the teacher’s screen and use the Kitabash AI helper in the lesson.",
+   "scene": 5
+  },
+  {
+   "start": 69.49,
+   "end": 78.15,
+   "text": "If you are 13 to 17, you may use ChatGPT, Gemini, Copilot or Perplexity with a parent’s permission.",
+   "scene": 5
+  },
+  {
+   "start": 78.15,
+   "end": 83.03,
+   "text": "Here we ask the helper to finish a sentence about the monsoon in Mumbai.",
+   "scene": 6
+  },
+  {
+   "start": 83.03,
+   "end": 87.54,
+   "text": "It picks the words that most often come next in the text it learned from.",
+   "scene": 6
+  },
+  {
+   "start": 87.54,
+   "end": 92.85,
+   "text": "Notice the honest part: it cannot see Mumbai today, it is only predicting.",
+   "scene": 6
+  },
+  {
+   "start": 92.85,
+   "end": 98.39,
+   "text": "This time the AI sounds very sure of itself, but the answer is a famous myth.",
+   "scene": 7
+  },
+  {
+   "start": 98.39,
+   "end": 103.15,
+   "text": "Astronauts say the Great Wall is far too thin to see from the Moon.",
+   "scene": 7
+  },
+  {
+   "start": 103.15,
+   "end": 108.39,
+   "text": "Sounding confident is not the same as being correct, so we always check.",
+   "scene": 7
+  },
+  {
+   "start": 108.39,
+   "end": 116.66,
+   "text": "Start with three simple kinds of prompt: ask for ideas, ask for an explanation, and ask it to create.",
+   "scene": 8
+  },
+  {
+   "start": 116.66,
+   "end": 122.78,
+   "text": "Read every answer and ask yourself one question: is this actually true and useful?",
+   "scene": 8
+  },
+  {
+   "start": 122.78,
+   "end": 126.16,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 126.16,
+   "end": 130.98,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

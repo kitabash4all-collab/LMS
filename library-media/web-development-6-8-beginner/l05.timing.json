@@ -1,0 +1,155 @@
+{
+ "duration": 114.04,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.29,
+   "text": "Today you will make boxes line up side by side, like the cards on your favourite apps.",
+   "scene": 0
+  },
+  {
+   "start": 5.29,
+   "end": 10.31,
+   "text": "A class is a name you give to some elements, like class equals card.",
+   "scene": 1
+  },
+  {
+   "start": 10.31,
+   "end": 15.5,
+   "text": "In CSS, a dot in front of the name picks every element with that class.",
+   "scene": 1
+  },
+  {
+   "start": 15.5,
+   "end": 19.14,
+   "text": "Now you can style some paragraphs without changing all of them.",
+   "scene": 1
+  },
+  {
+   "start": 19.14,
+   "end": 27.1,
+   "text": "The div tag is a plain box with no special meaning.",
+   "scene": 2
+  },
+  {
+   "start": 27.1,
+   "end": 30.25,
+   "text": "We use it to group things together so we can style or move them as one.",
+   "scene": 2
+  },
+  {
+   "start": 30.25,
+   "end": 34.82,
+   "text": "Cards and rows are usually divs with a class.",
+   "scene": 2
+  },
+  {
+   "start": 34.82,
+   "end": 39.03,
+   "text": "Put display flex on a parent box, and its children line up in a row.",
+   "scene": 3
+  },
+  {
+   "start": 39.03,
+   "end": 43.31,
+   "text": "The gap property adds equal space between the boxes.",
+   "scene": 3
+  },
+  {
+   "start": 43.31,
+   "end": 45.84,
+   "text": "Flex-wrap lets cards move to a new line when the screen is narrow.",
+   "scene": 3
+  },
+  {
+   "start": 45.84,
+   "end": 52.52,
+   "text": "A card is a box with padding, a border and rounded corners from border-radius.",
+   "scene": 4
+  },
+  {
+   "start": 52.52,
+   "end": 55.99,
+   "text": "A white card on a coloured background really stands out.",
+   "scene": 4
+  },
+  {
+   "start": 55.99,
+   "end": 59.81,
+   "text": "Apps like video and shopping sites use cards everywhere.",
+   "scene": 4
+  },
+  {
+   "start": 59.81,
+   "end": 66.16,
+   "text": "Only the paragraphs with class big get the large font.",
+   "scene": 5
+  },
+  {
+   "start": 66.16,
+   "end": 69.22,
+   "text": "In CSS we write a dot before the class name, but in HTML there is no dot.",
+   "scene": 5
+  },
+  {
+   "start": 69.22,
+   "end": 75.38,
+   "text": "Normally every div starts on a new line, so the boxes stack like plates.",
+   "scene": 6
+  },
+  {
+   "start": 75.38,
+   "end": 80.28,
+   "text": "To put them side by side, we need flexbox.",
+   "scene": 6
+  },
+  {
+   "start": 80.28,
+   "end": 82.94,
+   "text": "We wrap the cards in a row div, then give the row display flex.",
+   "scene": 7
+  },
+  {
+   "start": 82.94,
+   "end": 85.7,
+   "text": "The children line up side by side, and gap adds the space between them.",
+   "scene": 7
+  },
+  {
+   "start": 85.7,
+   "end": 94.26,
+   "text": "Border radius rounds the corners, and padding gives the words room to breathe.",
+   "scene": 8
+  },
+  {
+   "start": 94.26,
+   "end": 97.11,
+   "text": "Now it looks like a real app.",
+   "scene": 8
+  },
+  {
+   "start": 97.11,
+   "end": 98.78,
+   "text": "Two small mistakes are hiding in this code. Can you find them?",
+   "scene": 9
+  },
+  {
+   "start": 98.78,
+   "end": 105.29,
+   "text": "The CSS needs a dot before card, and the HTML class should not have a dot.",
+   "scene": 9
+  },
+  {
+   "start": 105.29,
+   "end": 109.13,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 109.13,
+   "end": 113.74,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

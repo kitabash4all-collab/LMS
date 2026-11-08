@@ -1,0 +1,59 @@
+{
+ "duration": 40.81,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.18,
+   "text": "It’s project time! Make a ScratchJr game where a hero collects three treasures that disappear when touched, and says “You win!” at the end.",
+   "scene": 0
+  },
+  {
+   "start": 9.18,
+   "end": 14.52,
+   "text": "Your character collects things (gems, apples, coins) around the stage.",
+   "scene": 1
+  },
+  {
+   "start": 14.52,
+   "end": 18.1,
+   "text": "Show a score that goes up by 1 for each thing collected.",
+   "scene": 2
+  },
+  {
+   "start": 18.1,
+   "end": 21.47,
+   "text": "When everything is collected, say “You win!”.",
+   "scene": 3
+  },
+  {
+   "start": 21.47,
+   "end": 25.85,
+   "text": "In ScratchJr, make arrow characters the player taps to move the hero.",
+   "scene": 4
+  },
+  {
+   "start": 25.85,
+   "end": 30.71,
+   "text": "Collect all 3 coins with ⭐ +1 each, then say “You win!”.",
+   "scene": 5
+  },
+  {
+   "start": 30.71,
+   "end": 33.82,
+   "text": "Three coins, score 3, you win!",
+   "scene": 5
+  },
+  {
+   "start": 33.82,
+   "end": 37.58,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 37.58,
+   "end": 40.81,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 6
+  }
+ ]
+}

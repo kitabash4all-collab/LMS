@@ -1,0 +1,71 @@
+{
+ "duration": 58.03,
+ "lines": [
+  {
+   "start": 0,
+   "end": 11.62,
+   "text": "In this lesson, you will learn to use operator blocks (+ − × ÷ and join) to calculate, and check a typed answer against the right result.",
+   "scene": 0
+  },
+  {
+   "start": 11.62,
+   "end": 14.43,
+   "text": "Green operator blocks do maths: + − × ÷.",
+   "scene": 1
+  },
+  {
+   "start": 14.43,
+   "end": 17.54,
+   "text": "They go inside other blocks, like a calculator inside your code.",
+   "scene": 1
+  },
+  {
+   "start": 17.54,
+   "end": 22.09,
+   "text": "In Scratch, × is written *.",
+   "scene": 1
+  },
+  {
+   "start": 22.09,
+   "end": 25.41,
+   "text": "Compare what the player typed with the right answer using =.",
+   "scene": 2
+  },
+  {
+   "start": 25.41,
+   "end": 30.44,
+   "text": "If they match, the answer is correct.",
+   "scene": 2
+  },
+  {
+   "start": 30.44,
+   "end": 38.87,
+   "text": "“join” glues words and numbers together so a sprite can say a whole sentence, like “Total: 7”.",
+   "scene": 3
+  },
+  {
+   "start": 38.87,
+   "end": 40.99,
+   "text": "Store a number in a variable, then do maths with it later.",
+   "scene": 4
+  },
+  {
+   "start": 40.99,
+   "end": 49.65,
+   "text": "That is how calculators and games keep track of things.",
+   "scene": 4
+  },
+  {
+   "start": 49.65,
+   "end": 51.6,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.6,
+   "end": 57.73,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "duration": 162.9,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.01,
+   "text": "Today AI reads long policies and meeting notes with you, and you learn to check what it says.",
+   "scene": 0
+  },
+  {
+   "start": 6.01,
+   "end": 12.7,
+   "text": "Attach the document with the paperclip or + button, then say who the summary is for and why.",
+   "scene": 1
+  },
+  {
+   "start": 12.7,
+   "end": 20.42,
+   "text": "“A one-page summary for new staff: what changes, deadlines and amounts” beats “summarise this”.",
+   "scene": 1
+  },
+  {
+   "start": 20.42,
+   "end": 23.53,
+   "text": "Ask it to mention the section for each point.",
+   "scene": 1
+  },
+  {
+   "start": 23.53,
+   "end": 30.28,
+   "text": "You can ask, “What is the last date to submit a travel claim?” and get an answer in seconds.",
+   "scene": 2
+  },
+  {
+   "start": 30.28,
+   "end": 34.56,
+   "text": "Ask it to quote the exact line and the section number.",
+   "scene": 2
+  },
+  {
+   "start": 34.56,
+   "end": 39.24,
+   "text": "If the answer is not in the document, tell it to say so instead of guessing.",
+   "scene": 2
+  },
+  {
+   "start": 39.24,
+   "end": 45.75,
+   "text": "NotebookLM is a free Google tool that answers only from the files you add, called sources.",
+   "scene": 3
+  },
+  {
+   "start": 45.75,
+   "end": 51.05,
+   "text": "Each answer has small numbered links that jump to the exact lines it used.",
+   "scene": 3
+  },
+  {
+   "start": 51.05,
+   "end": 58.96,
+   "text": "It is ideal for policies, manuals and study material.",
+   "scene": 3
+  },
+  {
+   "start": 58.96,
+   "end": 61.6,
+   "text": "Paste rough meeting notes and ask for a table: task, owner, deadline.",
+   "scene": 4
+  },
+  {
+   "start": 61.6,
+   "end": 66.85,
+   "text": "If a task has no owner or date, ask the AI to mark it as missing.",
+   "scene": 4
+  },
+  {
+   "start": 66.85,
+   "end": 70.08,
+   "text": "Then check every name and date before sharing.",
+   "scene": 4
+  },
+  {
+   "start": 70.08,
+   "end": 75.86,
+   "text": "Both Claude and ChatGPT let you attach a file with the paperclip or plus button.",
+   "scene": 5
+  },
+  {
+   "start": 75.86,
+   "end": 82.26,
+   "text": "Say who the summary is for, how long it should be, and ask for section numbers.",
+   "scene": 5
+  },
+  {
+   "start": 82.26,
+   "end": 87.15,
+   "text": "Those section numbers are your shortcut for checking the original quickly.",
+   "scene": 5
+  },
+  {
+   "start": 87.15,
+   "end": 93.7,
+   "text": "We attach a twelve-section practice policy and ask for a summary for new staff.",
+   "scene": 6
+  },
+  {
+   "start": 93.7,
+   "end": 100.71,
+   "text": "Claude gives short points, each with its section number, so checking takes minutes, not hours.",
+   "scene": 6
+  },
+  {
+   "start": 100.71,
+   "end": 107.21,
+   "text": "Now a quick question about the same document in ChatGPT.",
+   "scene": 7
+  },
+  {
+   "start": 107.21,
+   "end": 108.82,
+   "text": "The answer says thirty days, which sounds believable.",
+   "scene": 7
+  },
+  {
+   "start": 108.82,
+   "end": 114.4,
+   "text": "We open section six point one, and the policy actually says fifteen days.",
+   "scene": 7
+  },
+  {
+   "start": 114.4,
+   "end": 120.24,
+   "text": "One wrong number like this could cost someone their money, so we always check.",
+   "scene": 7
+  },
+  {
+   "start": 120.24,
+   "end": 124.87,
+   "text": "NotebookLM answers only from the sources you add to a notebook.",
+   "scene": 8
+  },
+  {
+   "start": 124.87,
+   "end": 131.48,
+   "text": "Each answer has small numbered markers, and clicking one shows the exact lines it used.",
+   "scene": 8
+  },
+  {
+   "start": 131.48,
+   "end": 136.87,
+   "text": "That makes checking very fast, but you still read those lines yourself.",
+   "scene": 8
+  },
+  {
+   "start": 136.87,
+   "end": 143.44,
+   "text": "Meeting notes are messy, so we ask for a clean table of task, owner and deadline.",
+   "scene": 9
+  },
+  {
+   "start": 143.44,
+   "end": 148.63,
+   "text": "Gemini marks the gaps as missing instead of inventing a name or date.",
+   "scene": 9
+  },
+  {
+   "start": 148.63,
+   "end": 155.26,
+   "text": "Now you know exactly what to ask in the team group before the work starts.",
+   "scene": 9
+  },
+  {
+   "start": 155.26,
+   "end": 157.69,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 157.69,
+   "end": 162.57,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

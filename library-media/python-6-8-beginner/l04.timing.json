@@ -1,0 +1,131 @@
+{
+ "duration": 95.07,
+ "lines": [
+  {
+   "start": 0,
+   "end": 4.97,
+   "text": "It’s project time! Build a five-question quiz game on a topic you love.",
+   "scene": 0
+  },
+  {
+   "start": 4.97,
+   "end": 8.4,
+   "text": "Start with score = 0 before the first question.",
+   "scene": 1
+  },
+  {
+   "start": 8.4,
+   "end": 12.76,
+   "text": "Each time the player is right, add one with score += 1.",
+   "scene": 1
+  },
+  {
+   "start": 12.76,
+   "end": 15.41,
+   "text": "At the end, the variable holds the total.",
+   "scene": 1
+  },
+  {
+   "start": 15.41,
+   "end": 22.48,
+   "text": "Each question is an input() followed by an if and an else.",
+   "scene": 2
+  },
+  {
+   "start": 22.48,
+   "end": 25.17,
+   "text": "The if gives the point and says Correct.",
+   "scene": 2
+  },
+  {
+   "start": 25.17,
+   "end": 27.25,
+   "text": "The else kindly shows the right answer.",
+   "scene": 2
+  },
+  {
+   "start": 27.25,
+   "end": 36.48,
+   "text": "Players type in different ways. answer.lower() makes the answer small letters, and .strip() removes extra spaces.",
+   "scene": 3
+  },
+  {
+   "start": 36.48,
+   "end": 39.15,
+   "text": "Then one comparison catches them all.",
+   "scene": 3
+  },
+  {
+   "start": 39.15,
+   "end": 43.27,
+   "text": "After the last question, use if, elif and else on the score.",
+   "scene": 4
+  },
+  {
+   "start": 43.27,
+   "end": 46.42,
+   "text": "Five gets Quiz Champion, three or more gets Star Player, and so on.",
+   "scene": 4
+  },
+  {
+   "start": 46.42,
+   "end": 52.15,
+   "text": "The score starts at zero, like a fresh scoreboard before a match.",
+   "scene": 5
+  },
+  {
+   "start": 52.15,
+   "end": 58.8,
+   "text": "Both lines add one, and plus equals is just a shorter way to write it.",
+   "scene": 5
+  },
+  {
+   "start": 58.8,
+   "end": 64.16,
+   "text": "The player typed MARS in capitals with an extra space.",
+   "scene": 6
+  },
+  {
+   "start": 64.16,
+   "end": 67.52,
+   "text": "strip and lower clean it up to mars, so the answer still counts.",
+   "scene": 6
+  },
+  {
+   "start": 67.52,
+   "end": 70.67,
+   "text": "With a score of four, the first test is False, but the elif is True.",
+   "scene": 7
+  },
+  {
+   "start": 70.67,
+   "end": 77.57,
+   "text": "Always put the biggest score first, or everyone becomes a Star Player.",
+   "scene": 7
+  },
+  {
+   "start": 77.57,
+   "end": 83.43,
+   "text": "Good coders plan before they type. Write your questions on paper first.",
+   "scene": 8
+  },
+  {
+   "start": 83.43,
+   "end": 88.49,
+   "text": "Build one question, test it, then copy the pattern for the rest.",
+   "scene": 8
+  },
+  {
+   "start": 88.49,
+   "end": 90.49,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 90.49,
+   "end": 94.77,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

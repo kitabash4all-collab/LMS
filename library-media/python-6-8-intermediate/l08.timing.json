@@ -1,0 +1,143 @@
+{
+ "duration": 117.43,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.24,
+   "text": "It is capstone time! Today you design and build your own turn-based Battle Arena game.",
+   "scene": 0
+  },
+  {
+   "start": 5.24,
+   "end": 10.66,
+   "text": "Each fighter is a dictionary, like {\"name\": \"Goblin\", \"hp\": 45}.",
+   "scene": 1
+  },
+  {
+   "start": 10.66,
+   "end": 15.91,
+   "text": "A list of enemy dictionaries lets random.choice pick a surprise opponent.",
+   "scene": 1
+  },
+  {
+   "start": 15.91,
+   "end": 20,
+   "text": "Changing enemy[\"hp\"] changes that fighter’s health.",
+   "scene": 1
+  },
+  {
+   "start": 20,
+   "end": 32.62,
+   "text": "roll_damage, apply_damage and heal_hp each do one job and return a number. max(0, hp - damage) stops health going below zero. min(max_hp, hp + amount) stops healing above the maximum.",
+   "scene": 2
+  },
+  {
+   "start": 32.62,
+   "end": 37.67,
+   "text": "while player[\"hp\"] > 0 and enemy[\"hp\"] > 0: keeps the battle going.",
+   "scene": 3
+  },
+  {
+   "start": 37.67,
+   "end": 42.28,
+   "text": "Each turn shows the stats, asks for a move, and then the enemy strikes back.",
+   "scene": 3
+  },
+  {
+   "start": 42.28,
+   "end": 48.03,
+   "text": "When either health reaches zero, the loop ends.",
+   "scene": 3
+  },
+  {
+   "start": 48.03,
+   "end": 51.57,
+   "text": "After the loop, an if decides victory or defeat.",
+   "scene": 4
+  },
+  {
+   "start": 51.57,
+   "end": 53.7,
+   "text": "Then playtest it.",
+   "scene": 4
+  },
+  {
+   "start": 53.7,
+   "end": 58.89,
+   "text": "If the game is too easy or too hard, change the numbers: that is called balancing.",
+   "scene": 4
+  },
+  {
+   "start": 58.89,
+   "end": 64.53,
+   "text": "Every fighter keeps its stats in a dictionary, with the same keys for each one.",
+   "scene": 5
+  },
+  {
+   "start": 64.53,
+   "end": 70.12,
+   "text": "Random choice picks one enemy from the list, so every battle can be different.",
+   "scene": 5
+  },
+  {
+   "start": 70.12,
+   "end": 75.42,
+   "text": "Apply damage never lets health fall below zero, thanks to max.",
+   "scene": 6
+  },
+  {
+   "start": 75.42,
+   "end": 79.74,
+   "text": "Heal never goes above the maximum health, thanks to min.",
+   "scene": 6
+  },
+  {
+   "start": 79.74,
+   "end": 84.36,
+   "text": "The player chooses a move, and the program calls the right functions.",
+   "scene": 7
+  },
+  {
+   "start": 84.36,
+   "end": 88.91,
+   "text": "The damage is random, so every swing feels a little different.",
+   "scene": 7
+  },
+  {
+   "start": 88.91,
+   "end": 93.3,
+   "text": "The loop keeps going only while both fighters are still standing.",
+   "scene": 8
+  },
+  {
+   "start": 93.3,
+   "end": 98.49,
+   "text": "After the loop, one if statement decides whether you won or lost.",
+   "scene": 8
+  },
+  {
+   "start": 98.49,
+   "end": 103.59,
+   "text": "Game designers plan their fighters and numbers before writing any code.",
+   "scene": 9
+  },
+  {
+   "start": 103.59,
+   "end": 109.57,
+   "text": "Then they playtest again and again, and tweak the numbers until the battle feels fair.",
+   "scene": 9
+  },
+  {
+   "start": 109.57,
+   "end": 112.94,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 112.94,
+   "end": 117.11,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 10
+  }
+ ]
+}

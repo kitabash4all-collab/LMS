@@ -1,0 +1,71 @@
+{
+ "duration": 58.36,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.19,
+   "text": "Apps are full of lists: messages, songs, scores. Today you’ll learn to walk through a list and do something with every item.",
+   "scene": 0
+  },
+  {
+   "start": 9.19,
+   "end": 12.35,
+   "text": "A list stores many values in order.",
+   "scene": 1
+  },
+  {
+   "start": 12.35,
+   "end": 15.31,
+   "text": "Each has an index (position) starting at 1.",
+   "scene": 1
+  },
+  {
+   "start": 15.31,
+   "end": 17.8,
+   "text": "Length tells you how many items there are.",
+   "scene": 1
+  },
+  {
+   "start": 17.8,
+   "end": 27.63,
+   "text": "To process every item, use an index variable i: start at 1, read item i, then change i by 1 — repeat (length of list) times.",
+   "scene": 2
+  },
+  {
+   "start": 27.63,
+   "end": 32.91,
+   "text": "An accumulator variable builds a result as you traverse — like adding up a total.",
+   "scene": 3
+  },
+  {
+   "start": 32.91,
+   "end": 38.67,
+   "text": "Starting i at 0, or forgetting to change i, are the most common list bugs.",
+   "scene": 4
+  },
+  {
+   "start": 38.67,
+   "end": 41.73,
+   "text": "Trace the first two loops by hand to check.",
+   "scene": 4
+  },
+  {
+   "start": 41.73,
+   "end": 51.2,
+   "text": "Python’s for loop traverses a list for you. The idea is exactly the same: visit every item and accumulate.",
+   "scene": 5
+  },
+  {
+   "start": 51.2,
+   "end": 53.39,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 53.39,
+   "end": 58.06,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

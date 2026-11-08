@@ -1,0 +1,83 @@
+{
+ "duration": 56.19,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.52,
+   "text": "In this lesson, you will learn to put several blocks inside a repeat to make longer patterns, like dances and walks around shapes.",
+   "scene": 0
+  },
+  {
+   "start": 9.52,
+   "end": 13.77,
+   "text": "A repeat can hold many blocks.",
+   "scene": 1
+  },
+  {
+   "start": 13.77,
+   "end": 15.24,
+   "text": "All of them repeat, in order.",
+   "scene": 1
+  },
+  {
+   "start": 15.24,
+   "end": 21.71,
+   "text": "Look for the part that repeats — the chunk.",
+   "scene": 2
+  },
+  {
+   "start": 21.71,
+   "end": 25.77,
+   "text": "Put the chunk inside the repeat.",
+   "scene": 2
+  },
+  {
+   "start": 25.77,
+   "end": 28.39,
+   "text": "Right, down, left, up is a square.",
+   "scene": 3
+  },
+  {
+   "start": 28.39,
+   "end": 31.41,
+   "text": "Repeat it to walk round again!",
+   "scene": 3
+  },
+  {
+   "start": 31.41,
+   "end": 33.66,
+   "text": "A dance chunk might be: hop, grow, shrink.",
+   "scene": 4
+  },
+  {
+   "start": 33.66,
+   "end": 35.88,
+   "text": "Repeat it for a dance!",
+   "scene": 4
+  },
+  {
+   "start": 35.88,
+   "end": 43.14,
+   "text": "Climb the stairs and hop on each step: right, up, hop — 3 times.",
+   "scene": 5
+  },
+  {
+   "start": 43.14,
+   "end": 45.3,
+   "text": "A three-block chunk, repeated 3 times!",
+   "scene": 5
+  },
+  {
+   "start": 45.3,
+   "end": 49.49,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 49.49,
+   "end": 55.83,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

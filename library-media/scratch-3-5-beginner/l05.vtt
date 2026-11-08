@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.100
+Today you will make sprites come alive with animation.
+
+2
+00:00:04.100 --> 00:00:06.710
+Animation is like a flip book.
+
+3
+00:00:06.710 --> 00:00:13.500
+Each page shows a slightly different picture. In Scratch, these pictures are called costumes.
+
+4
+00:00:13.500 --> 00:00:18.110
+If you switch costumes quickly, the sprite looks like it is moving.
+
+5
+00:00:18.110 --> 00:00:21.130
+A forever loop repeats its blocks forever.
+
+6
+00:00:21.130 --> 00:00:27.850
+Next costume, wait, next costume, wait… and the sprite keeps animating until you press stop.
+
+7
+00:00:27.850 --> 00:00:33.520
+Computers are very fast. Without a wait, the costumes change too quickly to see.
+
+8
+00:00:33.520 --> 00:00:36.350
+A short wait makes the animation smooth.
+
+9
+00:00:36.350 --> 00:00:42.940
+Add move and “if on edge, bounce”, and your sprite walks back and forth across the stage.
+
+10
+00:00:42.940 --> 00:00:48.140
+Setting the rotation style to left-right stops it walking upside down!
+
+11
+00:00:48.140 --> 00:00:51.220
+Now animate your own sprite in the Code Lab!

@@ -1,0 +1,71 @@
+{
+ "duration": 51.74,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.74,
+   "text": "In this lesson, you will learn to make a sprite jump by setting its velocity upward, only when it is standing on the floor.",
+   "scene": 0
+  },
+  {
+   "start": 7.74,
+   "end": 11.96,
+   "text": "To jump, set vy to a positive number like 14.",
+   "scene": 1
+  },
+  {
+   "start": 11.96,
+   "end": 18.03,
+   "text": "Gravity takes over: the sprite rises, slows down, stops at the top, then falls.",
+   "scene": 1
+  },
+  {
+   "start": 18.03,
+   "end": 23.33,
+   "text": "Without a check, players can jump in mid-air forever.",
+   "scene": 2
+  },
+  {
+   "start": 23.33,
+   "end": 26.17,
+   "text": "Only jump if the sprite is on the floor.",
+   "scene": 2
+  },
+  {
+   "start": 26.17,
+   "end": 33.83,
+   "text": "Because gravity changes vy a little each frame, a jump makes a smooth curve — like a ball thrown in the air.",
+   "scene": 3
+  },
+  {
+   "start": 33.83,
+   "end": 36.28,
+   "text": "A bigger push jumps higher.",
+   "scene": 4
+  },
+  {
+   "start": 36.28,
+   "end": 40.49,
+   "text": "Stronger gravity makes jumps shorter and snappier.",
+   "scene": 4
+  },
+  {
+   "start": 40.49,
+   "end": 43.76,
+   "text": "Tuning these numbers is real game design.",
+   "scene": 4
+  },
+  {
+   "start": 43.76,
+   "end": 47.05,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 47.05,
+   "end": 51.47,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

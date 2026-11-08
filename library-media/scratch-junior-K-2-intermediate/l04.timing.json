@@ -1,0 +1,65 @@
+{
+ "duration": 35.47,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.26,
+   "text": "In this lesson, you will learn to use the hop block and repeat to make characters bounce and celebrate.",
+   "scene": 0
+  },
+  {
+   "start": 6.26,
+   "end": 9.51,
+   "text": "Hop jumps up and comes back down in the same place.",
+   "scene": 1
+  },
+  {
+   "start": 9.51,
+   "end": 13.14,
+   "text": "Put hop inside a repeat to bounce many times.",
+   "scene": 2
+  },
+  {
+   "start": 13.14,
+   "end": 18.1,
+   "text": "Characters can hop when they reach a goal — hooray!",
+   "scene": 3
+  },
+  {
+   "start": 18.1,
+   "end": 19.96,
+   "text": "Repeat 3 makes 3 hops.",
+   "scene": 4
+  },
+  {
+   "start": 19.96,
+   "end": 23.69,
+   "text": "Change the number for more.",
+   "scene": 4
+  },
+  {
+   "start": 23.69,
+   "end": 25.68,
+   "text": "Walk to the star, then hop 3 times to celebrate! Use 🔁.",
+   "scene": 5
+  },
+  {
+   "start": 25.68,
+   "end": 28.65,
+   "text": "Hop, hop, hop — hooray!",
+   "scene": 5
+  },
+  {
+   "start": 28.65,
+   "end": 30.97,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 30.97,
+   "end": 35.1,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

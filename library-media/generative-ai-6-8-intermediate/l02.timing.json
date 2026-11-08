@@ -1,0 +1,161 @@
+{
+ "duration": 113.67,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.67,
+   "text": "Every programmer writes bugs. Today you learn to hunt them down with an AI helper, and understand them.",
+   "scene": 0
+  },
+  {
+   "start": 6.67,
+   "end": 12.62,
+   "text": "Tell the AI what you expected, what actually happened, and what you already tried.",
+   "scene": 1
+  },
+  {
+   "start": 12.62,
+   "end": 15.64,
+   "text": "A clear bug report gets a clear answer.",
+   "scene": 1
+  },
+  {
+   "start": 15.64,
+   "end": 18.57,
+   "text": "Saying it does not work only gets a guess.",
+   "scene": 1
+  },
+  {
+   "start": 18.57,
+   "end": 23.81,
+   "text": "Copy the exact error message, including the line number and the error type.",
+   "scene": 2
+  },
+  {
+   "start": 23.81,
+   "end": 27.35,
+   "text": "Error messages are clues, not insults.",
+   "scene": 2
+  },
+  {
+   "start": 27.35,
+   "end": 31.76,
+   "text": "Ask the AI what the message means before you ask for a fix.",
+   "scene": 2
+  },
+  {
+   "start": 31.76,
+   "end": 34.76,
+   "text": "Never trust a fix until you run it yourself.",
+   "scene": 3
+  },
+  {
+   "start": 34.76,
+   "end": 39.72,
+   "text": "Test with normal values and a tricky one, like zero or an empty list.",
+   "scene": 3
+  },
+  {
+   "start": 39.72,
+   "end": 43.79,
+   "text": "If it still fails, tell the AI exactly what happened.",
+   "scene": 3
+  },
+  {
+   "start": 43.79,
+   "end": 48.78,
+   "text": "When it works, ask why the bug happened and write the reason in one sentence.",
+   "scene": 4
+  },
+  {
+   "start": 48.78,
+   "end": 52.68,
+   "text": "Ask for a hint first, not the full fixed program.",
+   "scene": 4
+  },
+  {
+   "start": 52.68,
+   "end": 55.63,
+   "text": "Next time you will spot the same bug on your own.",
+   "scene": 4
+  },
+  {
+   "start": 55.63,
+   "end": 60.77,
+   "text": "Meera wants her quiz to print the score, but Python shows an error instead.",
+   "scene": 5
+  },
+  {
+   "start": 60.77,
+   "end": 65.78,
+   "text": "The error message says line three, and the type of error is a TypeError.",
+   "scene": 5
+  },
+  {
+   "start": 65.78,
+   "end": 68.73,
+   "text": "That is two useful clues to give the AI.",
+   "scene": 5
+  },
+  {
+   "start": 68.73,
+   "end": 73.95,
+   "text": "The hint is good: Python cannot join text and a number with a plus sign.",
+   "scene": 6
+  },
+  {
+   "start": 73.95,
+   "end": 77.9,
+   "text": "But the suggested fix turns the number into a number again.",
+   "scene": 6
+  },
+  {
+   "start": 77.9,
+   "end": 83.17,
+   "text": "Meera runs it, and the very same error appears, so the fix fails the test.",
+   "scene": 6
+  },
+  {
+   "start": 83.17,
+   "end": 87.63,
+   "text": "Meera tells the AI exactly what happened when she tested the fix.",
+   "scene": 7
+  },
+  {
+   "start": 87.63,
+   "end": 91.94,
+   "text": "Now the AI explains the real cause and gives a fix that works.",
+   "scene": 7
+  },
+  {
+   "start": 91.94,
+   "end": 97.63,
+   "text": "She writes one sentence in her bug log: plus cannot mix text and numbers.",
+   "scene": 7
+  },
+  {
+   "start": 97.63,
+   "end": 101.84,
+   "text": "This is the debug loop that real programmers use every day.",
+   "scene": 8
+  },
+  {
+   "start": 101.84,
+   "end": 105.91,
+   "text": "Change one thing at a time, so you know which change fixed it.",
+   "scene": 8
+  },
+  {
+   "start": 105.91,
+   "end": 109.21,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 109.21,
+   "end": 113.35,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

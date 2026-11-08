@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.730
+So far you have used AI. Today you will train one yourself, with no code at all.
+
+2
+00:00:06.730 --> 00:00:11.660
+Machine learning means a computer learns from examples instead of rules.
+
+3
+00:00:11.660 --> 00:00:17.080
+Show it many photos of paper and plastic, and it learns to tell them apart.
+
+4
+00:00:17.080 --> 00:00:23.380
+Each group you want it to learn is called a class, like “Paper”, “Plastic” and “Nothing”.
+
+5
+00:00:23.380 --> 00:00:25.900
+The photos you give it are the data.
+
+6
+00:00:25.900 --> 00:00:29.500
+More varied data usually makes a smarter model.
+
+7
+00:00:29.500 --> 00:00:32.930
+Training is when the computer studies your examples.
+
+8
+00:00:32.930 --> 00:00:36.790
+Testing is when you show it new things it has never seen.
+
+9
+00:00:36.790 --> 00:00:40.240
+A model is only as good as your test says.
+
+10
+00:00:40.240 --> 00:00:44.930
+Every model makes mistakes, even one that looks perfect at first.
+
+11
+00:00:44.930 --> 00:00:49.710
+If you only trained with blue bottles, a green bottle may confuse it.
+
+12
+00:00:49.710 --> 00:00:53.350
+Write down what fails and why in your data diary.
+
+13
+00:00:53.350 --> 00:01:03.740
+Open Teachable Machine and start an image project — you do not need an account.
+
+14
+00:01:03.740 --> 00:01:08.980
+Make one class for each thing you want it to recognise, and name them clearly.
+
+15
+00:01:08.980 --> 00:01:14.330
+Add lots of example photos to each class, then click Train Model.
+
+16
+00:01:14.330 --> 00:01:15.890
+Now hold up new objects in the preview and watch the confidence bars move.
+
+17
+00:01:15.890 --> 00:01:21.470
+A real tester tries to break the model with new objects, new backgrounds and dim light.
+
+18
+00:01:21.470 --> 00:01:27.160
+Write every test in your data diary, then look for a pattern in the mistakes.
+
+19
+00:01:27.160 --> 00:01:33.470
+The learner describes the problem to the AI helper, without sharing any personal details.
+
+20
+00:01:33.470 --> 00:01:39.840
+The helper suggests the model learned the light and background, not just the object.
+
+21
+00:01:39.840 --> 00:01:45.470
+That is a great idea to test — so we add more varied photos and train again.
+
+22
+00:01:45.470 --> 00:01:49.450
+Great work! Let’s remember what we learned.
+
+23
+00:01:49.450 --> 00:01:54.150
+Now build along, then try the challenges. You’ve got this!

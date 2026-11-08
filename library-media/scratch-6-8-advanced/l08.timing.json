@@ -1,0 +1,71 @@
+{
+ "duration": 59.92,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.55,
+   "text": "In this lesson, you will learn to encrypt and decrypt messages with a Caesar cipher using letter positions and modular arithmetic.",
+   "scene": 0
+  },
+  {
+   "start": 7.55,
+   "end": 16.72,
+   "text": "Shift every letter a fixed number of places along the alphabet: with a shift of 3, a → d, b → e, h → k.",
+   "scene": 1
+  },
+  {
+   "start": 16.72,
+   "end": 18.55,
+   "text": "The shift is the key.",
+   "scene": 1
+  },
+  {
+   "start": 18.55,
+   "end": 27.54,
+   "text": "Find each letter’s position in the alphabet (a = 1 … z = 26) by searching the alphabet string — it’s linear search again!",
+   "scene": 2
+  },
+  {
+   "start": 27.54,
+   "end": 29.39,
+   "text": "After z comes a.",
+   "scene": 3
+  },
+  {
+   "start": 29.39,
+   "end": 36.87,
+   "text": "The mod operator wraps numbers around, like a clock: ((position − 1 + shift) mod 26) + 1.",
+   "scene": 3
+  },
+  {
+   "start": 36.87,
+   "end": 40.01,
+   "text": "To decrypt, shift the other way (−3).",
+   "scene": 4
+  },
+  {
+   "start": 40.01,
+   "end": 46.13,
+   "text": "Caesar ciphers are easy to break — modern encryption uses maths that’s far harder to crack.",
+   "scene": 4
+  },
+  {
+   "start": 46.13,
+   "end": 50.2,
+   "text": "Python’s index finds the position; percent is mod. Same algorithm, fewer blocks.",
+   "scene": 5
+  },
+  {
+   "start": 50.2,
+   "end": 55.73,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 55.73,
+   "end": 59.59,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

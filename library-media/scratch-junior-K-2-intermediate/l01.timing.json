@@ -1,0 +1,77 @@
+{
+ "duration": 46.35,
+ "lines": [
+  {
+   "start": 0,
+   "end": 2.01,
+   "text": "Welcome back, story maker! Today your characters will have real conversations.",
+   "scene": 0
+  },
+  {
+   "start": 2.01,
+   "end": 8.15,
+   "text": "A character can say many things.",
+   "scene": 1
+  },
+  {
+   "start": 8.15,
+   "end": 10.76,
+   "text": "Put the say blocks in the order you want them.",
+   "scene": 1
+  },
+  {
+   "start": 10.76,
+   "end": 16.45,
+   "text": "Put moves between the say blocks.",
+   "scene": 2
+  },
+  {
+   "start": 16.45,
+   "end": 18.18,
+   "text": "The character walks, then talks, then walks again.",
+   "scene": 2
+  },
+  {
+   "start": 18.18,
+   "end": 21.49,
+   "text": "In ScratchJr, two characters can take turns.",
+   "scene": 3
+  },
+  {
+   "start": 21.49,
+   "end": 23.67,
+   "text": "One talks, the other waits, then answers.",
+   "scene": 3
+  },
+  {
+   "start": 23.67,
+   "end": 29.87,
+   "text": "The orange wait block makes a character pause, so the other one can talk.",
+   "scene": 4
+  },
+  {
+   "start": 29.87,
+   "end": 35.61,
+   "text": "The dog says “Hi!”, walks to the ball (star), then says “Let’s play!”.",
+   "scene": 5
+  },
+  {
+   "start": 35.61,
+   "end": 38.23,
+   "text": "Hi — walk — let’s play! Perfect order.",
+   "scene": 5
+  },
+  {
+   "start": 38.23,
+   "end": 41.67,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 41.67,
+   "end": 46.03,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

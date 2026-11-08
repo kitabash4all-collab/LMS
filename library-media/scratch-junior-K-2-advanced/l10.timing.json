@@ -1,0 +1,71 @@
+{
+ "duration": 42.43,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.4,
+   "text": "In this lesson, you will learn to design a fair level with a path, treasure and a goal, then solve it with as few blocks as you can.",
+   "scene": 0
+  },
+  {
+   "start": 8.4,
+   "end": 13.45,
+   "text": "Game designers plan levels: where the walls, treasure and goal go.",
+   "scene": 1
+  },
+  {
+   "start": 13.45,
+   "end": 16.93,
+   "text": "A good level is not too easy and not impossible.",
+   "scene": 2
+  },
+  {
+   "start": 16.93,
+   "end": 18.81,
+   "text": "Level 1 is easy.",
+   "scene": 3
+  },
+  {
+   "start": 18.81,
+   "end": 21.3,
+   "text": "Level 2 adds walls.",
+   "scene": 3
+  },
+  {
+   "start": 21.3,
+   "end": 23.79,
+   "text": "Level 3 adds more treasure.",
+   "scene": 3
+  },
+  {
+   "start": 23.79,
+   "end": 28.48,
+   "text": "Use numbers and repeats to solve levels with fewer blocks.",
+   "scene": 4
+  },
+  {
+   "start": 28.48,
+   "end": 32.13,
+   "text": "Easy level: reach the star with 2 blocks.",
+   "scene": 5
+  },
+  {
+   "start": 32.13,
+   "end": 33.86,
+   "text": "Level 1 complete!",
+   "scene": 5
+  },
+  {
+   "start": 33.86,
+   "end": 35.76,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 35.76,
+   "end": 42.13,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

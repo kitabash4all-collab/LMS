@@ -1,0 +1,125 @@
+{
+ "duration": 117.8,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.89,
+   "text": "Today you become a text detective, cutting words apart and building the classic game of Hangman.",
+   "scene": 0
+  },
+  {
+   "start": 5.89,
+   "end": 17.14,
+   "text": "A string is a row of letters, and each one has an index starting at 0. city[0] is the first letter and city[-1] is the last. len(city) counts them all.",
+   "scene": 1
+  },
+  {
+   "start": 17.14,
+   "end": 23.21,
+   "text": "city[0:5] gives the letters from index 0 up to, but not including, index 5.",
+   "scene": 2
+  },
+  {
+   "start": 23.21,
+   "end": 30.6,
+   "text": "Leave a number out to start from the beginning or go to the end. city[::-1] gives the whole string backwards.",
+   "scene": 2
+  },
+  {
+   "start": 30.6,
+   "end": 41.99,
+   "text": ".upper(), .lower() and .title() change the capitals. .replace() swaps text, .count() counts it and .split() breaks a sentence into a list of words.",
+   "scene": 3
+  },
+  {
+   "start": 41.99,
+   "end": 46.44,
+   "text": "Each one makes a new string, because a string can never be changed.",
+   "scene": 3
+  },
+  {
+   "start": 46.44,
+   "end": 53.06,
+   "text": "\"sam\" in \"samosa\" is True, so in can search inside text. for letter in word: visits each letter in turn.",
+   "scene": 4
+  },
+  {
+   "start": 53.06,
+   "end": 55.31,
+   "text": "That is exactly what Hangman needs.",
+   "scene": 4
+  },
+  {
+   "start": 55.31,
+   "end": 62.44,
+   "text": "Index zero is the first letter, and minus one is the last letter.",
+   "scene": 5
+  },
+  {
+   "start": 62.44,
+   "end": 65.73,
+   "text": "The slice from zero to five gives five letters, stopping just before index five.",
+   "scene": 5
+  },
+  {
+   "start": 65.73,
+   "end": 73.36,
+   "text": "Title gives every word a capital letter, and replace swaps chai for lassi.",
+   "scene": 6
+  },
+  {
+   "start": 73.36,
+   "end": 76.28,
+   "text": "Count finds four letter a, and split breaks the sentence into a list of words.",
+   "scene": 6
+  },
+  {
+   "start": 76.28,
+   "end": 83.31,
+   "text": "The loop visits one letter at a time, from the first to the last.",
+   "scene": 7
+  },
+  {
+   "start": 83.31,
+   "end": 88.39,
+   "text": "Each time the letter is found inside the vowel string, we add one to the count.",
+   "scene": 7
+  },
+  {
+   "start": 88.39,
+   "end": 93.58,
+   "text": "This is the heart of Hangman: we show the letters already guessed.",
+   "scene": 8
+  },
+  {
+   "start": 93.58,
+   "end": 98.42,
+   "text": "Every other letter becomes an underscore, so the player sees the gaps.",
+   "scene": 8
+  },
+  {
+   "start": 98.42,
+   "end": 103.23,
+   "text": "Strings cannot be changed one letter at a time, so this line crashes.",
+   "scene": 9
+  },
+  {
+   "start": 103.23,
+   "end": 110.15,
+   "text": "Instead, build a new string, for example with word dot capitalize or by adding pieces together.",
+   "scene": 9
+  },
+  {
+   "start": 110.15,
+   "end": 113.02,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 113.02,
+   "end": 117.47,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

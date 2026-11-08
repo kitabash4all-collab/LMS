@@ -1,0 +1,125 @@
+{
+ "duration": 107.27,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.87,
+   "text": "It’s capstone time! Today you will use AI to plan a campaign that helps your community.",
+   "scene": 0
+  },
+  {
+   "start": 5.87,
+   "end": 12.08,
+   "text": "Choose something you can see around you, like wasting water, plastic litter or road safety near school.",
+   "scene": 1
+  },
+  {
+   "start": 12.08,
+   "end": 16.47,
+   "text": "A good problem is real, local and something people can help with.",
+   "scene": 1
+  },
+  {
+   "start": 16.47,
+   "end": 20.87,
+   "text": "Ask AI to explain the problem and suggest actions people can take.",
+   "scene": 2
+  },
+  {
+   "start": 20.87,
+   "end": 28.82,
+   "text": "Then check every fact and number in two trusted sources, like your textbook or a government site.",
+   "scene": 2
+  },
+  {
+   "start": 28.82,
+   "end": 33.93,
+   "text": "If you cannot verify a fact, do not use it.",
+   "scene": 2
+  },
+  {
+   "start": 33.93,
+   "end": 36.66,
+   "text": "Make a poster with one clear message and three simple actions.",
+   "scene": 3
+  },
+  {
+   "start": 36.66,
+   "end": 41.33,
+   "text": "Write a 30-second video script with a hook, the problem, the actions and a call to action.",
+   "scene": 3
+  },
+  {
+   "start": 41.33,
+   "end": 50.17,
+   "text": "Before you share, check your facts, remove personal information, and make sure there are no fake images of real people.",
+   "scene": 4
+  },
+  {
+   "start": 50.17,
+   "end": 59.73,
+   "text": "Label any AI help clearly, because responsible creators check before they share.",
+   "scene": 4
+  },
+  {
+   "start": 59.73,
+   "end": 61.82,
+   "text": "The learner gives the AI a role and asks for simple explanations and easy actions.",
+   "scene": 5
+  },
+  {
+   "start": 61.82,
+   "end": 64.98,
+   "text": "A smart extra request: ask the AI which facts you should double-check.",
+   "scene": 5
+  },
+  {
+   "start": 64.98,
+   "end": 70.78,
+   "text": "The AI gave a very exact, very shocking number, but where did it come from?",
+   "scene": 6
+  },
+  {
+   "start": 70.78,
+   "end": 76.58,
+   "text": "We searched two trusted sources and could not confirm it, so it stays off our poster.",
+   "scene": 6
+  },
+  {
+   "start": 76.58,
+   "end": 81.49,
+   "text": "Only use numbers you have verified, and write down where you found them.",
+   "scene": 6
+  },
+  {
+   "start": 81.49,
+   "end": 88.2,
+   "text": "In Canva, make a poster with one big message, three actions and your sources at the bottom.",
+   "scene": 7
+  },
+  {
+   "start": 88.2,
+   "end": 94.71,
+   "text": "Then write a 30-second script with a hook, the problem, the actions and a call to action.",
+   "scene": 7
+  },
+  {
+   "start": 94.71,
+   "end": 99.87,
+   "text": "Before you present, tick every item on the responsible-AI checklist.",
+   "scene": 8
+  },
+  {
+   "start": 99.87,
+   "end": 103.05,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 103.05,
+   "end": 107,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 9
+  }
+ ]
+}

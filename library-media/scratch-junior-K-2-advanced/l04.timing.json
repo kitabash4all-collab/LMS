@@ -1,0 +1,71 @@
+{
+ "duration": 44.89,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.16,
+   "text": "In this lesson, you will learn to add 1 to a score each time a gem is collected, and check the score at the end.",
+   "scene": 0
+  },
+  {
+   "start": 8.16,
+   "end": 12.66,
+   "text": "The score counts how well you are doing.",
+   "scene": 1
+  },
+  {
+   "start": 12.66,
+   "end": 14.6,
+   "text": "It starts at 0.",
+   "scene": 1
+  },
+  {
+   "start": 14.6,
+   "end": 16.45,
+   "text": "Each time you collect a gem, add 1 to the score.",
+   "scene": 2
+  },
+  {
+   "start": 16.45,
+   "end": 19.28,
+   "text": "Collect 3 gems → score 3.",
+   "scene": 3
+  },
+  {
+   "start": 19.28,
+   "end": 25.44,
+   "text": "The score matches the gems!",
+   "scene": 3
+  },
+  {
+   "start": 25.44,
+   "end": 27.33,
+   "text": "Games say “You win!” when the score is big enough.",
+   "scene": 4
+  },
+  {
+   "start": 27.33,
+   "end": 31.34,
+   "text": "Collect 3 gems. After each one, add 1 to ⭐ score. End with score 3.",
+   "scene": 5
+  },
+  {
+   "start": 31.34,
+   "end": 35.09,
+   "text": "Score 3! One point for every gem.",
+   "scene": 5
+  },
+  {
+   "start": 35.09,
+   "end": 40.5,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 40.5,
+   "end": 44.52,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

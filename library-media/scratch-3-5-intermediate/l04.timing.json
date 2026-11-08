@@ -1,0 +1,77 @@
+{
+ "duration": 57.16,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.91,
+   "text": "In this lesson, you will learn to tell a story in scenes: use broadcast messages so characters take turns, and change backdrops between scenes.",
+   "scene": 0
+  },
+  {
+   "start": 9.91,
+   "end": 14.07,
+   "text": "A story has a beginning, a middle and an end.",
+   "scene": 1
+  },
+  {
+   "start": 14.07,
+   "end": 19.04,
+   "text": "In Scratch, each scene can have its own backdrop and characters.",
+   "scene": 1
+  },
+  {
+   "start": 19.04,
+   "end": 23.36,
+   "text": "When the Cat finishes talking, it broadcasts a message.",
+   "scene": 2
+  },
+  {
+   "start": 23.36,
+   "end": 27.09,
+   "text": "The Dog waits for that message, then replies.",
+   "scene": 2
+  },
+  {
+   "start": 27.09,
+   "end": 29.43,
+   "text": "No guessing how long to wait!",
+   "scene": 2
+  },
+  {
+   "start": 29.43,
+   "end": 32.64,
+   "text": "Broadcast a message like “scene 2”.",
+   "scene": 3
+  },
+  {
+   "start": 32.64,
+   "end": 38.86,
+   "text": "The sprites and the stage react: switch the backdrop, show or hide characters.",
+   "scene": 3
+  },
+  {
+   "start": 38.86,
+   "end": 43.08,
+   "text": "“say for 2 seconds” waits before the next block runs.",
+   "scene": 4
+  },
+  {
+   "start": 43.08,
+   "end": 48.52,
+   "text": "Use waits to give readers time — about 1 second for every 3 words.",
+   "scene": 4
+  },
+  {
+   "start": 48.52,
+   "end": 51.97,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 51.97,
+   "end": 56.88,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.150
+It’s project time! Design and build a text adventure with at least three rooms, an inventory, a locked door, a treasure to win and a torch that runs out.
+
+2
+00:00:11.150 --> 00:00:16.440
+A text adventure is a story where the player types commands like north or take.
+
+3
+00:00:16.440 --> 00:00:23.530
+A variable called room remembers where they are. if and elif decide what each command does in each room.
+
+4
+00:00:23.530 --> 00:00:26.520
+Start with an empty list: inventory = [].
+
+5
+00:00:26.520 --> 00:00:30.480
+When the player picks something up, use inventory.append("key").
+
+6
+00:00:30.480 --> 00:00:34.300
+Later, if "key" in inventory: can unlock a door.
+
+7
+00:00:34.300 --> 00:00:37.930
+A while loop keeps the game running while playing is True.
+
+8
+00:00:37.930 --> 00:00:39.930
+Finding the treasure wins.
+
+9
+00:00:39.930 --> 00:00:42.500
+Running out of moves loses.
+
+10
+00:00:42.500 --> 00:00:44.650
+def show_status(): gives a name to a chunk of code.
+
+11
+00:00:44.650 --> 00:00:49.880
+Call it with show_status() whenever you need it.
+
+12
+00:00:49.880 --> 00:00:54.560
+Functions keep long programs tidy, and Level 2 goes much deeper.
+
+13
+00:00:54.560 --> 00:00:58.560
+The word def makes a new command called describe_room.
+
+14
+00:00:58.560 --> 00:01:02.840
+We write it once, then call it twice with different room names.
+
+15
+00:01:02.840 --> 00:01:06.510
+The bag starts empty, then we append a key.
+
+16
+00:01:06.510 --> 00:01:10.540
+Because key is in the inventory, the locked door opens.
+
+17
+00:01:10.540 --> 00:01:14.380
+The while loop keeps asking for commands while playing is True.
+
+18
+00:01:14.380 --> 00:01:19.840
+Each elif checks the room AND the command, so north only works from the hall.
+
+19
+00:01:19.840 --> 00:01:23.700
+Real game designers sketch a map before they write any code.
+
+20
+00:01:23.700 --> 00:01:28.940
+Build one room at a time and test it, so bugs stay small and easy to find.
+
+21
+00:01:28.940 --> 00:01:31.920
+Great work! Let’s remember what we learned.
+
+22
+00:01:31.920 --> 00:01:35.920
+Now plan it, build it, test it, and share it!

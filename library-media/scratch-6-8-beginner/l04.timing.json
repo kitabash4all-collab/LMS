@@ -1,0 +1,77 @@
+{
+ "duration": 57.08,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.4,
+   "text": "Why write the same block a hundred times? Loops let computers repeat — that’s where their power comes from.",
+   "scene": 0
+  },
+  {
+   "start": 7.4,
+   "end": 9.67,
+   "text": "Iteration means repeating.",
+   "scene": 1
+  },
+  {
+   "start": 9.67,
+   "end": 15.18,
+   "text": "A counted loop (repeat 4) runs the blocks inside it exactly 4 times.",
+   "scene": 1
+  },
+  {
+   "start": 15.18,
+   "end": 20.63,
+   "text": "To draw a regular polygon, the turns must add up to 360 degrees.",
+   "scene": 2
+  },
+  {
+   "start": 20.63,
+   "end": 24.83,
+   "text": "So each turn is 360 ÷ number of sides.",
+   "scene": 2
+  },
+  {
+   "start": 24.83,
+   "end": 29.33,
+   "text": "Store the number of sides in a variable and use an operator for the turn.",
+   "scene": 3
+  },
+  {
+   "start": 29.33,
+   "end": 32.24,
+   "text": "Change one number to get any polygon.",
+   "scene": 3
+  },
+  {
+   "start": 32.24,
+   "end": 36.47,
+   "text": "Programmers say DRY: Don’t Repeat Yourself.",
+   "scene": 4
+  },
+  {
+   "start": 36.47,
+   "end": 40.9,
+   "text": "Loops make code shorter, clearer and easier to change.",
+   "scene": 4
+  },
+  {
+   "start": 40.9,
+   "end": 49.54,
+   "text": "Here is the same loop in Python. “for i in range(sides)” repeats the indented lines, just like the repeat block.",
+   "scene": 5
+  },
+  {
+   "start": 49.54,
+   "end": 52.81,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 52.81,
+   "end": 56.75,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "duration": 120.95,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.72,
+   "text": "Today your pages get lists, links to other pages and pictures, the way real websites do.",
+   "scene": 0
+  },
+  {
+   "start": 6.72,
+   "end": 12.38,
+   "text": "The ul tag makes a bulleted list, and the ol tag makes a numbered list.",
+   "scene": 1
+  },
+  {
+   "start": 12.38,
+   "end": 15.68,
+   "text": "Each item goes inside its own li tag.",
+   "scene": 1
+  },
+  {
+   "start": 15.68,
+   "end": 18.09,
+   "text": "Use numbers when the order matters, like recipe steps.",
+   "scene": 1
+  },
+  {
+   "start": 18.09,
+   "end": 19.8,
+   "text": "The a tag turns words into a link you can click.",
+   "scene": 2
+  },
+  {
+   "start": 19.8,
+   "end": 23.56,
+   "text": "Its href part holds the web address to visit.",
+   "scene": 2
+  },
+  {
+   "start": 23.56,
+   "end": 30.18,
+   "text": "The words between the tags are what people click.",
+   "scene": 2
+  },
+  {
+   "start": 30.18,
+   "end": 35.86,
+   "text": "The img tag shows a picture, and its src part says where the picture lives.",
+   "scene": 3
+  },
+  {
+   "start": 35.86,
+   "end": 37.87,
+   "text": "An img tag is special, because it has no closing tag.",
+   "scene": 3
+  },
+  {
+   "start": 37.87,
+   "end": 40.1,
+   "text": "It just sits in the page like a stamp.",
+   "scene": 3
+  },
+  {
+   "start": 40.1,
+   "end": 43.31,
+   "text": "Alt text is a short description of the image.",
+   "scene": 4
+  },
+  {
+   "start": 43.31,
+   "end": 47.02,
+   "text": "Screen readers read it aloud for people who cannot see the picture.",
+   "scene": 4
+  },
+  {
+   "start": 47.02,
+   "end": 51.66,
+   "text": "It also shows up if the picture fails to load.",
+   "scene": 4
+  },
+  {
+   "start": 51.66,
+   "end": 55.23,
+   "text": "Pictures belong to the people who made them.",
+   "scene": 5
+  },
+  {
+   "start": 55.23,
+   "end": 59.52,
+   "text": "Use your own drawings, free placeholder images or free pictures that allow sharing.",
+   "scene": 5
+  },
+  {
+   "start": 59.52,
+   "end": 63.46,
+   "text": "Always write who made it under the picture.",
+   "scene": 5
+  },
+  {
+   "start": 63.46,
+   "end": 70.74,
+   "text": "The ul tag wraps the whole list, and each li tag holds one item.",
+   "scene": 6
+  },
+  {
+   "start": 70.74,
+   "end": 74.67,
+   "text": "The browser adds a round bullet in front of every item for us.",
+   "scene": 6
+  },
+  {
+   "start": 74.67,
+   "end": 78.25,
+   "text": "Swap ul for ol and the bullets become numbers.",
+   "scene": 7
+  },
+  {
+   "start": 78.25,
+   "end": 82.89,
+   "text": "If you add a new step in the middle, the browser renumbers everything for you.",
+   "scene": 7
+  },
+  {
+   "start": 82.89,
+   "end": 87.46,
+   "text": "The href holds the address, and the word mangoes is what you click.",
+   "scene": 8
+  },
+  {
+   "start": 87.46,
+   "end": 91.17,
+   "text": "Links are what join millions of pages into one giant web.",
+   "scene": 8
+  },
+  {
+   "start": 91.17,
+   "end": 96.37,
+   "text": "The src says where the picture lives, and the alt describes it in words.",
+   "scene": 9
+  },
+  {
+   "start": 96.37,
+   "end": 102.85,
+   "text": "If the picture cannot load, or someone uses a screen reader, the alt text tells them what it shows.",
+   "scene": 9
+  },
+  {
+   "start": 102.85,
+   "end": 108.83,
+   "text": "Two problems here. The list items never close, and the picture has no alt text.",
+   "scene": 10
+  },
+  {
+   "start": 108.83,
+   "end": 113.43,
+   "text": "Close every li tag, and always describe your picture with alt text.",
+   "scene": 10
+  },
+  {
+   "start": 113.43,
+   "end": 116.53,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 11
+  },
+  {
+   "start": 116.53,
+   "end": 120.64,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 11
+  }
+ ]
+}

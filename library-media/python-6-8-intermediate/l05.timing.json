@@ -1,0 +1,143 @@
+{
+ "duration": 111.83,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.84,
+   "text": "Today you meet the dictionary, a way to store pairs of information, like names and numbers in a phone book.",
+   "scene": 0
+  },
+  {
+   "start": 6.84,
+   "end": 11.88,
+   "text": "A dictionary stores pairs, just like a phone book stores a name and a number.",
+   "scene": 1
+  },
+  {
+   "start": 11.88,
+   "end": 20.4,
+   "text": "The first part is the key and the second is the value. capitals = {\"Kerala\": \"Thiruvananthapuram\"} holds one pair.",
+   "scene": 1
+  },
+  {
+   "start": 20.4,
+   "end": 24.14,
+   "text": "capitals[\"Kerala\"] gives the value stored for that key.",
+   "scene": 2
+  },
+  {
+   "start": 24.14,
+   "end": 28.12,
+   "text": "Keys must match exactly, so \"kerala\" with a small k is a different key.",
+   "scene": 2
+  },
+  {
+   "start": 28.12,
+   "end": 33.12,
+   "text": "Asking for a key that is not there gives a KeyError.",
+   "scene": 2
+  },
+  {
+   "start": 33.12,
+   "end": 36.81,
+   "text": "menu[\"idli\"] = 30 adds a new pair if idli is not there yet.",
+   "scene": 3
+  },
+  {
+   "start": 36.81,
+   "end": 40.16,
+   "text": "If it is already there, the old value is replaced.",
+   "scene": 3
+  },
+  {
+   "start": 40.16,
+   "end": 45.37,
+   "text": "Use \"idli\" in menu to check before you look something up.",
+   "scene": 3
+  },
+  {
+   "start": 45.37,
+   "end": 48.58,
+   "text": "for item, price in menu.items(): visits every pair.",
+   "scene": 4
+  },
+  {
+   "start": 48.58,
+   "end": 54.13,
+   "text": "Each time round, item holds the key and price holds the value. len(menu) tells you how many pairs there are.",
+   "scene": 4
+  },
+  {
+   "start": 54.13,
+   "end": 61.6,
+   "text": "Curly brackets make a dictionary, and a colon joins each key to its value.",
+   "scene": 5
+  },
+  {
+   "start": 61.6,
+   "end": 66.55,
+   "text": "We look up Gujarat by its key, and Python finds the capital straight away.",
+   "scene": 5
+  },
+  {
+   "start": 66.55,
+   "end": 71.03,
+   "text": "Idli was not on the menu, so this line adds a brand new pair.",
+   "scene": 6
+  },
+  {
+   "start": 71.03,
+   "end": 75.55,
+   "text": "Chai was already there, so its price is replaced with twelve rupees.",
+   "scene": 6
+  },
+  {
+   "start": 75.55,
+   "end": 79.61,
+   "text": "The items method hands us one key and one value at a time.",
+   "scene": 7
+  },
+  {
+   "start": 79.61,
+   "end": 83.39,
+   "text": "This is how a canteen app could print its whole price list.",
+   "scene": 7
+  },
+  {
+   "start": 83.39,
+   "end": 88.15,
+   "text": "The class voted for its favourite fruit, and we start with an empty dictionary.",
+   "scene": 8
+  },
+  {
+   "start": 88.15,
+   "end": 93.66,
+   "text": "A new fruit gets a count of one, and a fruit we have seen before goes up by one.",
+   "scene": 8
+  },
+  {
+   "start": 93.66,
+   "end": 98.27,
+   "text": "Pizza is not a key in this dictionary, so Python stops with a KeyError.",
+   "scene": 9
+  },
+  {
+   "start": 98.27,
+   "end": 103.58,
+   "text": "Check first with if pizza in menu, or use the get method with a default value.",
+   "scene": 9
+  },
+  {
+   "start": 103.58,
+   "end": 106.93,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 106.93,
+   "end": 111.52,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

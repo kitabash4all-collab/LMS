@@ -1,0 +1,83 @@
+{
+ "duration": 53.56,
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.37,
+   "text": "Every good story has a beginning, a middle and an end. Code can tell stories too!",
+   "scene": 0
+  },
+  {
+   "start": 6.37,
+   "end": 8.1,
+   "text": "Meet the character.",
+   "scene": 1
+  },
+  {
+   "start": 8.1,
+   "end": 11.5,
+   "text": "“Once upon a time, there was a little fox.”",
+   "scene": 1
+  },
+  {
+   "start": 11.5,
+   "end": 16.18,
+   "text": "Something happens!",
+   "scene": 2
+  },
+  {
+   "start": 16.18,
+   "end": 20.18,
+   "text": "The fox goes on a trip or finds a problem.",
+   "scene": 2
+  },
+  {
+   "start": 20.18,
+   "end": 21.71,
+   "text": "How it finishes.",
+   "scene": 3
+  },
+  {
+   "start": 21.71,
+   "end": 24.27,
+   "text": "“And the fox went home happy.",
+   "scene": 3
+  },
+  {
+   "start": 24.27,
+   "end": 28.06,
+   "text": "The end!”",
+   "scene": 3
+  },
+  {
+   "start": 28.06,
+   "end": 32.01,
+   "text": "Your blocks follow the story order: beginning blocks first, end blocks last.",
+   "scene": 4
+  },
+  {
+   "start": 32.01,
+   "end": 39.63,
+   "text": "Beginning: say “Once upon a time”. Middle: walk to the berry (gem) and pick it. End: say “The end!”.",
+   "scene": 5
+  },
+  {
+   "start": 39.63,
+   "end": 44.04,
+   "text": "Beginning, middle, end — a complete story!",
+   "scene": 5
+  },
+  {
+   "start": 44.04,
+   "end": 48.89,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 48.89,
+   "end": 53.56,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

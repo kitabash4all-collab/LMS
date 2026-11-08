@@ -1,0 +1,71 @@
+{
+ "duration": 57.69,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.61,
+   "text": "It’s project time! Build an interactive art gallery: at least two artist sprites, each drawing a different pattern when clicked — one with a nested loop, one with a growing variable — using colours chosen on purpose.",
+   "scene": 0
+  },
+  {
+   "start": 13.61,
+   "end": 16.9,
+   "text": "Create at least two different patterns.",
+   "scene": 1
+  },
+  {
+   "start": 16.9,
+   "end": 24.46,
+   "text": "One should use a nested loop, and one should use a variable that grows.",
+   "scene": 1
+  },
+  {
+   "start": 24.46,
+   "end": 27.13,
+   "text": "Clicking a sprite draws a new pattern.",
+   "scene": 1
+  },
+  {
+   "start": 27.13,
+   "end": 31.13,
+   "text": "Choose colours, pen sizes and angles on purpose.",
+   "scene": 2
+  },
+  {
+   "start": 31.13,
+   "end": 36.05,
+   "text": "Small changes to numbers make big changes to the art — experiment!",
+   "scene": 2
+  },
+  {
+   "start": 36.05,
+   "end": 41.43,
+   "text": "Give your artist sprites click scripts so visitors can choose which pattern to see.",
+   "scene": 3
+  },
+  {
+   "start": 41.43,
+   "end": 44.13,
+   "text": "Real artists explain their work.",
+   "scene": 4
+  },
+  {
+   "start": 44.13,
+   "end": 49.98,
+   "text": "In your reflection, say which numbers you changed and what effect they had.",
+   "scene": 4
+  },
+  {
+   "start": 49.98,
+   "end": 53.95,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 53.95,
+   "end": 57.38,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

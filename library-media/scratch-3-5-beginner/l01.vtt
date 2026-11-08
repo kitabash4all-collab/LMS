@@ -1,0 +1,85 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.070
+Hi, coders! Today you will write your very first computer program.
+
+2
+00:00:05.070 --> 00:00:09.510
+By the end of this lesson, you will make a sprite move and talk.
+
+3
+00:00:09.510 --> 00:00:12.590
+Code is a list of instructions for a computer.
+
+4
+00:00:12.590 --> 00:00:16.450
+The computer follows the instructions one by one, in order.
+
+5
+00:00:16.450 --> 00:00:22.180
+It is like making a sandwich: first take the bread, then add the filling, then close it.
+
+6
+00:00:22.180 --> 00:00:25.880
+This is the Scratch editor. Let us take a tour.
+
+7
+00:00:25.880 --> 00:00:28.270
+The stage is where your project plays.
+
+8
+00:00:28.270 --> 00:00:32.620
+Sprites are the characters. You can see them in the sprite list.
+
+9
+00:00:32.620 --> 00:00:36.350
+The block palette has all the blocks, sorted by colour.
+
+10
+00:00:36.350 --> 00:00:40.080
+You drag blocks into the code area and snap them together.
+
+11
+00:00:40.080 --> 00:00:45.490
+Blocks snap together like puzzle pieces.
+
+12
+00:00:45.490 --> 00:00:50.080
+A stack of blocks is called a script.
+
+13
+00:00:50.080 --> 00:00:52.040
+When you click the green flag, the script runs from the top to the bottom.
+
+14
+00:00:52.040 --> 00:00:56.060
+This is Pip the robot. Each square is one step.
+
+15
+00:00:56.060 --> 00:01:00.830
+Move, move, turn, move. Pip does each block in order.
+
+16
+00:01:00.830 --> 00:01:04.100
+And Pip reaches the star!
+
+17
+00:01:04.100 --> 00:01:05.490
+These two scripts use the same blocks.
+
+18
+00:01:05.490 --> 00:01:10.200
+But on the right, the turn happens too early, so Pip ends up in the wrong place.
+
+19
+00:01:10.200 --> 00:01:13.610
+When you code, the order of the blocks matters!
+
+20
+00:01:13.610 --> 00:01:16.250
+Great work! Here are the big ideas.
+
+21
+00:01:16.250 --> 00:01:21.150
+Now open Scratch and build along, then try the robot puzzles!

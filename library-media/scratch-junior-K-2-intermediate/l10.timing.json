@@ -1,0 +1,89 @@
+{
+ "duration": 46.73,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.46,
+   "text": "In this lesson, you will learn to find and fix more than one bug in a script by testing after each fix.",
+   "scene": 0
+  },
+  {
+   "start": 7.46,
+   "end": 9.86,
+   "text": "Sometimes there is more than one bug.",
+   "scene": 1
+  },
+  {
+   "start": 9.86,
+   "end": 13.17,
+   "text": "Find one, fix it, then test again.",
+   "scene": 1
+  },
+  {
+   "start": 13.17,
+   "end": 15.51,
+   "text": "Watch where it goes wrong FIRST.",
+   "scene": 2
+  },
+  {
+   "start": 15.51,
+   "end": 16.76,
+   "text": "Fix that one.",
+   "scene": 2
+  },
+  {
+   "start": 16.76,
+   "end": 18.09,
+   "text": "Run it again.",
+   "scene": 3
+  },
+  {
+   "start": 18.09,
+   "end": 19.83,
+   "text": "Is there another bug?",
+   "scene": 3
+  },
+  {
+   "start": 19.83,
+   "end": 23.68,
+   "text": "Keep going until it works.",
+   "scene": 3
+  },
+  {
+   "start": 23.68,
+   "end": 27.22,
+   "text": "Detectives keep looking.",
+   "scene": 4
+  },
+  {
+   "start": 27.22,
+   "end": 28.8,
+   "text": "Every bug you fix makes you a better coder.",
+   "scene": 4
+  },
+  {
+   "start": 28.8,
+   "end": 33.43,
+   "text": "Two bugs! The duck should go right 2, then down 2 to the pond (star).",
+   "scene": 5
+  },
+  {
+   "start": 33.43,
+   "end": 38.32,
+   "text": "The number was wrong AND the arrow was wrong. Two bugs squashed!",
+   "scene": 5
+  },
+  {
+   "start": 38.32,
+   "end": 41.64,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 41.64,
+   "end": 46.38,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

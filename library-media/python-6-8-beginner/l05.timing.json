@@ -1,0 +1,137 @@
+{
+ "duration": 106.66,
+ "lines": [
+  {
+   "start": 0,
+   "end": 7.64,
+   "text": "Today you will make the computer repeat things hundreds of times without getting tired.",
+   "scene": 0
+  },
+  {
+   "start": 7.64,
+   "end": 10.65,
+   "text": "for i in range(5): runs the indented code five times.",
+   "scene": 1
+  },
+  {
+   "start": 10.65,
+   "end": 14.83,
+   "text": "The variable i counts for you: 0, 1, 2, 3, 4.",
+   "scene": 1
+  },
+  {
+   "start": 14.83,
+   "end": 20.37,
+   "text": "Loops save you from copying the same line again and again.",
+   "scene": 1
+  },
+  {
+   "start": 20.37,
+   "end": 29.81,
+   "text": "range(1, 11) gives the numbers 1 to 10, because it stops just before the last number. range(10, 0, -1) counts backwards from 10 to 1.",
+   "scene": 2
+  },
+  {
+   "start": 29.81,
+   "end": 32.24,
+   "text": "The third number is the step.",
+   "scene": 2
+  },
+  {
+   "start": 32.24,
+   "end": 34.41,
+   "text": "while count > 0: repeats as long as the condition is True.",
+   "scene": 3
+  },
+  {
+   "start": 34.41,
+   "end": 41.26,
+   "text": "Use it when you do not know how many times you need.",
+   "scene": 3
+  },
+  {
+   "start": 41.26,
+   "end": 44.64,
+   "text": "Something inside must change, or it never stops.",
+   "scene": 3
+  },
+  {
+   "start": 44.64,
+   "end": 50.52,
+   "text": "If the condition never becomes False, the loop runs forever.",
+   "scene": 4
+  },
+  {
+   "start": 50.52,
+   "end": 53.26,
+   "text": "That is called an infinite loop.",
+   "scene": 4
+  },
+  {
+   "start": 53.26,
+   "end": 58.07,
+   "text": "Always change the variable inside the loop, like count -= 1.",
+   "scene": 4
+  },
+  {
+   "start": 58.07,
+   "end": 64,
+   "text": "We write the cheer only once, but the loop runs it three times.",
+   "scene": 5
+  },
+  {
+   "start": 64,
+   "end": 68.94,
+   "text": "The indented line is the body of the loop. It repeats each time.",
+   "scene": 5
+  },
+  {
+   "start": 68.94,
+   "end": 75.12,
+   "text": "This time the loop variable n goes from one up to five.",
+   "scene": 6
+  },
+  {
+   "start": 75.12,
+   "end": 79.57,
+   "text": "Range stops just before six, and each time we multiply n by four.",
+   "scene": 6
+  },
+  {
+   "start": 79.57,
+   "end": 85.5,
+   "text": "The while loop checks if count is still more than zero.",
+   "scene": 7
+  },
+  {
+   "start": 85.5,
+   "end": 88.03,
+   "text": "Each time round we take one away, so the countdown finally ends with Blast off.",
+   "scene": 7
+  },
+  {
+   "start": 88.03,
+   "end": 90.18,
+   "text": "Here we forgot to change count, so it stays five forever.",
+   "scene": 8
+  },
+  {
+   "start": 90.18,
+   "end": 97.35,
+   "text": "The Python Lab stops it for us, and the fix is one line: count -= 1.",
+   "scene": 8
+  },
+  {
+   "start": 97.35,
+   "end": 101.52,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 9
+  },
+  {
+   "start": 101.52,
+   "end": 106.34,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 9
+  }
+ ]
+}

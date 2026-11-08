@@ -1,0 +1,71 @@
+{
+ "duration": 51.4,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.16,
+   "text": "In this lesson, you will learn to use the timer and counters to limit time, increase difficulty as the game goes on, and end the game cleanly.",
+   "scene": 0
+  },
+  {
+   "start": 9.16,
+   "end": 14.36,
+   "text": "A countdown variable starts at a number and goes down by 1 every second.",
+   "scene": 1
+  },
+  {
+   "start": 14.36,
+   "end": 17.33,
+   "text": "When it reaches 0, the game ends.",
+   "scene": 1
+  },
+  {
+   "start": 17.33,
+   "end": 21.17,
+   "text": "Store the speed in a variable and increase it over time.",
+   "scene": 2
+  },
+  {
+   "start": 21.17,
+   "end": 28.41,
+   "text": "Use the variable in the movement block so everything speeds up.",
+   "scene": 2
+  },
+  {
+   "start": 28.41,
+   "end": 31.28,
+   "text": "When lives reach 0 or time runs out: show the final score and stop all.",
+   "scene": 3
+  },
+  {
+   "start": 31.28,
+   "end": 35.97,
+   "text": "A clear ending makes a game feel finished.",
+   "scene": 3
+  },
+  {
+   "start": 35.97,
+   "end": 37.89,
+   "text": "Start easy, get harder gradually.",
+   "scene": 4
+  },
+  {
+   "start": 37.89,
+   "end": 42.62,
+   "text": "Players should feel “I almost made it — one more go!”",
+   "scene": 4
+  },
+  {
+   "start": 42.62,
+   "end": 46.31,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 46.31,
+   "end": 51.09,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

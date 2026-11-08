@@ -1,0 +1,137 @@
+{
+ "duration": 112.58,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.76,
+   "text": "Today you organise data like a real app, from a whole cricket team to your own virtual pet.",
+   "scene": 0
+  },
+  {
+   "start": 5.76,
+   "end": 12.84,
+   "text": "A list can hold dictionaries, one for each player. team[0][\"runs\"] means the runs of the first player.",
+   "scene": 1
+  },
+  {
+   "start": 12.84,
+   "end": 17.29,
+   "text": "This is how real apps store tables of data.",
+   "scene": 1
+  },
+  {
+   "start": 17.29,
+   "end": 21.93,
+   "text": "for player in team: gives you one dictionary at a time.",
+   "scene": 2
+  },
+  {
+   "start": 21.93,
+   "end": 26.85,
+   "text": "You can read it, add it up or change it, like player[\"runs\"] += 4.",
+   "scene": 2
+  },
+  {
+   "start": 26.85,
+   "end": 28.15,
+   "text": "Every record has the same keys.",
+   "scene": 2
+  },
+  {
+   "start": 28.15,
+   "end": 31.32,
+   "text": "class Pet: describes what every pet has and what it can do.",
+   "scene": 3
+  },
+  {
+   "start": 31.32,
+   "end": 38.02,
+   "text": "Pet(\"Moti\") builds one real pet object from the blueprint.",
+   "scene": 3
+  },
+  {
+   "start": 38.02,
+   "end": 42.15,
+   "text": "You can build as many pets as you like.",
+   "scene": 3
+  },
+  {
+   "start": 42.15,
+   "end": 53.16,
+   "text": "Inside the class, self means this particular pet. self.hunger = 5 is an attribute, a value the pet remembers. def feed(self): is a method, an action you call with pet.feed().",
+   "scene": 4
+  },
+  {
+   "start": 53.16,
+   "end": 57.86,
+   "text": "Each player is a dictionary with the same keys, and the list holds them all.",
+   "scene": 5
+  },
+  {
+   "start": 57.86,
+   "end": 61.75,
+   "text": "Team zero name means the first record, then its name key.",
+   "scene": 5
+  },
+  {
+   "start": 61.75,
+   "end": 65.3,
+   "text": "We start by guessing that the first player is the best.",
+   "scene": 6
+  },
+  {
+   "start": 65.3,
+   "end": 69.33,
+   "text": "Whenever we find someone with more runs, they become the new best.",
+   "scene": 6
+  },
+  {
+   "start": 69.33,
+   "end": 79.18,
+   "text": "The init method runs every time we build a new pet from the blueprint.",
+   "scene": 7
+  },
+  {
+   "start": 79.18,
+   "end": 84.93,
+   "text": "Moti and Bijli are two separate objects, and each remembers its own name.",
+   "scene": 7
+  },
+  {
+   "start": 84.93,
+   "end": 87.35,
+   "text": "A method is a function that lives inside the class and always starts with self.",
+   "scene": 8
+  },
+  {
+   "start": 87.35,
+   "end": 91.87,
+   "text": "When we call moti dot feed, self means Moti, so only Moti gets less hungry.",
+   "scene": 8
+  },
+  {
+   "start": 91.87,
+   "end": 98.08,
+   "text": "Python always passes the object itself into a method, as the first argument.",
+   "scene": 9
+  },
+  {
+   "start": 98.08,
+   "end": 104.18,
+   "text": "The method forgot to accept it. Writing self in the brackets fixes the error.",
+   "scene": 9
+  },
+  {
+   "start": 104.18,
+   "end": 108.01,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 108.01,
+   "end": 112.28,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "duration": 58.38,
+ "lines": [
+  {
+   "start": 0,
+   "end": 13.02,
+   "text": "It’s project time! Build a catching game: things fall as clones from random places, the player moves smoothly, catching scores points, and the game ends after a time limit or when lives run out.",
+   "scene": 0
+  },
+  {
+   "start": 13.02,
+   "end": 23.63,
+   "text": "Build a catching game: things fall as clones, the player moves smoothly, catching scores points, and the game ends after a time limit or when lives run out.",
+   "scene": 1
+  },
+  {
+   "start": 23.63,
+   "end": 28.14,
+   "text": "Make some clones good (stars) and some bad (bombs).",
+   "scene": 2
+  },
+  {
+   "start": 28.14,
+   "end": 33.52,
+   "text": "Use pick random to choose each clone’s costume, and a different rule for each.",
+   "scene": 2
+  },
+  {
+   "start": 33.52,
+   "end": 36.79,
+   "text": "Add a timer or lives.",
+   "scene": 3
+  },
+  {
+   "start": 36.79,
+   "end": 41.34,
+   "text": "When time is up or lives reach 0, say the score and stop all.",
+   "scene": 3
+  },
+  {
+   "start": 41.34,
+   "end": 48.93,
+   "text": "Playtest and tune the numbers: fall speed, how often clones appear, and the player’s speed.",
+   "scene": 4
+  },
+  {
+   "start": 48.93,
+   "end": 51.48,
+   "text": "Fun games are hard but fair.",
+   "scene": 4
+  },
+  {
+   "start": 51.48,
+   "end": 52.7,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 52.7,
+   "end": 58.05,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 5
+  }
+ ]
+}

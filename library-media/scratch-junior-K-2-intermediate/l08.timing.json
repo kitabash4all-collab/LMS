@@ -1,0 +1,71 @@
+{
+ "duration": 47.42,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.17,
+   "text": "In this lesson, you will learn to make a character leave one scene and appear in the next, using moves, hide and show.",
+   "scene": 0
+  },
+  {
+   "start": 9.17,
+   "end": 13.26,
+   "text": "In ScratchJr, a story can have many pages.",
+   "scene": 1
+  },
+  {
+   "start": 13.26,
+   "end": 15.51,
+   "text": "Each page is a new place.",
+   "scene": 1
+  },
+  {
+   "start": 15.51,
+   "end": 20.67,
+   "text": "A character walks to the edge and hides — it has left the scene.",
+   "scene": 2
+  },
+  {
+   "start": 20.67,
+   "end": 25.33,
+   "text": "On the next page, the character shows and walks in.",
+   "scene": 3
+  },
+  {
+   "start": 25.33,
+   "end": 28.71,
+   "text": "The red end block can go to another page.",
+   "scene": 4
+  },
+  {
+   "start": 28.71,
+   "end": 31.04,
+   "text": "Tap it to choose which one.",
+   "scene": 4
+  },
+  {
+   "start": 31.04,
+   "end": 36.36,
+   "text": "Walk to the door (star) and hide — the cat has left!",
+   "scene": 5
+  },
+  {
+   "start": 36.36,
+   "end": 39.01,
+   "text": "Bye-bye! Off to the next scene.",
+   "scene": 5
+  },
+  {
+   "start": 39.01,
+   "end": 42.82,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 6
+  },
+  {
+   "start": 42.82,
+   "end": 47.13,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 6
+  }
+ ]
+}

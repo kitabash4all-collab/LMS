@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:02.950
+Welcome to Module 4!
+
+2
+00:00:02.950 --> 00:00:07.420
+Today your games will remember things — like the score.
+
+3
+00:00:07.420 --> 00:00:11.370
+A variable is like a box with a name on it.
+
+4
+00:00:11.370 --> 00:00:14.560
+The box called score holds a number, like 3.
+
+5
+00:00:14.560 --> 00:00:19.310
+During the game, the number inside can change.
+
+6
+00:00:19.310 --> 00:00:26.790
+Set puts a value in the box. We set the score to 0 at the start of every game.
+
+7
+00:00:26.790 --> 00:00:29.160
+Change adds to the value. Change score by 1 adds one point.
+
+8
+00:00:29.160 --> 00:00:37.010
+If you forget to set the score at the start, it carries on from the last game.
+
+9
+00:00:37.010 --> 00:00:41.650
+Always reset your variables when the green flag is clicked.
+
+10
+00:00:41.650 --> 00:00:47.690
+You can use a variable in a condition. If score equals 10, then you win!
+
+11
+00:00:47.690 --> 00:00:50.760
+Now add a score to your games in the Code Lab!

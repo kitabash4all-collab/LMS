@@ -1,0 +1,77 @@
+{
+ "duration": 55.87,
+ "lines": [
+  {
+   "start": 0,
+   "end": 9.98,
+   "text": "In this lesson, you will learn to play notes and melodies with the music blocks, using note numbers, beats and loops for rhythms.",
+   "scene": 0
+  },
+  {
+   "start": 9.98,
+   "end": 11.69,
+   "text": "In Scratch, notes have numbers.",
+   "scene": 1
+  },
+  {
+   "start": 11.69,
+   "end": 14.52,
+   "text": "60 is middle C.",
+   "scene": 1
+  },
+  {
+   "start": 14.52,
+   "end": 21.73,
+   "text": "Going up by 2 gives the next white key: 60 C, 62 D, 64 E, 65 F, 67 G, 69 A, 71 B, 72 high C.",
+   "scene": 1
+  },
+  {
+   "start": 21.73,
+   "end": 25.05,
+   "text": "Play notes one after another to make a tune.",
+   "scene": 2
+  },
+  {
+   "start": 25.05,
+   "end": 28.22,
+   "text": "The order matters, just like any script!",
+   "scene": 2
+  },
+  {
+   "start": 28.22,
+   "end": 33.72,
+   "text": "A beat is a unit of time in music.",
+   "scene": 3
+  },
+  {
+   "start": 33.72,
+   "end": 40.18,
+   "text": "1 beat is a long note, 0.5 beats is quicker, 0.25 is very quick.",
+   "scene": 3
+  },
+  {
+   "start": 40.18,
+   "end": 41.88,
+   "text": "Music repeats!",
+   "scene": 4
+  },
+  {
+   "start": 41.88,
+   "end": 47.27,
+   "text": "Use repeat to play a pattern again and again — that’s a rhythm or a riff.",
+   "scene": 4
+  },
+  {
+   "start": 47.27,
+   "end": 49.1,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 5
+  },
+  {
+   "start": 49.1,
+   "end": 55.53,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 5
+  }
+ ]
+}

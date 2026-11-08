@@ -1,0 +1,197 @@
+{
+ "duration": 194.66,
+ "lines": [
+  {
+   "start": 0,
+   "end": 8.69,
+   "text": "Capstone time! Today you turn everything from Level 2 into your own AI work playbook, and you prove what it saves.",
+   "scene": 0
+  },
+  {
+   "start": 8.69,
+   "end": 16.26,
+   "text": "For one normal week, list every task that takes more than fifteen minutes, with how often you do it and how long it takes.",
+   "scene": 1
+  },
+  {
+   "start": 16.26,
+   "end": 21.86,
+   "text": "Group the tasks into messages, reports, data, documents and meetings.",
+   "scene": 1
+  },
+  {
+   "start": 21.86,
+   "end": 23.82,
+   "text": "This is your time map.",
+   "scene": 1
+  },
+  {
+   "start": 23.82,
+   "end": 30.02,
+   "text": "Score each task on minutes per week, how repetitive it is, and how risky a mistake would be.",
+   "scene": 2
+  },
+  {
+   "start": 30.02,
+   "end": 40.62,
+   "text": "Choose three tasks that are frequent, repetitive and low to medium risk.",
+   "scene": 2
+  },
+  {
+   "start": 40.62,
+   "end": 44.14,
+   "text": "Leave high-risk decisions about people, money, health and the law with people.",
+   "scene": 2
+  },
+  {
+   "start": 44.14,
+   "end": 54.23,
+   "text": "Match each task to a tool from this course: a template, a mail merge, a dashboard, a form with a summary, a script, or a role prompt kit.",
+   "scene": 3
+  },
+  {
+   "start": 54.23,
+   "end": 57.42,
+   "text": "Add a human checkpoint to each one.",
+   "scene": 3
+  },
+  {
+   "start": 57.42,
+   "end": 62.77,
+   "text": "Test with practice or anonymised data first.",
+   "scene": 3
+  },
+  {
+   "start": 62.77,
+   "end": 67.7,
+   "text": "Log before and after times for each task, including checks and setup.",
+   "scene": 4
+  },
+  {
+   "start": 67.7,
+   "end": 74.01,
+   "text": "Then write five to eight responsible-use rules for your own work, covering privacy, checking, honesty, labelling and who approves.",
+   "scene": 4
+  },
+  {
+   "start": 74.01,
+   "end": 80.19,
+   "text": "Your playbook is the tasks, the tools, the numbers and the rules together.",
+   "scene": 4
+  },
+  {
+   "start": 80.19,
+   "end": 89.05,
+   "text": "Show your time map, your three automations, one mistake a checkpoint caught, and the hours saved per month.",
+   "scene": 5
+  },
+  {
+   "start": 89.05,
+   "end": 95.94,
+   "text": "Finish with your rules, what you will automate next, and what you will never hand to AI.",
+   "scene": 5
+  },
+  {
+   "start": 95.94,
+   "end": 102.27,
+   "text": "Start with a simple sheet of every task that takes more than fifteen minutes in a normal week.",
+   "scene": 6
+  },
+  {
+   "start": 102.27,
+   "end": 108.7,
+   "text": "Give each task a score for how repetitive it is and how risky a mistake would be.",
+   "scene": 6
+  },
+  {
+   "start": 108.7,
+   "end": 114.75,
+   "text": "A simple formula ranks the tasks, and high-risk work stays with people.",
+   "scene": 6
+  },
+  {
+   "start": 114.75,
+   "end": 118.69,
+   "text": "Your top three tasks become the heart of your playbook.",
+   "scene": 6
+  },
+  {
+   "start": 118.69,
+   "end": 124.55,
+   "text": "Claude matches each of the three tasks to a tool from the course, with a checkpoint.",
+   "scene": 7
+  },
+  {
+   "start": 124.55,
+   "end": 129.67,
+   "text": "The table is sensible, and every task keeps a person in the loop.",
+   "scene": 7
+  },
+  {
+   "start": 129.67,
+   "end": 135.24,
+   "text": "But the tip at the end says to message every customer every morning, with no review.",
+   "scene": 7
+  },
+  {
+   "start": 135.24,
+   "end": 141.09,
+   "text": "That removes the checkpoint and could spam people, so we keep the preview step.",
+   "scene": 7
+  },
+  {
+   "start": 141.09,
+   "end": 146.68,
+   "text": "Now we ask ChatGPT to help draft six rules for our own job.",
+   "scene": 8
+  },
+  {
+   "start": 146.68,
+   "end": 154.28,
+   "text": "Most of the rules are strong: privacy, checking, labelling, approvals and people decisions.",
+   "scene": 8
+  },
+  {
+   "start": 154.28,
+   "end": 161.63,
+   "text": "But rule four says template messages need no checking, and that is exactly how broken merges get sent.",
+   "scene": 8
+  },
+  {
+   "start": 161.63,
+   "end": 167.66,
+   "text": "We rewrite it, because these are our rules, and we stand behind every line.",
+   "scene": 8
+  },
+  {
+   "start": 167.66,
+   "end": 174.26,
+   "text": "Six slides are enough: the map, three automations, the numbers, and your rules.",
+   "scene": 9
+  },
+  {
+   "start": 174.26,
+   "end": 181.62,
+   "text": "Every automation slide shows before, after, the checkpoint, and one real catch.",
+   "scene": 9
+  },
+  {
+   "start": 181.62,
+   "end": 187.34,
+   "text": "Rehearse with a timer, and only show practice or anonymised data.",
+   "scene": 9
+  },
+  {
+   "start": 187.34,
+   "end": 190.72,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 190.72,
+   "end": 194.34,
+   "text": "Now plan it, build it, test it, and share it!",
+   "scene": 10
+  }
+ ]
+}

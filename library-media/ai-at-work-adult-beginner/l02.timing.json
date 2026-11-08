@@ -1,0 +1,173 @@
+{
+ "duration": 152.16,
+ "lines": [
+  {
+   "start": 0,
+   "end": 5.3,
+   "text": "Today you will learn four simple parts that make AI replies useful the first time.",
+   "scene": 0
+  },
+  {
+   "start": 5.3,
+   "end": 10.95,
+   "text": "Role tells the AI who to be, for example a polite customer-care helper for your shop.",
+   "scene": 1
+  },
+  {
+   "start": 10.95,
+   "end": 16.28,
+   "text": "Task says exactly what you want, for example a WhatsApp reply to a customer.",
+   "scene": 1
+  },
+  {
+   "start": 16.28,
+   "end": 22.67,
+   "text": "Start every prompt you write with these two simple parts.",
+   "scene": 1
+  },
+  {
+   "start": 22.67,
+   "end": 28.88,
+   "text": "Context is the background the AI cannot guess: who the reader is, what happened, and the facts.",
+   "scene": 2
+  },
+  {
+   "start": 28.88,
+   "end": 31.17,
+   "text": "The AI does not know your shop, your school or your client.",
+   "scene": 2
+  },
+  {
+   "start": 31.17,
+   "end": 37.98,
+   "text": "The more useful facts you give, the fewer facts it makes up.",
+   "scene": 2
+  },
+  {
+   "start": 37.98,
+   "end": 44.32,
+   "text": "Format is the shape of the answer: length, bullet points, a table, Hindi or English, formal or friendly.",
+   "scene": 3
+  },
+  {
+   "start": 44.32,
+   "end": 49.21,
+   "text": "Saying “3 short lines for WhatsApp” saves you from editing a long essay.",
+   "scene": 3
+  },
+  {
+   "start": 49.21,
+   "end": 52.62,
+   "text": "The first reply is a draft, not the end.",
+   "scene": 4
+  },
+  {
+   "start": 52.62,
+   "end": 57.63,
+   "text": "Reply with “shorter”, “more polite” or “in Hindi” to improve it.",
+   "scene": 4
+  },
+  {
+   "start": 57.63,
+   "end": 62.6,
+   "text": "For bigger tasks, add “Ask me any questions you need before you write.”",
+   "scene": 4
+  },
+  {
+   "start": 62.6,
+   "end": 67.87,
+   "text": "Here is the prompt most people type first: write a reply to a customer.",
+   "scene": 5
+  },
+  {
+   "start": 67.87,
+   "end": 73.44,
+   "text": "The answer is polite, but it says nothing, because the AI had to guess everything.",
+   "scene": 5
+  },
+  {
+   "start": 73.44,
+   "end": 80.3,
+   "text": "Now the same job with all four parts: role, task, context and format.",
+   "scene": 6
+  },
+  {
+   "start": 80.3,
+   "end": 86.87,
+   "text": "The reply has the real reason, the new day and time, and fits on a phone screen.",
+   "scene": 6
+  },
+  {
+   "start": 86.87,
+   "end": 92.98,
+   "text": "Same tool, same minute, but a far better answer, because you gave it what it needed.",
+   "scene": 6
+  },
+  {
+   "start": 92.98,
+   "end": 97.74,
+   "text": "For bigger tasks, ask the AI to ask you questions first.",
+   "scene": 7
+  },
+  {
+   "start": 97.74,
+   "end": 104.35,
+   "text": "Gemini asks for the date, the classes and what to bring, which are things a good assistant would check.",
+   "scene": 7
+  },
+  {
+   "start": 104.35,
+   "end": 109.66,
+   "text": "You answer in one message, and the notice comes out right the first time.",
+   "scene": 7
+  },
+  {
+   "start": 109.66,
+   "end": 114.76,
+   "text": "Translation is a daily job, so let’s try a customer’s message in Hinglish.",
+   "scene": 8
+  },
+  {
+   "start": 114.76,
+   "end": 121.57,
+   "text": "Copilot says the payment was sent yesterday, but the customer said they will send it by tomorrow.",
+   "scene": 8
+  },
+  {
+   "start": 121.57,
+   "end": 127.63,
+   "text": "In Hindi, kal means both yesterday and tomorrow, and the AI guessed wrong.",
+   "scene": 8
+  },
+  {
+   "start": 127.63,
+   "end": 133.06,
+   "text": "If you can read both languages, always check the meaning, not just the grammar.",
+   "scene": 8
+  },
+  {
+   "start": 133.06,
+   "end": 137.55,
+   "text": "Good prompts are worth saving, just like a good letter format.",
+   "scene": 9
+  },
+  {
+   "start": 137.55,
+   "end": 144.24,
+   "text": "Put brackets around the parts that change, and you can reuse a prompt in seconds, in any tool.",
+   "scene": 9
+  },
+  {
+   "start": 144.24,
+   "end": 147.56,
+   "text": "Great work! Let’s remember what we learned.",
+   "scene": 10
+  },
+  {
+   "start": 147.56,
+   "end": 151.81,
+   "text": "Now build along, then try the challenges. You’ve got this!",
+   "scene": 10
+  }
+ ]
+}
