@@ -1,6 +1,8 @@
 // Kitabash public website. Plain JavaScript, no build step.
 // Courses come live from the portal (/api/public/catalog: published courses only);
-// enquiries are saved to the portal (/api/public/leads) and appear under Admin → Leads.
+// enquiries are saved to the portal (/api/public/leads) and appear under Admin → Leads;
+// class times open for booking come from /api/public/slots, and bookings go to /api/public/bookings
+// (Admin → Platform → Bookings).
 (function () {
   "use strict";
   const $ = (s, el) => (el || document).querySelector(s);
@@ -148,17 +150,111 @@
   const ageSel = $("#f-age");
   ["5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "Adult (18+)"].forEach((a) => { const o = document.createElement("option"); o.textContent = a; ageSel.appendChild(o); });
   ageSel.value = "9";
+
+  // ---------- Book an exact class time ----------
+  const booker = $("#booker");
+  const courseSel = $("#f-course");
+  const slotList = $("#slot-list");
+  let groups = [];
+  const tz = (() => { try { return Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) { return ""; } })();
+  // Start the country list on the visitor's own country, guessed from their time zone.
+  (function guessCountry() {
+    const sel = $("#f-country");
+    const pick = /^Asia\/(Kolkata|Calcutta)$/.test(tz) ? "India"
+      : /^Asia\/(Dubai|Muscat|Qatar|Riyadh|Bahrain|Kuwait)$/.test(tz) ? "UAE / Gulf"
+      : tz === "Europe/London" ? "UK"
+      : /^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|Regina|St_Johns)$/.test(tz) ? "Canada"
+      : /^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Anchorage|Detroit)|^Pacific\/Honolulu$/.test(tz) ? "USA"
+      : tz && !/^Asia\/(Kolkata|Calcutta)$/.test(tz) ? "Other" : "";
+    if (pick && sel) sel.value = pick;
+  })();
+  const fmtTime = (iso) => {
+    try { return new Date(iso).toLocaleString(undefined, { weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit" }); } catch (e) { return iso; }
+  };
+  const chosenSlot = () => { const r = form.querySelector('input[name="slot"]:checked'); return r ? r.value : ""; };
+  const bookingMode = () => !booker.hidden && !!chosenSlot();
+  function syncBooking() {
+    const trial = $("#f-kind").value === "trial";
+    booker.hidden = !trial || !groups.length;
+    const on = bookingMode();
+    $("#lbl-child").hidden = !on;
+    $("#lbl-time").hidden = on;
+    $("#lbl-interest").hidden = on;
+    if (trial) $("#submit").textContent = on ? "Book this class" : "Request a free trial class";
+  }
+  function slotOption(value, title, detail, opts) {
+    const label = document.createElement("label");
+    label.className = "slot" + (opts.full ? " full" : "") + (opts.other ? " other" : "");
+    const input = document.createElement("input");
+    input.type = "radio";
+    input.name = "slot";
+    input.value = value;
+    input.disabled = !!opts.full;
+    const text = document.createElement("span");
+    const b = document.createElement("b");
+    b.textContent = title;
+    const small = document.createElement("small");
+    small.textContent = detail;
+    text.append(b, small);
+    label.append(input, text);
+    return label;
+  }
+  function renderSlots() {
+    const slug = courseSel.value;
+    const list = [];
+    groups.filter((g) => g.course.slug === slug).forEach((g) => g.sessions.forEach((s) => list.push({ g, s })));
+    list.sort((a, b) => (a.s.starts_at < b.s.starts_at ? -1 : 1));
+    slotList.textContent = "";
+    list.forEach(({ g, s }) => {
+      const left = s.seats_left > 0 ? (s.seats_left === 1 ? "1 place left" : s.seats_left + " places left") : "Full";
+      slotList.appendChild(slotOption(s.id, fmtTime(s.starts_at), g.name + " · " + s.duration_min + " min · " + left, { full: s.seats_left <= 0 }));
+    });
+    slotList.appendChild(slotOption("", "None of these times work for me", "We will message you with other times.", { other: true }));
+    const first = slotList.querySelector('input[name="slot"]:not(:disabled)');
+    if (first) first.checked = true;
+    const g = groups.find((x) => x.course.slug === slug);
+    if (g) $("#f-interest").value = g.course.title;
+    syncBooking();
+  }
+  courseSel.addEventListener("change", renderSlots);
+  slotList.addEventListener("change", syncBooking);
+  function loadSlots(keep) {
+    return fetch("/api/public/slots")
+      .then((r) => (r.ok ? r.json() : { groups: [] }))
+      .then((d) => {
+        groups = (d && d.groups) || [];
+        const seen = new Map();
+        groups.forEach((g) => { if (!seen.has(g.course.slug)) seen.set(g.course.slug, g.course); });
+        courseSel.textContent = "";
+        seen.forEach((c, slug) => {
+          const o = document.createElement("option");
+          o.value = slug;
+          o.textContent = c.title + (c.band ? " · " + (BANDS.find((b) => b.id === c.band) || { label: c.band }).label : "");
+          courseSel.appendChild(o);
+        });
+        if (keep && seen.has(keep)) courseSel.value = keep;
+        if (groups.length) {
+          $("#tz-note").textContent = tz ? "(your time: " + tz.replace(/_/g, " ") + ")" : "(your local time)";
+          $("#trial-lead").textContent = "Pick a course and a class time. The first class is free, and we will send the joining details on WhatsApp or email.";
+          renderSlots();
+        } else syncBooking();
+      })
+      .catch(() => { groups = []; syncBooking(); });
+  }
+
   function setKind(kind) {
     $("#f-kind").value = kind;
     $("#row-child").hidden = kind !== "trial";
     $("#interest-label").textContent = kind === "teacher" ? "Subjects you can teach" : kind === "school" ? "School or centre, and programme" : "Interested in";
     $("#submit").textContent = kind === "teacher" ? "Apply to teach" : kind === "school" ? "Ask for a proposal" : "Request a free trial class";
+    syncBooking();
   }
   function pickCourse(c) {
     setKind("trial");
     $("#f-interest").value = c.t;
     const ages = { "K-2": "6", "3-5": "9", "6-8": "12", "9-12": "15", Adult: "Adult (18+)" };
     if (ages[c.b]) ageSel.value = ages[c.b];
+    if (groups.some((g) => g.course.slug === c.slug)) { courseSel.value = c.slug; renderSlots(); }
     $("#trial").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
   }
   $("#teach-cta").addEventListener("click", () => setKind("teacher"));
@@ -193,6 +289,48 @@
     if (!data.phone && !data.email) { status.className = "note err"; status.textContent = "Please add a WhatsApp number or an email address so we can reply."; form.phone.focus(); return; }
     const btn = $("#submit");
     btn.disabled = true;
+    if (bookingMode()) {
+      const keep = courseSel.value;
+      try {
+        const res = await fetch("/api/public/bookings", {
+          method: "POST",
+          headers: { "content-type": "application/json", "x-kitabash": "1" },
+          body: JSON.stringify({
+            session_id: chosenSlot(),
+            parent_name: data.name,
+            child_name: $("#f-child").value.trim(),
+            child_age: ageSel.value,
+            phone: data.phone,
+            email: data.email,
+            country: data.country,
+            timezone: tz,
+            consent_whatsapp: data.consent_whatsapp,
+            source: data.source,
+            website: data.website,
+          }),
+        });
+        const out = await res.json().catch(() => ({}));
+        if (!res.ok) {
+          if (res.status === 409 || res.status === 404) loadSlots(keep);
+          throw new Error(out.error || "Something went wrong. Please try again.");
+        }
+        status.className = "note ok";
+        const who = $("#f-child").value.trim();
+        status.textContent = "Booked! " + (who ? who + "'s" : "Your child's") + " free class: " + (out.course ? out.course + ", " : "") + fmtTime(out.starts_at) + ". We will send the joining details " + (data.phone && data.consent_whatsapp ? "on WhatsApp" : data.email ? "by email" : "soon") + " before the class.";
+        const country = form.country.value;
+        form.reset();
+        form.country.value = country;
+        ageSel.value = "9";
+        setKind("trial");
+        loadSlots(keep);
+      } catch (err) {
+        status.className = "note err";
+        status.textContent = err.message;
+      } finally {
+        btn.disabled = false;
+      }
+      return;
+    }
     try {
       const res = await fetch("/api/public/leads", { method: "POST", headers: { "content-type": "application/json", "x-kitabash": "1" }, body: JSON.stringify(data) });
       const out = await res.json().catch(() => ({}));
@@ -215,6 +353,7 @@
   try { cur = localStorage.getItem("kb-cur") || "inr"; } catch (e) { cur = "inr"; }
   renderPlans(PLANS[cur] ? cur : "inr");
   setKind("trial");
+  loadSlots();
 
   const video = $("#promo");
   if (video) {

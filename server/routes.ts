@@ -15,6 +15,7 @@ import * as LIB from '../src/lib/library/install.ts';
 import * as CL from '../src/lib/services/classes.ts';
 import * as HUB from '../src/lib/live/hub.ts';
 import * as LD from '../src/lib/services/leads.ts';
+import * as BK from '../src/lib/services/bookings.ts';
 import * as RP from '../src/lib/services/reports.ts';
 import * as TE from '../src/lib/services/teachers.ts';
 import * as REC from '../src/lib/services/recordings.ts';
@@ -272,6 +273,48 @@ route('POST', '/api/public/leads', async (c) => {
   const { website, ...lead } = b;
   return await LD.createLead({ ...lead, consent_whatsapp: !!b.consent_whatsapp });
 });
+
+// ── Public: book an exact class group and time ────────────
+route('GET', '/api/public/slots', async (c) => {
+  c.res.setHeader('cache-control', 'no-store');
+  return await BK.openSlots();
+});
+route('POST', '/api/public/bookings', async (c) => {
+  const now = Date.now();
+  const ip = clientIp(c);
+  const recent = (leadHits.get(ip) || []).filter((t) => now - t < 3600_000);
+  if (recent.length >= 8) throw new HttpError(429, 'Too many requests. Please message us on WhatsApp instead.');
+  recent.push(now);
+  leadHits.set(ip, recent);
+  const b = parse(
+    v.obj({
+      session_id: v.str({ min: 1, max: 40 }),
+      parent_name: v.str({ min: 1, max: 120 }),
+      child_name: opt(120),
+      child_age: opt(20),
+      phone: opt(30),
+      email: v.str({ optional: true, max: 200, pattern: /^$|^[^@\s]+@[^@\s]+\.[^@\s]+$/ }),
+      country: opt(60),
+      timezone: opt(60),
+      source: opt(200),
+      consent_whatsapp: v.bool({ optional: true }),
+      website: opt(200), // honeypot: real visitors never fill this hidden field
+    }),
+    await c.body(),
+  );
+  if (b.website) return { ok: true };
+  const { website, ...input } = b;
+  return await BK.createBooking({ ...input, consent_whatsapp: !!b.consent_whatsapp });
+});
+
+// ── Admin: bookings ────────────────────────────────────────
+route('GET', '/api/admin/bookings', async (c) => (requirePerm(c.user, 'users.manage'), await BK.listBookings({ status: c.query.get('status') || undefined, upcoming: c.query.get('upcoming') === '1' })));
+route('PATCH', '/api/admin/bookings/:id', async (c) => {
+  const u = requirePerm(c.user, 'users.manage');
+  const b = parse(v.obj({ status: v.oneOf(['pending', 'confirmed', 'cancelled', 'attended', 'enrolled'] as const, { optional: true }), notes: v.str({ optional: true, max: 2000 }) }), await c.body());
+  await BK.updateBooking(c.params.id, { status: b.status || undefined, notes: b.notes }, u.id);
+});
+route('DELETE', '/api/admin/bookings/:id', async (c) => await BK.deleteBooking(c.params.id, requirePerm(c.user, 'users.manage').id));
 
 // ── Admin: leads, messages, weekly reports ─────────────────
 route('GET', '/api/admin/leads', async (c) => (requirePerm(c.user, 'users.manage'), await LD.listLeads({ status: c.query.get('status') || undefined, kind: c.query.get('kind') || undefined })));
@@ -652,6 +695,7 @@ const batchShape = {
   schedule_note: opt(200),
   capacity: v.int({ optional: true, min: 1, max: 50 }),
   starts_on: opt(20),
+  public_booking: v.bool({ optional: true }),
 };
 route('POST', '/api/classes', async (c) => {
   const u = requirePerm(c.user, 'classes.manage');
@@ -660,8 +704,11 @@ route('POST', '/api/classes', async (c) => {
 route('GET', '/api/classes/:id', async (c) => CL.batchDetail(requirePerm(c.user, 'classes.view'), c.params.id));
 route('PATCH', '/api/classes/:id', async (c) => {
   requirePerm(c.user, 'classes.manage');
-  const b = parse(v.obj({ name: opt(120), instructor_id: opt(40), schedule_note: v.str({ optional: true, max: 200, trim: false }), capacity: v.int({ optional: true, min: 1, max: 50 }), starts_on: opt(20), status: v.oneOf(['active', 'archived'] as const, { optional: true }) }), await c.body());
-  await CL.updateBatch(c.params.id, { ...b, name: b.name || undefined, instructor_id: b.instructor_id || undefined, starts_on: b.starts_on || undefined });
+  const raw = await c.body();
+  const b = parse(v.obj({ name: opt(120), instructor_id: opt(40), schedule_note: v.str({ optional: true, max: 200, trim: false }), capacity: v.int({ optional: true, min: 1, max: 50 }), starts_on: opt(20), status: v.oneOf(['active', 'archived'] as const, { optional: true }), public_booking: v.bool({ optional: true }) }), raw);
+  // An optional boolean reads as false when left out: only change booking when it was sent.
+  const public_booking = raw && typeof raw === 'object' && 'public_booking' in raw ? b.public_booking : undefined;
+  await CL.updateBatch(c.params.id, { ...b, public_booking, name: b.name || undefined, instructor_id: b.instructor_id || undefined, starts_on: b.starts_on || undefined });
 });
 route('DELETE', '/api/classes/:id', async (c) => CL.deleteBatch(c.params.id, requirePerm(c.user, 'classes.manage').id));
 route('PUT', '/api/classes/:id/members', async (c) => {

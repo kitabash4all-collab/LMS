@@ -3,7 +3,7 @@ import { api, upload, useApi } from '../../lib/api.ts';
 import { useRoute, navigate } from '../../lib/router.tsx';
 import { Badge, Button, Card, Empty, Field, Icon, Input, Modal, Notice, PageHeader, ProgressBar, Select, Spinner, StatusPill, Tabs, toast, categoryIcon } from '../../components/ui.tsx';
 import { TeachersAdmin } from '../TeacherPortal.tsx';
-import { Leads, Messages } from './Growth.tsx';
+import { Bookings, Leads, Messages } from './Growth.tsx';
 
 // ── Media asset library ────────────────────────────────────
 export function Library() {
@@ -99,7 +99,7 @@ export function Library() {
 }
 
 // ── Platform: catalogue structure, activity engine, integrations, people, audit ──
-type PTab = 'library' | 'catalogue' | 'activities' | 'integrations' | 'people' | 'teachers' | 'leads' | 'messages' | 'audit';
+type PTab = 'library' | 'catalogue' | 'activities' | 'integrations' | 'people' | 'teachers' | 'bookings' | 'leads' | 'messages' | 'audit';
 
 export function Platform() {
   const { search } = useRoute();
@@ -118,6 +118,7 @@ export function Platform() {
           { id: 'integrations', label: 'Integrations', icon: 'plug' },
           { id: 'people', label: 'People & privacy', icon: 'users' },
           { id: 'teachers', label: 'Teachers', icon: 'chart' },
+          { id: 'bookings', label: 'Bookings', icon: 'clock' },
           { id: 'leads', label: 'Leads', icon: 'sparkle' },
           { id: 'messages', label: 'Messages & reports', icon: 'chat' },
           { id: 'audit', label: 'Audit log', icon: 'shield' },
@@ -129,6 +130,7 @@ export function Platform() {
       {tab === 'integrations' && <Integrations />}
       {tab === 'people' && <People />}
       {tab === 'teachers' && <TeachersAdmin />}
+      {tab === 'bookings' && <Bookings />}
       {tab === 'leads' && <Leads />}
       {tab === 'messages' && <Messages />}
       {tab === 'audit' && <Audit />}

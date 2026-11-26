@@ -48,6 +48,7 @@ export interface BatchInput {
   schedule_note?: string;
   capacity?: number | null;
   starts_on?: string;
+  public_booking?: boolean;
 }
 
 export async function createBatch(input: BatchInput, adminId: string) {
@@ -55,8 +56,8 @@ export async function createBatch(input: BatchInput, adminId: string) {
   if (input.instructor_id && !(await get("SELECT 1 FROM users WHERE id=? AND role IN ('instructor','admin')", input.instructor_id))) throw new HttpError(400, 'Choose a teacher account.');
   const bid = id('b_');
   await run(
-    'INSERT INTO batches (id,course_id,name,instructor_id,schedule_note,capacity,starts_on) VALUES (?,?,?,?,?,?,?)',
-    bid, input.course_id, input.name, input.instructor_id || null, input.schedule_note || '', input.capacity || 10, input.starts_on || '',
+    'INSERT INTO batches (id,course_id,name,instructor_id,schedule_note,capacity,starts_on,public_booking) VALUES (?,?,?,?,?,?,?,?)',
+    bid, input.course_id, input.name, input.instructor_id || null, input.schedule_note || '', input.capacity || 10, input.starts_on || '', !!input.public_booking,
   );
   await audit(adminId, 'create', 'batch', bid, input.name);
   return bid;
@@ -67,8 +68,9 @@ export async function updateBatch(batchId: string, patch: Partial<BatchInput> & 
   if (patch.instructor_id && !(await get("SELECT 1 FROM users WHERE id=? AND role IN ('instructor','admin')", patch.instructor_id))) throw new HttpError(400, 'Choose a teacher account.');
   await run(
     `UPDATE batches SET name=COALESCE(?,name), instructor_id=COALESCE(?,instructor_id), schedule_note=COALESCE(?,schedule_note),
-       capacity=COALESCE(?,capacity), starts_on=COALESCE(?,starts_on), status=COALESCE(?,status) WHERE id=?`,
-    patch.name || null, patch.instructor_id || null, patch.schedule_note ?? null, patch.capacity ?? null, patch.starts_on ?? null, patch.status || null, batchId,
+       capacity=COALESCE(?,capacity), starts_on=COALESCE(?,starts_on), status=COALESCE(?,status), public_booking=COALESCE(?,public_booking) WHERE id=?`,
+    patch.name || null, patch.instructor_id || null, patch.schedule_note ?? null, patch.capacity ?? null, patch.starts_on ?? null, patch.status || null,
+    patch.public_booking === undefined ? null : patch.public_booking ? 1 : 0, batchId,
   );
 }
 

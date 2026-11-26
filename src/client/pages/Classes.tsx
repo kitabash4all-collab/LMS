@@ -75,7 +75,7 @@ export function UpcomingClasses({ title = 'Live classes', limit = 4 }: { title?:
 function NewBatch({ open, onClose, onDone }: { open: boolean; onClose: () => void; onDone: (id: string) => void }) {
   const { data: courses } = useApi<any[]>(open ? '/api/admin/courses' : null, [open]);
   const { data: users } = useApi<any>(open ? '/api/admin/users' : null, [open]);
-  const [f, setF] = useState({ course_id: '', name: '', instructor_id: '', schedule_note: '', capacity: 10, starts_on: '' });
+  const [f, setF] = useState({ course_id: '', name: '', instructor_id: '', schedule_note: '', capacity: 10, starts_on: '', public_booking: false });
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState('');
   const teachers = (users?.users || []).filter((u: any) => u.role === 'instructor' || u.role === 'admin');
@@ -124,6 +124,13 @@ function NewBatch({ open, onClose, onDone }: { open: boolean; onClose: () => voi
             <Input type="number" min={1} max={50} value={f.capacity} onChange={(e) => setF({ ...f, capacity: Number(e.target.value) })} />
           </Field>
         </div>
+        <label className="flex items-start gap-3 text-sm">
+          <input type="checkbox" className="mt-0.5 size-5" checked={f.public_booking} onChange={(e) => setF({ ...f, public_booking: e.target.checked })} />
+          <span>
+            <span className="font-semibold">Open for booking on the website</span>
+            <span className="block text-muted">Parents can pick one of this group’s scheduled classes for a free first class. Seats follow “Max students”.</span>
+          </span>
+        </label>
         {err && <Notice tone="bad">{err}</Notice>}
         <div className="flex justify-end gap-2">
           <Button type="button" variant="ghost" onClick={onClose}>Cancel</Button>
@@ -168,6 +175,7 @@ export function ClassesPage() {
             <h3 className="mt-2 text-lg leading-snug font-bold">{b.name}</h3>
             <p className="mt-1 text-sm text-muted">{b.instructor_name ? `Teacher: ${b.instructor_name}` : 'No teacher assigned'} · {b.member_count}/{b.capacity} students</p>
             {b.schedule_note && <p className="mt-1 text-sm">{b.schedule_note}</p>}
+            {!!Number(b.public_booking) && b.status === 'active' && <Badge tone="good" className="mt-2">Open for website booking</Badge>}
             <p className="mt-auto pt-3 text-sm font-semibold text-accent-ink">{b.next_session ? `Next: ${when(b.next_session)}` : 'No upcoming classes'}</p>
           </Card>
         ))}
@@ -305,6 +313,7 @@ export function ClassDetail({ id }: { id: string }) {
   const { data, loading, error, reload } = useApi<any>(`/api/classes/${id}`, [id]);
   const [members, setMembers] = useState(false);
   const [showPast, setShowPast] = useState(false);
+  const [busyBooking, setBusyBooking] = useState(false);
   if (error) return <Notice tone="bad">{error}</Notice>;
   if (loading || !data) return <Spinner />;
   const { batch, role, sessions, lessons, roster } = data;
@@ -313,6 +322,19 @@ export function ClassDetail({ id }: { id: string }) {
   const now = Date.now();
   const upcoming = sessions.filter((s: any) => s.status === 'live' || (s.status === 'scheduled' && new Date(s.starts_at).getTime() + s.duration_min * 60_000 > now));
   const past = sessions.filter((s: any) => !upcoming.includes(s)).reverse();
+  const bookable = !!Number(batch.public_booking);
+  const toggleBooking = async () => {
+    setBusyBooking(true);
+    try {
+      await api(`/api/classes/${batch.id}`, { method: 'PATCH', body: { public_booking: !bookable } });
+      toast(bookable ? 'Closed for website booking' : 'Open for website booking: parents can now pick a class time');
+      reload();
+    } catch (e) {
+      toast((e as Error).message, 'bad');
+    } finally {
+      setBusyBooking(false);
+    }
+  };
   const cancel = async (s: any) => {
     if (!confirm(`Cancel “${s.title}” on ${when(s.starts_at)}?`)) return;
     await api(`/api/live/${s.id}`, { method: 'PATCH', body: { status: 'cancelled' } });
@@ -346,12 +368,22 @@ export function ClassDetail({ id }: { id: string }) {
           <div className="flex flex-wrap gap-2">
             {host && upcoming.length > 0 && <Button icon="copy" onClick={() => void copyText(inviteText(batch.course_title, batch.name, upcoming.slice(0, 8)), 'Schedule copied')}>Copy schedule</Button>}
             {admin && <Button icon="users" onClick={() => setMembers(true)}>Students</Button>}
+            {admin && batch.status === 'active' && (
+              <Button busy={busyBooking} variant={bookable ? 'secondary' : 'primary'} onClick={() => void toggleBooking()}>
+                {bookable ? 'Close website booking' : 'Open for website booking'}
+              </Button>
+            )}
           </div>
         }
       >
         {batch.instructor_name ? `Teacher: ${batch.instructor_name}` : 'No teacher assigned'}
         {batch.schedule_note ? ` · ${batch.schedule_note}` : ''} · {host ? `${roster.length}/${batch.capacity} students` : 'Live class group'}
       </PageHeader>
+      {admin && bookable && batch.status === 'active' && (
+        <Notice tone="good" icon="clock" className="mb-6">
+          Parents can book a free first class in this group on the website. They see the next scheduled classes from 2 hours ahead, with places left. New bookings appear under Platform → Bookings.
+        </Notice>
+      )}
       <div className="grid gap-6 lg:grid-cols-[1.4fr_1fr]">
         <div className="space-y-6">
           <Card className="p-5">

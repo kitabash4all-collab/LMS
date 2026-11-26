@@ -247,6 +247,18 @@ img{max-width:100%}
 .check input{width:20px;height:20px;margin-top:2px;flex:0 0 auto}
 .note.ok{color:var(--good);font-weight:700}
 .note.err{color:var(--accent-ink);font-weight:700}
+.booker{display:grid;gap:14px;min-width:0}
+fieldset.slots{border:0;padding:0;margin:0;display:grid;gap:8px;min-width:0}
+.slots legend{font-weight:700;font-size:.92rem;padding:0;margin-bottom:6px}
+.slots .tz{font-weight:600;color:var(--muted)}
+.slot-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px;max-height:360px;overflow:auto;padding:2px}
+form .slot{display:flex;gap:10px;align-items:flex-start;padding:12px 14px;border:1.5px solid var(--line);border-radius:12px;background:var(--paper);cursor:pointer;font-weight:700}
+form .slot input{width:20px;height:20px;padding:0;margin-top:2px;flex:0 0 auto;accent-color:var(--accent)}
+.slot span{display:grid;gap:2px;min-width:0}
+.slot small{font-weight:600;color:var(--muted);font-size:.82rem}
+.slot:has(input:checked){border-color:var(--accent);background:var(--accent-soft)}
+.slot.full{opacity:.6;cursor:not-allowed}
+.slot.other{grid-column:1/-1}
 /* tracks */
 .tracks{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
 .track{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:22px;display:grid;gap:12px;align-content:start;min-width:0;border-top:5px solid var(--hue)}
@@ -466,12 +478,11 @@ img{max-width:100%}
       <div class="panel dark" id="teach">
         <span class="eyebrow">Teach with Kitabash</span>
         <h2>Teach live classes from home.</h2>
-        <div class="pay">₹400–600 <small>per class, plus bonuses</small></div>
-        <p>Lessons, worksheets and teacher notes are ready in the portal, so you spend your time teaching, not preparing. Choose your own slots, at least 10 hours a week.</p>
+        <p>Lessons, worksheets and teacher notes are ready in the portal, so you spend your time teaching, not preparing. Choose your own slots, at least 10 hours a week, and teach small batches of 10 or fewer.</p>
         <ul>
-          <li>Full-batch and renewal bonuses on top of the class rate</li>
-          <li>Paid training and certification</li>
-          <li>Payout by the 7th of every month</li>
+          <li>Ready-made lessons for every class</li>
+          <li>Training before your first class</li>
+          <li>Flexible hours you choose</li>
         </ul>
         <div class="cta-row"><a class="btn btn-ghost" id="teach-cta" href="#trial">Apply to teach</a></div>
       </div>
@@ -491,11 +502,18 @@ img{max-width:100%}
       <div class="sec-head">
         <span class="eyebrow">Free trial class</span>
         <h2>Book your child's first class, free.</h2>
-        <p class="lead">Tell us a little about your child. We will reply on WhatsApp or email with the next batch times and a link to a free lesson.</p>
+        <p class="lead" id="trial-lead">Tell us a little about your child. We will reply on WhatsApp or email with the next batch times and a link to a free lesson.</p>
       </div>
       <form id="form" novalidate>
         <input type="hidden" id="f-kind" name="kind" value="trial">
         <div class="hp" aria-hidden="true"><label for="f-website">Website<input id="f-website" name="website" tabindex="-1" autocomplete="off"></label></div>
+        <div class="booker" id="booker" hidden>
+          <label for="f-course">Course<select id="f-course" name="course"></select></label>
+          <fieldset class="slots">
+            <legend>Pick a class time <span class="tz" id="tz-note"></span></legend>
+            <div class="slot-list" id="slot-list"></div>
+          </fieldset>
+        </div>
         <div class="two">
           <label for="f-name">Your name<input id="f-name" name="name" autocomplete="name" placeholder="e.g. Priya Sharma" required></label>
           <label for="f-country">Country<select id="f-country" name="country"><option>India</option><option>UAE / Gulf</option><option>UK</option><option>USA</option><option>Canada</option><option>Other</option></select></label>
@@ -505,10 +523,11 @@ img{max-width:100%}
           <label for="f-email">Email (optional)<input id="f-email" name="email" type="email" autocomplete="email" placeholder="you@example.com"></label>
         </div>
         <div class="two" id="row-child">
+          <label for="f-child" id="lbl-child" hidden>Child's name<input id="f-child" name="child_name" autocomplete="off" placeholder="e.g. Asha"></label>
           <label for="f-age">Child's age<select id="f-age" name="child_age"></select></label>
-          <label for="f-time">Preferred time<select id="f-time" name="preferred_time"><option>Weekday evenings</option><option>Weekend mornings</option><option>Weekend afternoons</option></select></label>
+          <label for="f-time" id="lbl-time">Preferred time<select id="f-time" name="preferred_time"><option>Weekday evenings</option><option>Weekend mornings</option><option>Weekend afternoons</option></select></label>
         </div>
-        <label for="f-interest"><span id="interest-label">Interested in</span><input id="f-interest" name="interest" list="interests" placeholder="e.g. Coding, Spoken English, Financial Literacy"></label>
+        <label for="f-interest" id="lbl-interest"><span id="interest-label">Interested in</span><input id="f-interest" name="interest" list="interests" placeholder="e.g. Coding, Spoken English, Financial Literacy"></label>
         <datalist id="interests"></datalist>
         <label class="check" for="f-consent"><input id="f-consent" name="consent" type="checkbox"> <span>Message me on WhatsApp about my request and class times.</span></label>
         <button class="btn btn-primary" type="submit" id="submit">Request a free trial class</button>

@@ -95,7 +95,112 @@ export function Leads() {
   );
 }
 
-const KIND_NAME: Record<string, string> = { weekly_report: 'Weekly report', lead_trial: 'Trial enquiry', lead_teacher: 'Teacher applicant', lead_school: 'School enquiry' };
+const BOOKING_STATUSES = [
+  { id: 'pending', label: 'New' },
+  { id: 'confirmed', label: 'Confirmed' },
+  { id: 'attended', label: 'Attended' },
+  { id: 'enrolled', label: 'Enrolled' },
+  { id: 'cancelled', label: 'Cancelled' },
+] as const;
+const ist = (iso: string) => new Date(iso).toLocaleString('en-IN', { timeZone: 'Asia/Kolkata', weekday: 'short', day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit' }) + ' IST';
+
+/** Free first classes booked on the website: one child, one exact class in one class group. */
+export function Bookings() {
+  const [status, setStatus] = useState('');
+  const [upcoming, setUpcoming] = useState(true);
+  const qs = new URLSearchParams(Object.entries({ status, upcoming: upcoming ? '1' : '' }).filter(([, v]) => v)).toString();
+  const { data, loading, reload } = useApi<{ bookings: any[]; counts: Record<string, number> }>(`/api/admin/bookings${qs ? `?${qs}` : ''}`, [qs]);
+  const [notes, setNotes] = useState<Record<string, string>>({});
+  const update = async (id: string, body: any) => {
+    try {
+      await api(`/api/admin/bookings/${id}`, { method: 'PATCH', body });
+      toast('Booking updated');
+      reload();
+    } catch (e) {
+      toast((e as Error).message, 'bad');
+    }
+  };
+  const remove = async (b: any) => {
+    if (!confirm(`Delete the booking for ${b.child_name || b.parent_name}? This removes their details from the booking for good (use it when a family asks for their data to be deleted).`)) return;
+    try {
+      await api(`/api/admin/bookings/${b.id}`, { method: 'DELETE' });
+      toast('Booking deleted');
+      reload();
+    } catch (e) {
+      toast((e as Error).message, 'bad');
+    }
+  };
+  if (loading && !data) return <Spinner />;
+  const counts = data?.counts || {};
+  return (
+    <div className="space-y-4">
+      <Notice icon="clock">
+        Parents book here from the website’s free-trial section. Only class groups you open for booking appear there (Classes → a group → <b>Open for website booking</b>), with each scheduled class and the places left. A booking holds a place until you cancel it. To let the child join, add them as a student in the group, or send the class’s joining link.
+      </Notice>
+      <div className="flex flex-wrap items-end gap-3">
+        <div className="flex flex-wrap gap-2">
+          {BOOKING_STATUSES.map((s) => (
+            <Badge key={s.id} tone={s.id === 'pending' ? 'accent' : s.id === 'enrolled' || s.id === 'confirmed' ? 'good' : 'neutral'}>
+              {s.label}: {counts[s.id] || 0}
+            </Badge>
+          ))}
+        </div>
+        <span className="flex-1" />
+        <label className="flex items-center gap-2 text-sm font-semibold">
+          <input type="checkbox" checked={upcoming} onChange={(e) => setUpcoming(e.target.checked)} /> Upcoming classes only
+        </label>
+        <div className="w-44">
+          <Select aria-label="Filter bookings by status" value={status} onChange={(e) => setStatus(e.target.value)}>
+            <option value="">All statuses</option>
+            {BOOKING_STATUSES.map((s) => <option key={s.id} value={s.id}>{s.label}</option>)}
+          </Select>
+        </div>
+      </div>
+      {!data?.bookings.length ? (
+        <Empty title="No bookings yet" icon="clock">When parents book a class time on the website, it appears here.</Empty>
+      ) : (
+        data.bookings.map((b) => (
+          <Card key={b.id} className="p-5">
+            <div className="flex flex-wrap items-start gap-3">
+              <div className="min-w-0 flex-1">
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="text-lg font-black">{b.child_name || b.parent_name}</span>
+                  {b.child_age && <Badge>age {b.child_age}</Badge>}
+                  {b.consent_whatsapp ? <Badge tone="good">WhatsApp OK</Badge> : <Badge>No WhatsApp consent</Badge>}
+                  {b.session_status === 'cancelled' && <Badge tone="bad">Class cancelled</Badge>}
+                </div>
+                <p className="mt-1 text-sm font-semibold">
+                  {b.starts_at ? ist(b.starts_at) : 'Class removed'} · {b.course_title} · {b.batch_name}
+                </p>
+                <p className="mt-1 text-sm text-muted">
+                  {[b.child_name && `Parent: ${b.parent_name}`, b.phone && `+${b.phone}`, b.email, b.country, b.timezone && b.timezone !== 'Asia/Kolkata' && `lives in ${b.timezone}`].filter(Boolean).join(' · ')}
+                </p>
+                <p className="mt-1 text-xs text-muted">Booked {b.created_at} · from {b.source || 'direct'}</p>
+              </div>
+              <div className="w-44">
+                <Select aria-label={`Status of the booking for ${b.child_name || b.parent_name}`} value={b.status} onChange={(e) => update(b.id, { status: e.target.value })}>
+                  {BOOKING_STATUSES.map((s) => <option key={s.id} value={s.id}>{s.label}</option>)}
+                </Select>
+              </div>
+            </div>
+            <div className="mt-3 flex flex-wrap items-end gap-2">
+              <Textarea aria-label={`Notes about the booking for ${b.child_name || b.parent_name}`} className="min-h-[44px] flex-1" placeholder="Notes: joining link sent, device check…" value={notes[b.id] ?? b.notes} onChange={(e) => setNotes({ ...notes, [b.id]: e.target.value })} />
+              <Button size="sm" onClick={() => update(b.id, { notes: notes[b.id] ?? b.notes })}>Save note</Button>
+              {b.phone && (
+                <a className="text-sm font-semibold text-accent-ink underline" href={`https://wa.me/${b.phone}`} target="_blank" rel="noopener noreferrer">
+                  Open in WhatsApp
+                </a>
+              )}
+              <Button size="sm" variant="ghost" icon="trash" onClick={() => void remove(b)}>Delete</Button>
+            </div>
+          </Card>
+        ))
+      )}
+    </div>
+  );
+}
+
+const KIND_NAME: Record<string, string> = { weekly_report: 'Weekly report', lead_trial: 'Trial enquiry', lead_teacher: 'Teacher applicant', lead_school: 'School enquiry', booking_trial: 'Class booking' };
 
 /** Messages written by the portal, sent by a person from a normal WhatsApp account with one tap. */
 function WhatsAppQueue({ onChange }: { onChange: () => void }) {
